@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI융합교육전문가 윤성임 강사 YUN SUNG IM | 생성형AI·DX·AI마케팅 실무교육</title>
+  <meta name="description" content="AI융합교육전문가 윤성임 강사 YUN SUNG IM의 생성형AI, ChatGPT, DX, 업무자동화, AI마케팅 강의 신청 랜딩페이지입니다." />
+  <style>
+    :root{
+      --navy:#061b3a;
+      --blue:#0b376d;
+      --gold:#c9922e;
+      --light:#f6f8fb;
+      --text:#172033;
+      --gray:#667085;
+      --white:#fff;
+      --line:#e5e8ef;
+      --shadow:0 18px 45px rgba(6,27,58,.12);
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:'Pretendard','Noto Sans KR',Arial,sans-serif;color:var(--text);background:#fff;line-height:1.6}
+    a{text-decoration:none;color:inherit}
+    .container{width:min(1120px,92%);margin:0 auto}
+    .topbar{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+    .nav{height:72px;display:flex;align-items:center;justify-content:space-between}
+    .logo{font-weight:900;color:var(--navy);font-size:20px;letter-spacing:-.04em}
+    .logo span{color:var(--gold)}
+    .nav-links{display:flex;gap:22px;font-size:15px;color:#344054;font-weight:700}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:999px;padding:14px 22px;font-weight:900;border:0;cursor:pointer;transition:.2s}
+    .btn-primary{background:linear-gradient(135deg,var(--navy),var(--blue));color:white;box-shadow:0 10px 22px rgba(6,27,58,.22)}
+    .btn-primary:hover{transform:translateY(-2px)}
+    .btn-gold{background:linear-gradient(135deg,#d6a042,#b77c1e);color:white;box-shadow:0 10px 22px rgba(201,146,46,.25)}
+    .btn-outline{border:1px solid var(--line);background:#fff;color:var(--navy)}
+    .hero{position:relative;overflow:hidden;background:radial-gradient(circle at 80% 20%,#eef4ff 0,#fff 42%,#f8fafc 100%);padding:72px 0 42px}
+    .hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:42px;align-items:center}
+    .badge{display:inline-flex;padding:8px 14px;border:1px solid rgba(201,146,46,.35);border-radius:999px;background:#fff8eb;color:#9a6819;font-weight:900;margin-bottom:20px}
+    h1{font-size:56px;line-height:1.1;margin:0 0 22px;letter-spacing:-.065em;color:var(--navy)}
+    h1 em{font-style:normal;color:var(--gold)}
+    .lead{font-size:20px;color:#344054;margin:0 0 28px;letter-spacing:-.025em}
+    .hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:28px}
+    .trust{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+    .trust-card{background:rgba(255,255,255,.82);border:1px solid var(--line);border-radius:18px;padding:16px;box-shadow:0 8px 22px rgba(6,27,58,.06)}
+    .trust-card strong{display:block;font-size:22px;color:var(--navy)}
+    .trust-card span{font-size:13px;color:var(--gray);font-weight:700}
+    .profile-card{background:#fff;border:1px solid var(--line);border-radius:32px;padding:24px;box-shadow:var(--shadow);position:relative}
+    .profile-card img{width:100%;border-radius:24px;display:block;background:#eee}
+    .profile-caption{margin-top:18px;display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .mini{border:1px solid var(--line);border-radius:16px;padding:12px;background:#fbfcff;font-weight:800;color:#1d2939;font-size:14px}
+    section{padding:78px 0}
+    .section-title{text-align:center;margin-bottom:42px}
+    .section-title .eyebrow{color:var(--gold);font-weight:900;margin-bottom:8px}
+    .section-title h2{font-size:38px;line-height:1.2;color:var(--navy);letter-spacing:-.05em;margin:0}
+    .section-title p{color:var(--gray);font-size:18px;margin:12px auto 0;max-width:720px}
+    .features{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+    .feature{background:#fff;border:1px solid var(--line);border-radius:24px;padding:24px;box-shadow:0 10px 28px rgba(6,27,58,.06)}
+    .icon{font-size:34px;margin-bottom:12px}
+    .feature h3{margin:0 0 8px;color:var(--navy);font-size:20px}
+    .feature p{margin:0;color:var(--gray)}
+    .courses{background:var(--light)}
+    .course-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+    .course{background:#fff;border:1px solid var(--line);border-radius:26px;padding:26px;box-shadow:0 14px 34px rgba(6,27,58,.08);position:relative;overflow:hidden}
+    .course::before{content:"";position:absolute;top:0;left:0;right:0;height:6px;background:linear-gradient(90deg,var(--navy),var(--gold))}
+    .num{font-weight:900;color:var(--gold);font-size:18px}
+    .course h3{font-size:22px;color:var(--navy);margin:8px 0 12px;letter-spacing:-.035em}
+    .course ul{padding-left:18px;margin:0 0 20px;color:#475467}
+    .course li{margin:6px 0}
+    .tag{display:inline-flex;border-radius:999px;background:#eff4ff;color:#1849a9;font-weight:900;font-size:13px;padding:7px 11px;margin-right:6px;margin-top:6px}
+    .process{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+    .step{background:#fff;border:1px solid var(--line);border-radius:24px;padding:24px;text-align:center;box-shadow:0 10px 28px rgba(6,27,58,.06)}
+    .step b{display:inline-flex;width:42px;height:42px;border-radius:50%;background:var(--navy);color:#fff;align-items:center;justify-content:center;margin-bottom:14px}
+    .proof-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+    .proof{border-radius:28px;background:linear-gradient(135deg,var(--navy),#0b3b77);color:#fff;padding:34px;box-shadow:var(--shadow)}
+    .proof h3{font-size:28px;margin:0 0 14px;color:#fff}
+    .proof ul{margin:0;padding-left:20px;color:#eaf1ff}
+    .proof li{margin:8px 0}
+    .bookbox{border:1px solid var(--line);border-radius:28px;padding:34px;background:#fff;box-shadow:var(--shadow)}
+    .bookbox h3{font-size:28px;margin:0 0 14px;color:var(--navy)}
+    .cta{background:linear-gradient(135deg,var(--navy),#082b5c);color:#fff;text-align:center;padding:80px 0}
+    .cta h2{font-size:42px;margin:0 0 14px;letter-spacing:-.05em}
+    .cta p{font-size:19px;color:#d9e6ff;margin:0 auto 28px;max-width:760px}
+    .form-wrap{background:#fff;border-radius:32px;padding:34px;box-shadow:var(--shadow);margin-top:34px;text-align:left;color:var(--text)}
+    form{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+    label{font-weight:900;color:#1d2939;font-size:14px}
+    input,select,textarea{width:100%;margin-top:7px;border:1px solid #d0d5dd;border-radius:14px;padding:14px;font-size:15px;font-family:inherit}
+    textarea{min-height:120px;resize:vertical}
+    .full{grid-column:1/-1}
+    .submit{grid-column:1/-1;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+    .notice{font-size:13px;color:#667085}.form-success{display:none;margin-top:16px;padding:14px 16px;border-radius:14px;background:#ecfdf3;color:#027a48;font-weight:900}.form-error{display:none;margin-top:16px;padding:14px 16px;border-radius:14px;background:#fff1f3;color:#b42318;font-weight:900}.contact-strip{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+    .footer{background:#05152d;color:#b9c6d8;padding:34px 0;font-size:14px}
+    .footer-grid{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+    .floating{position:fixed;right:22px;bottom:22px;z-index:20;display:flex;flex-direction:column;gap:10px}
+    .floating a{box-shadow:0 12px 28px rgba(0,0,0,.2)}
+    @media(max-width:920px){
+      .nav-links{display:none}.hero-grid,.proof-grid{grid-template-columns:1fr}h1{font-size:42px}.features,.course-grid,.process,.trust{grid-template-columns:1fr 1fr}form{grid-template-columns:1fr}
+    }
+    @media(max-width:560px){
+      h1{font-size:34px}.section-title h2,.cta h2{font-size:30px}.features,.course-grid,.process,.trust{grid-template-columns:1fr}.hero{padding-top:48px}.profile-caption{grid-template-columns:1fr}
+    }
+
+    /* 무료 프롬프트 팩 안내 — snb-prompt-pack.netlify.app 로 잇는다 */
+    .promptpack{background:var(--light);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+    .pp-box{display:grid;grid-template-columns:1.35fr .65fr;gap:36px;align-items:center;
+      background:#fff;border:1px solid var(--line);border-left:6px solid var(--gold);
+      border-radius:18px;padding:34px 36px;box-shadow:var(--shadow)}
+    .pp-tag{display:inline-block;font-size:12px;font-weight:900;letter-spacing:.14em;
+      color:#b77c1e;background:#fdf3e0;padding:6px 12px;border-radius:999px;margin-bottom:14px}
+    .pp-box h2{font-size:30px;line-height:1.25;color:var(--navy);letter-spacing:-.05em;margin:0 0 12px}
+    .pp-box p{margin:0;color:var(--gray);font-size:16px}
+    .pp-list{margin:14px 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:8px}
+    .pp-list li{font-size:13px;font-weight:700;color:var(--navy);background:var(--light);
+      border:1px solid var(--line);border-radius:999px;padding:6px 12px}
+    .pp-act{display:flex;flex-direction:column;gap:10px;align-items:stretch;text-align:center}
+    .pp-note{font-size:13px;color:var(--gray)}
+    @media(max-width:860px){
+      .pp-box{grid-template-columns:1fr;padding:26px 22px}
+      .pp-box h2{font-size:24px}
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="logo" href="#top">AI융합교육전문가 <span>윤성임</span></a>
+      <nav class="nav-links">
+        <a href="#expertise">전문분야</a>
+        <a href="#courses">강의주제</a>
+        <a href="#promptpack">무료 지시서</a>
+        <a href="#process">교육방식</a>
+        <a href="#apply">강의신청</a>
+      </nav>
+      <a class="btn btn-primary" href="#apply">강의 문의하기</a>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <div class="badge">AI · DX · 마케팅 실전 교육 전문가</div>
+          <h1>AI를 이해에서 <em>실행</em>으로,<br/>성과로 연결하는<br/>AI융합교육전문가 윤성임</h1>
+          <p class="lead">생성형AI, ChatGPT, Claude, Gemini, NotebookLM, 바이브코딩, AI마케팅까지 조직과 개인의 업무 혁신을 위한 맞춤형 실습 교육을 제공합니다.</p>
+          <div class="hero-actions">
+            <a class="btn btn-gold" href="#apply">강의 신청하기</a>
+            <a class="btn btn-outline" href="#courses">강의 주제 보기</a>
+          </div>
+          <div class="trust">
+            <div class="trust-card"><strong>기술창업학</strong><span>박사 · 겸임교수</span></div>
+            <div class="trust-card"><strong>16년</strong><span>KT·KTDS ICT 경력</span></div>
+            <div class="trust-card"><strong>50여 종</strong><span>저서·공저</span></div>
+            <div class="trust-card"><strong>공공·기업</strong><span>맞춤형 교육</span></div>
+          </div>
+        </div>
+        <div class="profile-card">
+          <img src="profile-yun-sung-im.jpg" alt="AI융합교육전문가 윤성임 강사 YUN SUNG IM 프로필 사진" loading="lazy" />
+          <div class="profile-caption">
+            <div class="mini">🎓 기술창업학 박사</div>
+            <div class="mini">🏢 소셜앤비즈 대표</div>
+            <div class="mini">📚 생성형AI 저자</div>
+            <div class="mini">💡 AX·DX 교육 설계</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="expertise">
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">WHY YUN SUNG IM</div>
+          <h2>툴 사용법을 넘어, 업무 성과를 만드는 AI 교육</h2>
+          <p>윤성임 강사의 교육은 단순 기능 설명이 아니라, 실제 현업 과제를 AI로 해결하고 반복 가능한 업무 프로세스로 전환하는 데 초점을 둡니다.</p>
+        </div>
+        <div class="features">
+          <div class="feature"><div class="icon">🎯</div><h3>실무 중심 교육</h3><p>보고서, PPT, 데이터 분석, 홍보 콘텐츠 등 현장에서 바로 쓰는 결과물 중심 실습</p></div>
+          <div class="feature"><div class="icon">👥</div><h3>비전공자 친화</h3><p>복잡한 AI 개념과 프롬프트 설계를 누구나 이해할 수 있는 언어로 설명</p></div>
+          <div class="feature"><div class="icon">🧩</div><h3>맞춤형 커리큘럼</h3><p>공공기관, 기업, 대학, 소상공인 등 대상별 니즈에 맞춘 교육 설계</p></div>
+          <div class="feature"><div class="icon">🚀</div><h3>최신 도구 활용</h3><p>ChatGPT, Claude, Gemini, NotebookLM, AI Agent 등 최신 AI 도구 큐레이션</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="courses" class="courses">
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">COURSE RECIPE</div>
+          <h2>윤성임 강사의 대표 강의 주제 레시피</h2>
+          <p>기관의 목적과 교육 대상에 따라 2시간 특강부터 20~30시간 실습 과정까지 맞춤형으로 구성할 수 있습니다.</p>
+        </div>
+        <div class="course-grid">
+          <article class="course">
+            <div class="num">01</div>
+            <h3>생성형AI·ChatGPT 업무혁신 실무</h3>
+            <ul><li>보고서·기획안·공문서 자동화</li><li>엑셀 데이터 분석 및 요약</li><li>PPT 발표자료 구조화</li></ul>
+            <span class="tag">공공기관</span><span class="tag">기업 임직원</span>
+          </article>
+          <article class="course">
+            <div class="num">02</div>
+            <h3>Claude 기반 문서작성·리서치 자동화</h3>
+            <ul><li>대규모 문서 요약</li><li>정책자료·회의록 분석</li><li>보고서 구조화 및 문체 교정</li></ul>
+            <span class="tag">기획자</span><span class="tag">연구자</span>
+          </article>
+          <article class="course">
+            <div class="num">03</div>
+            <h3>NotebookLM·Gemini 지식관리</h3>
+            <ul><li>개인·조직 지식베이스 구축</li><li>근거 기반 리서치</li><li>회의·보고서 생산성 향상</li></ul>
+            <span class="tag">행정 실무자</span><span class="tag">대학생</span>
+          </article>
+          <article class="course">
+            <div class="num">04</div>
+            <h3>바이브코딩 기반 AI 앱·업무도구 제작</h3>
+            <ul><li>No-code/Low-code 개발 입문</li><li>업무 자동화 웹앱 기획</li><li>AI 협업 개발·디버깅</li></ul>
+            <span class="tag">비개발자</span><span class="tag">스타트업</span>
+          </article>
+          <article class="course">
+            <div class="num">05</div>
+            <h3>AI 마케팅·SNS 홍보·퍼스널브랜딩</h3>
+            <ul><li>콘텐츠 기획·제작 자동화</li><li>SNS 채널별 전략</li><li>GEO 기반 AI 검색 최적화</li></ul>
+            <span class="tag">마케터</span><span class="tag">소상공인</span>
+          </article>
+          <article class="course">
+            <div class="num">06</div>
+            <h3>AX·DX 전환 전략 워크숍</h3>
+            <ul><li>조직별 AI 활용 과제 발굴</li><li>업무 프로세스 재설계</li><li>90일 실행 로드맵 수립</li></ul>
+            <span class="tag">관리자</span><span class="tag">리더십</span>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="process">
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">TRAINING PROCESS</div>
+          <h2>맞춤 교육 설계 프로세스</h2>
+          <p>강의 전 니즈 분석부터 교육 후 실행 로드맵까지, 실제 변화가 남는 교육을 설계합니다.</p>
+        </div>
+        <div class="process">
+          <div class="step"><b>1</b><h3>니즈 분석</h3><p>기관·조직의 목표와 교육 대상 수준 파악</p></div>
+          <div class="step"><b>2</b><h3>교육 설계</h3><p>직무별 실습 과제와 산출물 중심 커리큘럼 구성</p></div>
+          <div class="step"><b>3</b><h3>실습 운영</h3><p>1인 1PC 기반 실습과 즉각 피드백 제공</p></div>
+          <div class="step"><b>4</b><h3>성과 적용</h3><p>현업 적용 액션플랜과 반복 활용 템플릿 제공</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container proof-grid">
+        <div class="proof">
+          <h3>주요 경력</h3>
+          <ul>
+            <li>소셜앤비즈 대표</li>
+            <li>건양사이버대학교 겸임교수</li>
+            <li>KT·KTDS ICT 시스템 개발·운영 16년</li>
+            <li>(사)기술벤처스타트업협회 부회장</li>
+            <li>공공기관·기업·대학 다수 출강</li>
+          </ul>
+        </div>
+        <div class="bookbox">
+          <h3>주요 전문성</h3>
+          <p><strong>AI 및 디지털 분야 저서·공저 50여 종</strong>, 생성형AI·AI마케팅·업무자동화·디지털 리터러시 분야 강의 및 컨설팅 수행.</p>
+          <p>AI-POT, 생성형AI교육지도사, 정보처리기사, ADsP, PMP, ITIL, ESG 전문가 등 다수 자격 보유.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="promptpack" class="promptpack">
+      <div class="container pp-box">
+        <div>
+          <div class="pp-tag">FREE PROMPT PACK · 무료</div>
+          <h2>AI 업무 지시서 66종을 무료로 드립니다</h2>
+          <p>복사해서 붙여넣기만 하면 되는 업무용 프롬프트입니다. 가입도 결제도 없습니다.
+             강의에서 다루는 내용의 일부를 먼저 써보실 수 있습니다.</p>
+          <ul class="pp-list">
+            <li>회의·보고 정리</li><li>문서·글 쓰기</li><li>숫자·데이터</li>
+            <li>홍보·판매</li><li>그림·영상·음악</li><li>소상공인</li>
+            <li>농업·농협</li><li>중장년·시니어</li><li>교사·강사</li>
+          </ul>
+        </div>
+        <div class="pp-act">
+          <a class="btn btn-gold" href="https://snb-prompt-pack.netlify.app" target="_blank" rel="noopener">지시서 66종 보러 가기</a>
+          <span class="pp-note">새 창에서 열립니다</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="apply" class="cta">
+      <div class="container">
+        <h2>우리 조직에 맞는 AI 교육이 필요하신가요?</h2>
+        <p>공공기관·기업·대학·협회 대상 맞춤형 생성형AI, DX, 업무자동화, AI마케팅 교육을 제안드립니다.</p>
+        <div class="contact-strip">
+          <a class="btn btn-gold" href="tel:01027775004">전화 문의하기 010-2777-5004</a>
+          <a class="btn btn-outline" href="mailto:aceyun88@gmail.com?subject=윤성임 강사 강의 문의&body=기관명:%0A담당자:%0A연락처:%0A희망 강의 주제:%0A교육 인원:%0A희망 일정:%0A문의 내용:">이메일 문의하기</a>
+        </div>
+
+        <div class="form-wrap">
+          <h3 style="font-size:28px;color:var(--navy);margin:0 0 8px">강의 신청 / 문의</h3>
+          <p style="color:var(--gray);margin:0 0 24px">아래 신청서를 제출하면 입력 내용이 aceyun88@gmail.com으로 자동 발송되고, 동시에 Google Form 응답 시트에 자동 저장됩니다. EmailJS와 Google Form 제출 주소만 연결하면 실제 사업용으로 운영할 수 있습니다.</p>
+          <form id="lectureForm" name="lecture-application" autocomplete="on">
+            <div><label>기관명<input id="org" name="organization" placeholder="예: ○○교육청 / ○○기업" required /></label></div>
+            <div><label>담당자명<input id="name" name="contact_name" placeholder="예: 홍길동" required /></label></div>
+            <div><label>연락처<input id="phone" name="phone" type="tel" placeholder="예: 010-0000-0000" required /></label></div>
+            <div><label>이메일<input id="email" name="email" type="email" placeholder="example@email.com" required /></label></div>
+            <div><label>희망 강의<select id="course" name="course"><option>생성형AI·ChatGPT 업무혁신</option><option>Claude 문서작성·리서치 자동화</option><option>NotebookLM·Gemini 지식관리</option><option>바이브코딩 AI 앱·업무도구 제작</option><option>AI 마케팅·SNS·퍼스널브랜딩</option><option>AX·DX 전환 전략 워크숍</option><option>기타 맞춤형 교육</option></select></label></div>
+            <div><label>희망 일정<input id="date" name="preferred_date" placeholder="예: 2026년 5월 중" /></label></div>
+            <div class="full"><label>문의 내용<textarea id="message" name="message" placeholder="교육 대상, 인원, 시간, 장소, 원하는 산출물 등을 작성해주세요."></textarea></label></div>
+            <div class="submit">
+              <span class="notice">※ 제출 시 이메일 발송 + Google Sheet 저장이 동시에 진행됩니다. 전화·이메일 직접 문의도 가능합니다.</span>
+              <button id="submitBtn" class="btn btn-primary" type="submit">강의 신청 제출하기</button>
+            </div>
+            <div id="successMessage" class="form-success full">신청이 접수되었습니다. 이메일 발송 및 Google Sheet 저장이 완료되었습니다.</div>
+            <div id="errorMessage" class="form-error full">신청 처리 중 오류가 발생했습니다. 잠시 후 다시 시도하거나 전화·이메일로 직접 문의해주세요.</div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><strong style="color:#fff">AI융합교육전문가 윤성임 강사</strong><br/>AI를 이해에서 실행으로, 개인과 조직의 성장으로 연결합니다.</div>
+      <div>📞 <a href="tel:01027775004">010-2777-5004</a><br/>✉️ <a href="mailto:aceyun88@gmail.com">aceyun88@gmail.com</a><br/>📍 경기 성남시 분당구 황새울로 200번길 36 동부루트빌딩 1015호</div>
+    </div>
+  </footer>
+
+  <div class="floating">
+    <a class="btn btn-gold" href="#apply">신청하기</a>
+    <a class="btn btn-primary" href="tel:01027775004">전화문의</a>
+  </div>
+
+  <script>
+    /*
+      실제 운영 연결 방법
+      1) EmailJS: Public Key, Service ID, Template ID를 본인 계정 값으로 교체
+      2) Google Sheet 저장: Apps Script 배포 오류를 피하기 위해 Google Form 응답 시트 방식을 사용
+      3) 아래 GOOGLE_FORM_ACTION_URL과 entry ID들을 본인 Google Form 값으로 교체
+      4) EmailJS와 Google Form 저장이 모두 실행되면 신청 완료 메시지가 표시됨
+    */
+    const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+    const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
+    const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
+
+    // Google Form 자동 저장 설정값으로 교체하세요.
+    // 1) Google Form 생성 → 질문 7개 생성
+    // 2) 미리보기 화면에서 개발자도구로 각 질문의 entry.숫자 값을 확인
+    // 3) 아래 action URL과 entry ID를 교체하면 Google Sheet 응답으로 자동 저장됩니다.
+    const GOOGLE_FORM_ACTION_URL = 'YOUR_GOOGLE_FORM_ACTION_URL';
+    const GOOGLE_FORM_FIELDS = {
+      organization: 'entry.1111111111',
+      contact_name: 'entry.2222222222',
+      phone: 'entry.3333333333',
+      email: 'entry.4444444444',
+      course: 'entry.5555555555',
+      preferred_date: 'entry.6666666666',
+      message: 'entry.7777777777',
+      submitted_at: 'entry.8888888888'
+    }; 
+
+    emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+    const lectureForm = document.getElementById('lectureForm');
+    const submitBtn = document.getElementById('submitBtn');
+    const successMessage = document.getElementById('successMessage');
+    const errorMessage = document.getElementById('errorMessage');
+
+    lectureForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      successMessage.style.display = 'none';
+      errorMessage.style.display = 'none';
+      submitBtn.disabled = true;
+      submitBtn.textContent = '신청 처리 중...';
+
+      const templateParams = {
+        to_email: 'aceyun88@gmail.com',
+        organization: document.getElementById('org').value.trim(),
+        contact_name: document.getElementById('name').value.trim(),
+        phone: document.getElementById('phone').value.trim(),
+        email: document.getElementById('email').value.trim(),
+        course: document.getElementById('course').value,
+        preferred_date: document.getElementById('date').value.trim(),
+        message: document.getElementById('message').value.trim(),
+        submitted_at: new Date().toLocaleString('ko-KR')
+      };
+
+      const emailPromise = emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, templateParams);
+
+      const formData = new FormData();
+      formData.append(GOOGLE_FORM_FIELDS.organization, templateParams.organization);
+      formData.append(GOOGLE_FORM_FIELDS.contact_name, templateParams.contact_name);
+      formData.append(GOOGLE_FORM_FIELDS.phone, templateParams.phone);
+      formData.append(GOOGLE_FORM_FIELDS.email, templateParams.email);
+      formData.append(GOOGLE_FORM_FIELDS.course, templateParams.course);
+      formData.append(GOOGLE_FORM_FIELDS.preferred_date, templateParams.preferred_date);
+      formData.append(GOOGLE_FORM_FIELDS.message, templateParams.message);
+      formData.append(GOOGLE_FORM_FIELDS.submitted_at, templateParams.submitted_at);
+
+      const sheetPromise = fetch(GOOGLE_FORM_ACTION_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        body: formData
+      });
+
+      Promise.all([emailPromise, sheetPromise])
+        .then(function() {
+          successMessage.style.display = 'block';
+          lectureForm.reset();
+        })
+        .catch(function(error) {
+          console.error('신청 처리 오류:', error);
+          errorMessage.style.display = 'block';
+        })
+        .finally(function() {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '강의 신청 제출하기';
+        });
+    });
+  </script>
+</body>
+</html>
