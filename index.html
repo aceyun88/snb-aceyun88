@@ -10,6 +10,7 @@
       --navy:#061b3a;
       --blue:#0b376d;
       --gold:#c9922e;
+      --gold-ink:#8a6414;   /* 밝은 바탕 위 글씨용 짙은 금색 */
       --light:#f6f8fb;
       --text:#172033;
       --gray:#667085;
@@ -119,11 +120,17 @@
     /* 강의 신청 — 구글 폼으로 보낸다 */
     .apply-box{max-width:720px;margin-left:auto;margin-right:auto;text-align:left}
     .apply-box h3{font-size:26px;color:var(--navy);margin:0 0 10px;letter-spacing:-.04em}
-    .apply-lead{color:var(--gray);margin:0 0 18px;font-size:16px}
-    .apply-lead b{color:var(--navy)}
+    /* .cta p 가 흰 상자 안까지 파고들어 글씨가 안 보였다. 자리를 좁혀 되돌린다 */
+    .form-wrap .apply-lead{color:var(--text);margin:0 0 18px;font-size:16px;max-width:none}
+    .form-wrap .apply-lead b{color:var(--navy)}
     .apply-steps{margin:0 0 24px;padding-left:20px;color:var(--text);font-size:15px;line-height:1.9}
     .apply-btn{width:100%;font-size:17px;padding:18px 22px}
-    .apply-note{color:var(--gray);font-size:13px;margin:12px 0 0;text-align:center}
+    .form-wrap .apply-note{color:var(--gray);font-size:13px;margin:12px 0 0;text-align:center;max-width:none}
+
+    /* 밝은 바탕 위 금색 글씨는 흐려서 읽기 어렵다. 짙은 금색으로 바꾼다 */
+    .logo span{color:var(--gold-ink)}
+    .section-title .eyebrow{color:var(--gold-ink)}
+    .pp-tag{color:var(--gold-ink)}
   </style>
 </head>
 <body>
@@ -297,7 +304,7 @@
         <p>공공기관·기업·대학·협회 대상 맞춤형 생성형AI, DX, 업무자동화, AI마케팅 교육을 제안드립니다.</p>
         <div class="contact-strip">
           <a class="btn btn-gold" href="tel:01027775004">전화 문의하기 010-2777-5004</a>
-          <a class="btn btn-outline" href="mailto:aceyun88@gmail.com?subject=윤성임 강사 강의 문의&body=기관명:%0A담당자:%0A연락처:%0A희망 강의 주제:%0A교육 인원:%0A희망 일정:%0A문의 내용:">이메일 문의하기</a>
+          <a class="btn btn-outline" href="mailto:aceyun88@naver.com?subject=윤성임 강사 강의 문의&body=기관명:%0A담당자:%0A연락처:%0A희망 강의 주제:%0A교육 인원:%0A희망 일정:%0A문의 내용:">이메일 문의하기</a>
         </div>
 
         <div class="form-wrap apply-box">
@@ -320,7 +327,7 @@
   <footer class="footer">
     <div class="container footer-grid">
       <div><strong style="color:#fff">AI융합교육전문가 윤성임 강사</strong><br/>AI를 이해에서 실행으로, 개인과 조직의 성장으로 연결합니다.</div>
-      <div>📞 <a href="tel:01027775004">010-2777-5004</a><br/>✉️ <a href="mailto:aceyun88@gmail.com">aceyun88@gmail.com</a><br/>📍 경기 성남시 분당구 황새울로 200번길 36 동부루트빌딩 1015호</div>
+      <div>📞 <a href="tel:01027775004">010-2777-5004</a><br/>✉️ <a href="mailto:aceyun88@naver.com">aceyun88@naver.com</a><br/>📍 경기 성남시 분당구 황새울로 200번길 36 동부루트빌딩 1015호</div>
     </div>
   </footer>
 
