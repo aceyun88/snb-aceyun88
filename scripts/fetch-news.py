@@ -63,8 +63,8 @@ for word in ['윤성임']:
         rows = []
         for m in re.finditer(r'<h4 class="titles"><a href="([^"]+)"[^>]*>([^<]+)</a>', h):
             tail = h[m.end():m.end() + 1500]
-            d = re.search(r'dated"[^>]*>\s*([^<]+?)\s*<', tail)
-            rows.append((m.group(1), m.group(2), d.group(1) if d else ''))
+            d = re.search(r'\d{4}\.\d{2}\.\d{2}', tail)   # <span class="byline"><em>2025.08.25 16:18</em>
+            rows.append((m.group(1), m.group(2), d.group(0) if d else ''))
         if not rows:
             break
         for href, title, dated in rows:
