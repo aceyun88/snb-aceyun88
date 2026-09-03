@@ -198,7 +198,7 @@
       .news-src{order:-1}
     }
 
-    /* AI 소식 — 하루 한 게시글, 펼치면 플랫폼별 기사 */
+    /* AI 소식 — 한 주 한 게시글, 펼치면 출처별 소식 */
     .ainews{padding:72px 0;background:var(--light);border-top:1px solid var(--line)}
     .ainews .news-head p{max-width:760px}
     .day-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--navy)}
@@ -439,9 +439,9 @@
       <div class="container">
         <div class="news-head">
           <div>
-            <div class="pp-tag">AI NEWS · 매일 아침</div>
+            <div class="pp-tag">AI NEWS · 매주 월요일</div>
             <h2>AI 소식</h2>
-            <p>챗GPT·클로드·제미나이·코파일럿·퍼플렉시티·네이버 등 대표 생성형 AI 플랫폼의 국내 보도와 공식 발표를 매일 아침 한 게시글로 모읍니다. 글 제목은 그날 가장 핵심인 첫 소식입니다. 펼치면 플랫폼별 기사와 원문 링크가 나옵니다.</p>
+            <p>믿을 만한 출처에서 한 주 동안 화제가 된 AI 소식을 매주 월요일 아침 한 게시글로 모읍니다. 조코딩 IT뉴스 라이브, GitHub 이번 주 인기 저장소, 긱뉴스(GeekNews) 화제 글, AI타임스 주요 기사, 챗GPT·클로드·제미나이 등 플랫폼별 국내 보도 순서입니다. 글 제목은 그 주 가장 핵심인 첫 소식이고, 펼치면 출처별 원문 링크가 나옵니다.</p>
           </div>
         </div>
         <ul class="day-list" id="dayList"></ul>
@@ -519,7 +519,7 @@
 
 
   <script>
-  /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 매일 아침 자동 수집이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
+  /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 자동 수집(칼럼·저서 매일, AI 소식 매주 월요일)이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
   const RAW = 'https://raw.githubusercontent.com/aceyun88/snb-aceyun88/main/';
   function loadData(name){
     return fetch(RAW + name + '?t=' + Math.floor(Date.now() / 300000)).then(r => { if(!r.ok) throw 0; return r.json(); })
@@ -564,7 +564,7 @@
   })();
   </script>
   <script>
-  /* AI 소식 — 하루 한 게시글 */
+  /* AI 소식 — 한 주 한 게시글 */
   (function(){
     const list = document.getElementById('dayList'), more = document.getElementById('dayMore'), upd = document.getElementById('dayUpdated');
     if(!list) return;
@@ -574,14 +574,14 @@
       list.innerHTML = posts.slice(0, shown).map((p, i) => {
         const groups = {};
         (p.items || []).forEach(it => { (groups[it.platform] = groups[it.platform] || []).push(it); });
-        return `<li><details${i === 0 ? ' open' : ''}><summary><span class="news-date">${esc(p.date)}</span><span class="d-title">${esc(p.title)}</span><span class="d-count">${p.count || (p.items||[]).length}건</span></summary>
-          <div class="d-body">${Object.keys(groups).map(g => `<div class="plat">${esc(g)}</div><ul>${groups[g].map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc(it.source || '')} ↗</span></a></li>`).join('')}</ul>`).join('')}</div>
+        return `<li><details${i === 0 ? ' open' : ''}><summary><span class="news-date">${esc(p.label || p.date)}</span><span class="d-title">${esc(p.title)}</span><span class="d-count">${p.count || (p.items||[]).length}건</span></summary>
+          <div class="d-body">${Object.keys(groups).map(g => `<div class="plat">${esc(g)}</div><ul>${groups[g].map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc([it.source, it.note].filter(Boolean).join(' · '))} ↗</span></a></li>`).join('')}</ul>`).join('')}</div>
         </details></li>`;
       }).join('') || '<li class="news-empty">아직 모인 소식이 없습니다.</li>';
       more.style.display = posts.length > shown ? '' : 'none';
     }
     more.onclick = () => { shown += 7; render(); };
-    loadData('ai-news.json').then(d => { posts = d.posts || []; window.SNB_DATA.ai = posts; upd.textContent = `마지막 수집 ${d.updated || ''} · 매일 06:30 자동`; render(); })
+    loadData('ai-news.json').then(d => { posts = d.posts || []; window.SNB_DATA.ai = posts; upd.textContent = `마지막 수집 ${d.updated || ''} · 매주 월요일 06:30 자동`; render(); })
       .catch(() => { list.innerHTML = '<li class="news-empty">소식을 불러오지 못했습니다.</li>'; more.style.display = 'none'; });
   })();
   /* 저서 */
@@ -634,7 +634,7 @@
       if(secs.length) html += secs.map(s => `<div class="ask-ans"><b>${esc(s.title.trim())}</b> — ${esc(s.text.slice(0, 260))}… <a href="#${esc(s.id)}">이 구역으로 가기 ›</a></div>`).join('');
       if(books.length) html += `<div class="ask-ans"><b>저서에서</b><ul>${books.map(b => `<li><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.title)}</a></li>`).join('')}</ul></div>`;
       if(news.length) html += `<div class="ask-ans"><b>칼럼·뉴스에서</b><ul>${news.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="ask-note">${esc(n.date)}</span></li>`).join('')}</ul></div>`;
-      if(isAi && window.SNB_DATA.ai && window.SNB_DATA.ai[0]) { const p = window.SNB_DATA.ai[0]; html += `<div class="ask-ans"><b>오늘 AI 소식 (${esc(p.date)})</b> — ${esc(p.title)} <a href="#ainews">게시판 보기 ›</a></div>`; }
+      if(isAi && window.SNB_DATA.ai && window.SNB_DATA.ai[0]) { const p = window.SNB_DATA.ai[0]; html += `<div class="ask-ans"><b>이번 주 AI 소식 (${esc(p.label || p.date)})</b> — ${esc(p.title)} <a href="#ainews">게시판 보기 ›</a></div>`; }
       else if(ai.length) html += `<div class="ask-ans"><b>AI 소식에서</b><ul>${ai.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join('')}</ul></div>`;
       if(!html) html = `<div class="ask-ans">홈페이지 안에서는 딱 맞는 내용을 찾지 못했습니다. 강의 문의는 <a href="#apply">강의 신청</a>에서, 실습은 <a href="https://snb-k-bridge.netlify.app" target="_blank" rel="noopener">K브릿지</a>에서 하실 수 있습니다. 아래 단추로 외부 AI에 같은 질문을 넘겨 보세요.</div>`;
       const g = encodeURIComponent(q + ' 윤성임 소셜앤비즈'), gq = encodeURIComponent(q);

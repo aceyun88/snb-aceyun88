@@ -3,274 +3,337 @@
  "posts": [
   {
    "date": "2026-09-03",
-   "title": "앤트로픽 '클로드 페이블 5.1' 공개...첫 응답에 4분 넘어",
-   "count": 38,
+   "label": "2026년 9월 1주",
+   "title": "미 국방부, 군사 업무 맞춤형 챗GPT 도입한다",
+   "count": 41,
    "items": [
     {
+     "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+     "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+     "url": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+     "source": "조코딩",
+     "note": "조회수 4.4만회 · 스트리밍 시간: 3일 전",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "tt-a1i/archify — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lif",
+     "url": "https://github.com/tt-a1i/archify",
+     "source": "JavaScript",
+     "note": "26,626 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "bilawalsidhu/gods-eye-view — A spy satellite simulator in your browser, except the data is real. Live open source spati",
+     "url": "https://github.com/bilawalsidhu/gods-eye-view",
+     "source": "JavaScript",
+     "note": "10,679 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "THU-MAIC/OpenMAIC — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience",
+     "url": "https://github.com/THU-MAIC/OpenMAIC",
+     "source": "TypeScript",
+     "note": "9,426 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "K-Dense-AI/scientific-agent-skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 1",
+     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+     "source": "Python",
+     "note": "7,558 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "freestylefly/awesome-gpt-image-2 — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+     "source": "JavaScript",
+     "note": "7,006 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "omacom/omarchy — Beautiful, Modern & Opinionated Linux",
+     "url": "https://github.com/omacom/omarchy",
+     "source": "Shell",
+     "note": "5,577 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "calesthio/OpenMontage — World's first open-source, agentic video production system. 12 production pipelines, 100+ ",
+     "url": "https://github.com/calesthio/OpenMontage",
+     "source": "Python",
+     "note": "5,078 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Cod",
+     "url": "https://github.com/MadsLorentzen/ai-job-search",
+     "source": "Python",
+     "note": "4,172 stars (이번 주)",
+     "at": ""
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "좋은 조직문화가 AI보다 큰 생산성 향상을 만드는 이유",
+     "url": "https://news.hada.io/topic?id=33050",
+     "source": "GeekNews",
+     "note": "40 points",
+     "at": "2026-08-31"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "CEO가 AI를 위해 개발팀을 해고하자, 개발자들은 오픈소스 AI CEO를 만들었다",
+     "url": "https://news.hada.io/topic?id=32939",
+     "source": "GeekNews",
+     "note": "31 points",
+     "at": "2026-08-27"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "격동의 AI 시대가 시작됐다 - 빌게이츠",
+     "url": "https://news.hada.io/topic?id=32958",
+     "source": "GeekNews",
+     "note": "26 points",
+     "at": "2026-08-28"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "The Agentic Awakening - 코딩이 10배 빨라져도 조직 생산성이 따라오지 않는 이유",
+     "url": "https://news.hada.io/topic?id=33058",
+     "source": "GeekNews",
+     "note": "21 points",
+     "at": "2026-08-31"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI 시대의 데이터 아키텍처 - 저장보다 의미와 계약이 중요해지는 이유",
+     "url": "https://news.hada.io/topic?id=33062",
+     "source": "GeekNews",
+     "note": "20 points",
+     "at": "2026-08-31"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
+     "url": "https://news.hada.io/topic?id=33015",
+     "source": "GeekNews",
+     "note": "20 points",
+     "at": "2026-08-30"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "학회에서 목격한 터무니없는 AI 사용: 질의응답까지 AI에 맡긴 발표자들",
+     "url": "https://news.hada.io/topic?id=33087",
+     "source": "GeekNews",
+     "note": "14 points",
+     "at": "2026-09-01"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
+     "url": "https://news.hada.io/topic?id=33174",
+     "source": "GeekNews",
+     "note": "13 points",
+     "at": "2026-09-03"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214790",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-03"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-03"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "메타, '뮤즈 스파크 1.3' 출시...오픈AI 제치고 세계 3위 성능",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-03"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "메타, 실시간 음성 '뮤즈 보이스 트랜스크라이브' 공개...단어 오류율 1위",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214745",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "\"필요한 장면 스스로 탐색\"...구글, 제미나이 '에이전트 비디오 분석' 도입",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214749",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...\"SW 패러다임 전환\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214753",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "월드랩스, 옴니 월드모델 ‘아틀라스’ 공개...사진 한 장으로 3D 공간 추론",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214750",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214756",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "미 국방부, 군사 업무 맞춤형 챗GPT 도입한다",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16VlVZVW1ZRHBiZzdZUklydDFRS2d0OHZLS2I2U2lQUnlGdHNNVmdwVkpxX2J1eXkzeTVSZ0xyekk3STFQMF9IR255WE54ZnBXck9WZTlDRmZMTjBydFlKM0FwNTlJRENXdDZV?oc=5",
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-09-01"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "EU, 챗GPT '초대형 검색엔진' 지정…AI 챗봇 첫 디지털법 적용",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzc05WR1NWZmZ5R3dXeUN0M01DSU5YTGFwNHVYazl5Qk1GSlkwbEdKbUVnNHQ5ZXBTM0FBYUp4bHFtQmtER2ZfeEg0UHd0OWhUOGtINE5hV2pVbFVwT29wX9IBYEFVX3lxTFAzc05WR1NWZmZ5R3dXeUN0M01DSU5YTGFwNHVYazl5Qk1GSlkwbEdKbUVnNHQ5ZXBTM0FBYUp4bHFtQmtER2ZfeEg0UHd0OWhUOGtINE5hV2pVbFVwT29wXw?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-09-01"
+    },
+    {
      "platform": "앤트로픽 · 클로드",
-     "title": "앤트로픽 '클로드 페이블 5.1' 공개...첫 응답에 4분 넘어",
-     "source": "디일렉",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBid1dZd3hFOENUajN6SFFKaGlKTGxZWXlKMlVQanZXaFpfa1pkdWRrNHRwc1dvM24ycTdDWTI3cHFsY3k2Q2thZDlFYTJyYUlleDIxOXBQRUlzaVZLbHRjWUFfS1lCZw?oc=5",
-     "at": "2026-09-02 23:20"
+     "title": "앤트로픽, 차세대 AI ‘페이블 5.1’ 및 보안 특화 ‘미토스 5.1’ 공개... 방어 역량 대폭 강화",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nSGltUkVWdVd6ZGpSbDlObWdDcElUZXZ0Q1p4ZkVrUTRtaVBxSWpXWXV6V0pQME9TTVQ4bmpxZnlnLWNBcGUzUV9nX2hrOEhsWnMxRFk2R0ZjOEVZNWhZaGRGYXBaRDZ3dEFv?oc=5",
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "“챗GPT·클로드 구독료, 나만 다 내고 썼었네”…카드만 잘 골라도 30% 아낀다",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91d1ZOemt2Q0JNQS1fSHF4VzJXTGNhVkdGMlRQcEJKNm1kbmw4SVFGaGZQYlJpLWQxRzdBc0ZWRlFWR0FYSFFYM3BqbUxjQTVoclp2Vg?oc=5",
+     "source": "매일경제",
+     "note": "",
+     "at": "2026-08-30"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 역대 최고 수준의 추론 및 코딩 모델 ‘제미나이 3.8 플래시’ 공개…‘제미나이 3.8 플래시 사이버’도 출시",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESFdjeGlXWHZhQXdWS0tSZTQ5SzVUNGZmUGV5MjkzazFVVTZxbVBFVlZsaEtYTm9VNGRMU1hEWFBwY1NuV0xuTXNBOVJ3a0kxVXM2bmtCY0tCaV8xbXpVdk9KbGMwbG8?oc=5",
+     "source": "인공지능신문",
+     "note": "",
+     "at": "2026-09-03"
     },
     {
      "platform": "구글 · 제미나이",
      "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
-     "source": "보안뉴스",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wRDdCS2Q0Ul9BMGx5aWd5a2F0UXdQOWNaVXFxUUpnSWw4SlY0UTJEM00tbXdhdnVURFdQejlKV3h1SDR2YUw2b2pHalJEUU9XRHZfdTBRaFBzRWpSNWpoNzFmSWhhRVJ2LW9J?oc=5",
-     "at": "2026-09-03 11:13"
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-09-03"
     },
     {
-     "platform": "구글 · 제미나이",
-     "title": "구글, ‘제미나이 3.8 플래시’ 공개…코딩·에이전트 성능 강화",
-     "source": "테크월드",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRmY1TFZjMmhQV3VyTUtIMnM0cjhjcU4tc3dQZUVzUWpwdk5wcG5aWmFZeWllVE11UGNjQVpjeGJzWWxQTGxoR3RnZDUyZmlxRGppaGFnRDhNUER6YUdRUjJSZ2hTcFdR?oc=5",
-     "at": "2026-09-03 11:08"
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "KB국민은행, 경영진 대상 생성형 AI ‘코파일럿’ 실습 교육",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14WkZ5VDhJLURLVzV3RUl2d0dEZFU0clpWZGZTNHBxQ191aTBFRUpubG1TZDJJTnpLVVJkUlFYRmVZdEhmRl83OGtaaloyNUFFLU9jdG9NV0tXY3NJWkRKcDFMd3k?oc=5",
+     "source": "서울경제TV",
+     "note": "",
+     "at": "2026-09-03"
     },
     {
-     "platform": "구글 · 제미나이",
-     "title": "구글, ‘제미나이 3.8 플래시’ 공개…3.7 가격 그대로 추론·코딩 성능 높였다",
-     "source": "뉴스탭",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2dm9IemVuZTNlelRTVEttNXpWb014TjFXZFhfUVMxWkUyZkl1NldyUk1yaXlTUXdpbXY4S2VwQTVtY3dIMExYbndHOGk0VUdwSGdaSUtSTUZDNHdvd0l2MXRWTGloYk53U1JIbA?oc=5",
-     "at": "2026-09-03 11:19"
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "에스피소프트, 구글 워크스페이스 파트너 자격 획득",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XY1VfQUlOdVRmSzdicS1DNGZiQUY0ZExSVXVUQWdiS0pxUlhMZXVIQWEtNWhZSUZ0a29FTDY2WkcxeHNZOW91SDhQSDBnbFNxM3dycUU4aFY1aFJp?oc=5",
+     "source": "뉴스핌",
+     "note": "",
+     "at": "2026-08-28"
     },
     {
      "platform": "퍼플렉시티 · AI 검색",
-     "title": "퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합",
-     "source": "AI타임스",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVVMtRkVSei1acXR4d1BuY3dpYnIzdUJvdVRhOWk4VmNDWmZTc2E3TWpYaDhCemw0V0F5Zkx4RXJ6WFVzV1R6OEk5bFk4eHdieGhnZXpZSHdkcmJhWTl0cXdJd21yd2JBbFE?oc=5",
-     "at": "2026-09-02 18:04"
+     "title": "퍼플렉시티, 맥에 '하이브리드 컴퓨트' 도입…클라우드·로컬 모델 나눠 쓴다",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cnVaR2ZRMzdOa1p0TWYyVlpnSzVTSlNhSEZYd0MwOUk5N1VqUEVTTS1XX1gxZUw0NHB2ZC01VHZtTVlNczJsUFpzaWs5R2ZIeUI2NHpB?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "EU, 구글 `AI 검색 제외권` 들여다본다…\"언론사에 실효성 문의\"",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ORVJ5UnZZZ3JVR3pBVTgtZkkzU0JQUWVZOWFUcEVaRkJnX0h2WTBKUGxxMWYtUEJrdVgtdkdadE90aW8yUTJhWXpyNVd2cjFjdHBVOGpqZVBzWTdzRlRUYS1kREU?oc=5",
+     "source": "디지털데일리",
+     "note": "",
+     "at": "2026-09-02"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "음원·영상 서비스 잇단 종료…네이버, AI·쇼핑에 힘 싣는다",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBemNOTm8zME5fdmZaVXVOd01tbUFkRFY3TWFOc1g1QkpnQnVSME9hdUFfbmxPR0doUkI4X2FVSlpDb1NFX0N1MWM5UEVLdWVId3dKZndnTF9jY2pnUlBCODRuWlA?oc=5",
+     "source": "서울경제TV",
+     "note": "",
+     "at": "2026-08-30"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "[프로필]'네이버 AI전문가' 하정우 前 AI수석, AI전략위 부위원장 발탁",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5YjFSNGVYOHljRkNoVDZ0LVdjYWJUdEtITVphTDBVbVF3OWpWdk84VGJEMGlwb3hOamxnX1FKMnVjVmx1WlZyS2RGbUJxaXNBQVJ2TWk1TmxYMlFqY1puR25GcUtjeEh50gFuQVVfeXFMTnFUbnJPQUpLanZtd2dRY1lEX2NSYkNMMXVzMzBwaTUySm5YR1F1alBzTUpBWTV0bUhqUzR4c2JGZE9QVWNqYUZOVHBBTVlVNGwtRnBpWnpyRE1PUllOWjJ3RkxfcW92R2VYeGxvQ0E?oc=5",
+     "source": "뉴스1",
+     "note": "",
+     "at": "2026-08-30"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "야타브, 제1금융권과 생성형 AI 정보유출 방지 체계 구축",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4ZldCMlNoU0FFRGViSkRhLXAzVEJVQmlJSTJBUk1mazBQX2h6bEJmanNVTEJnX0Q5Tlg1YnhQY0hHME1pVTFSQkMxcnVLZw?oc=5",
+     "source": "전자신문",
+     "note": "",
+     "at": "2026-09-02"
     },
     {
      "platform": "이미지·영상 생성",
      "title": "옐로우박스, 이미지 제작 플랫폼 'Clor AI' 정식 출시",
-     "source": "뉴스핌",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRkROeUhMT0s2SFJNMjlkdW1Fb1NpOGpqb1pEd1ZoT29jbF8zSDRpS0d6YURzSjhmd0ViNWZDN0V4YVBnVmpFMUhCb2J4UFF5Y2pZNndNZEtvWDhU?oc=5",
-     "at": "2026-09-03 08:52"
+     "source": "뉴스핌",
+     "note": "",
+     "at": "2026-09-03"
     },
     {
-     "platform": "이미지·영상 생성",
-     "title": "MonoGPT, 기관용 AI 영상 제작 기능 출시... 시댄스2.5·클링 비디오3.0 옴니 지원",
-     "source": "전자신문",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNWxwZnlBZExiM2pkZFZoNnJTTDJJdlozWkdabTJDNTNPT0RSSXBCSEc1NHc4MVZ1S0swSEhENjBYeDFaMm91ZGNtMUI4UQ?oc=5",
-     "at": "2026-09-02 18:18"
-    },
-    {
-     "platform": "이미지·영상 생성",
-     "title": "[AI 이슈] 페이페이 리 교수의 '월드랩스', 세계 최초 멀티모달 월드 모델 ‘아틀라스’ 공개",
-     "source": "인공지능신문",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OeFhwNGl4MzIyRThBTkx5cmZ0V1J2a2FTbVNSbDMyQy1pWmh2Nm1ueFVKQXpBVmZfMWx2RFE3S3BDYlhnY3RuenJKbnZpbWpYcGtTMUkxaTNZNmtwZWRrRUFQYnVIakU?oc=5",
-     "at": "2026-09-02 18:04"
-    },
-    {
-     "platform": "OpenAI · 챗GPT",
-     "title": "스니커즈 먹은 제미나이 vs 꼼수 명령어 거부한 챗GPT",
-     "source": "글로벌이코노믹",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1BXWWRqQU5XYXNKXzZ3RkdGclA2V2M5Nndqd1BMWWhjSVVLWThSRXFrMEQ1bEJVc2NRYUt2SlRzRlA1WU1QSUlwNk5JRk9pY2tyVGFxRFRKYVNJV2FDOVB0YmNjMXNkLWhFNkljT1RLUDdKS244dVdhVTVMeWh2ZkFhQ2tJTWFj?oc=5",
-     "at": "2026-09-03 08:19"
-    },
-    {
-     "platform": "OpenAI · 챗GPT",
-     "title": "어도비, 챗GPT이어 슬랙봇에 포토샵·프리미어 연동…제미나이로도 확장",
-     "source": "디지털투데이",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWVdPcWxWVllDeUc3TWdaU1J6dmh2SFYya2hsYWVIa3drOEVGNXMzRGZZSUpTN3NfaUI1bWZWMENhcENJbkI5R1ZibGtEcGZzSHZlUUJOaHJrdE5CMTI0XzI5M1gwWm1rSDZySG1talh5V0E?oc=5",
-     "at": "2026-09-03 06:11"
-    },
-    {
-     "platform": "OpenAI · 챗GPT",
-     "title": "“챗GPT 살인 계획 알고도 신고 묵살”…오픈AI, 캐나다 참사로 추가 피소｜Global Money Club",
-     "source": "중앙일보",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUnNFd3BmQjQ1dURmUG1Gcl9KMXpqMHhaYzRHZUhzOHdKdkJPTWhYUWltdVFVdlBjNUFET0szZllJc0FhaE5YTGNGbFJnTnRGNTZZMm56R1VQWUE?oc=5",
-     "at": "2026-09-02 22:19"
-    },
-    {
-     "platform": "앤트로픽 · 클로드",
-     "title": "美 상무 \"앤트로픽, 올바른 편으로 돌아왔다…수개월 갈등 끝\"",
-     "source": "데일리안",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd1hySV9zZkxfdUpGYk96dGtXU1h1dUx2MUxjbU9ZTmtmajZKbVBZbGc4MnlWTjR2OGlfVWhUR2w0VzJNN192bkpLaTZWM05zamkxNEVVNy03TkUwcHdpc1V3anR2Y0tFc1hNUjZNOGFvT2VGbktNcktlS0h3SHR4T2piUlplSVBoVjRmOUdxaDgzeDF6S193UHhjRm9CemEtY1NGdHBUV3JCbzE2NlJUdl9scU5nQjhheG4tMXM3czEwdzc3REZPejFONVpjV3RLeFhIdlVUdExXUlJyTE83aGdSbllUNzNNRUZqRVk1ZnFTU2VKZGRCYW1Kand6OEdFamdWcG81aDF0V3FPLWxjcWZvRGFMWkh6?oc=5",
-     "at": "2026-09-03 10:00"
-    },
-    {
-     "platform": "앤트로픽 · 클로드",
-     "title": "美 상무 \"앤트로픽, 올바른 편으로 돌아왔다\"…수개월 갈등 후 화해",
-     "source": "뉴스1",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDRXBuOERkWWVmbmN4WGRuOXRfSlh2ZTJ0MDBEMHE3QzRlODZFaVJOcUFMdGlCakxUdGNsSHNvS3ZlVlA0akJKVkE0ZkFLakoyT2Mzam1JSzjSAV5BVV95cUxPQU5LZ3NBTzIxbUxjaS1LX1NfTnh1a3oyZ2NoSFpwQ3Z5dmRtZXRkYjIxa0loa2xjYU45bTc5WV9BWndnMzJSNWo3OTJWX0xKSENsdHFpMHVVbjJCLXBB?oc=5",
-     "at": "2026-09-03 03:16"
-    },
-    {
-     "platform": "앤트로픽 · 클로드",
-     "title": "앤트로픽, 엔비디아 등에 업고 48조 규모 AI 컴퓨팅 확보",
-     "source": "AI타임스",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RWlxYU5CLTJSXzJ5czFsR2dLRWxQdlJlcHV5aVRlRTBGRVVxSHM0WDB6UmhEWjZ5aUpmYmhGUnB1YTRUb25HcngyZ3dId1ExTTFqRWh5VG1sWFBwRll1OUZfNVdFQ0VDTGc?oc=5",
-     "at": "2026-09-02 15:00"
-    },
-    {
-     "platform": "구글 · 제미나이",
-     "title": "구글, 3주만에 또 AI 신모델...AI 신제품 '속도전'[글로벌AI브리핑]",
-     "source": "파이낸셜뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hRHpwOEFHc1VtdTkwYTFVWjNtbjBpeHBDMUhTQjlUazlITzlxRm15ZC1LNjd3VVFLOXZOem1IWkpBeGhVZllpbER3T29fbU9FTm9IeVRIX0NiZw?oc=5",
-     "at": "2026-09-03 08:49"
-    },
-    {
-     "platform": "AI타임스",
-     "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착",
-     "source": "AI타임스",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214790",
-     "at": "2026-09-03 11:57"
-    },
-    {
-     "platform": "AI타임스",
-     "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
-     "source": "AI타임스",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
-     "at": "2026-09-03 11:07"
-    },
-    {
-     "platform": "퍼플렉시티 · AI 검색",
-     "title": "AI로 무장한 빔프로젝터...'투사거리 최소 5.6cm'·'좁은 공간'에서도 완성되는 나만의 영화관 만든다",
-     "source": "인공지능신문",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aVhDYkdoRHhQYnpDblppSXA1d09KY3ViamlwQ0Y0WkRZeWVOZkZaeHpXVXZjX1ZtZ25XUVUtRkpUU2IyZldGV09yYThOQ19BUnN4OTJQQ2wyZ1U5TGVYYUotempJNUk?oc=5",
-     "at": "2026-09-03 13:04"
-    },
-    {
-     "platform": "퍼플렉시티 · AI 검색",
-     "title": "구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목",
-     "source": "연합뉴스 한민족센터",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbGVzLU1EeXdITXlCZXc2U3Z3R0xoaUZNUHpnSHd6bmlvdFoyM3N4bzNEN21yVWtKcVRPQlotR1hjajE0M1NWSnJkaTJWZVJkeThBVmNhMkQzY0I4dElUZHJrRkZ5TktIWTdHYmIwalpTdFFN?oc=5",
-     "at": "2026-09-03 11:06"
-    },
-    {
-     "platform": "퍼플렉시티 · AI 검색",
-     "title": "[글로벌] AI가 답하자 줄어드는 언론사 트래픽...구글 AI 검색에 EU가 움직였다",
-     "source": "테크M",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fSjBJbTFZSWdQWTliUG94Y2FYYnRUVzEyaVNsSjd0S0Q3RGxnT2pFWkRMbFc0bHpOc2E3MHBIcENzZDFuMTc2cEZGU1NRZjRFVUl2NHNjM1V3U200WnZhTFpZb3ltUdIBakFVX3lxTE1kV0Ywd09NZ2IzWncxYmxnZFRLbDh2VkRoQ1FiNC02VWdvY2ZjWGxxM3RrNUhNOHZxVGthZVliVlp6MGd6VmZHNUtvUkFOd3k4R201ekR1V1JpUWdZWU12VG1kWDEzeEN6a2c?oc=5",
-     "at": "2026-09-02 16:38"
-    },
-    {
-     "platform": "네이버 · 국내 AI",
-     "title": "사이버보안 특화 AI 모델 개발, 네이버클라우드가 맡는다",
+     "platform": "AI 에이전트·자동화",
+     "title": "“거짓 답변 원천 차단”... LG U+, AI 에이전트 오류 잡는 글로벌 기술 접목",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eXNWeVFsdXRsQVptM2pqZmFFY18wQklScmk1WjYtbnBQY3ZrTjFtZms1bm4wanc2ZUJsTmdkYjNwSjdzdm9vNmxCUC05dEhDejYtaGxjbDFNVERpOXRna3hsU2xEX1dLNkRV?oc=5",
      "source": "보안뉴스",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZEczN0kweWY3VUZfSlk0ck9PdXJYT19uTmN2aGVhRlp1THJGTmh6MFFvUVhfbjFFTmJqV1NGQmRyX2xxX0pURGJzSlJfZ2xBV0NCa2xha3hwZkoyTDYtelFlWVd3WXZtT3I4?oc=5",
-     "at": "2026-09-03 10:22"
-    },
-    {
-     "platform": "네이버 · 국내 AI",
-     "title": "정부 보안특화 AI 모델 개발 사업자로 네이버 선정",
-     "source": "한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOU5YU2xjazg3NnlaY0gxWDBPTTBSTVhpNGI1RVB6dWVQb0gzQk5XV3dWbENCUmczXzRmWFoxV0dSUkxObVA2X1N2Y09PSnpEclRWcG56bmtMZw?oc=5",
-     "at": "2026-09-03 10:07"
+     "note": "",
+     "at": "2026-09-01"
     },
     {
      "platform": "AI 에이전트·자동화",
-     "title": "애경케미칼, 업무용 AI에이전트 AKeeON 오픈…효율 향상",
-     "source": "뉴스1",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3VqY3k4dFlBOEZyUV95Ri1GZ3lEWTN1akpNV1QxQ3FSTHN2SkVYSTc5Qm1vV0dvdmpyQ1hleEpKcWlmdGo2ZTJ0UHRPMUNkWlBHVDAtbWp2YUFLaWl6cWNhMXfSAWpBVV95cUxPRS00N3lJcDNLNFBuUWhiWnpIRTZtOVJwYTdLOXNVNlpJaWlHaWJMSkR0NTNNVlg2bzQweHY5NjN2VU1sMUpkMDMzR21fREhZSUF1U2JSalhOM2taSXlNeE1MV0Nqbjd5REdn?oc=5",
-     "at": "2026-09-03 09:35"
-    },
-    {
-     "platform": "AI 에이전트·자동화",
-     "title": "LG전자, IFA 2026서 더 확장된 'AI홈 생태계' 제시…AI 에이전트 '씽큐 클로' 첫 선",
-     "source": "아시아경제",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSGJYdFRGeHFLWlAtNmNjN1VjR0VUbDJYSi0ybkgzWmQ5dWh1TkgydEJaZHVUQ2hCaFE0NDdkMXEwd1dtRWlYU182SXhPcmVabVR3YUIzZmFwYlVXaC02VA?oc=5",
-     "at": "2026-09-03 10:00"
-    },
-    {
-     "platform": "AI 에이전트·자동화",
-     "title": "기업 AI ROI, 에이전트·데이터·추론 인프라에서 해법 찾는다…'NABS 2026' 개최",
-     "source": "전자신문",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11RGV1WnExZFRxdmNoNmFzMHZxUjRDenVZLXBkc2U4RXBpb200MHBUcTlWMHloeE5HODVDV1BTWl8xMjU2M3pSUEdkQTlkZw?oc=5",
-     "at": "2026-09-03 09:47"
-    },
-    {
-     "platform": "AI 에이전트·자동화",
-     "title": "크라우드웍스, 정부 AI 에이전트 안전·신뢰성 검증 사업 수주",
-     "source": "디지털투데이",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5seFJZeF9qTElNREc1ZXpEd0RmMDd4QkoxN3VJUGtIQkkxU0kyM1B2Y2hNM3lCeUc3RXF6MVRHNnJPWnZNTlMzeVV2eWR5REVqNG5kNjFsZFpFdkF4OHIzN1hfb3JVVUp0M1dHSDAwWUFrZk0?oc=5",
-     "at": "2026-09-03 08:31"
-    },
-    {
-     "platform": "AI 에이전트·자동화",
-     "title": "[에이전틱 AI 맵 2026] 마인드에이아이, 실패 원인 찾아 검증된 수정안 제시… AI 에이전트 운영 자동화",
-     "source": "IT조선",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMHBTa014Y09Ca0EwelRLUDF5eTN4amZONXE5T3g1eVJjRzMzTWRVeVo2bi1Sa2U5X0tVSGFZakZxRGhZNlpBV1FLWXdHZVl5dm9MUndtUndPT0J5NDR5TXpvXzBtX3B3Zjc1VXlEcWc?oc=5",
-     "at": "2026-09-03 06:30"
-    },
-    {
-     "platform": "OpenAI 공식",
-     "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-     "source": "OpenAI 공식",
-     "url": "https://openai.com/index/atv-big-air-tour",
-     "at": "2026-09-02 21:00"
-    },
-    {
-     "platform": "OpenAI 공식",
-     "title": "How AI-native companies turn workflows into operating capability",
-     "source": "OpenAI 공식",
-     "url": "https://openai.com/index/ai-native-company-workflows",
-     "at": "2026-09-02 02:00"
-    },
-    {
-     "platform": "OpenAI 공식",
-     "title": "Path to Astra: critical capabilities and frontier safeguards",
-     "source": "OpenAI 공식",
-     "url": "https://openai.com/index/path-to-astra",
-     "at": "2026-09-01 22:00"
-    },
-    {
-     "platform": "OpenAI 공식",
-     "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-     "source": "OpenAI 공식",
-     "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-     "at": "2026-09-01 21:00"
-    },
-    {
-     "platform": "OpenAI 공식",
-     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-     "source": "OpenAI 공식",
-     "url": "https://openai.com/index/gilbert-tobin",
-     "at": "2026-09-01 10:00"
-    },
-    {
-     "platform": "구글 딥마인드 공식",
-     "title": "Proactive cyber defense for governments and enterprises",
-     "source": "구글 딥마인드 공식",
-     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-     "at": "2026-09-03 01:24"
-    },
-    {
-     "platform": "구글 딥마인드 공식",
-     "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-     "source": "구글 딥마인드 공식",
-     "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-     "at": "2026-09-03 01:18"
-    },
-    {
-     "platform": "구글 딥마인드 공식",
-     "title": "Introducing agentic video understanding with Gemini",
-     "source": "구글 딥마인드 공식",
-     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-     "at": "2026-09-02 02:08"
-    },
-    {
-     "platform": "AI타임스",
-     "title": "베슬AI, SK바이오팜에 GPU 128장 공급...신약 개발 지원 나선다",
-     "source": "AI타임스",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214786",
-     "at": "2026-09-03 12:22"
-    },
-    {
-     "platform": "AI타임스",
-     "title": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁",
-     "source": "AI타임스",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214787",
-     "at": "2026-09-03 12:06"
-    },
-    {
-     "platform": "AI타임스",
-     "title": "여수, 생성 AI로 행정업무 효율 높인다…5일간 실무교육 진행",
-     "source": "AI타임스",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214780",
-     "at": "2026-09-03 11:00"
+     "title": "LGU+, 어라이즈 AI와 AI 에이전트 성능·안전성 관리 협력",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4RHhJd2EzNXhGQWZyWWp0cVhHeEgwblduWXExeDJCTy1iNml1WFlhOGNFS0QxSjRKMWNCMlAzX21vbmM4RHdqdHRZNFlQRFNaRUtTUVFWalNKck1UbUFxR9IBYEFVX3lxTFB4RHhJd2EzNXhGQWZyWWp0cVhHeEgwblduWXExeDJCTy1iNml1WFlhOGNFS0QxSjRKMWNCMlAzX21vbmM4RHdqdHRZNFlQRFNaRUtTUVFWalNKck1UbUFxRw?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-09-01"
     }
    ]
   }
