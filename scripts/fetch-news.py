@@ -65,7 +65,7 @@ for word in ['윤성임']:
         for b in blocks:
             m = re.search(r'<h4 class="titles"><a href="([^"]+)"[^>]*>([^<]+)</a>', b)
             if not m: continue
-            d = re.search(r'dated">([^<]+)<', b)
+            d = re.search(r'dated"[^>]*>\s*([^<]+?)\s*<', b)
             rows.append((m.group(1), m.group(2), d.group(1) if d else ''))
         if not rows:
             break
