@@ -60,12 +60,10 @@ for word in ['윤성임']:
             h = get(url)
         except Exception as e:
             print('skip', url, e, file=sys.stderr); break
-        blocks = re.findall(r'<li>(.*?)</li>', h, re.S)
         rows = []
-        for b in blocks:
-            m = re.search(r'<h4 class="titles"><a href="([^"]+)"[^>]*>([^<]+)</a>', b)
-            if not m: continue
-            d = re.search(r'dated"[^>]*>\s*([^<]+?)\s*<', b)
+        for m in re.finditer(r'<h4 class="titles"><a href="([^"]+)"[^>]*>([^<]+)</a>', h):
+            tail = h[m.end():m.end() + 1500]
+            d = re.search(r'dated"[^>]*>\s*([^<]+?)\s*<', tail)
             rows.append((m.group(1), m.group(2), d.group(1) if d else ''))
         if not rows:
             break
