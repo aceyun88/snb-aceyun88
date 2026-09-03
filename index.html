@@ -197,6 +197,54 @@
       .news-list a{grid-template-columns:1fr;gap:6px;padding:14px 4px}
       .news-src{order:-1}
     }
+
+    /* AI 소식 — 하루 한 게시글, 펼치면 플랫폼별 기사 */
+    .ainews{padding:72px 0;background:var(--light);border-top:1px solid var(--line)}
+    .ainews .news-head p{max-width:760px}
+    .day-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--navy)}
+    .day-list details{border-bottom:1px solid var(--line);background:#fff}
+    .day-list summary{display:grid;grid-template-columns:96px 1fr auto;gap:14px;align-items:center;padding:14px 12px;cursor:pointer;list-style:none;min-height:56px}
+    .day-list summary::-webkit-details-marker{display:none}
+    .day-list summary:hover{background:var(--light)}
+    .day-list .d-title{font-size:16px;font-weight:800;color:var(--text);line-height:1.45;word-break:keep-all}
+    .day-list .d-count{font-size:12px;color:var(--gray);white-space:nowrap}
+    .day-list .d-body{padding:4px 12px 16px 12px}
+    .plat{margin:10px 0 4px;font-size:13px;font-weight:900;color:var(--gold-ink);letter-spacing:.02em}
+    .day-list .d-body ul{list-style:none;margin:0;padding:0}
+    .day-list .d-body li a{display:flex;gap:10px;padding:8px 6px;border-radius:8px;font-size:15px;line-height:1.45;word-break:keep-all}
+    .day-list .d-body li a:hover{background:var(--light)}
+    .day-list .d-body li .src{color:var(--gray);font-size:12px;white-space:nowrap;margin-left:auto}
+    /* 저서 */
+    .books{padding:72px 0;background:#fff}
+    .book-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:18px 14px;margin-top:18px}
+    .book{display:flex;flex-direction:column;gap:8px;text-align:left}
+    .book img{width:100%;aspect-ratio:3/4.3;object-fit:cover;border-radius:10px;border:1px solid var(--line);background:var(--light);box-shadow:0 8px 20px rgba(6,27,58,.10);transition:transform .18s}
+    .book:hover img{transform:translateY(-3px)}
+    .book .b-title{font-size:14px;font-weight:800;color:var(--text);line-height:1.4;word-break:keep-all}
+    .book .b-meta{font-size:12px;color:var(--gray)}
+    .book-more{display:flex;justify-content:center;margin-top:18px}
+    /* 질문창 — 홈페이지 안 정보로 답하고, 외부 AI 검색으로 넘긴다 */
+    .ask-fab{position:fixed;right:18px;bottom:18px;z-index:60;display:inline-flex;align-items:center;gap:8px;padding:14px 18px;border-radius:999px;background:linear-gradient(135deg,#017A84,#0AA2AE);color:#fff;font-weight:900;font-size:15px;border:0;cursor:pointer;box-shadow:0 12px 28px rgba(1,122,132,.4);animation:bridgeGlow 2.4s ease-in-out infinite}
+    .ask-fab:hover{transform:translateY(-2px)}
+    .ask-panel{position:fixed;right:18px;bottom:84px;z-index:61;width:min(420px,calc(100vw - 36px));max-height:min(70vh,640px);display:none;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 60px rgba(6,27,58,.25);overflow:hidden}
+    .ask-panel.on{display:flex}
+    .ask-head{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;background:var(--navy);color:#fff;font-weight:900}
+    .ask-head button{background:none;border:0;color:#fff;font-size:20px;cursor:pointer;min-width:36px;min-height:36px}
+    .ask-body{padding:12px 14px;overflow:auto;display:flex;flex-direction:column;gap:10px}
+    .ask-form{display:flex;gap:8px}
+    .ask-form input{flex:1;height:44px;border:1px solid var(--line);border-radius:12px;padding:0 12px;font:inherit;font-size:15px}
+    .ask-form button{height:44px;padding:0 14px;border-radius:12px;border:0;background:var(--navy);color:#fff;font-weight:900;cursor:pointer}
+    .ask-hint{display:flex;flex-wrap:wrap;gap:6px}
+    .ask-hint button{border:1px solid var(--line);background:var(--light);border-radius:999px;padding:6px 10px;font-size:12px;font-weight:700;cursor:pointer;font-family:inherit;min-height:32px}
+    .ask-ans{border:1px solid var(--line);border-left:5px solid #017A84;border-radius:12px;padding:10px 12px;font-size:14px;line-height:1.55}
+    .ask-ans b{color:var(--navy)}
+    .ask-ans a{color:#01545b;text-decoration:underline}
+    .ask-ans ul{margin:6px 0 0;padding-left:18px}
+    .ask-ext{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+    .ask-ext a,.ask-ext button{display:flex;align-items:center;justify-content:center;min-height:40px;border-radius:10px;border:1px solid var(--line);background:#fff;color:var(--navy);font-weight:800;font-size:13px;cursor:pointer;font-family:inherit;text-align:center}
+    .ask-ext a:hover,.ask-ext button:hover{background:var(--light)}
+    .ask-note{font-size:12px;color:var(--gray)}
+    @media(max-width:640px){.ainews,.books{padding:52px 0}.day-list summary{grid-template-columns:1fr;gap:4px}.ask-fab{padding:12px 14px;font-size:14px;bottom:14px;right:14px}.ask-panel{right:12px;bottom:74px}}
 </style>
 </head>
 <body>
@@ -208,6 +256,8 @@
         <a href="#courses">강의주제</a>
         <a class="nav-bridge" href="https://snb-k-bridge.netlify.app/" target="_blank" rel="noopener" title="K브릿지 학습 플랫폼 — 새 창에서 열립니다">AI-K(지식) 브릿지</a>
         <a href="#news">칼럼·뉴스</a>
+        <a href="#ainews">AI 소식</a>
+        <a href="#books">저서</a>
         <a href="#process">교육방식</a>
         <a href="#apply">강의신청</a>
       </nav>
@@ -229,7 +279,7 @@
           <div class="trust">
             <div class="trust-card"><strong>기술창업학</strong><span>박사 · 겸임교수</span></div>
             <div class="trust-card"><strong>16년</strong><span>KT·KTDS ICT 경력</span></div>
-            <div class="trust-card"><strong>50여 종</strong><span>저서·공저</span></div>
+            <a class="trust-card" href="#books" title="저서 목록 보기"><strong>50여 종</strong><span>저서·공저 — 목록 보기 ›</span></a>
             <div class="trust-card"><strong>공공·기업</strong><span>맞춤형 교육</span></div>
           </div>
         </div>
@@ -339,7 +389,7 @@
         </div>
         <div class="bookbox">
           <h3>주요 전문성</h3>
-          <p><strong>AI 및 디지털 분야 저서·공저 50여 종</strong>, 생성형AI·AI마케팅·업무자동화·디지털 리터러시 분야 강의 및 컨설팅 수행.</p>
+          <p><strong><a href="#books">AI 및 디지털 분야 저서·공저 50여 종</a></strong>, 생성형AI·AI마케팅·업무자동화·디지털 리터러시 분야 강의 및 컨설팅 수행.</p>
           <p>AI-POT, 생성형AI교육지도사, 정보처리기사, ADsP, PMP, ITIL, ESG 전문가 등 다수 자격 보유.</p>
         </div>
       </div>
@@ -385,6 +435,36 @@
       </div>
     </section>
 
+    <section id="ainews" class="ainews">
+      <div class="container">
+        <div class="news-head">
+          <div>
+            <div class="pp-tag">AI NEWS · 매일 아침</div>
+            <h2>AI 소식</h2>
+            <p>챗GPT·클로드·제미나이·코파일럿·퍼플렉시티·네이버 등 대표 생성형 AI 플랫폼의 국내 보도와 공식 발표를 매일 아침 한 게시글로 모읍니다. 글 제목은 그날 가장 핵심인 첫 소식입니다. 펼치면 플랫폼별 기사와 원문 링크가 나옵니다.</p>
+          </div>
+        </div>
+        <ul class="day-list" id="dayList"></ul>
+        <div class="news-more"><button class="btn btn-outline" id="dayMore" type="button">지난 소식 더 보기</button></div>
+        <p class="pp-note" id="dayUpdated" style="text-align:right;margin-top:10px"></p>
+      </div>
+    </section>
+
+    <section id="books" class="books">
+      <div class="container">
+        <div class="news-head">
+          <div>
+            <div class="pp-tag">BOOKS · 저서·공저</div>
+            <h2>저서</h2>
+            <p>생성형 AI·업무혁신·AI 에이전트·코파일럿·소상공인 마케팅·시니어 AI 인문까지, 서점에 등록된 저서·공저 목록입니다. 표지를 누르면 서점 상세 페이지가 새 창으로 열립니다.</p>
+          </div>
+        </div>
+        <div class="book-grid" id="bookGrid"></div>
+        <div class="book-more"><button class="btn btn-outline" id="bookMore" type="button">더 보기</button></div>
+        <p class="pp-note" id="bookUpdated" style="text-align:right;margin-top:10px"></p>
+      </div>
+    </section>
+
     <section id="apply" class="cta">
       <div class="container">
         <h2>우리 조직에 맞는 AI 교육이 필요하신가요?</h2>
@@ -411,6 +491,20 @@
     </section>
   </main>
 
+  <button class="ask-fab" id="askFab" type="button" aria-expanded="false" aria-controls="askPanel">💬 무엇이 궁금하세요?</button>
+  <div class="ask-panel" id="askPanel" role="dialog" aria-label="질문창">
+    <div class="ask-head"><span>물어보기 — 홈페이지 안 정보로 답합니다</span><button type="button" id="askClose" aria-label="닫기">✕</button></div>
+    <div class="ask-body">
+      <form class="ask-form" id="askForm">
+        <input id="askInput" type="text" placeholder="예: 소상공인 AI 강의 신청 방법" aria-label="질문" autocomplete="off">
+        <button type="submit">묻기</button>
+      </form>
+      <div class="ask-hint" id="askHint"></div>
+      <div id="askOut"></div>
+      <p class="ask-note">이 창은 홈페이지에 적힌 내용(강의 주제·교육 방식·신청·이력·칼럼·저서·AI 소식)만으로 답합니다. 더 깊은 답은 아래 단추로 같은 질문을 외부 AI에 넘기세요. 새 창에서 열립니다.</p>
+    </div>
+  </div>
+
   <footer class="footer">
     <div class="container footer-grid">
       <div><strong style="color:#fff">AI융합교육전문가 윤성임 강사</strong><br/>AI를 이해에서 실행으로, 개인과 조직의 성장으로 연결합니다.</div>
@@ -424,6 +518,15 @@
   </div>
 
 
+  <script>
+  /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 매일 아침 자동 수집이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
+  const RAW = 'https://raw.githubusercontent.com/aceyun88/snb-aceyun88/main/';
+  function loadData(name){
+    return fetch(RAW + name + '?t=' + Math.floor(Date.now() / 300000)).then(r => { if(!r.ok) throw 0; return r.json(); })
+      .catch(() => fetch(name + '?v=' + Date.now()).then(r => r.json()));
+  }
+  window.SNB_DATA = {};
+  </script>
   <script>
   /* 칼럼·뉴스 게시판 — news.json을 읽어 분류 칩·검색·더 보기로 보여준다 */
   (function(){
@@ -454,10 +557,98 @@
     }
     more.onclick = () => { shown += PAGE; render(); };
     search.oninput = () => { q = search.value.trim().toLowerCase(); shown = PAGE; render(); };
-    fetch('news.json?v=' + Date.now()).then(r => r.json()).then(d => {
-      items = d.items || []; upd.textContent = `목록 갱신 ${d.updated || ''} · ${items.length}건`;
+    loadData('news.json').then(d => {
+      items = d.items || []; window.SNB_DATA.news = items; upd.textContent = `목록 갱신 ${d.updated || ''} · ${items.length}건`;
       buildChips(); render();
     }).catch(() => { list.innerHTML = '<li class="news-empty">목록을 불러오지 못했습니다. 잠시 뒤 다시 열어 주십시오.</li>'; more.style.display = 'none'; });
+  })();
+  </script>
+  <script>
+  /* AI 소식 — 하루 한 게시글 */
+  (function(){
+    const list = document.getElementById('dayList'), more = document.getElementById('dayMore'), upd = document.getElementById('dayUpdated');
+    if(!list) return;
+    const esc = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    let posts = [], shown = 7;
+    function render(){
+      list.innerHTML = posts.slice(0, shown).map((p, i) => {
+        const groups = {};
+        (p.items || []).forEach(it => { (groups[it.platform] = groups[it.platform] || []).push(it); });
+        return `<li><details${i === 0 ? ' open' : ''}><summary><span class="news-date">${esc(p.date)}</span><span class="d-title">${esc(p.title)}</span><span class="d-count">${p.count || (p.items||[]).length}건</span></summary>
+          <div class="d-body">${Object.keys(groups).map(g => `<div class="plat">${esc(g)}</div><ul>${groups[g].map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc(it.source || '')} ↗</span></a></li>`).join('')}</ul>`).join('')}</div>
+        </details></li>`;
+      }).join('') || '<li class="news-empty">아직 모인 소식이 없습니다.</li>';
+      more.style.display = posts.length > shown ? '' : 'none';
+    }
+    more.onclick = () => { shown += 7; render(); };
+    loadData('ai-news.json').then(d => { posts = d.posts || []; window.SNB_DATA.ai = posts; upd.textContent = `마지막 수집 ${d.updated || ''} · 매일 06:30 자동`; render(); })
+      .catch(() => { list.innerHTML = '<li class="news-empty">소식을 불러오지 못했습니다.</li>'; more.style.display = 'none'; });
+  })();
+  /* 저서 */
+  (function(){
+    const grid = document.getElementById('bookGrid'), more = document.getElementById('bookMore'), upd = document.getElementById('bookUpdated');
+    if(!grid) return;
+    const esc = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    let books = [], shown = 12;
+    function render(){
+      grid.innerHTML = books.slice(0, shown).map(b => `<a class="book" href="${esc(b.url)}" target="_blank" rel="noopener" title="${esc(b.title)}">
+        ${b.cover ? `<img src="${esc(b.cover)}" alt="${esc(b.title)} 표지" loading="lazy">` : `<div class="b-cover"></div>`}
+        <span class="b-title">${esc(b.title)}</span><span class="b-meta">${esc([b.publisher, b.date ? b.date.slice(0,4) : ''].filter(Boolean).join(' · '))}</span></a>`).join('') || '<p class="news-empty">아직 모인 목록이 없습니다.</p>';
+      more.style.display = books.length > shown ? '' : 'none';
+    }
+    more.onclick = () => { shown += 12; render(); };
+    loadData('books.json').then(d => { books = d.items || []; window.SNB_DATA.books = books; upd.textContent = `서점 기준 ${d.updated || ''} · ${books.length}권`; render(); })
+      .catch(() => { grid.innerHTML = '<p class="news-empty">목록을 불러오지 못했습니다.</p>'; more.style.display = 'none'; });
+  })();
+  /* 질문창 — 홈페이지 안 정보(구역 본문 + 칼럼·저서·AI 소식 제목)에서 찾아 답하고, 외부 AI로 넘긴다 */
+  (function(){
+    const fab = document.getElementById('askFab'), panel = document.getElementById('askPanel'), close = document.getElementById('askClose');
+    const form = document.getElementById('askForm'), input = document.getElementById('askInput'), out = document.getElementById('askOut'), hint = document.getElementById('askHint');
+    if(!fab) return;
+    const esc = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    const HINTS = ['강의 신청 방법', '소상공인 AI 강의', '어떤 강의 주제가 있나요', '윤성임 박사 이력', '저서', '오늘 AI 소식', 'K브릿지가 뭔가요'];
+    hint.innerHTML = HINTS.map(h => `<button type="button">${esc(h)}</button>`).join('');
+    hint.querySelectorAll('button').forEach(b => b.onclick = () => { input.value = b.textContent; answer(b.textContent); });
+    const toggle = on => { panel.classList.toggle('on', on); fab.setAttribute('aria-expanded', on ? 'true' : 'false'); if(on) input.focus(); };
+    fab.onclick = () => toggle(!panel.classList.contains('on'));
+    close.onclick = () => toggle(false);
+    form.onsubmit = e => { e.preventDefault(); answer(input.value.trim()); };
+    // 페이지 구역을 지식으로 — 제목과 본문을 한 덩어리씩
+    function sections(){
+      return [...document.querySelectorAll('main section[id]')].map(sec => ({
+        id: sec.id, title: (sec.querySelector('h2') || {}).textContent || sec.id,
+        text: sec.innerText.replace(/\s+/g, ' ').slice(0, 1200)
+      }));
+    }
+    const norm = t => t.toLowerCase().replace(/[^\w가-힣]/g, ' ');
+    const words = q => norm(q).split(/\s+/).filter(w => w.length >= 2);
+    function answer(q){
+      if(!q){ out.innerHTML = ''; return; }
+      const ws = words(q);
+      const secs = sections().map(s => ({...s, score: ws.reduce((n, w) => n + (norm(s.title).includes(w) ? 3 : 0) + (norm(s.text).includes(w) ? 1 : 0), 0)})).filter(s => s.score > 0).sort((a, b) => b.score - a.score).slice(0, 2);
+      const pick = (arr, key) => (arr || []).filter(it => ws.some(w => norm(it[key]).includes(w))).slice(0, 4);
+      const news = pick(window.SNB_DATA.news, 'title'), books = pick(window.SNB_DATA.books, 'title');
+      const ai = (window.SNB_DATA.ai || []).flatMap(p => p.items || []).filter(it => ws.some(w => norm(it.title).includes(w))).slice(0, 4);
+      const isAi = /ai 소식|오늘|뉴스|소식/.test(q.toLowerCase());
+      let html = '';
+      if(secs.length) html += secs.map(s => `<div class="ask-ans"><b>${esc(s.title.trim())}</b> — ${esc(s.text.slice(0, 260))}… <a href="#${esc(s.id)}">이 구역으로 가기 ›</a></div>`).join('');
+      if(books.length) html += `<div class="ask-ans"><b>저서에서</b><ul>${books.map(b => `<li><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.title)}</a></li>`).join('')}</ul></div>`;
+      if(news.length) html += `<div class="ask-ans"><b>칼럼·뉴스에서</b><ul>${news.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="ask-note">${esc(n.date)}</span></li>`).join('')}</ul></div>`;
+      if(isAi && window.SNB_DATA.ai && window.SNB_DATA.ai[0]) { const p = window.SNB_DATA.ai[0]; html += `<div class="ask-ans"><b>오늘 AI 소식 (${esc(p.date)})</b> — ${esc(p.title)} <a href="#ainews">게시판 보기 ›</a></div>`; }
+      else if(ai.length) html += `<div class="ask-ans"><b>AI 소식에서</b><ul>${ai.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join('')}</ul></div>`;
+      if(!html) html = `<div class="ask-ans">홈페이지 안에서는 딱 맞는 내용을 찾지 못했습니다. 강의 문의는 <a href="#apply">강의 신청</a>에서, 실습은 <a href="https://snb-k-bridge.netlify.app" target="_blank" rel="noopener">K브릿지</a>에서 하실 수 있습니다. 아래 단추로 외부 AI에 같은 질문을 넘겨 보세요.</div>`;
+      const g = encodeURIComponent(q + ' 윤성임 소셜앤비즈'), gq = encodeURIComponent(q);
+      html += `<div class="ask-ext">
+        <a href="https://www.google.com/search?udm=50&q=${g}" target="_blank" rel="noopener">구글 AI 검색으로</a>
+        <a href="https://search.naver.com/search.naver?query=${g}" target="_blank" rel="noopener">네이버 AI 검색으로</a>
+        <a href="https://chatgpt.com/?q=${gq}" target="_blank" rel="noopener">챗GPT에 묻기</a>
+        <a href="https://www.perplexity.ai/search?q=${gq}" target="_blank" rel="noopener">퍼플렉시티에 묻기</a>
+        <button type="button" data-copy="${esc(q)}">질문 복사 (제미나이·클로드에 붙이기)</button>
+        <a href="https://snb-k-bridge.netlify.app/tools/meta-prompt" target="_blank" rel="noopener">K브릿지 메타 프롬프트 도우미</a>
+      </div>`;
+      out.innerHTML = html;
+      out.querySelectorAll('[data-copy]').forEach(b => b.onclick = () => { navigator.clipboard && navigator.clipboard.writeText(b.dataset.copy).then(() => { b.textContent = '복사되었습니다 — 제미나이·클로드 창에 붙여 넣으세요'; }); });
+    }
   })();
   </script>
 </body>

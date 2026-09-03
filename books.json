@@ -1,0 +1,635 @@
+{
+ "updated": "2026-09-03",
+ "items": [
+  {
+   "title": "AI 에이전트 시대! 일과 조직을 재설계하라",
+   "author": "\"> 윤성임 이현구 서승진 윤가형 윤영환 유형재 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 08월 31일",
+   "publisher": "그로잉북스",
+   "date": "2026-08-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001182870.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000221064302",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "AI 에이전트 시대, 소상공인 비즈니스를 재설계하라",
+   "author": "\"> 윤성임 임계영 박성아 성명현 윤창대 홍영일 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 08월 31일",
+   "publisher": "그로잉북스",
+   "date": "2026-08-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001182887.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000221075855",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "PK-PDCA 방법론 기반 조직의 AX AI 거버넌스로 완성하라",
+   "author": "\"> 윤성임 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 08월 25일",
+   "publisher": "그로잉북스",
+   "date": "2026-08-25",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N260819980.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000013451334",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "PK-PDCA 방법론 기반 소상공인 브랜딩 콘텐츠와 GEO마케팅 전략",
+   "author": "\"> 윤성임 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 08월 25일",
+   "publisher": "그로잉북스",
+   "date": "2026-08-25",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N260898470.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000013446324",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "우리 이야기가 머무는 곳",
+   "author": "\"> 김예서, 윤성임, 김윤선, 송민아, 이영빈, 전용선, 정경한, 지동헌, 조영심, 최윤미, 홍용준 ( ) 더보기 닫기 모두보기 퍼플 · 20",
+   "publisher": "퍼플",
+   "date": "2026-08-18",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001173113.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000220940008",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "시간이 써 내려간 나",
+   "author": "\"> 윤성임, 김예서, 김윤선, 정현정, 강동호, 고진선, 김혜영, 김형만, 김현희, 이영주, 이해수 ( ) 더보기 닫기 모두보기 퍼플 · 20",
+   "publisher": "퍼플",
+   "date": "2026-08-18",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001173106.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000220940009",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "은퇴없는 지성, 시니어 인문학",
+   "author": "\"> 홍병식 ( ) | 김미정 번역 | 윤성임 감수 외 더보기 닫기 모두보기 그로잉북스 · 2026년 05월 30일",
+   "publisher": "그로잉북스",
+   "date": "2026-05-30",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D260640300.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000013091273",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "당신의 계절이 나의 등 뒤에 머물 때",
+   "author": "\"> 윤성임 이현구 이경옥 권순정 이우자 김미정 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 02월 28일",
+   "publisher": "그로잉북스",
+   "date": "2026-02-28",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001004011.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219436673",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "사랑이 머무는 자리, 낭만이 흐르는 시간",
+   "author": "\"> 윤성임 노현진 성모연 강윤지 김미정 신소영 홍영구 ( ) 더보기 닫기 모두보기 그로잉북스 · 2026년 02월 28일",
+   "publisher": "그로잉북스",
+   "date": "2026-02-28",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400001003991.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219388187",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "인스타그램 마케팅 + 쇼핑 사용법(큰글자책)",
+   "author": "\"> 윤성임 ( ) | 최재용 ( ) 외 더보기 닫기 모두보기 시대인 · 2026년 02월 13일",
+   "publisher": "시대인",
+   "date": "2026-02-13",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791143410788.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219135700",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "각자의 방식으로",
+   "author": "\"> 윤성임, 위너, 김재연 ( ) 더보기 닫기 모두보기 넥스미디어 · 2026년 02월 03일",
+   "publisher": "넥스미디어",
+   "date": "2026-02-03",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000987407.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219210347",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "내가 할게",
+   "author": "\"> 윤성임, 강정석, 유용범, 조영란 ( ) 더보기 닫기 모두보기 넥스미디어 · 2026년 01월 30일",
+   "publisher": "넥스미디어",
+   "date": "2026-01-30",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000984864.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219190928",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "옆에 사람이 있어",
+   "author": "\"> 윤성임·성명현·정현정·이승주 ( ) 더보기 닫기 모두보기 넥스미디어 · 2026년 01월 30일",
+   "publisher": "넥스미디어",
+   "date": "2026-01-30",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000984857.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219190927",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "AI 요정 시아와 형심 할머니",
+   "author": "\"> 윤성임 ( ) 더보기 닫기 모두보기 넥스미디어 · 2026년 01월 21일",
+   "publisher": "넥스미디어",
+   "date": "2026-01-21",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000973967.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000219078390",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "나 혼자 다 해먹는 온라인스토어 창업&마케팅(큰글자도서)",
+   "author": "\"> 윤성임 ( ) | 이종선 ( ) | 이효진 ( ) | 윤지영 ( ) | 박광록 ( ) | 이강석 ( ) 외 더보기 닫기 모두보기 시대인 ·",
+   "publisher": "시대인",
+   "date": "2026-01-13",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791143408594.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218907635",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "강원 농부와 AI의 비밀 이야기2",
+   "author": "\"> 윤성임, 김준옥, 홍낙기, 김정희, 김재연 ( ) 더보기 닫기 모두보기 넥스미디어 · 2025년 12월 12일",
+   "publisher": "넥스미디어",
+   "date": "2025-12-12",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000953679.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218843991",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "강원 농부와 AI의 비밀 이야기3",
+   "author": "\"> 안윤희 ( ) | 박주원 ( ) | 이미자 ( ) | 윤성임 ( ) | 김재연 ( ) | 넥스미디어 번역 | 윤성임 감수 외 더보기 닫기 ",
+   "publisher": "넥스미디어",
+   "date": "2025-12-12",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D251207370.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012306014",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "강원 농부와 AI의 비밀 이야기1",
+   "author": "\"> 윤성임, 이재은, 정옥순, 이동희, 김재연 ( ) 더보기 닫기 모두보기 넥스미디어 · 2025년 12월 10일",
+   "publisher": "넥스미디어",
+   "date": "2025-12-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000953143.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218841229",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "AI에이전트 업무혁신 로드맵",
+   "author": "\"> 윤성임, 송민경, 송진석, 유용범, 이혜진, 최귀숙 ( ) 더보기 닫기 모두보기 두온교육 · 2025년 11월 21일",
+   "publisher": "두온교육",
+   "date": "2025-11-21",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000941300.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218642794",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "구글 AI 3종 완전정복",
+   "author": "\"> 윤성임, 권미용, 강인환, 김재영, 이애경, 조수현 ( ) 더보기 닫기 모두보기 두온교육 · 2025년 11월 21일",
+   "publisher": "두온교육",
+   "date": "2025-11-21",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000941263.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218642791",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "소상공인 생성형AI 실전 가이드",
+   "author": "\"> 윤성임, 김재연, 임만식, 이경수, 이현구, 박요왕 ( ) 더보기 닫기 모두보기 두온교육 · 2025년 11월 21일",
+   "publisher": "두온교육",
+   "date": "2025-11-21",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000941270.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218642779",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "AI 변화의 시대, 인간과 AI를 말하다",
+   "author": "\"> 기획 구교광, 윤성임 고구환 김대진 문정흠 서소연 신영호 유창현 전명운 ( ) 더보기 닫기 모두보기 두온교육 · 2025년 11월 17일",
+   "publisher": "두온교육",
+   "date": "2025-11-17",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000937228.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218448228",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "이천 농부들의 이야기 정원",
+   "author": "\"> 윤성임 김재연 김석규 이정수 오원배 ( ) 더보기 닫기 모두보기 그로잉북스 · 2025년 10월 31일",
+   "publisher": "그로잉북스",
+   "date": "2025-10-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000925706.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218271635",
+   "store": "교보문고",
+   "editions": 5
+  },
+  {
+   "title": "이천 농부들의 이야기 정원 3권: 농원의 사람들",
+   "author": "\"> 윤성임 ( ) | 김재연 ( ) | 이화준 ( ) | 김수진 ( ) | 구본학 ( ) 외 더보기 닫기 모두보기 그로잉북스 · 2025년 1",
+   "publisher": "그로잉북스",
+   "date": "2025-10-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D250938540.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012036660",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "이천 농부들의 이야기 정원 5권: 정원과 약속",
+   "author": "\"> 윤성임 ( ) | 김재연 ( ) | 조유화 ( ) | 복현수 ( ) 외 더보기 닫기 모두보기 그로잉북스 · 2025년 10월 10일",
+   "publisher": "그로잉북스",
+   "date": "2025-10-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D251054930.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012050940",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "이천 농부들의 이야기 정원 4권: 변화와 미래",
+   "author": "\"> 윤성임 ( ) | 김재연 ( ) | 박희진 ( ) | 우윤주 ( ) | 김명준 ( ) 외 더보기 닫기 모두보기 그로잉북스 · 2025년 1",
+   "publisher": "그로잉북스",
+   "date": "2025-10-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D251051680.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012047370",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "이천 농부들의 이야기 정원 2권: 흙과 열매",
+   "author": "\"> 윤성임 ( ) | 김재연 ( ) | 김석규 ( ) | 이정수 ( ) | 오원배 ( ) 외 더보기 닫기 모두보기 그로잉북스 · 2025년 1",
+   "publisher": "그로잉북스",
+   "date": "2025-10-01",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N250921960.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012033151",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "이천 농부들의 이야기 정원 1권: 씨앗에서 미래까지",
+   "author": "\"> 윤성임 ( ) | 김재연 ( ) | 김영준 ( ) | 이유정 ( ) 외 더보기 닫기 모두보기 그로잉북스 · 2025년 10월 01일",
+   "publisher": "그로잉북스",
+   "date": "2025-10-01",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N250910300.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000012029829",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "할머니와 손녀의 AI 마법 여행1",
+   "author": "\"> 윤성임 ( ) 더보기 닫기 모두보기 그로잉북스 · 2025년 09월 23일",
+   "publisher": "그로잉북스",
+   "date": "2025-09-23",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000910528.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218086016",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "할머니와 손녀의 AI 마법 여행 2",
+   "author": "\"> 윤성임 ( ) 더보기 닫기 모두보기 그로잉북스 · 2025년 09월 23일",
+   "publisher": "그로잉북스",
+   "date": "2025-09-23",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000910535.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000218086009",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "공시지표 표준 실무지침서 - ESG 영향평가 1",
+   "author": "\"> 박범석 윤성도 이양우 윤성임 이현준 최용국 한가늠 홍정훈 ( ) 더보기 닫기 모두보기 오케이미디어그룹 · 2025년 07월 01일",
+   "publisher": "오케이미디어그룹",
+   "date": "2025-07-01",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000876381.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000217332397",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "공시지표 표준 실무지침서 - ESG 영향평가 2",
+   "author": "\"> 박범석 윤성도 이양우 윤성임 이현준 최용국 한가늠 홍정훈 ( ) 더보기 닫기 모두보기 오케이미디어그룹 · 2025년 07월 01일",
+   "publisher": "오케이미디어그룹",
+   "date": "2025-07-01",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000876374.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000217294559",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "AI와 소통하는 법: 프롬프트 엔지니어링 기초편",
+   "author": "\"> 유형재, 윤성임, 하예랑 ( ) 더보기 닫기 모두보기 디엔젤 · 2025년 03월 31일",
+   "publisher": "디엔젤",
+   "date": "2025-03-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000831496.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000216401805",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "디지털 마케팅의 판도를 바꾸는 생성형 AI 고급 전략",
+   "author": "\"> 유형재, 윤성임, 하예랑 ( ) 더보기 닫기 모두보기 디엔젤 · 2025년 03월 31일",
+   "publisher": "디엔젤",
+   "date": "2025-03-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000831687.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000216401788",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "업무생산성 높이는 생성형 AI 기초 전략",
+   "author": "\"> 유형재, 윤성임, 하예랑 ( ) 더보기 닫기 모두보기 디엔젤 · 2025년 03월 31일",
+   "publisher": "디엔젤",
+   "date": "2025-03-31",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000831748.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000216401782",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "중소기업 AI 혁신 실전 전략, 생성형AI 활용 정석",
+   "author": "\"> 윤성임, 강효석, 문국준, 배규한, 서영훈, 유용범, 최지원 ( ) 더보기 닫기 모두보기 두온교육 · 2025년 03월 28일",
+   "publisher": "두온교육",
+   "date": "2025-03-28",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/1400000816141.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000216209718",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "업무 혁신과 성과 창출 비밀, 생성형 AI 활용 바이블",
+   "author": "\"> 윤성임 ( ) | 강정석 ( ) | 남원우 ( ) | 박정흠 ( ) | 송진석 ( ) | 이지선 ( ) | 홍광표 ( ) 외 더보기 닫기 ",
+   "publisher": "두온교육",
+   "date": "2025-03-28",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N250312170.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000011243490",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "인공지능콘텐츠트렌드",
+   "author": "\"> 윤서아 ( ) | 윤성임 ( ) | 김수진 ( ) | 유양석 ( ) | 문오영 ( ) | 백선희 ( ) | 유정화 ( ) | 윤선경 ( )",
+   "publisher": "재노북스",
+   "date": "2024-10-24",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480M241072050.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000009655792",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "나도 할 수 있다 AI홍보마케팅",
+   "author": "\"> 윤성임 ( ) | 최재용 ( ) | 윤지영 ( ) | 유채린 ( ) | 나명순 ( ) | 김진선 감수 외 더보기 닫기 모두보기 미디어북 ·",
+   "publisher": "미디어북",
+   "date": "2024-09-13",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D250344340.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000011194122",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "똑똑하게 마이크로소프트 코파일럿 활용하기",
+   "author": "\"> 최재용 ( ) | 김윤선 ( ) | 배미주 ( ) | 양양금 ( ) | 윤은숙 ( ) | 윤성임 ( ) | 유양석 ( ) | 유채린 ( )",
+   "publisher": "두온교육",
+   "date": "2024-08-28",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480N240842970.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000008783926",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "챗GPT 활용의 정석",
+   "author": "\"> 이현구 ( ) | 김형정 ( ) | 송길섭 ( ) | 송민경 ( ) | 윤성임 ( ) | 김현정 ( ) | 이상진 ( ) | 김성식 ( )",
+   "publisher": "브레인플랫폼",
+   "date": "2024-06-25",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791191436341.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000213641170",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "MS365 코파일럿 사용설명서",
+   "author": "\"> 최재용 ( ) | 유채린 ( ) | 윤성임 ( ) | 이도혜 ( ) | 김보성 ( ) | 윤은숙 ( ) | 이대윤 ( ) | 이신우 편집자",
+   "publisher": "두온교육",
+   "date": "2024-05-29",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D240525960.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000007727671",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "이것이 코파일럿이다",
+   "author": "\"> 최재용, 김윤선, 박시은, 유채린, 유형재, 윤성임, 이도혜, 이동신, 이현숙, 최영, 최정숙 ( ) | 이신우 그림/만화 외 더보기 닫기",
+   "publisher": "두온교육",
+   "date": "2024-04-01",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D240425580.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000007274015",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "실전으로 배우는 생성형AI활용, ESG보고서 작성법",
+   "author": "\"> 최재용, 김도윤, 윤성임, 박휘언, 김종술, 최병훈, 전지훈, 이도혜, 서순례, 신진주, 이태연, 이민규 ( ) | 이신우 그림/만화 | ",
+   "publisher": "두온교육",
+   "date": "2024-02-24",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D240305280.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000006949359",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "나도 AI 콘텐츠 제작으로 돈 벌어볼까?",
+   "author": "\"> 윤서아 ( ) | 윤성임 ( ) | 김광연 ( ) | 김윤정 ( ) | 최재용 ( ) 외 더보기 닫기 모두보기 재노북스 · 2023년 06",
+   "publisher": "재노북스",
+   "date": "2023-06-21",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791198308320.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000202677946",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "챗GPT AI로 데이터분석 마스터하기",
+   "author": "\"> 홍용기 ( ) | 이현구 ( ) | 윤성임 ( ) 외 더보기 닫기 모두보기 디즈비즈북스 · 2023년 05월 17일",
+   "publisher": "디즈비즈북스",
+   "date": "2023-05-17",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D230501470.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000005219049",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "챗 GPT 나도 해볼까?",
+   "author": "\"> 강경일 ( ) | 나명순 ( ) | 최혜정 ( ) | 권시원 ( ) | 김재영 ( ) | 김수연 ( ) | 서성봉 ( ) | 최유미 ( )",
+   "publisher": "디즈비즈북스",
+   "date": "2023-04-06",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/480D230433290.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000005184415",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "메타버스 NFT 실전 교과서",
+   "author": "\"> 이종선 ( ) | 윤성임 ( ) | 이수안 ( ) | 최태선 ( ) | 김선영 ( ) 외 더보기 닫기 모두보기 미디어북 · 2023년 03",
+   "publisher": "미디어북",
+   "date": "2023-03-22",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791189888275.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000005167612",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "백만 유튜버의 교과서",
+   "author": "\"> 권미용 ( ) | 윤성임 ( ) | 이종선 ( ) | 윤지영 ( ) | 이효진 ( ) 외 더보기 닫기 모두보기 미디어북 · 2023년 03",
+   "publisher": "미디어북",
+   "date": "2023-03-22",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791189888138.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000005167493",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "지금은 라이브 커머스 시대",
+   "author": "\"> 이종선 ( ) | 정소영 ( ) | 이소희 ( ) | 윤성임 ( ) | 이효진 ( ) | 황영오 ( ) 외 더보기 닫기 모두보기 미디어북 ",
+   "publisher": "미디어북",
+   "date": "2021-07-22",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791189888190.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/E000005167567",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "온라인스토어 창업&마케팅",
+   "author": "\"> 윤성임 ( ) | 이종선 ( ) | 이효진 ( ) | 윤지영 ( ) | 박광록 ( ) | 이강석 ( ) 외 더보기 닫기 모두보기 시대인 ·",
+   "publisher": "시대인",
+   "date": "2021-02-05",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791125487708.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001656865",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "한 권으로 끝내는 스마트폰 300배 활용하기",
+   "author": "\"> 윤성임 ( ) | 권미용 ( ) | 이종선 ( ) | 이현숙 ( ) | 최재용 ( ) 외 더보기 닫기 모두보기 한국경제신문i · 2020년",
+   "publisher": "한국경제신문i",
+   "date": "2020-01-15",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9788947545532.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000000695963",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "나도 해볼까 유튜브",
+   "author": "\"> 최재용 ( ) | 윤성임 ( ) | 권혜영 ( ) | 안보경 ( ) | 이경자 ( ) | 이진형 ( ) | 정은경 ( ) | 최미영 ( )",
+   "publisher": "미디어북",
+   "date": "2019-12-05",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791189888121.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001932494",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "유튜브 따라하기",
+   "author": "\"> 최재용 ( ) | 윤성임 ( ) | 최재경 ( ) | 권미용 ( ) | 김민경 ( ) | 김수연 ( ) | 김정수 ( ) | 손윤숙 ( )",
+   "publisher": "미디어북",
+   "date": "2019-08-14",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791189888114.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001932493",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "4차산업혁명",
+   "author": "\"> 최재용 ( ) | 공인택 ( ) | 김성남 ( ) | 방명숙 ( ) | 변해영 ( ) | 안경식 ( ) | 윤성임 ( ) | 장선주 ( )",
+   "publisher": "미디어북",
+   "date": "2018-12-03",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791195905188.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001969370",
+   "store": "교보문고",
+   "editions": 2
+  },
+  {
+   "title": "4차 산업혁명 Why?",
+   "author": "\"> 4차산업혁명연구원 ( ) | 유은숙 ( ) | 최재용 ( ) | 양성길 ( ) | 김종용 ( ) | 민문희 ( ) | 박연순 ( ) | 윤",
+   "publisher": "한국경제신문i",
+   "date": "2018-05-03",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9788947543361.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000000695751",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "스마트폰 활용 길라잡이",
+   "author": "\"> 이종구 ( ) | 박윤업 ( ) | 이정화 ( ) | 윤성임 ( ) | 박용철 ( ) | 정훈조 ( ) | 정영숙 ( ) | 김대식 ( )",
+   "publisher": "에스엔에스소통연구소",
+   "date": "2017-11-13",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791187437420.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001901762",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "SNS 홍보 마케팅의 신",
+   "author": "\"> 양성길 ( ) | 최재용 ( ) | 이상원 ( ) | 김범일 ( ) | 박만성 ( ) | 윤성임 ( ) | 이경미 ( ) | 김진선 감수 ",
+   "publisher": "시대인",
+   "date": "2017-07-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791125434993.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001652665",
+   "store": "교보문고",
+   "editions": 3
+  },
+  {
+   "title": "이것이 4차 산업혁명이다",
+   "author": "\"> 최재용 ( ) | 구대환 ( ) | 박주용 ( ) | 양성길 ( ) | 윤성임 ( ) | 이주성 ( ) | 정소영 ( ) 외 더보기 닫기 ",
+   "publisher": "매일경제신문사",
+   "date": "2017-06-09",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791155426807.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001724874",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "소셜미디어 마케팅전략",
+   "author": "\"> 최재용 ( ) | 권도원 ( ) | 윤지영 ( ) | 이상원 ( ) | 오세성 ( ) | 고상희 ( ) | 김현주 ( ) | 이경미 ( )",
+   "publisher": "고시계사",
+   "date": "2016-03-10",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9788958225287.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000000868524",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "스마트폰 200배 즐기기",
+   "author": "\"> 최재용 ( ) | 양성길 ( ) | 권도원 ( ) | 김현주 ( ) | 윤성임 ( ) | 홍승정 감수 외 더보기 닫기 모두보기 매경출판 ·",
+   "publisher": "매경출판",
+   "date": "2015-05-26",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791155422915.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001724614",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "매출 200배 올리는 모바일 마케팅",
+   "author": "\"> 최재용 ( ) | 김진선 ( ) | 김영모 ( ) | 고상희 ( ) | 오세성 ( ) | 윤성임 ( ) | 이경미 ( ) | 최재경 ( )",
+   "publisher": "라온북 한국소셜미디어진흥원",
+   "date": "2015-03-11",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791155321485.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001723706",
+   "store": "교보문고",
+   "editions": 1
+  },
+  {
+   "title": "SNS 마케팅의 비밀병기 카카오스토리",
+   "author": "\"> 최재용 ( ) | 김진선 ( ) | 김준태 ( ) | 이경미 ( ) | 오세성 ( ) | 류치형 ( ) | 강이석 ( ) | 김효성 ( )",
+   "publisher": "라온북 한국소셜미디어진흥원",
+   "date": "2014-06-14",
+   "cover": "https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/9791155320631.jpg",
+   "url": "https://product.kyobobook.co.kr/detail/S000001723654",
+   "store": "교보문고",
+   "editions": 1
+  }
+ ]
+}

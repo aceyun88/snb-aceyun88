@@ -1,0 +1,31 @@
+# 매일 아침 칼럼·AI 소식·저서 목록을 수집해 저장소에 갱신한다. 홈페이지는 이 파일들을 GitHub에서 직접 읽으므로 배포가 필요 없다
+name: collect-daily
+
+on:
+  schedule:
+    - cron: '30 21 * * *'   # 매일 06:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 칼럼·뉴스
+        run: python scripts/fetch-news.py || echo "news failed"
+      - name: AI 소식
+        run: python scripts/fetch-ai-news.py || echo "ai-news failed"
+      - name: 저서
+        run: python scripts/fetch-books.py || echo "books failed"
+      - name: 변경이 있으면 커밋
+        run: |
+          git config user.name "snb-collector"
+          git config user.email "aceyun88@users.noreply.github.com"
+          git add news.json ai-news.json books.json
+          git diff --cached --quiet && echo "no change" || (git commit -m "자동 수집 $(date -u +%Y-%m-%d) — 칼럼·AI 소식·저서" && git push)
