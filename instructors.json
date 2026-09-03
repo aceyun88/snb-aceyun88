@@ -1,6 +1,6 @@
 {
  "updated": "2026-09-03",
- "_안내": "강사 한 명 = 항목 하나. name이 [ 로 시작하는 항목은 견본이라 화면에 나오지 않는다. affiliations는 현재 직함부터 3개까지, fields는 3~5개. photo는 instructors/영문이름.jpg (600×800, 세로 3:4). 자세한 절차는 docs/instructors-form.md",
+ "_안내": "강사 한 명 = 항목 하나. name이 [ 로 시작하는 항목은 견본이라 화면에 나오지 않는다. affiliations는 현재 직함부터 3개까지, fields는 3~5개. photo는 instructors/영문이름.jpg (600×800, 세로 3:4). 자세한 절차는 docs/instructors-form.md note는 선택(출강 기관·분야 한 줄).",
  "items": [
   {
    "name": "윤성임",
@@ -10,15 +10,30 @@
     "건양사이버대학교 겸임교수",
     "한국소셜미디어진흥원 · 디지털융합교육원 부원장"
    ],
-   "fields": ["생성형 AI 실무", "AI 에이전트·업무 자동화", "AX/DX 전략", "AI 마케팅·퍼스널브랜딩", "시니어·소상공인 창업"],
+   "fields": [
+    "생성형 AI 실무",
+    "AI 에이전트·업무 자동화",
+    "AX/DX 전략",
+    "AI 마케팅·퍼스널브랜딩",
+    "시니어·소상공인 창업"
+   ],
    "photo": "profile-yun-sung-im.jpg",
-   "link": "https://snb-k-bridge.netlify.app/about"
+   "link": "https://snb-k-bridge.netlify.app/about",
+   "note": "주요 출강 — 경찰청 · KOTRA · LG그룹 · 하나은행 · 농촌진흥청 · 건양사이버대학교 등"
   },
   {
    "name": "[이름]",
    "title": "[학위 또는 대표 직함 — 없으면 빈칸]",
-   "affiliations": ["[소속 1 · 직함]", "[소속 2 · 직함]", "[소속 3 · 직함]"],
-   "fields": ["[전문 분야 1]", "[전문 분야 2]", "[전문 분야 3]"],
+   "affiliations": [
+    "[소속 1 · 직함]",
+    "[소속 2 · 직함]",
+    "[소속 3 · 직함]"
+   ],
+   "fields": [
+    "[전문 분야 1]",
+    "[전문 분야 2]",
+    "[전문 분야 3]"
+   ],
    "photo": "instructors/[영문이름].jpg",
    "link": ""
   }

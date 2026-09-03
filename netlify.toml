@@ -19,3 +19,13 @@
   to = "/404.html"
   status = 404
   force = true
+
+# 보안 헤더 — 정적 사이트라 서버 공격면은 없지만, 끼워넣기(iframe)·스니핑·참조 정보 노출을 막는다
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://raw.githubusercontent.com; font-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://docs.google.com; object-src 'none'"

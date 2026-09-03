@@ -6,6 +6,8 @@
   <title>AI융합교육전문가 윤성임 강사 YUN SUNG IM | 생성형AI·DX·AI마케팅 실무교육</title>
   <meta name="description" content="AI융합교육전문가 윤성임 강사 YUN SUNG IM의 생성형AI, ChatGPT, DX, 업무자동화, AI마케팅 실무 교육 안내. 공공기관·기업·대학·소상공인·농업·중장년 맞춤 실습 강의, 칼럼·뉴스, AI 학습 플랫폼 K브릿지와 업무 지시서 173장." />
   <link rel="canonical" href="https://snb-aceyun88.netlify.app/" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <meta name="theme-color" content="#002D5A" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="소셜앤비즈 · 윤성임" />
   <meta property="og:title" content="AI융합교육전문가 윤성임 | 생성형AI·DX·AI마케팅 실무교육" />
@@ -240,6 +242,36 @@
     .tcard .t-fields span{font-size:12px;font-weight:800;color:var(--teal-ink,#015E66);background:#E7F2F3;border-radius:999px;padding:3px 9px}
     .tcard a.t-more{font-size:12px;font-weight:800;color:var(--navy);text-decoration:none;margin-top:6px}
     @media(max-width:640px){.team{padding:52px 0}.team-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}.tcard .t-name{font-size:16px}.tcard .t-body{padding:10px 12px 12px}}
+    /* 접근성·법규·출강 기관·일정·갤러리 */
+    [hidden]{display:none!important}
+    .skip{position:absolute;left:-9999px;top:8px;z-index:200;background:var(--navy);color:#fff;padding:10px 14px;border-radius:8px;font-weight:800}
+    .skip:focus{left:12px}
+    .clients{padding:56px 0;background:var(--light);border-top:1px solid var(--line)}
+    .client-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:18px}
+    .client-grid div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+    .client-grid h3{margin:0 0 8px;font-size:15px;color:var(--navy)}
+    .client-grid p{margin:0;font-size:14px;color:var(--gray);line-height:1.7}
+    .schedule{padding:64px 0;background:#fff;border-top:1px solid var(--line)}
+    .sch-list{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:10px}
+    .sch-list li{display:grid;grid-template-columns:110px 1fr auto;gap:12px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 16px}
+    .sch-date{font-weight:900;color:var(--navy);font-size:15px}
+    .sch-title{font-weight:800;color:var(--text)}
+    .sch-meta{font-size:13px;color:var(--gray)}
+    .sch-type{font-size:12px;font-weight:800;padding:3px 9px;border-radius:999px;background:#E7F2F3;color:#015E66;white-space:nowrap}
+    .sch-list a.btn{padding:8px 14px;font-size:13px}
+    .sch-past{margin-top:14px;color:var(--gray);font-size:14px}
+    .sch-past summary{cursor:pointer;font-weight:800}
+    .gallery{padding:64px 0;background:var(--light);border-top:1px solid var(--line)}
+    .gal-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;margin-top:18px}
+    .gal-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+    .gal-grid img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block;background:var(--light)}
+    .gal-grid figcaption{padding:8px 12px;font-size:13px;color:var(--gray)}
+    .tcard .t-note{font-size:12px;color:var(--gray);line-height:1.5;margin-top:4px}
+    .footer-legal{margin-top:18px;padding-top:14px;border-top:1px solid rgba(255,255,255,.14);font-size:13px;color:#8fa1b8;display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
+    .footer-legal a{color:#c9d5e3;text-decoration:none;font-weight:700}
+    .footer-legal a:hover{color:#fff;text-decoration:underline}
+    .apply-privacy{font-size:12px;color:var(--gray);margin-top:10px;line-height:1.6}
+    @media(max-width:640px){.sch-list li{grid-template-columns:1fr;gap:6px}.clients,.schedule,.gallery{padding:44px 0}}
     /* 질문창 — 홈페이지 안 정보로 답하고, 외부 AI 검색으로 넘긴다 */
     .ask-fab{position:fixed;right:18px;bottom:18px;z-index:60;display:inline-flex;align-items:center;gap:8px;padding:14px 18px;border-radius:999px;background:linear-gradient(135deg,#017A84,#0AA2AE);color:#fff;font-weight:900;font-size:15px;border:0;cursor:pointer;box-shadow:0 12px 28px rgba(1,122,132,.4);animation:bridgeGlow 2.4s ease-in-out infinite}
     .ask-fab:hover{transform:translateY(-2px)}
@@ -265,6 +297,7 @@
 </style>
 </head>
 <body>
+  <a class="skip" href="#main">본문으로 건너뛰기</a>
   <header class="topbar">
     <div class="container nav">
       <a class="logo" href="#top">AI융합교육전문가 <span>윤성임</span></a>
@@ -273,7 +306,9 @@
         <a href="#courses">강의주제</a>
         <a href="#apply">강의신청</a>
         <a href="#process">교육방식</a>
+        <a href="#schedule" hidden>교육일정</a>
         <a href="#team">강사진</a>
+        <a href="#gallery" hidden>갤러리</a>
         <a href="#books">저서</a>
         <a href="#news">칼럼·뉴스</a>
         <a href="#ainews">AI 소식</a>
@@ -284,7 +319,7 @@
   </header>
 
   <main id="top">
-    <section class="hero">
+    <section class="hero" id="main">
       <div class="container hero-grid">
         <div>
           <div class="badge">AI · DX · 마케팅 실전 교육 전문가</div>
@@ -302,7 +337,7 @@
           </div>
         </div>
         <div class="profile-card">
-          <img src="profile-yun-sung-im.jpg" alt="AI융합교육전문가 윤성임 강사 YUN SUNG IM 프로필 사진" loading="lazy" />
+          <img src="profile-yun-sung-im.jpg" alt="AI융합교육전문가 윤성임 강사 YUN SUNG IM 프로필 사진" fetchpriority="high" width="874" height="912" />
           <div class="profile-caption">
             <div class="mini">🎓 기술창업학 박사</div>
             <div class="mini">🏢 소셜앤비즈 대표</div>
@@ -393,6 +428,34 @@
       </div>
     </section>
 
+    <section id="clients" class="clients">
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">CLIENTS</div>
+          <h2>주요 출강 기관</h2>
+          <p>공공기관·기업·대학·농업 현장에서 실습 중심으로 강의해 왔습니다. (일부)</p>
+        </div>
+        <div class="client-grid">
+          <div><h3>공공·지자체</h3><p>경찰청 · 법무연수원 · 전라남도교육청 · KOTRA · 중소벤처기업진흥공단</p></div>
+          <div><h3>기업·공기업</h3><p>LG그룹 · 현대글로비스 · 기아자동차 · 하나은행 · 한국서부발전</p></div>
+          <div><h3>대학·교육</h3><p>건양사이버대학교 · 동국대학교 · 농협대학교 · 상명대학교 · 계명대학교 · 한성대학교</p></div>
+          <div><h3>농업·지역</h3><p>농촌진흥청 · 국립식량과학원 · 강원도농업기술원 · 전국 농업기술센터</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="schedule" class="schedule" hidden>
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">SCHEDULE</div>
+          <h2>교육일정</h2>
+          <p>신청할 수 있는 공개 강의·세미나와 진행 예정 교육입니다.</p>
+        </div>
+        <ul class="sch-list" id="schList"></ul>
+        <details class="sch-past" id="schPast" hidden><summary>지난 일정 보기</summary><ul class="sch-list" id="schPastList"></ul></details>
+      </div>
+    </section>
+
     <section id="team" class="team">
       <div class="container">
         <div class="section-title">
@@ -401,6 +464,17 @@
           <p>소셜앤비즈와 함께 강의하는 전문가들입니다. 기관의 목표와 교육 대상에 맞춰 강사진을 구성합니다.</p>
         </div>
         <div class="team-grid" id="teamGrid"></div>
+      </div>
+    </section>
+
+    <section id="gallery" class="gallery" hidden>
+      <div class="container">
+        <div class="section-title">
+          <div class="eyebrow">ON SITE</div>
+          <h2>교육 현장</h2>
+          <p>강의 현장의 모습입니다. 기관명과 일자만 적고, 참여자 얼굴은 동의 없이 싣지 않습니다.</p>
+        </div>
+        <div class="gal-grid" id="galGrid"></div>
       </div>
     </section>
 
@@ -515,6 +589,7 @@
           </ol>
           <a class="btn btn-gold apply-btn" href="https://forms.gle/zseFvFP8LaFWBUG29" target="_blank" rel="noopener">출강 요청서 작성하기</a>
           <p class="apply-note">새 창에서 열립니다. 전화나 이메일로 바로 문의하셔도 됩니다.</p>
+          <p class="apply-privacy">문의 시 받는 기관명·담당자·연락처·문의 내용은 강의 제안과 연락에만 쓰고, 처리 후 1년 안에 지웁니다. 양식은 구글 폼으로 받습니다. 자세한 내용은 <a href="privacy.html">개인정보처리방침</a>을 보세요.</p>
         </div>
       </div>
     </section>
@@ -539,6 +614,13 @@
       <div><strong style="color:#fff">AI융합교육전문가 윤성임 강사</strong><br/>AI를 이해에서 실행으로, 개인과 조직의 성장으로 연결합니다.</div>
       <div>📞 <a href="tel:01027775004">010-2777-5004</a><br/>✉️ <a href="mailto:aceyun88@naver.com">aceyun88@naver.com</a><br/>📍 경기 성남시 분당구 황새울로 200번길 36 동부루트빌딩 1015호</div>
     </div>
+    <div class="container footer-legal">
+      <span>ⓒ 2026 소셜앤비즈 · 대표 윤성임 · All rights reserved.</span>
+      <a href="privacy.html">개인정보처리방침</a>
+      <a href="terms.html">이용약관</a>
+      <a href="email-policy.html">이메일무단수집거부</a>
+      <a href="https://snb-k-bridge.netlify.app/sitemap" target="_blank" rel="noopener">K브릿지 사이트맵</a>
+    </div>
   </footer>
 
   <div class="floating">
@@ -555,6 +637,36 @@
       .catch(() => fetch(name + '?v=' + Date.now()).then(r => r.json()));
   }
   window.SNB_DATA = {};
+  </script>
+  <script>
+  /* 교육일정·교육 현장 — 자료가 있을 때만 구역과 메뉴가 나타난다 (schedule.json · gallery.json) */
+  (function(){
+    const esc = t => String(t ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    const show = id => { const sec = document.getElementById(id); if(sec) sec.hidden = false; const nav = document.querySelector(`nav a[href="#${id}"]`); if(nav) nav.hidden = false; };
+    const today = new Date().toISOString().slice(0,10);
+    loadData('schedule.json').then(d => {
+      const items = (d.items || []).filter(x => x.date && !String(x.title||'').startsWith('[')).sort((a,b) => a.date < b.date ? -1 : 1);
+      if(!items.length) return;
+      const row = x => `<li><span class="sch-date">${esc(x.date)}${x.time ? ' ' + esc(x.time) : ''}</span>
+        <span><span class="sch-title">${esc(x.title)}</span><br><span class="sch-meta">${esc([x.org, x.place].filter(Boolean).join(' · '))}</span></span>
+        <span>${x.type ? `<span class="sch-type">${esc(x.type)}</span> ` : ''}${x.link ? `<a class="btn btn-gold" href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.linkLabel || '안내·신청')}</a>` : ''}</span></li>`;
+      const up = items.filter(x => x.date >= today), past = items.filter(x => x.date < today).reverse();
+      document.getElementById('schList').innerHTML = up.map(row).join('') || '<li><span class="sch-meta" style="grid-column:1/-1">지금 신청할 수 있는 공개 일정이 없습니다. 기관 맞춤 교육은 언제든 문의해 주세요.</span></li>';
+      if(past.length){ document.getElementById('schPastList').innerHTML = past.slice(0,12).map(row).join(''); document.getElementById('schPast').hidden = false; }
+      show('schedule');
+    }).catch(() => {});
+    loadData('gallery.json').then(d => {
+      const items = (d.items || []).filter(x => x.src && !String(x.src).startsWith('['));
+      if(!items.length) return;
+      document.getElementById('galGrid').innerHTML = items.map(x => {
+        const src = /^https?:/.test(x.src) ? x.src : RAW + x.src;
+        const local = /^https?:/.test(x.src) ? '' : x.src;
+        return `<figure><a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(x.caption || x.org || '교육 현장')}" loading="lazy" width="800" height="600"${local ? ` onerror="this.onerror=null;this.src='${esc(local)}'"` : ''}></a>
+          <figcaption>${esc([x.org, x.date].filter(Boolean).join(' · '))}${x.caption ? `<br>${esc(x.caption)}` : ''}</figcaption></figure>`;
+      }).join('');
+      show('gallery');
+    }).catch(() => {});
+  })();
   </script>
   <script>
   /* 강사진 — instructors.json을 읽어 같은 크기 카드로. 사진은 저장소(raw)에서 먼저, 없으면 사이트 안 파일로 */
@@ -575,6 +687,7 @@
           <div class="t-name">${esc(p.name)}${p.title ? `<small>${esc(p.title)}</small>` : ''}</div>
           <ul class="t-aff">${(p.affiliations || []).slice(0,3).map(a => `<li>${esc(a)}</li>`).join('')}</ul>
           <div class="t-fields">${(p.fields || []).slice(0,5).map(f => `<span>${esc(f)}</span>`).join('')}</div>
+          ${p.note ? `<div class="t-note">${esc(p.note)}</div>` : ''}
           ${p.link ? `<a class="t-more" href="${esc(p.link)}" target="_blank" rel="noopener">소개 더 보기 ›</a>` : ''}
         </div></article>`;
       }).join('') || '<p class="news-empty">강사진을 준비 중입니다.</p>';
