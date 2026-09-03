@@ -1,4 +1,4 @@
-# 매일 아침 저서 목록을, 매주 월요일 아침 칼럼·기사·AI 소식·기사 속 기관명을 수집해 저장소에 갱신한다. 홈페이지는 이 파일들을 GitHub에서 직접 읽으므로 배포가 필요 없다
+# 매주 월요일 아침 칼럼·기사·AI 소식·기사 속 기관명을, 매달 1일 아침 저서 목록을 수집해 저장소에 갱신한다 (워크플로는 매일 돌며 날짜를 보고 건너뛴다). 홈페이지는 이 파일들을 GitHub에서 직접 읽으므로 배포가 필요 없다
 name: collect-daily
 
 on:
@@ -17,16 +17,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: 월요일인지 확인
+      - name: 월요일·매달 1일인지 확인
         id: day
-        run: echo "monday=$([ "$(TZ=Asia/Seoul date +%u)" = "1" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
+        run: |
+          echo "monday=$([ "$(TZ=Asia/Seoul date +%u)" = "1" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
+          echo "first=$([ "$(TZ=Asia/Seoul date +%d)" = "01" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
       - name: 칼럼·뉴스 (매주 월요일, 수동 실행 시에도)
         if: steps.day.outputs.monday == 'yes' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch-news.py || echo "news failed"
       - name: AI 소식 (매주 월요일, 수동 실행 시에도)
         if: steps.day.outputs.monday == 'yes' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch-ai-news.py || echo "ai-news failed"
-      - name: 저서
+      - name: 저서 (매달 1일, 수동 실행 시에도)
+        if: steps.day.outputs.first == 'yes' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch-books.py || echo "books failed"
       - name: 기사 속 기관명 (매주 월요일)
         if: steps.day.outputs.monday == 'yes' || github.event_name == 'workflow_dispatch'
