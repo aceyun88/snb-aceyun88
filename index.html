@@ -149,6 +149,38 @@
 @keyframes bridgeDot{0%{box-shadow:0 0 0 0 rgba(244,197,66,.75)}100%{box-shadow:0 0 0 11px rgba(244,197,66,0)}}
 @media(prefers-reduced-motion:reduce){.nav-bridge,.nav-bridge::before{animation:none}}
 @media(max-width:920px){.nav-links{display:flex!important;gap:0}.nav-links a:not(.nav-bridge){display:none}.nav-bridge{font-size:13px;padding:6px 11px;white-space:nowrap}.logo~.btn-primary{white-space:nowrap;padding:10px 14px;font-size:14px}.logo{font-size:17px}}
+
+    /* 칼럼·뉴스 게시판 — news.json(수집 스크립트 결과)을 읽어 최신순으로 보여준다 */
+    .news{padding:72px 0;background:#fff}
+    .news-head{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:12px;margin-bottom:18px}
+    .news-head h2{font-size:30px;line-height:1.25;color:var(--navy);letter-spacing:-.05em;margin:0}
+    .news-head p{margin:6px 0 0;color:var(--gray);font-size:15px}
+    .news-tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+    .news-search{flex:1 1 220px;min-width:180px;height:44px;border:1px solid var(--line);border-radius:999px;padding:0 16px;font:inherit;font-size:15px;color:var(--text)}
+    .news-search:focus{outline:3px solid #F4C542;outline-offset:1px;border-color:var(--navy)}
+    .news-chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 18px}
+    .news-chip{border:1px solid var(--line);background:var(--light);color:var(--navy);font-weight:800;font-size:13px;border-radius:999px;padding:8px 14px;min-height:36px;cursor:pointer;font-family:inherit;position:relative;overflow:hidden;transition:transform .18s ease,box-shadow .18s ease}
+    .news-chip:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(6,27,58,.14)}
+    .news-chip.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+    .news-chip .n{opacity:.7;font-weight:700;margin-left:4px}
+    .news-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--navy)}
+    .news-list li{border-bottom:1px solid var(--line)}
+    .news-list a{display:grid;grid-template-columns:96px 1fr auto;gap:14px;align-items:center;padding:14px 8px;min-height:56px;transition:background .15s}
+    .news-list a:hover{background:var(--light)}
+    .news-date{font-size:13px;color:var(--gray);font-variant-numeric:tabular-nums}
+    .news-title{font-size:16px;font-weight:700;color:var(--text);line-height:1.45;word-break:keep-all}
+    .news-title .tag{display:inline-block;font-size:12px;font-weight:900;color:#01545b;background:#e7f2f3;border-radius:6px;padding:2px 8px;margin-right:8px;vertical-align:2px;white-space:nowrap}
+    .news-title .tag.t2{color:#8a6414;background:#fdf3e0}
+    .news-title .tag.t3{color:#5b2b6b;background:#f3e8f6}
+    .news-title .tag.t4{color:#1b4a79;background:#e6eaef}
+    .news-src{font-size:12px;color:var(--gray);white-space:nowrap}
+    .news-more{display:flex;justify-content:center;margin-top:18px}
+    .news-empty{padding:26px;text-align:center;color:var(--gray)}
+    @media(max-width:640px){
+      .news{padding:52px 0}
+      .news-list a{grid-template-columns:1fr;gap:6px;padding:14px 4px}
+      .news-src{order:-1}
+    }
 </style>
 </head>
 <body>
@@ -159,6 +191,7 @@
         <a href="#expertise">전문분야</a>
         <a href="#courses">강의주제</a>
         <a class="nav-bridge" href="https://snb-k-bridge.netlify.app/" target="_blank" rel="noopener" title="K브릿지 학습 플랫폼 — 새 창에서 열립니다">AI-K(지식) 브릿지</a>
+        <a href="#news">칼럼·뉴스</a>
         <a href="#process">교육방식</a>
         <a href="#apply">강의신청</a>
       </nav>
@@ -317,6 +350,25 @@
       </div>
     </section>
 
+    <section id="news" class="news">
+      <div class="container">
+        <div class="news-head">
+          <div>
+            <div class="pp-tag">COLUMN · NEWS</div>
+            <h2>칼럼·뉴스</h2>
+            <p>파이낸스투데이 「윤성임 소셜비즈테크」·「AI 리터러시」 칼럼, 소상공인뉴스 「AI융합비즈마케팅」 칼럼과 현장 인터뷰, 소셜앤비즈 관련 기사를 최신순으로 모았습니다. 제목을 누르면 원문이 새 창으로 열립니다.</p>
+          </div>
+          <div class="news-tools">
+            <input class="news-search" id="newsSearch" type="search" placeholder="제목으로 찾기 — 예: 프롬프트, 소상공인" aria-label="칼럼·뉴스 제목 검색">
+          </div>
+        </div>
+        <div class="news-chips" id="newsChips" role="tablist" aria-label="칼럼·뉴스 분류"></div>
+        <ul class="news-list" id="newsList"></ul>
+        <div class="news-more"><button class="btn btn-outline" id="newsMore" type="button">더 보기</button></div>
+        <p class="pp-note" id="newsUpdated" style="text-align:right;margin-top:10px"></p>
+      </div>
+    </section>
+
     <section id="apply" class="cta">
       <div class="container">
         <h2>우리 조직에 맞는 AI 교육이 필요하신가요?</h2>
@@ -355,5 +407,42 @@
     <a class="btn btn-primary" href="tel:01027775004">전화문의</a>
   </div>
 
+
+  <script>
+  /* 칼럼·뉴스 게시판 — news.json을 읽어 분류 칩·검색·더 보기로 보여준다 */
+  (function(){
+    const $ = id => document.getElementById(id);
+    const list = $('newsList'), chips = $('newsChips'), more = $('newsMore'), search = $('newsSearch'), upd = $('newsUpdated');
+    if(!list) return;
+    const PAGE = 15; let items = [], filter = '전체', q = '', shown = PAGE;
+    const tagClass = s => s.includes('소셜비즈테크') ? '' : s.includes('리터러시') ? 't2' : s.includes('인터뷰') ? 't3' : 't4';
+    const esc = t => t.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    function filtered(){
+      return items.filter(it => (filter === '전체' || it.series === filter || it.source === filter) && (!q || it.title.toLowerCase().includes(q)));
+    }
+    function render(){
+      const rows = filtered();
+      list.innerHTML = rows.slice(0, shown).map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener">
+        <span class="news-date">${esc(it.date)}</span>
+        <span class="news-title"><span class="tag ${tagClass(it.series)}">${esc(it.series)}</span>${esc(it.title.replace(/^\[[^\]]+\]\s*/, ''))}</span>
+        <span class="news-src">${esc(it.source)} ↗</span></a></li>`).join('') || '<li class="news-empty">찾는 글이 없습니다.</li>';
+      more.style.display = rows.length > shown ? '' : 'none';
+      more.textContent = `더 보기 (${Math.min(shown, rows.length)} / ${rows.length})`;
+    }
+    function buildChips(){
+      const count = {};
+      items.forEach(it => { count[it.series] = (count[it.series] || 0) + 1; });
+      const names = ['전체', ...Object.keys(count).sort((a, b) => count[b] - count[a]), '파이낸스투데이', '소상공인뉴스'];
+      chips.innerHTML = names.map(n => `<button type="button" class="news-chip${n === filter ? ' on' : ''}" data-f="${esc(n)}">${esc(n)}<span class="n">${n === '전체' ? items.length : (count[n] || items.filter(i => i.source === n).length)}</span></button>`).join('');
+      chips.querySelectorAll('.news-chip').forEach(b => b.onclick = () => { filter = b.dataset.f; shown = PAGE; buildChips(); render(); });
+    }
+    more.onclick = () => { shown += PAGE; render(); };
+    search.oninput = () => { q = search.value.trim().toLowerCase(); shown = PAGE; render(); };
+    fetch('news.json?v=' + Date.now()).then(r => r.json()).then(d => {
+      items = d.items || []; upd.textContent = `목록 갱신 ${d.updated || ''} · ${items.length}건`;
+      buildChips(); render();
+    }).catch(() => { list.innerHTML = '<li class="news-empty">목록을 불러오지 못했습니다. 잠시 뒤 다시 열어 주십시오.</li>'; more.style.display = 'none'; });
+  })();
+  </script>
 </body>
 </html>
