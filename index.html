@@ -266,6 +266,14 @@
     .gal-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
     .gal-grid img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block;background:var(--light)}
     .gal-grid figcaption{padding:8px 12px;font-size:13px;color:var(--gray)}
+    .client-wall{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+    .client-wall a{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13px;font-weight:800;color:var(--navy);text-decoration:none}
+    .client-wall a img{height:22px;width:auto;max-width:90px;object-fit:contain}
+    .client-wall a small{font-weight:700;color:var(--gray)}
+    .press-title{margin:34px 0 0;font-size:18px;color:var(--navy)}
+    .press-title small{font-size:12px;color:var(--gray);font-weight:700;margin-left:8px}
+    .press-grid a{display:block;color:inherit;text-decoration:none}
+    .press-grid figcaption b{display:block;color:var(--text);font-size:14px;line-height:1.45;margin-bottom:3px;word-break:keep-all;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
     .tcard .t-note{font-size:12px;color:var(--gray);line-height:1.5;margin-top:4px}
     .footer-legal{margin-top:18px;padding-top:14px;border-top:1px solid rgba(255,255,255,.14);font-size:13px;color:#8fa1b8;display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center}
     .footer-legal a{color:#c9d5e3;text-decoration:none;font-weight:700}
@@ -441,6 +449,10 @@
           <div><h3>대학·교육</h3><p>건양사이버대학교 · 동국대학교 · 농협대학교 · 상명대학교 · 계명대학교 · 한성대학교</p></div>
           <div><h3>농업·지역</h3><p>농촌진흥청 · 국립식량과학원 · 강원도농업기술원 · 전국 농업기술센터</p></div>
         </div>
+        <div id="clientWall" hidden>
+          <h3 class="press-title">기사에 등장한 기관 <small>파이낸스투데이 기사 본문에서 자동 추출</small></h3>
+          <div class="client-wall" id="clientList"></div>
+        </div>
       </div>
     </section>
 
@@ -472,9 +484,14 @@
         <div class="section-title">
           <div class="eyebrow">ON SITE</div>
           <h2>교육 현장</h2>
-          <p>강의 현장의 모습입니다. 기관명과 일자만 적고, 참여자 얼굴은 동의 없이 싣지 않습니다.</p>
+          <p>강의·행사 현장의 모습입니다. 행사 공식 사진과 기사에 실린 사진만 싣습니다.</p>
         </div>
         <div class="gal-grid" id="galGrid"></div>
+        <div id="pressWrap" hidden>
+          <h3 class="press-title">기사로 보는 교육 현장 <small>파이낸스투데이</small></h3>
+          <div class="gal-grid press-grid" id="pressGrid"></div>
+          <div class="news-more"><button class="btn btn-outline" id="pressMore" type="button">기사 사진 더 보기</button></div>
+        </div>
       </div>
     </section>
 
@@ -655,13 +672,37 @@
       if(past.length){ document.getElementById('schPastList').innerHTML = past.slice(0,12).map(row).join(''); document.getElementById('schPast').hidden = false; }
       show('schedule');
     }).catch(() => {});
+    loadData('clients.json').then(d => {
+      const items = (d.items || []).filter(x => x.show && x.name && !String(x.name).startsWith('['));
+      if(!items.length) return;
+      document.getElementById('clientList').innerHTML = items.map(x => {
+        const logo = x.logo ? (/^https?:/.test(x.logo) ? x.logo : RAW + x.logo) : '';
+        return `<a href="${esc((x.articles || [])[0] || '#news')}" target="_blank" rel="noopener" title="기사 보기">${logo ? `<img src="${esc(logo)}" alt="" onerror="this.remove()">` : ''}${esc(x.name)}${x.count > 1 ? `<small>${x.count}</small>` : ''}</a>`;
+      }).join('');
+      document.getElementById('clientWall').hidden = false;
+    }).catch(() => {});
+    loadData('news.json').then(d => {
+      const items = (d.items || []).filter(x => x.image && /기사|인터뷰/.test(x.series || '')).sort((a,b) => a.date < b.date ? 1 : -1);
+      if(!items.length) return;
+      let shown = 8;
+      const grid = document.getElementById('pressGrid'), more = document.getElementById('pressMore');
+      const clean = t => String(t).replace(/^\[[^\]]*\]\s*/, '');
+      const render = () => {
+        grid.innerHTML = items.slice(0, shown).map(x => `<figure><a href="${esc(x.url)}" target="_blank" rel="noopener"><img src="${esc(x.image)}" alt="${esc(clean(x.title))}" loading="lazy" width="800" height="600"><figcaption><b>${esc(clean(x.title))}</b>${esc(x.date)} · ${esc(x.series || '기사')}</figcaption></a></figure>`).join('');
+        more.style.display = items.length > shown ? '' : 'none';
+      };
+      more.onclick = () => { shown += 8; render(); };
+      render();
+      document.getElementById('pressWrap').hidden = false;
+      show('gallery');
+    }).catch(() => {});
     loadData('gallery.json').then(d => {
       const items = (d.items || []).filter(x => x.src && !String(x.src).startsWith('['));
       if(!items.length) return;
       document.getElementById('galGrid').innerHTML = items.map(x => {
         const src = /^https?:/.test(x.src) ? x.src : RAW + x.src;
         const local = /^https?:/.test(x.src) ? '' : x.src;
-        return `<figure><a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(x.caption || x.org || '교육 현장')}" loading="lazy" width="800" height="600"${local ? ` onerror="this.onerror=null;this.src='${esc(local)}'"` : ''}></a>
+        return `<figure><a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(x.caption || x.org || '교육 현장')}" loading="lazy" width="800" height="600"${local ? ` onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${esc(local)}'}else{this.closest('figure').hidden=true}"` : ''}></a>
           <figcaption>${esc([x.org, x.date].filter(Boolean).join(' · '))}${x.caption ? `<br>${esc(x.caption)}` : ''}</figcaption></figure>`;
       }).join('');
       show('gallery');

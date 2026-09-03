@@ -1,9 +1,63 @@
 {
  "updated": "2026-09-03",
- "_안내": "교육 현장 사진 한 장 = 항목 하나. src가 [ 로 시작하면 견본. 사진은 gallery/ 폴더에 가로 4:3(예: 1200×900) JPG로, 참여자 얼굴은 동의 없이 싣지 않는다. 항목이 하나라도 있으면 '갤러리' 구역과 메뉴가 나타난다.",
+ "_안내": "교육 현장 사진 한 장 = 항목 하나. src가 [ 로 시작하면 견본. 사진은 gallery/ 폴더에 가로 4:3(예: 1200×900) JPG로, 참여자 얼굴은 동의 없이 싣지 않는다. 항목이 하나라도 있으면 '갤러리' 구역과 메뉴가 나타난다. 위 9개 항목은 박사님이 보내 주신 사진의 자리이며, 같은 파일 이름으로 gallery/ 폴더에 넣으면 바로 나타난다(없는 파일은 이미지가 비어 보이므로 넣기 전에는 src 앞에 [를 붙여 두는 편이 안전).",
  "items": [
   {
-   "src": "[gallery/2026-10-15-kotra.jpg]",
+   "src": "gallery/studio-online-lecture.jpg",
+   "org": "온라인 강의 촬영",
+   "date": "",
+   "caption": "스튜디오에서 진행한 온라인 강의 촬영"
+  },
+  {
+   "src": "gallery/seoul-foreign-students-ai-marketing.jpg",
+   "org": "서울특별시 · (사)기술벤처스타트업협회",
+   "date": "",
+   "caption": "외국인 유학생 AI 마케팅 역량강화 및 인턴십 연계과정"
+  },
+  {
+   "src": "gallery/ict-forum-generative-tech-4th.jpg",
+   "org": "(사)동북아공동체ICT포럼 · 한국디지털융합진흥원",
+   "date": "2025-06",
+   "caption": "제4기 초거대 AI활용 생성테크교육 수료"
+  },
+  {
+   "src": "gallery/chungbuk-village-enterprise-2021.jpg",
+   "org": "충청북도기업진흥원",
+   "date": "2021",
+   "caption": "마을기업 업종별 역량강화 프로그램(온라인 교육)"
+  },
+  {
+   "src": "gallery/chungju-chamber-ai-2025.jpg",
+   "org": "충주상공회의소 · 충주시",
+   "date": "2025-06-24",
+   "caption": "특강 「AI 모르면 바보가 되는 세상, 업무혁신의 비밀병기」 유네스코 국제무예센터"
+  },
+  {
+   "src": "gallery/cheonan-forestry-coop.jpg",
+   "org": "천안시산림조합 임산물종합유통센터",
+   "date": "",
+   "caption": "현장 방문·컨설팅"
+  },
+  {
+   "src": "gallery/rheumatism-ai-logosong-award.jpg",
+   "org": "대한류마티스학회",
+   "date": "",
+   "caption": "통풍의 날 「통풍」 AI 로고송 공모전 최우수상"
+  },
+  {
+   "src": "gallery/instagram-lecture-farmers.jpg",
+   "org": "농업인·지역 교육",
+   "date": "",
+   "caption": "인스타그램 마케팅 강의"
+  },
+  {
+   "src": "gallery/lecture-hall-ai-marketing.jpg",
+   "org": "기관 교육",
+   "date": "",
+   "caption": "AI 마케팅 강의 현장"
+  },
+  {
+   "src": "[gallery/파일이름.jpg]",
    "org": "[기관명]",
    "date": "[2026-10-15]",
    "caption": "[한 줄 설명]"

@@ -1,0 +1,1191 @@
+{
+ "updated": "2026-09-03",
+ "_안내": "기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다.",
+ "items": [
+  {
+   "name": "건양사이버대학교",
+   "count": 67,
+   "latest": "2026-08-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391287",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391179"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국인공지능데이터과학협회",
+   "count": 42,
+   "latest": "2026-07-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389211",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386849"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "국립목포대학교",
+   "count": 30,
+   "latest": "2026-07-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389211",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386849"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "기술벤처스타트업협회",
+   "count": 29,
+   "latest": "2026-07-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389211",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국AI영상제작협회",
+   "count": 20,
+   "latest": "2026-07-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389211",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=383827"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "동국대학교",
+   "count": 19,
+   "latest": "2026-06-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386849",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386815"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "디지털융합교육원",
+   "count": 13,
+   "latest": "2025-12-15",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371766",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371762"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "강원도농업기술원",
+   "count": 11,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "AI크리에이팅연구소",
+   "count": 11,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386394",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "농촌진흥청",
+   "count": 9,
+   "latest": "2026-06-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385583",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "농협대학교",
+   "count": 8,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "국립식량과학원",
+   "count": 8,
+   "latest": "2026-06-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385583",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "성균관대학교",
+   "count": 7,
+   "latest": "2026-08-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391141",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389415"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "천안도시공사",
+   "count": 6,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "이천시농업기술센터",
+   "count": 6,
+   "latest": "2026-06-09",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385968",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=365294"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "파워독서학원",
+   "count": 5,
+   "latest": "2026-08-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391163"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국가스공사",
+   "count": 5,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국가스안전공사",
+   "count": 5,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국혁신경영협회",
+   "count": 5,
+   "latest": "2025-01-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=344095",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=341779"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "대림대학교",
+   "count": 4,
+   "latest": "2026-06-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386553",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "청송군농업기술센터",
+   "count": 4,
+   "latest": "2026-06-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385583",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "안산상공회의소",
+   "count": 4,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국지역난방공사",
+   "count": 3,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386390",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369967"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "군위농업기술센터",
+   "count": 3,
+   "latest": "2026-06-02",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385444",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375379"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "장흥군청",
+   "count": 3,
+   "latest": "2026-01-21",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375379"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "전남여수산학융합원",
+   "count": 3,
+   "latest": "2026-01-20",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375309"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "전라남도강진교육지원청",
+   "count": 3,
+   "latest": "2025-12-15",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371766"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "경기도귀농귀촌지원센터",
+   "count": 3,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371762"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한컨설팅그룹",
+   "count": 3,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371756"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "영덕문화관광재단",
+   "count": 3,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371752"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "창원상공회의소",
+   "count": 3,
+   "latest": "2025-11-23",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369581",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "세계브레인암산협회",
+   "count": 2,
+   "latest": "2026-08-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390099"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "동원그룹",
+   "count": 2,
+   "latest": "2025-11-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369967"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "영덕군농업기술센터",
+   "count": 2,
+   "latest": "2025-11-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369967",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369823"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국교통대학교",
+   "count": 2,
+   "latest": "2025-11-23",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369581"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "인천상공회의소",
+   "count": 2,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364275"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국힐링교육센터",
+   "count": 2,
+   "latest": "2025-09-22",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364275"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "보험연수원",
+   "count": 2,
+   "latest": "2025-09-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=363805"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "국제디지털콘텐츠협회",
+   "count": 2,
+   "latest": "2025-06-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=355683"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "대한류마티스학회",
+   "count": 2,
+   "latest": "2025-03-22",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=347853"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "한국경영혁신협회",
+   "count": 2,
+   "latest": "2025-01-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=344095"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "도전왕AI연구소",
+   "count": 1,
+   "latest": "2026-08-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=391179"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "보스턴컨설팅그룹",
+   "count": 1,
+   "latest": "2026-08-15",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390650"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "오브레인업영진쌤주산학원",
+   "count": 1,
+   "latest": "2026-08-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390099"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "대전주산학원",
+   "count": 1,
+   "latest": "2026-08-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390099"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "대전주산암산학원",
+   "count": 1,
+   "latest": "2026-08-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=390099"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국AI융합연구소",
+   "count": 1,
+   "latest": "2026-07-30",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389263"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "신입사원",
+   "count": 1,
+   "latest": "2026-07-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=389211"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "조합원대학",
+   "count": 1,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386442"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "서울특별시",
+   "count": 1,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386394"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "대전교통공사",
+   "count": 1,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386390"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "경찰청",
+   "count": 1,
+   "latest": "2026-06-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386390"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "상품군",
+   "count": 1,
+   "latest": "2026-06-14",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=386203"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "필요시",
+   "count": 1,
+   "latest": "2026-06-09",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385950"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "농업인대학",
+   "count": 1,
+   "latest": "2026-06-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "카파시",
+   "count": 1,
+   "latest": "2026-05-06",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=383827"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "갤럭시",
+   "count": 1,
+   "latest": "2026-05-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=383644"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "고려대학교",
+   "count": 1,
+   "latest": "2026-05-01",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=383549"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "창업대학원",
+   "count": 1,
+   "latest": "2026-05-01",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=383549"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "4차산업혁명연구원",
+   "count": 1,
+   "latest": "2026-04-22",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=382844"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "디지틸융합교육원",
+   "count": 1,
+   "latest": "2026-04-22",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=382844"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "자문위원",
+   "count": 1,
+   "latest": "2026-04-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=382643"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "구매처",
+   "count": 1,
+   "latest": "2026-03-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=379444"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "AI수석연구원",
+   "count": 1,
+   "latest": "2026-02-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=378576"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "농협주부대학",
+   "count": 1,
+   "latest": "2026-02-02",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=376302"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "융합연구소",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "인재개발원",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국농어촌공사",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국도로공사",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "근로복지공단",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "송파구청",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "보령시",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "신안군",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "전주문화재단",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "좋은예감미디어연구소",
+   "count": 1,
+   "latest": "2026-01-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375720"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "여성인력개발센터",
+   "count": 1,
+   "latest": "2026-01-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375657"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국소상공인마케팅협회",
+   "count": 1,
+   "latest": "2026-01-24",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375657"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "공무원",
+   "count": 1,
+   "latest": "2026-01-21",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375379"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "장흥군",
+   "count": 1,
+   "latest": "2026-01-21",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375379"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "요양원",
+   "count": 1,
+   "latest": "2026-01-19",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=375219"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "상공회의소",
+   "count": 1,
+   "latest": "2025-12-29",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=373133"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "강진교육지원청",
+   "count": 1,
+   "latest": "2025-12-15",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371766"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "광주시",
+   "count": 1,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371762"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "경기도농수산진흥원",
+   "count": 1,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371762"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "산림조합",
+   "count": 1,
+   "latest": "2025-12-13",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371752"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "강원특별자치도농업기술원",
+   "count": 1,
+   "latest": "2025-12-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371351"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국IT전문가협회",
+   "count": 1,
+   "latest": "2025-12-07",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371057"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국정보통신공사협회",
+   "count": 1,
+   "latest": "2025-12-07",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=371057"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "경기도서관",
+   "count": 1,
+   "latest": "2025-11-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=370164"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "LG그룹",
+   "count": 1,
+   "latest": "2025-11-26",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369967"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "창업보육센터",
+   "count": 1,
+   "latest": "2025-11-23",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369581"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "후반부",
+   "count": 1,
+   "latest": "2025-11-23",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=369581"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "이천농부들의이야기정원",
+   "count": 1,
+   "latest": "2025-10-10",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=365294"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "국제융합인재교육평가원",
+   "count": 1,
+   "latest": "2025-10-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=365156"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "청소년AI리터러시",
+   "count": 1,
+   "latest": "2025-10-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=365156"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "경영지원",
+   "count": 1,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "충주상공회의소",
+   "count": 1,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "경기정보산업협회",
+   "count": 1,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "성남산업진흥원",
+   "count": 1,
+   "latest": "2025-09-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "AI연구원",
+   "count": 1,
+   "latest": "2025-09-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=363805"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국AI영화제작협회",
+   "count": 1,
+   "latest": "2025-09-17",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=363805"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "지역아동센터",
+   "count": 1,
+   "latest": "2025-09-05",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=362650"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "이천시",
+   "count": 1,
+   "latest": "2025-09-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "홍성군농업기술센터",
+   "count": 1,
+   "latest": "2025-09-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "충남평생교육인재육성진흥원",
+   "count": 1,
+   "latest": "2025-09-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "세바시",
+   "count": 1,
+   "latest": "2025-08-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=359295"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "3차원",
+   "count": 1,
+   "latest": "2025-08-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=359295"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "판매원",
+   "count": 1,
+   "latest": "2025-08-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=359295"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "은행원",
+   "count": 1,
+   "latest": "2025-08-03",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=359295"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "에셀원격평생교육원",
+   "count": 1,
+   "latest": "2025-06-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=355683"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "동해시청",
+   "count": 1,
+   "latest": "2025-03-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=346512"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "캐릭터디자이너협회",
+   "count": 1,
+   "latest": "2025-03-04",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=346475"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "교육부",
+   "count": 1,
+   "latest": "2025-02-19",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=345616"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "프라이버시",
+   "count": 1,
+   "latest": "2024-11-18",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=339144"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "한국AI마케팅연구소",
+   "count": 1,
+   "latest": "2024-10-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=337630"
+   ],
+   "logo": "",
+   "show": false
+  },
+  {
+   "name": "황순원",
+   "count": 1,
+   "latest": "2024-10-28",
+   "articles": [
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=337630"
+   ],
+   "logo": "",
+   "show": false
+  }
+ ]
+}

@@ -13,6 +13,15 @@ def unesc(s):
     return html.unescape(re.sub(r'\s+', ' ', s)).strip()
 
 items = {}
+OUT = os.path.join(ROOT, 'news.json')
+# 기존 자료를 먼저 싣는다 — 어느 매체 수집이 실패해도 목록이 줄지 않는다
+if os.path.exists(OUT):
+    try:
+        for it in json.load(io.open(OUT, encoding='utf-8')).get('items', []):
+            if it.get('url'): items[it['url']] = it
+        print('기존', len(items), '건', file=sys.stderr)
+    except Exception as e:
+        print('기존 파일 읽기 실패', e, file=sys.stderr)
 
 def add(url, title, date, source, series):
     key = url
@@ -95,6 +104,25 @@ for url in [f'{SB}/news_gisa/gisa_list.htm?gisa_category=02000000&page={p}' for 
 
 out = sorted(items.values(), key=lambda x: x['date'], reverse=True)
 path = os.path.join(ROOT, 'news.json')
+# ── 파이낸스투데이 기사 대표 사진 (저작권 사용 허락 받음) — 아직 사진이 없는 기사만, 한 번에 80건까지
+def article_image(url):
+    try:
+        h = get(url)
+    except Exception:
+        return None
+    m = re.search(r'<img[^>]+src="(https?://cdn\.fntoday\.co\.kr/news/photo/20\d{4}/[^"]+)"', h)
+    if m: return m.group(1)
+    m = re.search(r'property="og:image"\s+content="([^"]+)"', h) or re.search(r'content="([^"]+)"\s+property="og:image"', h)
+    return m.group(1) if m else None
+
+done = 0
+for it in out:
+    if it.get('source') == '파이낸스투데이' and 'image' not in it and done < 80:
+        img = article_image(it['url'])
+        it['image'] = img or ''
+        done += 1
+if done: print('기사 사진', done, '건 확인', file=sys.stderr)
+
 io.open(path, 'w', encoding='utf-8').write(json.dumps({'updated': __import__('datetime').date.today().isoformat(), 'items': out}, ensure_ascii=False, indent=1))
 print(len(out), 'items →', os.path.abspath(path))
 for it in out[:8]:
