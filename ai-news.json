@@ -4,7 +4,7 @@
   {
    "date": "2026-09-03",
    "title": "앤트로픽 '클로드 페이블 5.1' 공개...첫 응답에 4분 넘어",
-   "count": 39,
+   "count": 38,
    "items": [
     {
      "platform": "앤트로픽 · 클로드",
@@ -12,13 +12,6 @@
      "source": "디일렉",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBid1dZd3hFOENUajN6SFFKaGlKTGxZWXlKMlVQanZXaFpfa1pkdWRrNHRwc1dvM24ycTdDWTI3cHFsY3k2Q2thZDlFYTJyYUlleDIxOXBQRUlzaVZLbHRjWUFfS1lCZw?oc=5",
      "at": "2026-09-02 23:20"
-    },
-    {
-     "platform": "구글 · 제미나이",
-     "title": "구글, 역대 최고 수준의 추론 및 코딩 모델 ‘제미나이 3.8 플래시’ 공개…‘제미나이 3.8 플래시 사이버’도 출시",
-     "source": "인공지능신문",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESFdjeGlXWHZhQXdWS0tSZTQ5SzVUNGZmUGV5MjkzazFVVTZxbVBFVlZsaEtYTm9VNGRMU1hEWFBwY1NuV0xuTXNBOVJ3a0kxVXM2bmtCY0tCaV8xbXpVdk9KbGMwbG8?oc=5",
-     "at": "2026-09-03 09:25"
     },
     {
      "platform": "구글 · 제미나이",
@@ -57,13 +50,6 @@
     },
     {
      "platform": "이미지·영상 생성",
-     "title": "옐로우박스, AI 콘텐츠 제작 플랫폼 '클로 AI' 출시",
-     "source": "아시아경제",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zdk15YmJialRjcHUzMnVYclVFOXlkUXZvRERJOVFod0hYd1Y0bTdaMUk4dVlrRC1JTm1aYUxrMGxmUDRia0RGQjUtYVZEd0pqQXVaRkZ1djVhZ1IzYlN6bw?oc=5",
-     "at": "2026-09-03 08:37"
-    },
-    {
-     "platform": "이미지·영상 생성",
      "title": "MonoGPT, 기관용 AI 영상 제작 기능 출시... 시댄스2.5·클링 비디오3.0 옴니 지원",
      "source": "전자신문",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNWxwZnlBZExiM2pkZFZoNnJTTDJJdlozWkdabTJDNTNPT0RSSXBCSEc1NHc4MVZ1S0swSEhENjBYeDFaMm91ZGNtMUI4UQ?oc=5",
@@ -92,17 +78,17 @@
     },
     {
      "platform": "OpenAI · 챗GPT",
-     "title": "크롤링 막았더니 반쪽짜리 된 챗GPT…'데이터 가치' 논의 불지펴",
-     "source": "전자신문",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUWFTR2NLdXQtR2NMMzFVQ1Nla0xjeWYxYlFOaEhjZ3ZCaE01UlF1aXZuTGs1dWpRQ2YtTkJjQ0RxZTJvQTRxaGE0QzM2QQ?oc=5",
-     "at": "2026-09-02 16:30"
-    },
-    {
-     "platform": "OpenAI · 챗GPT",
      "title": "“챗GPT 살인 계획 알고도 신고 묵살”…오픈AI, 캐나다 참사로 추가 피소｜Global Money Club",
      "source": "중앙일보",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUnNFd3BmQjQ1dURmUG1Gcl9KMXpqMHhaYzRHZUhzOHdKdkJPTWhYUWltdVFVdlBjNUFET0szZllJc0FhaE5YTGNGbFJnTnRGNTZZMm56R1VQWUE?oc=5",
      "at": "2026-09-02 22:19"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "美 상무 \"앤트로픽, 올바른 편으로 돌아왔다…수개월 갈등 끝\"",
+     "source": "데일리안",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd1hySV9zZkxfdUpGYk96dGtXU1h1dUx2MUxjbU9ZTmtmajZKbVBZbGc4MnlWTjR2OGlfVWhUR2w0VzJNN192bkpLaTZWM05zamkxNEVVNy03TkUwcHdpc1V3anR2Y0tFc1hNUjZNOGFvT2VGbktNcktlS0h3SHR4T2piUlplSVBoVjRmOUdxaDgzeDF6S193UHhjRm9CemEtY1NGdHBUV3JCbzE2NlJUdl9scU5nQjhheG4tMXM3czEwdzc3REZPejFONVpjV3RLeFhIdlVUdExXUlJyTE83aGdSbllUNzNNRUZqRVk1ZnFTU2VKZGRCYW1Kand6OEdFamdWcG81aDF0V3FPLWxjcWZvRGFMWkh6?oc=5",
+     "at": "2026-09-03 10:00"
     },
     {
      "platform": "앤트로픽 · 클로드",
@@ -141,17 +127,24 @@
     },
     {
      "platform": "퍼플렉시티 · AI 검색",
+     "title": "AI로 무장한 빔프로젝터...'투사거리 최소 5.6cm'·'좁은 공간'에서도 완성되는 나만의 영화관 만든다",
+     "source": "인공지능신문",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aVhDYkdoRHhQYnpDblppSXA1d09KY3ViamlwQ0Y0WkRZeWVOZkZaeHpXVXZjX1ZtZ25XUVUtRkpUU2IyZldGV09yYThOQ19BUnN4OTJQQ2wyZ1U5TGVYYUotempJNUk?oc=5",
+     "at": "2026-09-03 13:04"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목",
+     "source": "연합뉴스 한민족센터",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbGVzLU1EeXdITXlCZXc2U3Z3R0xoaUZNUHpnSHd6bmlvdFoyM3N4bzNEN21yVWtKcVRPQlotR1hjajE0M1NWSnJkaTJWZVJkeThBVmNhMkQzY0I4dElUZHJrRkZ5TktIWTdHYmIwalpTdFFN?oc=5",
+     "at": "2026-09-03 11:06"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
      "title": "[글로벌] AI가 답하자 줄어드는 언론사 트래픽...구글 AI 검색에 EU가 움직였다",
      "source": "테크M",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fSjBJbTFZSWdQWTliUG94Y2FYYnRUVzEyaVNsSjd0S0Q3RGxnT2pFWkRMbFc0bHpOc2E3MHBIcENzZDFuMTc2cEZGU1NRZjRFVUl2NHNjM1V3U200WnZhTFpZb3ltUdIBakFVX3lxTE1kV0Ywd09NZ2IzWncxYmxnZFRLbDh2VkRoQ1FiNC02VWdvY2ZjWGxxM3RrNUhNOHZxVGthZVliVlp6MGd6VmZHNUtvUkFOd3k4R201ekR1V1JpUWdZWU12VG1kWDEzeEN6a2c?oc=5",
      "at": "2026-09-02 16:38"
-    },
-    {
-     "platform": "퍼플렉시티 · AI 검색",
-     "title": "AI 검색 스타트업 글린 \"클로드 코워크 대비 토큰 70% 저렴\"...어떻게?",
-     "source": "디지털투데이",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNzd6eHppa2lmck1RUVRYbGFlRnFQNFh3S1p4SHdiYjlJUFFzdjJTdHRBeFVoQmxTR1VmS3BpRzc4NjdncmlIaVRGWGxTSkZtOVJ4a2s1c25UanRjU1gyT181QlFRME03dGUyYm92NWdLb1E?oc=5",
-     "at": "2026-09-02 16:48"
     },
     {
      "platform": "네이버 · 국내 AI",
@@ -168,18 +161,18 @@
      "at": "2026-09-03 10:07"
     },
     {
-     "platform": "네이버 · 국내 AI",
-     "title": "[속보] 정부 '보안 특화 AI' 사업에 네이버클라우드 컨소시엄 선정 - 머니투데이",
-     "source": "머니투데이",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwcU43X2dfREFLbTZSbFVvbzBRLUpFSU9wWTVLOVQwcW1rN1VicE9mTmU2RF9NQWZJbDNrUmo2cnhsUFM4UUxfdnp5ZTRwb2ZPYmZjcmNEd0g0UDFFTEtVY2RBZTg2Y2vSAWxBVV95cUxNU19sMHd4dUp4LUNXNUFxalRBZW5YNkcwSktBd1lLQ2JoZGcxdURjd011T2twcXlXb1lwLS0wSDNVRHhfX1hDMVF2TFRTOU91QVpoVVNqV3FBR29vOFN0N2dYa0s5a29tR2FPUlo?oc=5",
-     "at": "2026-09-03 09:07"
-    },
-    {
      "platform": "AI 에이전트·자동화",
      "title": "애경케미칼, 업무용 AI에이전트 AKeeON 오픈…효율 향상",
      "source": "뉴스1",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3VqY3k4dFlBOEZyUV95Ri1GZ3lEWTN1akpNV1QxQ3FSTHN2SkVYSTc5Qm1vV0dvdmpyQ1hleEpKcWlmdGo2ZTJ0UHRPMUNkWlBHVDAtbWp2YUFLaWl6cWNhMXfSAWpBVV95cUxPRS00N3lJcDNLNFBuUWhiWnpIRTZtOVJwYTdLOXNVNlpJaWlHaWJMSkR0NTNNVlg2bzQweHY5NjN2VU1sMUpkMDMzR21fREhZSUF1U2JSalhOM2taSXlNeE1MV0Nqbjd5REdn?oc=5",
      "at": "2026-09-03 09:35"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "LG전자, IFA 2026서 더 확장된 'AI홈 생태계' 제시…AI 에이전트 '씽큐 클로' 첫 선",
+     "source": "아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSGJYdFRGeHFLWlAtNmNjN1VjR0VUbDJYSi0ybkgzWmQ5dWh1TkgydEJaZHVUQ2hCaFE0NDdkMXEwd1dtRWlYU182SXhPcmVabVR3YUIzZmFwYlVXaC02VA?oc=5",
+     "at": "2026-09-03 10:00"
     },
     {
      "platform": "AI 에이전트·자동화",
