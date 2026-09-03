@@ -647,7 +647,7 @@
 
 
   <script>
-  /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 자동 수집(칼럼·저서 매일, AI 소식 매주 월요일)이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
+  /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 자동 수집(저서 매일, 칼럼·기사·AI 소식 매주 월요일)이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
   const RAW = 'https://raw.githubusercontent.com/aceyun88/snb-aceyun88/main/';
   function loadData(name){
     return fetch(RAW + name + '?t=' + Math.floor(Date.now() / 300000)).then(r => { if(!r.ok) throw 0; return r.json(); })
