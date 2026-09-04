@@ -770,7 +770,7 @@
       document.getElementById('galGrid').innerHTML = items.map(x => {
         const src = /^https?:/.test(x.src) ? x.src : RAW + x.src;
         const local = /^https?:/.test(x.src) ? '' : x.src;
-        return `<figure><a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(x.caption || x.org || '교육 현장')}" loading="lazy" width="800" height="600" title="${esc([x.org, x.date].filter(Boolean).join(' · '))}"${local ? ` onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${esc(local)}'}else{this.closest('figure').hidden=true}"` : ''}></a></figure>`;
+        return `<figure><a href="${esc(src)}" target="_blank" rel="noopener"><img src="${esc(src)}" alt="${esc(x.caption || x.org || '교육 현장')}" loading="lazy" width="800" height="600"${local ? ` onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${esc(local)}'}else{this.closest('figure').hidden=true}"` : ''}></a></figure>`;
       }).join('');
       show('gallery');
     }).catch(() => {});

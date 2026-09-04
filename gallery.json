@@ -1,7 +1,43 @@
 {
- "updated": "2026-09-03",
+ "updated": "2026-09-04",
  "_안내": "교육 현장 사진 한 장 = 항목 하나. src가 [ 로 시작하면 견본. 새 사진은 원본을 D:/Projects/snb-photos-original 에 두고, 웹용(가로 1600px 이하, JPG)으로 줄여 gallery/에 영문 이름으로 넣는다. 참여자 얼굴은 행사 공식 사진만.",
  "items": [
+  {
+   "src": "gallery/p15.jpg",
+   "org": "KAICON K-AI 콘텐츠 영화제",
+   "date": "2026-06-04",
+   "caption": "KAICON(K-AI Contents Film Festival) 현장"
+  },
+  {
+   "src": "gallery/p12.jpg",
+   "org": "청송군농업기술센터",
+   "date": "2026-05",
+   "caption": "2026년 생성형 AI 활용 농업인 역량강화 교육"
+  },
+  {
+   "src": "gallery/p17.jpg",
+   "org": "기업 실무자 교육",
+   "date": "",
+   "caption": "제미나이·Apps Script로 업무 자동화 실습 강의"
+  },
+  {
+   "src": "gallery/p14.jpg",
+   "org": "온라인 강의 촬영",
+   "date": "",
+   "caption": "스튜디오 촬영 현장"
+  },
+  {
+   "src": "gallery/p13.jpg",
+   "org": "온라인 강의 촬영",
+   "date": "",
+   "caption": "스튜디오 송출 화면"
+  },
+  {
+   "src": "gallery/p16.jpg",
+   "org": "서울특별시 · (사)기술벤처스타트업협회",
+   "date": "",
+   "caption": "외국인 유학생 AI 마케팅 역량강화 및 해외 시장조사 과정"
+  },
   {
    "src": "gallery/p09.jpg",
    "org": "충주상공회의소 · 충주시",
