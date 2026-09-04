@@ -107,7 +107,8 @@
     .notice{font-size:13px;color:#667085}.form-success{display:none;margin-top:16px;padding:14px 16px;border-radius:14px;background:#ecfdf3;color:#027a48;font-weight:900}.form-error{display:none;margin-top:16px;padding:14px 16px;border-radius:14px;background:#fff1f3;color:#b42318;font-weight:900}.contact-strip{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:18px}
     .footer{background:#05152d;color:#b9c6d8;padding:34px 0;font-size:14px}
     .footer-grid{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
-    .floating{position:fixed;right:22px;bottom:22px;z-index:20;display:flex;flex-direction:column;gap:10px}
+    .floating{position:fixed;right:18px;bottom:88px;z-index:20;display:flex;flex-direction:column;gap:10px;align-items:flex-end}
+    .ask-open .floating{display:none}
     .floating a{box-shadow:0 12px 28px rgba(0,0,0,.2)}
     @media(max-width:920px){
       .nav-links{display:none}.hero-grid,.proof-grid{grid-template-columns:1fr}h1{font-size:42px}.features,.course-grid,.process,.trust{grid-template-columns:1fr 1fr}form{grid-template-columns:1fr}
@@ -307,6 +308,7 @@
     /* 질문창 — 홈페이지 안 정보로 답하고, 외부 AI 검색으로 넘긴다 */
     .ask-fab{position:fixed;right:18px;bottom:18px;z-index:60;display:inline-flex;align-items:center;gap:8px;padding:14px 18px;border-radius:999px;background:linear-gradient(135deg,#017A84,#0AA2AE);color:#fff;font-weight:900;font-size:15px;border:0;cursor:pointer;box-shadow:0 12px 28px rgba(1,122,132,.4);animation:bridgeGlow 2.4s ease-in-out infinite}
     .ask-fab:hover{transform:translateY(-2px)}
+    .ask-ico{flex:none}
     .ask-panel{position:fixed;right:18px;bottom:84px;z-index:61;width:min(420px,calc(100vw - 36px));max-height:min(70vh,640px);display:none;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 60px rgba(6,27,58,.25);overflow:hidden}
     .ask-panel.on{display:flex}
     .ask-head{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;background:var(--navy);color:#fff;font-weight:900}
@@ -325,7 +327,7 @@
     .ask-ext a,.ask-ext button{display:flex;align-items:center;justify-content:center;min-height:40px;border-radius:10px;border:1px solid var(--line);background:#fff;color:var(--navy);font-weight:800;font-size:13px;cursor:pointer;font-family:inherit;text-align:center}
     .ask-ext a:hover,.ask-ext button:hover{background:var(--light)}
     .ask-note{font-size:12px;color:var(--gray)}
-    @media(max-width:640px){.ainews,.books{padding:52px 0}.day-list summary{grid-template-columns:1fr;gap:4px}.ask-fab{padding:12px 14px;font-size:14px;bottom:14px;right:14px}.ask-panel{right:12px;bottom:74px}}
+    @media(max-width:640px){.ainews,.books{padding:52px 0}.day-list summary{grid-template-columns:1fr;gap:4px}.ask-fab{padding:12px 14px;font-size:14px;bottom:14px;right:14px}.floating{right:14px;bottom:76px}.ask-panel{right:12px;bottom:74px}}
 </style>
 </head>
 <body>
@@ -680,7 +682,7 @@
     </section>
   </main>
 
-  <button class="ask-fab" id="askFab" type="button" aria-expanded="false" aria-controls="askPanel">💬 무엇이 궁금하세요?</button>
+  <button class="ask-fab" id="askFab" type="button" aria-expanded="false" aria-controls="askPanel"><svg class="ask-ico" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="8" width="16" height="11" rx="3"/><path d="M12 8V5"/><circle cx="12" cy="4" r="1" fill="currentColor"/><circle cx="9" cy="13.5" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="13.5" r="1.2" fill="currentColor" stroke="none"/><path d="M9.5 17h5"/><path d="M2 12v3M22 12v3"/></svg> 무엇이 궁금하세요?</button>
   <div class="ask-panel" id="askPanel" role="dialog" aria-label="질문창">
     <div class="ask-head"><span>물어보기 — 홈페이지 안 정보로 답합니다</span><button type="button" id="askClose" aria-label="닫기">✕</button></div>
     <div class="ask-body">
@@ -913,7 +915,7 @@
     const HINTS = ['강의 신청 방법', '소상공인 AI 강의', '어떤 강의 주제가 있나요', '윤성임 박사 이력', '저서', '오늘 AI 소식', 'PK-PDCA 브릿지가 뭔가요'];
     hint.innerHTML = HINTS.map(h => `<button type="button">${esc(h)}</button>`).join('');
     hint.querySelectorAll('button').forEach(b => b.onclick = () => { input.value = b.textContent; answer(b.textContent); });
-    const toggle = on => { panel.classList.toggle('on', on); fab.setAttribute('aria-expanded', on ? 'true' : 'false'); if(on) input.focus(); };
+    const toggle = on => { panel.classList.toggle('on', on); document.body.classList.toggle('ask-open', on); fab.setAttribute('aria-expanded', on ? 'true' : 'false'); if(on) input.focus(); };
     fab.onclick = () => toggle(!panel.classList.contains('on'));
     close.onclick = () => toggle(false);
     form.onsubmit = e => { e.preventDefault(); answer(input.value.trim()); };
