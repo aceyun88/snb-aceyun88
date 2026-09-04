@@ -44,8 +44,10 @@
     .nav{height:72px;display:flex;align-items:center;justify-content:space-between;gap:16px}
     .logo{font-weight:900;color:var(--navy);font-size:20px;letter-spacing:-.04em}
     .logo span{color:var(--gold)}
-    .nav-links{display:flex;flex:1;justify-content:center;align-items:center;gap:6px;font-size:16px;color:var(--navy);font-weight:800;letter-spacing:-.01em}
-    .nav-links a:not(.nav-bridge){padding:8px 12px;border-radius:999px;transition:background .15s}
+    .nav-links{display:flex;flex:1;justify-content:center;align-items:center;gap:2px;font-size:16px;color:var(--navy);font-weight:800;letter-spacing:-.01em}
+    .nav-links a{white-space:nowrap}
+    .nav-links a:not(.nav-bridge){padding:8px 10px;border-radius:999px;transition:background .15s}
+    .logo{white-space:nowrap}
     .nav-links a:not(.nav-bridge):hover{background:#EEF3F8}
     .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:999px;padding:14px 22px;font-weight:900;border:0;cursor:pointer;transition:.2s}
     .btn-primary{background:linear-gradient(135deg,var(--navy),var(--blue));color:white;box-shadow:0 10px 22px rgba(6,27,58,.22)}
