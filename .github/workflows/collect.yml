@@ -27,6 +27,8 @@ jobs:
         run: python scripts/fetch-news.py || echo "news failed"
       - name: AI 소식 (매주 월요일, 수동 실행 시에도)
         if: steps.day.outputs.monday == 'yes' || github.event_name == 'workflow_dispatch'
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch-ai-news.py || echo "ai-news failed"
       - name: 저서 (매달 1일, 수동 실행 시에도)
         if: steps.day.outputs.first == 'yes' || github.event_name == 'workflow_dispatch'

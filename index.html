@@ -215,6 +215,14 @@
     .day-list .d-body ul{list-style:none;margin:0;padding:0}
     .day-list .d-body li a{display:flex;gap:10px;padding:8px 6px;border-radius:8px;font-size:16px;line-height:1.45;word-break:keep-all}
     .day-list .d-body li a:hover{background:var(--light)}
+    .topic{margin:12px 0 4px;border:1px solid var(--line);border-radius:14px;background:#fff;overflow:hidden}
+    .topic-head{display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--light);border-bottom:1px solid var(--line)}
+    .topic-n{display:inline-flex;width:26px;height:26px;border-radius:999px;background:var(--navy);color:#fff;font-weight:900;font-size:13px;align-items:center;justify-content:center;flex:none}
+    .topic-name{font-weight:900;color:var(--navy);font-size:16px;flex:1}
+    .topic ul{margin:0;padding:6px 8px;list-style:none}
+    .day-list .d-body li .t-main{display:flex;flex-direction:column;gap:2px;min-width:0}
+    .day-list .d-body li .t-main b{font-weight:800;color:var(--text)}
+    .day-list .d-body li .t-main small{font-size:14px;color:var(--gray);line-height:1.5;word-break:keep-all}
     .day-list .d-body li .src{color:var(--gray);font-size:13px;white-space:normal;text-align:right;max-width:46%;margin-left:auto}
     /* 저서 */
     .books{padding:72px 0;background:#fff}
@@ -619,7 +627,7 @@
           <div>
             <div class="pp-tag">AI NEWS · 매주 월요일</div>
             <h2>AI 소식</h2>
-            <p>믿을 만한 출처에서 한 주 동안 화제가 된 AI 소식을 매주 월요일 아침 한 게시글로 모읍니다. 조코딩 IT뉴스 라이브, GitHub 이번 주 인기 저장소, 긱뉴스(GeekNews) 화제 글, AI타임스 주요 기사, 챗GPT·클로드·제미나이 등 플랫폼별 국내 보도 순서입니다. 글 제목은 그 주 가장 핵심인 첫 소식이고, 펼치면 출처별 원문 링크가 나옵니다.</p>
+            <p>생성형 AI를 어떻게 쓰느냐에 관한 한 주의 소식을 매주 월요일 아침 한 게시글로 모아, 주제 10개 안팎으로 묶어 보여 줍니다. 최신 주가 펼쳐져 있고, 주제마다 대표 소식과 출처(조코딩 IT뉴스 라이브 · GitHub 인기 저장소 · 긱뉴스 · AI타임스 · 국내 매체 보도)가 붙습니다. 요약 문장은 출처가 써 둔 글을 그대로 옮긴 것이며, GitHub 저장소는 무엇에 쓰는 도구인지 설명을 앞세웁니다.</p>
           </div>
         </div>
         <ul class="day-list" id="dayList"></ul>
@@ -853,10 +861,23 @@
     let posts = [], shown = 7;
     function render(){
       list.innerHTML = posts.slice(0, shown).map((p, i) => {
-        const groups = {};
-        (p.items || []).forEach(it => { (groups[it.platform] = groups[it.platform] || []).push(it); });
-        return `<li><details${i === 0 ? ' open' : ''}><summary><span class="news-date">${esc(p.label || p.date)}</span><span class="d-title">${esc(p.title)}</span><span class="d-count">${p.count || (p.items||[]).length}건</span></summary>
-          <div class="d-body">${Object.keys(groups).map(g => `<div class="plat">${esc(g)}</div><ul>${groups[g].map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc([it.source, it.note].filter(Boolean).join(' · '))} ↗</span></a></li>`).join('')}</ul>`).join('')}</div>
+        const srcLine = it => esc([it.platform && it.platform.startsWith('GitHub') ? 'GitHub' : it.platform && it.platform.includes('(') ? it.platform.split(' (')[0] : it.source, it.note].filter(Boolean).join(' · '));
+        const row = it => {
+          const gh = it.platform && it.platform.startsWith('GitHub');
+          const head = gh && it.desc ? it.desc : it.title;                       // GitHub는 "무엇에 쓰는 도구인지"를 앞세운다
+          const sub = gh ? [it.title, it.desc_en].filter(Boolean).join(' — ') : (it.desc || '');
+          return `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span class="t-main"><b>${esc(head)}</b>${sub ? `<small>${esc(sub)}</small>` : ''}</span><span class="src">${srcLine(it)} ↗</span></a></li>`;
+        };
+        let body;
+        if (p.topics && p.topics.length) {
+          body = p.topics.map((t, n) => `<div class="topic"><div class="topic-head"><span class="topic-n">${n + 1}</span><span class="topic-name">${esc(t.name)}</span><span class="d-count">${t.count || t.items.length}건</span></div><ul>${t.items.map(row).join('')}</ul></div>`).join('');
+        } else {
+          const groups = {};
+          (p.items || []).forEach(it => { (groups[it.platform] = groups[it.platform] || []).push(it); });
+          body = Object.keys(groups).map(g => `<div class="plat">${esc(g)}</div><ul>${groups[g].map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc([it.source, it.note].filter(Boolean).join(' · '))} ↗</span></a></li>`).join('')}</ul>`).join('');
+        }
+        return `<li><details${i === 0 ? ' open' : ''}><summary><span class="news-date">${esc(p.label || p.date)}</span><span class="d-title">${esc(p.title)}</span><span class="d-count">${p.topics ? p.topics.length + '주제 · ' : ''}${p.count || (p.items||[]).length}건</span></summary>
+          <div class="d-body">${body}</div>
         </details></li>`;
       }).join('') || '<li class="news-empty">아직 모인 소식이 없습니다.</li>';
       more.style.display = posts.length > shown ? '' : 'none';
