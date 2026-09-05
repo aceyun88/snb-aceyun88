@@ -9,6 +9,14 @@ AUTHOR = '윤성임'
 def get(url):
     return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40).read().decode('utf-8', 'ignore')
 
+# 교보 화면에서 긁은 저자 문구에서 찌꺼기('">', '( ) 더보기 닫기 모두보기', 뒤의 '출판사 · 날짜')를 걷어내고 이름만 남긴다
+def clean_author(t):
+    t = re.sub(r'^[^가-힣A-Za-z]*', '', t)
+    t = re.sub(r'\(\s*\)|더보기|닫기|모두보기', ' ', t)
+    t = re.sub(r'\s*[가-힣A-Za-z0-9&·]+\s*·\s*\d{4}년.*$', '', t)      # "그로잉북스 · 2026년 08월 31일" 꼬리
+    t = re.sub(r'\s*(저자|저|공저|글|지음|옮김|편저|감수)\s*', ' ', t)
+    return re.sub(r'\s+', ' ', t).strip()[:80]
+
 def unesc(t):
     return html.unescape(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', t or ''))).strip()
 
@@ -40,7 +48,7 @@ for page in range(1, 15):
         iso = f'{m.group(1)}-{m.group(2)}-{m.group(3)}' if m else d
         books[pid.group(1)] = {
             'title': html.unescape(title.group(1)).strip(),
-            'author': re.sub(r'\s*(저자|저|공저|글|지음|옮김)\s*', ' ', author_text).strip()[:80],
+            'author': clean_author(author_text),
             'publisher': unesc(pub.group(1)) if pub else '',
             'date': iso,
             'cover': f'https://contents.kyobobook.co.kr/sih/fit-in/240x0/pdt/{bid.group(1)}.jpg' if bid else '',
