@@ -47,6 +47,8 @@
     .fzbtn{border:1.5px solid var(--line);background:#fff;color:var(--navy);border-radius:999px;font-weight:800;font-size:12px;padding:4px 9px;cursor:pointer;font-family:inherit;line-height:1}
     .fzbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
     .fz-head{margin-left:4px}
+    .fz-head .fzlabel{display:none}
+    .fz-head .fzbtn{padding:4px 7px}
     .fz-float{display:none;background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:999px;padding:4px 8px;box-shadow:0 8px 20px rgba(0,0,0,.12)}
     @media(max-width:920px){.fz-head{display:none}.fz-float{display:inline-flex}}
     .topbar{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
@@ -759,7 +761,7 @@
 
   <div class="floating">
     <div class="fzwrap fz-float" role="group" aria-label="글자 크기 조절"><span class="fzlabel">글자 크기</span><button type="button" class="fzbtn" data-fz="0">보통</button><button type="button" class="fzbtn" data-fz="1">크게</button><button type="button" class="fzbtn" data-fz="2">최대</button></div>
-    <a class="btn btn-gold" href="#apply">신청하기</a>
+    <a class="btn btn-gold" href="#apply">교육신청</a>
     <a class="btn btn-primary" href="tel:01027775004">전화문의</a>
   </div>
 
