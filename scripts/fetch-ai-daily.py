@@ -78,6 +78,15 @@ def og(url, prop):
     except Exception:
         return ''
 
+# 무료 번역이 자주 틀리는 고유명사 — 번역 뒤에 바로잡는다
+BRAND_FIX = [('끌로드', '클로드'), ('클라우드 코드', '클로드 코드'), ('클라우드(Claude)', '클로드'), ('제미니', '제미나이'), ('앤트로피크', '앤트로픽'), ('안트로픽', '앤트로픽'),
+             ('오픈에이아이', 'OpenAI'), ('오픈아이', 'OpenAI'), ('챗지피티', '챗GPT'), ('오푸스', 'Opus'), ('소네트', 'Sonnet'), ('하이쿠', 'Haiku'), ('딥마인드', '딥마인드')]
+
+def fix_brands(t):
+    for a, b in BRAND_FIX:
+        t = t.replace(a, b)
+    return t
+
 def translate(en):
     """영문 한 줄을 한국어로. DeepL 무료(키 있을 때) → MyMemory 무료 → 실패하면 빈 문자열"""
     en = clean(en)[:300]
@@ -87,10 +96,10 @@ def translate(en):
             body = urllib.parse.urlencode({'text': en, 'target_lang': 'KO', 'source_lang': 'EN'}).encode()
             r = urllib.request.urlopen(urllib.request.Request('https://api-free.deepl.com/v2/translate', data=body,
                                        headers={'Authorization': 'DeepL-Auth-Key ' + DEEPL_KEY}), timeout=30).read()
-            return clean(json.loads(r)['translations'][0]['text'])
+            return fix_brands(clean(json.loads(r)['translations'][0]['text']))
         r = json.loads(text('https://api.mymemory.translated.net/get?q=' + urllib.parse.quote(en) + '&langpair=en|ko'))
         t = r.get('responseData', {}).get('translatedText', '')
-        return '' if not t or 'MYMEMORY WARNING' in t.upper() else clean(t)
+        return '' if not t or 'MYMEMORY WARNING' in t.upper() else fix_brands(clean(t))
     except Exception:
         return ''
 
@@ -171,7 +180,7 @@ data = {'updated': '', 'days': []}
 if os.path.exists(OUT):
     try: data = json.load(io.open(OUT, encoding='utf-8'))
     except Exception: pass
-prev_urls = {it['url'] for d in data.get('days', []) for it in d.get('items', [])}
+prev_urls = {it['url'] for d in data.get('days', []) if d.get('date') != TODAY.isoformat() for it in d.get('items', [])}   # 같은 날 다시 돌리면 오늘 것은 새로 고른다
 
 official_rss()
 anthropic_news(prev_urls)

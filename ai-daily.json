@@ -8,9 +8,9 @@
     {
      "tier": 1,
      "source": "앤트로픽 공식",
-     "title": "끌로드 오푸스 5 소개",
+     "title": "클로드 Opus 5 소개",
      "url": "https://www.anthropic.com/news/claude-opus-5",
-     "at": "2026-09-06 07:32",
+     "at": "2026-09-06 07:39",
      "desc": "Opus 5는 코딩 및 전문 작업 개선을 제공하면서 장기 실행 에이전트에 전력을 공급하는 Opus 계층의 단계 변경 개선입니다.",
      "title_en": "Introducing Claude Opus 5",
      "desc_en": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work."
@@ -20,7 +20,7 @@
      "source": "앤트로픽 공식",
      "title": "모델 하드웨어 표준 미리보기",
      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-     "at": "2026-09-06 07:32",
+     "at": "2026-09-06 07:39",
      "desc": "Anthropic은 AI 에이전트가 물리적 장치를 안전하게 작동하기 위한 공유 사양인 MHS (Model Hardware Standard) 의 연구 미리보기를 첫 번째 과학 연구 실험실 그룹에 개방하고 있습니다.",
      "title_en": "Previewing the Model Hardware Standard",
      "desc_en": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and…"
@@ -40,7 +40,7 @@
      "source": "앤트로픽 공식",
      "title": "Claude의 텍스트 워터마킹 작동 방식",
      "url": "https://www.anthropic.com/news/claude-text-watermark",
-     "at": "2026-09-06 07:32",
+     "at": "2026-09-06 07:39",
      "desc": "향후 Claude 모델은 워터마크가 포함된 텍스트를 생성합니다. 이것은 Claude가 텍스트를 작성하는 데 관여했을 가능성을 결정하는 방법이며, 우리는 다른 몇 가지 주요 AI와 함께...",
      "title_en": "How Claude's text watermarking works",
      "desc_en": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI…"
