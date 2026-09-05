@@ -234,6 +234,30 @@
       .news-src{order:-1}
     }
 
+    /* 오늘의 AI 소식 — 매일 10건, 공식 발표(OpenAI·Anthropic·Google)를 앞세운다 */
+    .today-box{background:#fff;border:1px solid var(--line);border-top:4px solid var(--c2,#017A84);border-radius:18px;padding:18px 20px 14px;margin:22px 0 30px;box-shadow:0 10px 26px rgba(6,27,58,.07)}
+    .today-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin-bottom:8px}
+    .today-head h3{margin:0;font-size:20px;color:var(--navy);letter-spacing:-.02em}
+    .today-head .pp-note{margin:0 0 0 auto}
+    .today-list{list-style:none;margin:0;padding:0;counter-reset:td}
+    .today-list li{border-top:1px solid var(--line)}
+    .today-list li:first-child{border-top:0}
+    .today-list li a{display:grid;grid-template-columns:28px 1fr;gap:10px;padding:10px 4px;line-height:1.45;word-break:keep-all;border-radius:8px}
+    .today-list li a:hover{background:var(--light)}
+    .today-list li a::before{counter-increment:td;content:counter(td);display:inline-flex;width:26px;height:26px;border-radius:999px;background:var(--navy);color:#fff;font-weight:900;font-size:13px;align-items:center;justify-content:center;margin-top:2px}
+    .today-list .t-main{display:flex;flex-direction:column;gap:3px;min-width:0}
+    .today-list .t-main b{font-size:16px;font-weight:800;color:var(--text)}
+    .today-list .t-main small{font-size:14px;color:var(--gray);line-height:1.5}
+    .today-list .t-src{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--gray)}
+    .tier{display:inline-block;padding:2px 8px;border-radius:999px;font-weight:800;font-size:11px;border:1px solid var(--line);color:var(--gray);background:#fff}
+    .tier.t1{background:#E7F2F3;color:var(--teal-ink,#015E66);border-color:#cfe3e5}
+    .today-past{margin-top:10px}
+    .today-past summary{cursor:pointer;font-size:14px;font-weight:800;color:var(--navy);padding:6px 4px}
+    .today-past .past-day{margin:8px 0 4px;font-size:13px;font-weight:900;color:var(--gold-ink)}
+    .today-past ul{list-style:none;margin:0 0 6px;padding:0}
+    .today-past li a{display:flex;gap:8px;padding:5px 4px;font-size:15px;line-height:1.45;word-break:keep-all}
+    .today-past li a .src{margin-left:auto;color:var(--gray);font-size:12px;white-space:nowrap}
+    @media(max-width:640px){.today-box{padding:14px 14px 10px;border-radius:14px}.today-head h3{font-size:18px}}
     /* AI 소식 — 한 주 한 게시글, 펼치면 출처별 소식 */
     .ainews{padding:72px 0;background:var(--light);border-top:1px solid var(--line)}
     .ainews .news-head p{max-width:760px}
@@ -676,11 +700,22 @@
       <div class="container">
         <div class="news-head">
           <div>
-            <div class="pp-tag">AI NEWS · 매주 월요일</div>
+            <div class="pp-tag">AI NEWS · 매일 10건 · 매주 월요일 한 게시글</div>
             <h2>AI 소식</h2>
-            <p>생성형 AI를 어떻게 쓰느냐에 관한 한 주의 소식을 매주 월요일 아침 한 게시글로 모아, 주제 10개 안팎으로 묶어 보여 줍니다. 최신 주가 펼쳐져 있고, 주제마다 대표 소식과 출처(조코딩 IT뉴스 라이브 · GitHub 인기 저장소 · 긱뉴스 · AI타임스 · 국내 매체 보도)가 붙습니다. 요약 문장은 출처가 써 둔 글을 그대로 옮긴 것이며, GitHub 저장소는 무엇에 쓰는 도구인지 설명을 앞세웁니다.</p>
+            <p>매일 아침에는 OpenAI·Anthropic·Google 공식 발표를 앞세워 <b>오늘의 소식 10건</b>을 고르고, 매주 월요일에는 한 주의 소식을 한 게시글로 모아 주제 10개 안팎으로 묶어 보여 줍니다. 최신 주가 펼쳐져 있고, 주제마다 대표 소식과 출처(조코딩 IT뉴스 라이브 · GitHub 인기 저장소 · 긱뉴스 · AI타임스 · 국내 매체 보도)가 붙습니다. 요약 문장은 출처가 써 둔 글을 그대로 옮긴 것이며, GitHub 저장소는 무엇에 쓰는 도구인지 설명을 앞세웁니다.</p>
           </div>
         </div>
+        <div class="today-box" id="today">
+          <div class="today-head">
+            <div class="pp-tag">TODAY · 매일 06:30 자동</div>
+            <h3>오늘의 AI 소식 10</h3>
+            <p class="pp-note" id="todayUpdated"></p>
+          </div>
+          <ol class="today-list" id="todayList"></ol>
+          <details class="today-past"><summary>지난 날 소식 (14일)</summary><div id="todayPast"></div></details>
+          <p class="pp-note" style="margin:8px 0 0">공식 표시는 OpenAI·Anthropic·Google이 직접 낸 발표입니다. 영문 제목·요약은 무료 번역이라 원문 링크로 확인해 주십시오. 요금·기능은 발표 시점 기준입니다.</p>
+        </div>
+        <h3 style="margin:0 0 8px;font-size:20px;color:var(--navy)">이번 주 게시글</h3>
         <ul class="day-list" id="dayList"></ul>
         <div class="news-more"><button class="btn btn-outline" id="dayMore" type="button">지난 소식 더 보기</button></div>
         <p class="pp-note" id="dayUpdated" style="text-align:right;margin-top:10px"></p>
@@ -933,6 +968,25 @@
   })();
   </script>
   <script>
+  /* 오늘의 AI 소식 — 매일 10건 (ai-daily.json) */
+  (function(){
+    const list = document.getElementById('todayList'), past = document.getElementById('todayPast'), upd = document.getElementById('todayUpdated');
+    if(!list) return;
+    const esc = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    const tier = it => `<span class="tier${it.tier === 1 ? ' t1' : ''}">${it.tier === 1 ? '공식' : '매체'}</span>`;
+    loadData('ai-daily.json').then(d => {
+      const days = d.days || [];
+      window.SNB_DATA.daily = days;
+      const today = days[0];
+      if(!today || !today.items || !today.items.length){ list.innerHTML = '<li class="news-empty">오늘 모인 소식이 없습니다.</li>'; return; }
+      upd.textContent = `${today.date} · ${today.items.length}건`;
+      list.innerHTML = today.items.map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span class="t-main"><b>${esc(it.title)}</b>${it.desc ? `<small>${esc(it.desc)}</small>` : ''}<span class="t-src">${tier(it)}<span>${esc(it.source)}</span>${it.title_en ? `<span>· ${esc(it.title_en)}</span>` : ''} ↗</span></span></a></li>`).join('');
+      const rest = days.slice(1);
+      past.innerHTML = rest.length ? rest.map(dd => `<div class="past-day">${esc(dd.date)} · ${dd.items.length}건</div><ul>${dd.items.map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener"><span>${esc(it.title)}</span><span class="src">${esc(it.source)} ↗</span></a></li>`).join('')}</ul>`).join('') : '<p class="news-empty">아직 지난 날 소식이 없습니다.</p>';
+    }).catch(() => { list.innerHTML = '<li class="news-empty">소식을 불러오지 못했습니다.</li>'; });
+  })();
+  </script>
+  <script>
   /* AI 소식 — 한 주 한 게시글 */
   (function(){
     const list = document.getElementById('dayList'), more = document.getElementById('dayMore'), upd = document.getElementById('dayUpdated');
@@ -1016,7 +1070,8 @@
       if(secs.length) html += secs.map(s => `<div class="ask-ans"><b>${esc(s.title.trim())}</b> — ${esc(s.text.slice(0, 260))}… <a href="#${esc(s.id)}">이 구역으로 가기 ›</a></div>`).join('');
       if(books.length) html += `<div class="ask-ans"><b>저서에서</b><ul>${books.map(b => `<li><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.title)}</a></li>`).join('')}</ul></div>`;
       if(news.length) html += `<div class="ask-ans"><b>칼럼·뉴스에서</b><ul>${news.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="ask-note">${esc(n.date)}</span></li>`).join('')}</ul></div>`;
-      if(isAi && window.SNB_DATA.ai && window.SNB_DATA.ai[0]) { const p = window.SNB_DATA.ai[0]; html += `<div class="ask-ans"><b>이번 주 AI 소식 (${esc(p.label || p.date)})</b> — ${esc(p.title)} <a href="#ainews">게시판 보기 ›</a></div>`; }
+      if(isAi && window.SNB_DATA.daily && window.SNB_DATA.daily[0] && window.SNB_DATA.daily[0].items.length) { const t = window.SNB_DATA.daily[0]; html += `<div class="ask-ans"><b>오늘의 AI 소식 (${esc(t.date)})</b><ul>${t.items.slice(0,3).map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join('')}</ul><a href="#today">10건 모두 보기 ›</a></div>`; }
+      else if(isAi && window.SNB_DATA.ai && window.SNB_DATA.ai[0]) { const p = window.SNB_DATA.ai[0]; html += `<div class="ask-ans"><b>이번 주 AI 소식 (${esc(p.label || p.date)})</b> — ${esc(p.title)} <a href="#ainews">게시판 보기 ›</a></div>`; }
       else if(ai.length) html += `<div class="ask-ans"><b>AI 소식에서</b><ul>${ai.map(n => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join('')}</ul></div>`;
       if(!html) html = `<div class="ask-ans">홈페이지 안에서는 딱 맞는 내용을 찾지 못했습니다. 강의 문의는 <a href="#apply">강의 신청</a>에서, 실습은 <a href="https://snb-k-bridge.netlify.app" target="_blank" rel="noopener">PK-PDCA 브릿지</a>에서 하실 수 있습니다. 아래 단추로 외부 AI에 같은 질문을 넘겨 보세요.</div>`;
       const g = encodeURIComponent(q + ' 윤성임 소셜앤비즈'), gq = encodeURIComponent(q);
