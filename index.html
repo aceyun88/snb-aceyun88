@@ -573,7 +573,7 @@
           <div><h3>농업·지역</h3><p>농촌진흥청 · 국립식량과학원 · 강원도농업기술원 · 전국 농업기술센터</p></div>
         </div>
         <div id="clientWall" hidden>
-          <h3 class="press-title">기사에 등장한 기관 <small>파이낸스투데이 기사 본문에서 자동 추출</small></h3>
+          <h3 class="press-title">함께한 기관</h3>
           <div class="client-wall" id="clientList"></div>
         </div>
       </div>
@@ -780,7 +780,7 @@
       if(!items.length) return;
       document.getElementById('clientList').innerHTML = items.map(x => {
         const logo = x.logo ? (/^https?:/.test(x.logo) ? x.logo : RAW + x.logo) : '';
-        return `<a href="${esc((x.articles || [])[0] || '#news')}" target="_blank" rel="noopener" title="기사 보기">${logo ? `<img src="${esc(logo)}" alt="" onerror="this.remove()">` : ''}${esc(x.name)}${x.count > 1 ? `<small>${x.count}</small>` : ''}</a>`;
+        return `<a href="${esc((x.articles || [])[0] || '#news')}" target="_blank" rel="noopener" title="기사 보기">${logo ? `<img src="${esc(logo)}" alt="" onerror="this.remove()">` : ''}${esc(x.name)}</a>`;
       }).join('');
       document.getElementById('clientWall').hidden = false;
     }).catch(() => {});

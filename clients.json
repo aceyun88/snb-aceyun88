@@ -99,7 +99,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
    ],
    "logo": "",
-   "show": true
+   "show": false
   },
   {
    "name": "농촌진흥청",
@@ -207,7 +207,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=341779"
    ],
    "logo": "",
-   "show": true
+   "show": false
   },
   {
    "name": "대림대학교",
@@ -425,7 +425,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=347853"
    ],
    "logo": "",
-   "show": true
+   "show": false
   },
   {
    "name": "한국경영혁신협회",
@@ -435,7 +435,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=344095"
    ],
    "logo": "",
-   "show": true
+   "show": false
   },
   {
    "name": "도전왕AI연구소",
