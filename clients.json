@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-03",
- "_안내": "기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다.",
+ "updated": "2026-09-05",
+ "_안내": "기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다. source가 calendar인 항목은 캘린더에서 사람이 확인해 넣은 것이라 다음 수집 때도 그대로 남는다.",
  "items": [
   {
    "name": "건양사이버대학교",
@@ -364,7 +364,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=369823"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "한국교통대학교",
@@ -535,7 +535,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=386390"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "경찰청",
@@ -795,7 +795,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=375657"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "공무원",
@@ -1015,7 +1015,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=364724"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "AI연구원",
@@ -1065,7 +1065,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "충남평생교육인재육성진흥원",
@@ -1075,7 +1075,7 @@
     "https://www.fntoday.co.kr/news/articleView.html?idxno=362552"
    ],
    "logo": "",
-   "show": false
+   "show": true
   },
   {
    "name": "세바시",
@@ -1186,6 +1186,1216 @@
    ],
    "logo": "",
    "show": false
+  },
+  {
+   "name": "한성대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "한세대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "중앙대학교 행정대학원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "서원대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "부경대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "한국기술교육대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "건국대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "공주대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "남서울대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "계명대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "상명대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "강원대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "제주대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "원광대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "중원대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "숭실대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "유원대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "세종사이버대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "전북대학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "서울특별시인재개발원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "서울디지털재단",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "서울산업진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "성남시청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "군위군청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "서산시청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "광주광역시 북구청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "이천시청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "시흥시의회",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "영등포구청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "서대문구청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "경기도교육연수원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "전라남도교육청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "법무연수원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "전북경찰청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "수원경찰청",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "대전신용보증재단",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "중소벤처기업진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "충청북도기업진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "충북테크노파크",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "강원테크노파크",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "한국임업진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "충청북도인재평생교육진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "한국도자재단",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "국가원로회의",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "충청남도농업기술원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "경기도광주시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "당진시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "구미시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "청양군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "안동시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "세종특별자치시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "천안시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "아산시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "춘천시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "연천군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "화순군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "문경시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "정선군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "보령시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "영동군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "의성군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "남원시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "괴산군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "영양군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "광양시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "농협경제지주",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "농협창녕교육원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "농협안성교육원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "농협 지역조합 여성대학·주부대학",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "이천축협",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "남원축협",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "천안시산림조합",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "수협중앙회",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "포스코",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "기아",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "한국서부발전",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "LG",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "아남전자",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "삼성전기",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "계양전기",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "아모레퍼시픽",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "KT",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "현대해상",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "지멘스",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "KB국민은행",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "위데이터랩",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "제이엠커리어",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "이음길HR",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "인지어스",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "한국능률협회(KMA)",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "경기도중소기업CEO연합회",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "중소기업희망포럼",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "AI융합비즈포럼",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "(사)동북아공동체ICT포럼",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "한국소셜미디어진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "건설공제조합",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "한국웃음치료협회",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "맥세스컨설팅",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "슬로시티수산협동조합",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "충북금빛상생협동조합",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "협회·단체"
+  },
+  {
+   "name": "서대문노인종합복지관",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "동작노인종합복지관",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "강북노인종합복지관",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "서초장애인지원센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "중구여성인력개발센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "화성시여성새로일하기센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "부천시일자리센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "안양청년소통허브",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "서산시 도시재생지원센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "금천창업허브",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "복지·센터"
+  },
+  {
+   "name": "광주중앙고등학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "학교"
+  },
+  {
+   "name": "하안중학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "학교"
+  },
+  {
+   "name": "가평상색초등학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "학교"
+  },
+  {
+   "name": "서울여자상업고등학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "학교"
+  },
+  {
+   "name": "부산기계공업고등학교",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "학교"
+  },
+  {
+   "name": "무등일보",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
+  },
+  {
+   "name": "경주신문",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
+  },
+  {
+   "name": "중도일보",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
+  },
+  {
+   "name": "한국무역신문",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
+  },
+  {
+   "name": "대구언론재단",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
+  },
+  {
+   "name": "매일경제신문",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "언론"
   }
  ]
 }

@@ -57,8 +57,10 @@ for name, c in count.most_common():
     old = prev.get(name, {})
     items.append({'name': name, 'count': c, 'latest': first[name], 'articles': sample[name],
                   'logo': old.get('logo', ''), 'show': old.get('show', c >= 3)})
+# 캘린더에서 사람이 확인해 넣은 항목(source: calendar)은 기사에 안 나와도 그대로 남긴다
+items += [c for name, c in prev.items() if c.get('source') == 'calendar' and name not in count]
 io.open(OUT, 'w', encoding='utf-8').write(json.dumps({'updated': __import__('datetime').date.today().isoformat(),
-    '_안내': '기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다.',
+    '_안내': '기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다. source가 calendar인 항목은 캘린더에서 사람이 확인해 넣은 것이라 다음 수집 때도 그대로 남는다.',
     'items': items}, ensure_ascii=False, indent=1))
 print(len(items), '기관 후보 →', OUT, '(본문 읽은 기사', n, '건)')
 for x in items[:40]: print(' ', x['count'], x['name'], '' if x['show'] else '(숨김)')

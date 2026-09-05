@@ -401,7 +401,7 @@
           <div class="profile-caption">
             <div class="mini">🎓 기술창업학 박사 · 건양사이버대학교 겸임교수</div>
             <div class="mini">🏢 소셜앤비즈 · 한국AI융합비즈연구소 대표</div>
-            <div class="mini">🤝 (사)기술벤처스타트업협회 부회장</div>
+            <div class="mini">🤝 (사)기술벤처스타트업협회 · AI융합비즈포럼 부회장</div>
             <div class="mini">✍️ 파이낸스투데이 · 소상공인뉴스 칼럼니스트</div>
           </div>
         </div>
@@ -420,7 +420,7 @@
             <li><b>한국소셜미디어진흥원 · 디지털융합교육원 부원장·지도교수</b> (2014~) — AI·SNS 마케팅 교육, 강사 양성</li>
             <li><b>KT IT본부 · KTDS 시스템 개발·운영 16년</b> (1994~2009) — PL·DBA·분석설계·PM·품질관리·사용자/운영자 교육</li>
             <li><b>한국표준협회 디지털전환 전문강사</b> (2021) — 중소기업·소상공인 DX 교육</li>
-            <li>(사)기술벤처스타트업협회 부회장 · (사)농어촌산업유통진흥원 부회장 · (사)한국인공지능데이터과학협회 전문위원 · (사)동북아공동체ICT포럼 교육원장</li>
+            <li>(사)기술벤처스타트업협회 부회장 · (사)농어촌산업유통진흥원 부회장 · AI융합비즈포럼 부회장 · (사)한국인공지능데이터과학협회 전문위원 · (사)동북아공동체ICT포럼 교육원장</li>
           </ul>
         </div>
         <div class="bookbox">
@@ -795,7 +795,9 @@
       if(!items.length) return;
       document.getElementById('clientList').innerHTML = items.map(x => {
         const logo = x.logo ? (/^https?:/.test(x.logo) ? x.logo : RAW + x.logo) : '';
-        return `<a href="${esc((x.articles || [])[0] || '#news')}" target="_blank" rel="noopener" title="기사 보기">${logo ? `<img src="${esc(logo)}" alt="" onerror="this.remove()">` : ''}${esc(x.name)}</a>`;
+        const inner = `${logo ? `<img src="${esc(logo)}" alt="" onerror="this.remove()">` : ''}${esc(x.name)}`;
+        const url = (x.articles || [])[0];
+        return url ? `<a href="${esc(url)}" target="_blank" rel="noopener" title="기사 보기">${inner}</a>` : `<span>${inner}</span>`;   // 캘린더에서 넣은 기관은 기사가 없어 링크 없이
       }).join('');
       document.getElementById('clientWall').hidden = false;
     }).catch(() => {});
