@@ -29,3 +29,19 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://raw.githubusercontent.com; font-src 'self' data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://docs.google.com; object-src 'none'"
+
+# 사진·아이콘은 한 주 동안 브라우저에 저장 — 기본값(max-age=0)은 방문할 때마다 서버에 다시 물어봐 프로필 사진이 늦게 뜬다
+[[headers]]
+  for = "/*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "/gallery/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, stale-while-revalidate=86400"
+
+[[headers]]
+  for = "/favicon.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
