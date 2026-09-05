@@ -367,7 +367,7 @@
 </style>
   <script>
   /* 글자 크기 — 보통·크게·최대 3단계, 기본은 크게(PK-PDCA 브릿지와 같은 규칙). 기기에 기억한다. 화면 전체를 zoom으로 키워 px 크기 설계를 그대로 쓴다 */
-  (function(){ var S=[1,1.15,1.3], lv=1; try{ var v=Number(localStorage.getItem('snb_fz')); if([0,1,2].indexOf(v)>=0) lv=v; }catch(e){} document.documentElement.style.setProperty('--fz', S[lv]); document.documentElement.dataset.fz=lv; })();
+  (function(){ var S=[1,1.15,1.3], lv=1; try{ var raw=localStorage.getItem('snb_fz'); var v=raw===null?NaN:Number(raw); if([0,1,2].indexOf(v)>=0) lv=v; }catch(e){} document.documentElement.style.setProperty('--fz', S[lv]); document.documentElement.dataset.fz=lv; })();
   </script>
 </head>
 <body>
