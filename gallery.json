@@ -99,7 +99,7 @@
    "caption": "인스타그램 마케팅 강의"
   },
   {
-   "src": "gallery/p02.jpg",
+   "src": "gallery/p02.jpg", "show": false,
    "org": "농업인·지역 교육",
    "date": "2019-07",
    "caption": "SNS 마케팅 강의"

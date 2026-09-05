@@ -610,7 +610,7 @@
         </div>
         <div class="gal-grid" id="galGrid"></div>
         <div id="pressWrap" hidden>
-          <h3 class="press-title">기사로 보는 교육 현장 <small>파이낸스투데이</small></h3>
+          <h3 class="press-title">기사로 보는 교육 현장</h3>
           <div class="gal-grid press-grid" id="pressGrid"></div>
           <div class="news-more"><button class="btn btn-outline" id="pressMore" type="button">기사 사진 더 보기</button></div>
         </div>
@@ -759,6 +759,20 @@
   window.SNB_DATA = {};
   </script>
   <script>
+  /* 기사 순서 — 윤성임 박사·소셜앤비즈가 중심인 글(칼럼·소셜앤비즈 기사)을 앞에 두고,
+     다른 분이 중심인 글(현장 인터뷰·소셜비즈테크·타 기관 기사)은 셋에 하나꼴로 사이에 넣는다. 각 묶음 안에서는 최신순 */
+  window.SNB_ORDER = function(all){
+    const mine = it => /리터러시|비즈마케팅|인사이트|주간강사/.test(it.series || '') || (/기사/.test(it.series || '') && /소셜앤비즈|윤성임/.test(it.title || ''));
+    const byDate = (a, b) => a.date < b.date ? 1 : -1;
+    const first = all.filter(mine).sort(byDate), rest = all.filter(it => !mine(it)).sort(byDate), out = [];
+    while(first.length || rest.length){
+      out.push(...first.splice(0, 3));
+      if(rest.length) out.push(rest.shift());
+    }
+    return out;
+  };
+  </script>
+  <script>
   /* 교육일정·교육 현장 — 자료가 있을 때만 구역과 메뉴가 나타난다 (schedule.json · gallery.json) */
   (function(){
     const esc = t => String(t ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -785,7 +799,8 @@
       document.getElementById('clientWall').hidden = false;
     }).catch(() => {});
     loadData('news.json').then(d => {
-      const items = (d.items || []).filter(x => x.image && /기사|인터뷰/.test(x.series || '')).sort((a,b) => a.date < b.date ? 1 : -1);
+      // 윤성임 박사·소셜앤비즈가 중심인 기사를 앞에, 다른 분이 중심인 인터뷰·기업 기사는 사이사이에 끼워 넣는다
+      const items = window.SNB_ORDER((d.items || []).filter(x => x.image && /기사|인터뷰/.test(x.series || '')));
       if(!items.length) return;
       let shown = 8;
       const grid = document.getElementById('pressGrid'), more = document.getElementById('pressMore');
@@ -800,7 +815,7 @@
       show('gallery');
     }).catch(() => {});
     loadData('gallery.json').then(d => {
-      const items = (d.items || []).filter(x => x.src && !String(x.src).startsWith('['));
+      const items = (d.items || []).filter(x => x.src && !String(x.src).startsWith('[') && x.show !== false);
       if(!items.length) return;
       document.getElementById('galGrid').innerHTML = items.map(x => {
         const src = /^https?:/.test(x.src) ? x.src : RAW + x.src;
@@ -863,7 +878,8 @@
       return [...keep, ...rest].sort((a, b) => a.date < b.date ? 1 : -1);
     }
     function filtered(){
-      return items.filter(it => (filter === '전체' || it.series === filter || it.source === filter) && (!q || it.title.toLowerCase().includes(q)));
+      const rows = items.filter(it => (filter === '전체' || it.series === filter || it.source === filter) && (!q || it.title.toLowerCase().includes(q)));
+      return (filter === '전체' && !q) ? window.SNB_ORDER(rows) : rows;   // 기본 화면만 윤성임 중심 순서, 분류·검색은 최신순
     }
     function render(){
       const rows = filtered();
