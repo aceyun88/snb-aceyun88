@@ -46,11 +46,7 @@
     .fzlabel{font-size:12px;font-weight:800;color:var(--gray);margin-right:2px}
     .fzbtn{border:1.5px solid var(--line);background:#fff;color:var(--navy);border-radius:999px;font-weight:800;font-size:12px;padding:4px 9px;cursor:pointer;font-family:inherit;line-height:1}
     .fzbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
-    .fz-head{margin-left:4px}
-    .fz-head .fzlabel{display:none}
-    .fz-head .fzbtn{padding:4px 7px}
-    .fz-float{display:none;background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:999px;padding:4px 8px;box-shadow:0 8px 20px rgba(0,0,0,.12)}
-    @media(max-width:920px){.fz-head{display:none}.fz-float{display:inline-flex}}
+    .fz-float{display:inline-flex;background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:999px;padding:4px 8px;box-shadow:0 8px 20px rgba(0,0,0,.12)}
     .topbar{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
     .nav{height:78px;display:flex;align-items:center;justify-content:space-between;gap:20px}
     .logo{font-weight:900;color:var(--navy);font-size:20px;letter-spacing:-.04em}
@@ -59,6 +55,7 @@
     .nav-links a{white-space:nowrap}
     .nav-links a:not(.nav-bridge){padding:10px 12px;border-radius:999px;transition:background .15s,color .15s}
     .nav-links a:not(.nav-bridge):hover{color:var(--blue)}
+    .nav-bridge{flex:none}
     .nav .btn-primary{padding:11px 18px;font-size:15.5px;white-space:nowrap;flex:none}
     .topbar .container{width:min(1260px,94%)}
     .logo{flex:none}
@@ -388,7 +385,6 @@
         <a href="#ainews">AI 소식</a>
         <a class="nav-bridge" href="https://snb-k-bridge.netlify.app/" target="_blank" rel="noopener" title="PK-PDCA 브릿지 학습 플랫폼 — 새 창에서 열립니다">PK-PDCA 브릿지</a>
       </nav>
-      <div class="fzwrap fz-head" role="group" aria-label="글자 크기 조절"><span class="fzlabel">글자 크기</span><button type="button" class="fzbtn" data-fz="0">보통</button><button type="button" class="fzbtn" data-fz="1">크게</button><button type="button" class="fzbtn" data-fz="2">최대</button></div>
       <a class="btn btn-primary" href="#apply">강의요청</a>
     </div>
   </header>
