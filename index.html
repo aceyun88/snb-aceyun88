@@ -41,6 +41,14 @@
     body{margin:0;font-family:'Pretendard','Noto Sans KR',Arial,sans-serif;color:var(--text);background:#fff;line-height:1.6}
     a{text-decoration:none;color:inherit}
     .container{width:min(1120px,92%);margin:0 auto}
+    body{zoom:var(--fz,1)}
+    .fzwrap{display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+    .fzlabel{font-size:12px;font-weight:800;color:var(--gray);margin-right:2px}
+    .fzbtn{border:1.5px solid var(--line);background:#fff;color:var(--navy);border-radius:999px;font-weight:800;font-size:12px;padding:4px 9px;cursor:pointer;font-family:inherit;line-height:1}
+    .fzbtn.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+    .fz-head{margin-left:4px}
+    .fz-float{display:none;background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:999px;padding:4px 8px;box-shadow:0 8px 20px rgba(0,0,0,.12)}
+    @media(max-width:920px){.fz-head{display:none}.fz-float{display:inline-flex}}
     .topbar{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
     .nav{height:78px;display:flex;align-items:center;justify-content:space-between;gap:20px}
     .logo{font-weight:900;color:var(--navy);font-size:20px;letter-spacing:-.04em}
@@ -318,7 +326,7 @@
     .gal-grid img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block;background:var(--light)}
     .gal-grid figcaption{padding:8px 12px;font-size:13px;color:var(--gray)}
     .client-wall{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
-    .client-wall a{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13px;font-weight:800;color:var(--navy);text-decoration:none}
+    .client-wall a,.client-wall span{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13px;font-weight:800;color:var(--navy);text-decoration:none}
     .client-wall a img{height:22px;width:auto;max-width:90px;object-fit:contain}
     .client-wall a small{font-weight:700;color:var(--gray)}
     .press-title{margin:34px 0 0;font-size:18px;color:var(--navy)}
@@ -355,6 +363,10 @@
     .ask-note{font-size:12px;color:var(--gray)}
     @media(max-width:640px){.ainews,.books{padding:52px 0}.day-list summary{grid-template-columns:1fr;gap:4px}.ask-fab{padding:12px 14px;font-size:14px;bottom:14px;right:14px}.floating{right:14px;bottom:76px}.ask-panel{right:12px;bottom:74px}}
 </style>
+  <script>
+  /* 글자 크기 — 보통·크게·최대 3단계, 기본은 크게(PK-PDCA 브릿지와 같은 규칙). 기기에 기억한다. 화면 전체를 zoom으로 키워 px 크기 설계를 그대로 쓴다 */
+  (function(){ var S=[1,1.15,1.3], lv=1; try{ var v=Number(localStorage.getItem('snb_fz')); if([0,1,2].indexOf(v)>=0) lv=v; }catch(e){} document.documentElement.style.setProperty('--fz', S[lv]); document.documentElement.dataset.fz=lv; })();
+  </script>
 </head>
 <body>
   <a class="skip" href="#main">본문으로 건너뛰기</a>
@@ -374,6 +386,7 @@
         <a href="#ainews">AI 소식</a>
         <a class="nav-bridge" href="https://snb-k-bridge.netlify.app/" target="_blank" rel="noopener" title="PK-PDCA 브릿지 학습 플랫폼 — 새 창에서 열립니다">PK-PDCA 브릿지</a>
       </nav>
+      <div class="fzwrap fz-head" role="group" aria-label="글자 크기 조절"><span class="fzlabel">글자 크기</span><button type="button" class="fzbtn" data-fz="0">보통</button><button type="button" class="fzbtn" data-fz="1">크게</button><button type="button" class="fzbtn" data-fz="2">최대</button></div>
       <a class="btn btn-primary" href="#apply">강의 문의하기</a>
     </div>
   </header>
@@ -745,11 +758,23 @@
   </footer>
 
   <div class="floating">
+    <div class="fzwrap fz-float" role="group" aria-label="글자 크기 조절"><span class="fzlabel">글자 크기</span><button type="button" class="fzbtn" data-fz="0">보통</button><button type="button" class="fzbtn" data-fz="1">크게</button><button type="button" class="fzbtn" data-fz="2">최대</button></div>
     <a class="btn btn-gold" href="#apply">신청하기</a>
     <a class="btn btn-primary" href="tel:01027775004">전화문의</a>
   </div>
 
 
+  <script>
+  /* 글자 크기 단추 — 누르면 --fz를 바꾸고 기기에 저장한다 */
+  (function(){
+    var S=[1,1.15,1.3];
+    var btns=document.querySelectorAll('.fzbtn');
+    function paint(lv){ btns.forEach(function(b){ b.classList.toggle('on', Number(b.dataset.fz)===lv); b.setAttribute('aria-pressed', Number(b.dataset.fz)===lv ? 'true' : 'false'); }); }
+    function set(lv){ document.documentElement.style.setProperty('--fz', S[lv]); document.documentElement.dataset.fz=lv; try{ localStorage.setItem('snb_fz', String(lv)); }catch(e){} paint(lv); }
+    btns.forEach(function(b){ b.addEventListener('click', function(){ set(Number(b.dataset.fz)); }); });
+    paint(Number(document.documentElement.dataset.fz || 1));
+  })();
+  </script>
   <script>
   /* 데이터는 GitHub 저장소(main)에서 먼저 읽는다 — 자동 수집(칼럼·기사·AI 소식 매주 월요일, 저서 매달 1일)이 저장소만 갱신하므로 배포 없이도 최신이다. 실패하면 배포된 파일로 */
   const RAW = 'https://raw.githubusercontent.com/aceyun88/snb-aceyun88/main/';
