@@ -26,6 +26,14 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch-ai-daily.py || echo "ai-daily failed"
+      - name: 오늘의 AI 소식 알림 — 텔레그램·이메일 (비밀값이 있을 때만)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python scripts/notify-daily.py || echo "notify failed"
       - name: 칼럼·뉴스 (매주 월요일, 수동 실행 시에도)
         if: steps.day.outputs.monday == 'yes' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch-news.py || echo "news failed"
