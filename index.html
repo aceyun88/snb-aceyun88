@@ -95,6 +95,18 @@
     .process{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
     .step{background:#fff;border:1px solid var(--line);border-radius:24px;padding:24px;text-align:center;box-shadow:0 10px 28px rgba(6,27,58,.06)}
     .step b{display:inline-flex;width:42px;height:42px;border-radius:50%;background:var(--navy);color:#fff;align-items:center;justify-content:center;margin-bottom:14px}
+    /* 카드 색 구분 — PK-PDCA 브릿지 6영역 카드와 같은 팔레트. 카드마다 위쪽 색 띠 + 번호·아이콘 색 */
+    :root{--c1:#C7381F;--c2:#1D63C7;--c3:#B0508C;--c4:#228B5E;--c5:#1B2A6B;--c6:#9A7532}
+    .trust-card:nth-child(1){--c:var(--c1)}.trust-card:nth-child(2){--c:var(--c2)}.trust-card:nth-child(3){--c:var(--c3)}.trust-card:nth-child(4){--c:var(--c4)}
+    .trust-card{border-top:4px solid var(--c,var(--line))}.trust-card strong{color:var(--c,var(--navy))}
+    .mini:nth-child(1){--c:var(--c1)}.mini:nth-child(2){--c:var(--c2)}.mini:nth-child(3){--c:var(--c3)}.mini:nth-child(4){--c:var(--c4)}
+    .mini{border-left:4px solid var(--c,var(--line))}
+    .course:nth-child(1){--c:var(--c1)}.course:nth-child(2){--c:var(--c2)}.course:nth-child(3){--c:var(--c3)}.course:nth-child(4){--c:var(--c4)}.course:nth-child(5){--c:var(--c5)}.course:nth-child(6){--c:var(--c6)}
+    .course{border-top:4px solid var(--c,var(--line))}.course .num{color:var(--c,var(--gold))}
+    .feature:nth-child(1){--c:var(--c1)}.feature:nth-child(2){--c:var(--c2)}.feature:nth-child(3){--c:var(--c3)}.feature:nth-child(4){--c:var(--c4)}
+    .feature{border-top:4px solid var(--c,var(--line))}.feature .icon{background:color-mix(in srgb,var(--c,var(--navy)) 12%,#fff)}
+    .step:nth-child(1){--c:var(--c1)}.step:nth-child(2){--c:var(--c2)}.step:nth-child(3){--c:var(--c3)}.step:nth-child(4){--c:var(--c4)}
+    .step{border-top:4px solid var(--c,var(--line))}.step b{background:var(--c,var(--navy))}
     .proof-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}
     .proof{border-radius:28px;background:linear-gradient(135deg,var(--navy),#0b3b77);color:#fff;padding:34px;box-shadow:var(--shadow)}
     .proof h3{font-size:28px;margin:0 0 14px;color:#fff}
