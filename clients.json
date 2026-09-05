@@ -2396,6 +2396,126 @@
    "show": true,
    "source": "calendar",
    "field": "언론"
+  },
+  {
+   "name": "김포시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "경상북도농업기술원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "상주시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "칠곡군농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "남양주시농업기술센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "농업"
+  },
+  {
+   "name": "경기도평생교육진흥원",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "한국관광공사",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "한국거래소",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "기업"
+  },
+  {
+   "name": "KAIST",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "대학"
+  },
+  {
+   "name": "이천·판교·여주 일자리센터",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "수원시",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
+  },
+  {
+   "name": "의정부시",
+   "count": 0,
+   "latest": "",
+   "articles": [],
+   "logo": "",
+   "show": true,
+   "source": "calendar",
+   "field": "공공"
   }
  ]
 }
