@@ -130,6 +130,15 @@ def official_rss():
         except Exception as e:
             print('skip', name, repr(e)[:100], file=sys.stderr)
 
+MONTHS = {m: i for i, m in enumerate(['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], 1)}
+def page_date(url):
+    """글 페이지 본문에 적힌 'Jul 24, 2026' 꼴 날짜 — 메타 태그가 없는 앤트로픽 뉴스용"""
+    try:
+        m = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* (\d{1,2}), (20\d{2})', text(url))
+        return datetime.datetime(int(m.group(3)), MONTHS[m.group(1)], int(m.group(2)), 9, tzinfo=KST) if m else None
+    except Exception:
+        return None
+
 def anthropic_news(prev_urls):
     """앤트로픽은 RSS가 없어 뉴스 목록 페이지의 글 주소를 읽고, 전에 본 적 없는 글만 새 글로 친다(글 페이지의 발행일로 확인)"""
     try:
@@ -145,9 +154,9 @@ def anthropic_news(prev_urls):
         if u in prev_urls: continue
         title = og(u, 'og:title')
         if not title: continue
-        at = when(og(u, 'article:published_time')) or None
+        at = when(og(u, 'article:published_time')) or page_date(u)
         if at and at < SINCE: continue
-        if not at and n >= 3: break            # 날짜를 못 읽으면 앞쪽 3건까지만 새 글로 본다
+        if not at: continue                    # 날짜를 못 읽은 글은 새 글로 치지 않는다(옛 글이 섞이는 것을 막는다)
         add(1, '앤트로픽 공식', re.sub(r'\s*\\\s*Anthropic$', '', title), u, at or NOW, cut(og(u, 'og:description'), 200), 'en')
         n += 1
         if n >= 6: break
