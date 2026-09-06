@@ -45,3 +45,9 @@
   for = "/favicon.svg"
   [headers.values]
     Cache-Control = "public, max-age=604800"
+
+# 강의 홍보 페이지(events/)는 링크를 받은 사람만 본다 — 검색 색인 금지 헤더(페이지의 noindex 메타와 이중)
+[[headers]]
+  for = "/events/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

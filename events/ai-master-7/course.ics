@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//소셜앤비즈//강의 안내//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:KST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ai-master-7-course-2026@snb-aceyun88.netlify.app
+DTSTAMP:20260906T000000Z
+DTSTART;TZID=Asia/Seoul:20260930T183000
+DTEND;TZID=Asia/Seoul:20260930T203000
+RRULE:FREQ=WEEKLY;BYDAY=WE;COUNT=10
+SUMMARY:제7기 생성형 AI 실전 마스터 과정 (10주)
+DESCRIPTION:매주 수요일 18:30~20:30 · 총 10회 · 오프라인+온라인(Zoom) 병행\n8강 11/18 바이브코딩 및 AI 에이전트 입문 — 윤성임 박사\n일정표·신청: https://snb-aceyun88.netlify.app/events/ai-master-7/
+LOCATION:천도교 수운회관 1303호 위데이터랩 강의실 (서울 종로구 삼일대로 457)
+URL:https://snb-aceyun88.netlify.app/events/ai-master-7/
+END:VEVENT
+END:VCALENDAR
