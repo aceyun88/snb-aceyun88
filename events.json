@@ -1,0 +1,20 @@
+{
+  "updated": "2026-09-06",
+  "_안내": "강의·행사 안내 카드 = 항목 하나. url은 홈페이지 안 홍보 페이지(events/<slug>/) 또는 바깥 주소. thumb는 1200×630 OG 이미지 경로. start·end는 YYYY-MM-DD(예정·진행 중·완료 배지를 자동 계산). visibility가 \"link\"면 목록에 안 나오고 운영자 기기(?admin=1)에서만 보인다. role은 박사님 역할(예: 8강 강사). 항목이 하나라도 있으면 홈페이지 '강의·행사 안내' 구역과 메뉴가 나타난다. 만드는 법은 스킬 snb-lecture-promo, 대장은 snb-k-bridge/docs/promos-ledger.csv.",
+  "items": [
+    {
+      "slug": "ai-master-7",
+      "title": "제7기 생성형 AI 실전 마스터 과정 · 9/8(화) 무료 공개특강",
+      "subtitle": "사전 신청 없이 Zoom으로 바로 입장. 10주 과정(9/30~12/2, 매주 수) 핵심을 2시간에 미리 봅니다.",
+      "url": "events/ai-master-7/",
+      "thumb": "events/ai-master-7/og.png",
+      "start": "2026-09-08",
+      "end": "2026-12-02",
+      "dateLabel": "2026. 9. 8(화) 20:00 특강 · 9/30~12/2 본 과정",
+      "org": "동북아공동체ICT포럼",
+      "role": "8강 강사",
+      "visibility": "public",
+      "tags": ["무료 특강", "생성형 AI", "바이브코딩"]
+    }
+  ]
+}
