@@ -33,6 +33,8 @@
       --c1:#C7381F; --c2:#1D63C7; --c3:#B0508C; --c4:#228B5E; --c5:#1B2A6B; --c6:#9A7532;
       --shadow:0 18px 45px rgba(6,27,58,.12);
       --fz:1.15;
+      /* 홍보 전용 팔레트(스킬 snb-lecture-promo) — 홈페이지 토큰과 별개. 머리 화면·숫자·배지에만 쓴다 */
+      --promo-deep:#071A3F; --promo-blue:#0E2F7A; --promo-sky:#5FD3FF; --promo-orange:#FF8A2A; --promo-yellow:#FFD166;
     }
     *{box-sizing:border-box}
     html{scroll-behavior:smooth}
@@ -57,12 +59,20 @@
     .btn-sm{padding:9px 14px;min-height:40px;font-size:14.5px}
     .nav .btn{padding:10px 16px;min-height:42px;font-size:15px;white-space:nowrap}
     /* 머리 */
-    .hero{background:radial-gradient(circle at 85% 10%,#173e7a 0,var(--navy) 45%,#04122a 100%);color:#fff;padding:52px 0 44px;position:relative;overflow:hidden}
-    .hero::after{content:"";position:absolute;inset:auto -10% -40% auto;width:520px;height:520px;border-radius:50%;border:1px solid rgba(201,146,46,.35);pointer-events:none}
-    .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:34px;align-items:start}
-    .over{display:inline-flex;gap:8px;align-items:center;font-weight:900;font-size:14px;letter-spacing:.02em;color:#ffd8b5;background:rgba(232,100,10,.18);border:1px solid rgba(255,216,181,.35);border-radius:999px;padding:7px 13px;margin-bottom:18px}
+    .hero{background:radial-gradient(circle at 78% 18%,rgba(95,211,255,.28) 0,transparent 32%),radial-gradient(circle at 12% 88%,rgba(255,138,42,.28) 0,transparent 36%),linear-gradient(135deg,var(--promo-blue) 0%,var(--promo-deep) 55%,#040F2B 100%);color:#fff;padding:48px 0 40px;position:relative;overflow:hidden}
+    .hero::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.05) 1px,transparent 1px);background-size:48px 48px;mask-image:radial-gradient(circle at 70% 30%,#000 0,transparent 70%);pointer-events:none}
+    .hero::after{content:"";position:absolute;inset:auto -8% -36% auto;width:560px;height:560px;border-radius:50%;border:1px solid rgba(95,211,255,.35);pointer-events:none}
+    .hero .container{position:relative}
+    .hero-poster{margin:0;justify-self:end;width:min(100%,400px);border-radius:18px;overflow:hidden;box-shadow:0 30px 60px rgba(0,0,0,.45),0 0 0 1px rgba(95,211,255,.35);transform:rotate(1.2deg)}
+    .hero-poster img{width:100%;height:auto;display:block}
+    .info.wide{margin-top:26px;display:grid;grid-template-columns:1.4fr 1fr;gap:18px 26px;align-items:start;border-top-color:var(--promo-orange)}
+    .info.wide .k{grid-column:1/-1;margin-bottom:0}
+    .info.wide dl{grid-template-columns:auto 1fr}
+    .info.wide .tools{margin-top:0;grid-template-columns:1fr 1fr}
+    .hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:center}
+    .over{display:inline-flex;gap:8px;align-items:center;font-weight:900;font-size:14px;letter-spacing:.02em;color:var(--promo-sky);background:rgba(95,211,255,.12);border:1px solid rgba(95,211,255,.45);border-radius:999px;padding:7px 13px;margin-bottom:18px}
     .hero h1{font-size:40px;line-height:1.2;margin:0 0 14px;letter-spacing:-.045em}
-    .hero h1 em{font-style:normal;color:#FFB36B}
+    .hero h1 em{font-style:normal;color:var(--promo-yellow);text-shadow:0 2px 18px rgba(255,209,102,.35)}
     .hero .lead{font-size:18.5px;color:#d5deea;margin:0 0 22px;max-width:560px}
     .hero .lead b{color:#fff}
     .chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
@@ -81,7 +91,7 @@
     .start-box{background:rgba(255,255,255,.08);border:1.5px solid rgba(255,179,107,.55);border-left:6px solid #F07A2A;border-radius:16px;padding:14px 18px;margin-bottom:20px;max-width:560px}
     .start-box .k{font-size:13px;font-weight:900;letter-spacing:.06em;color:#ffd8b5}
     .start-box .v{font-size:24px;font-weight:900;letter-spacing:-.02em;margin-top:2px}
-    .start-box .v em{font-style:normal;color:#FFB36B;font-size:30px}
+    .start-box .v em{font-style:normal;color:var(--promo-yellow);font-size:30px}
     .start-box .s{font-size:14.5px;color:#d5deea;margin-top:4px}
     .poster-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
     .poster-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 28px rgba(6,27,58,.06)}
@@ -177,6 +187,8 @@
     @media(max-width:860px){
       .anchors{display:none}
       .hero-grid,.two,.price,.contact{grid-template-columns:1fr}
+      .hero-poster{justify-self:center;transform:none;width:min(100%,360px)}
+      .info.wide{grid-template-columns:1fr}
       .hero h1{font-size:31px}
       .facts{grid-template-columns:1fr}
       .me8{grid-template-columns:1fr}
@@ -252,7 +264,10 @@
           </div>
           <p class="note">Zoom 앱이 없으면 링크를 연 뒤 "브라우저에서 참가"를 고르면 됩니다. 입장 이름은 실명 또는 닉네임 어느 쪽이든 괜찮습니다.</p>
         </div>
-        <aside class="info" aria-label="특강 정보">
+        <figure class="hero-poster"><a href="poster-1.jpg" target="_blank" rel="noopener"><img src="poster-1.jpg" alt="무료 공개특강 안내 포스터" onerror="this.closest('figure').hidden=true"></a></figure>
+      </div>
+      <div class="container">
+        <aside class="info wide" aria-label="특강 정보">
           <div class="k">무료 공개특강 정보</div>
           <dl>
             <dt>일시</dt><dd class="hi"><b>2026년 9월 8일(화) 20:00 ~ 22:00</b><small>2시간</small></dd>
