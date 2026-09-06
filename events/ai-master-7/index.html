@@ -77,6 +77,22 @@
     .info dd{margin:0}
     .info dd small{display:block;color:var(--gray);font-size:14px;margin-top:2px}
     .info .free{display:inline-block;background:var(--orange-bg);color:#B24A05;font-weight:900;border-radius:8px;padding:2px 8px}
+    .info dd.hi b{color:#D9560A;font-size:17.5px}
+    .start-box{background:rgba(255,255,255,.08);border:1.5px solid rgba(255,179,107,.55);border-left:6px solid #F07A2A;border-radius:16px;padding:14px 18px;margin-bottom:20px;max-width:560px}
+    .start-box .k{font-size:13px;font-weight:900;letter-spacing:.06em;color:#ffd8b5}
+    .start-box .v{font-size:24px;font-weight:900;letter-spacing:-.02em;margin-top:2px}
+    .start-box .v em{font-style:normal;color:#FFB36B;font-size:30px}
+    .start-box .s{font-size:14.5px;color:#d5deea;margin-top:4px}
+    .poster-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .poster-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 28px rgba(6,27,58,.06)}
+    .poster-grid img{width:100%;height:auto;display:block}
+    .poster-grid figcaption{padding:10px 12px;font-size:14px;font-weight:800;color:var(--navy)}
+    .qr-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
+    .qr{display:flex;gap:14px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px}
+    .qr img{width:120px;height:120px;flex:none;border:1px solid var(--line);border-radius:8px}
+    .qr b{display:block;color:var(--navy);font-size:16px}
+    .qr span{font-size:13.5px;color:var(--gray);word-break:break-all}
+    @media(max-width:860px){.poster-grid,.qr-grid{grid-template-columns:1fr}.start-box .v{font-size:20px}.start-box .v em{font-size:26px}}
     .tools{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:16px}
     .tools .btn{padding:10px 12px;min-height:44px;font-size:14.5px}
     /* 본문 */
@@ -200,24 +216,27 @@
           <h1>생성형 AI 실전 마스터 과정 제7기,<br/><em>9월 8일(화) 저녁 8시</em> 무료 특강으로 먼저 보세요</h1>
           <p class="lead"><b>10주 과정의 핵심을 2시간에 미리 봅니다.</b> 이론이 아니라 내일 바로 업무에 쓰는 시연 중심 특강이며, 본 과정 안내와 질의응답이 함께 진행됩니다.</p>
           <div class="chips">
-            <span class="chip dday" id="dday">D-day 계산 중</span>
             <span class="chip">참가비 무료</span>
             <span class="chip">Zoom 링크로 바로 입장</span>
-            <span class="chip">8강 강사 윤성임 박사</span>
+          </div>
+          <div class="start-box">
+            <div class="k">본 과정 개강</div>
+            <div class="v">2026년 <em>9월 30일(수)</em> 저녁 6시 30분</div>
+            <div class="s">매주 수요일 · 10회 · 12월 2일 수료 · 선착순 40명 · 오프라인(서울 종로) + 온라인(Zoom)</div>
           </div>
           <div class="actions">
+            <a class="btn btn-orange" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">📝 본 과정 신청</a>
             <a class="btn btn-orange" href="https://us06web.zoom.us/j/82664642443?pwd=FOlfDuT0bhkKjunaN6GXRPtCz7uXsI.1" target="_blank" rel="noopener">▶ 9/8 무료 특강 입장</a>
             <a class="btn btn-ghost" href="#schedule">10주 일정 보기</a>
-            <a class="btn btn-ghost" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">본 과정 신청</a>
           </div>
           <p class="note">Zoom 앱이 없으면 링크를 연 뒤 "브라우저에서 참가"를 고르면 됩니다. 입장 이름은 실명 또는 닉네임 어느 쪽이든 괜찮습니다.</p>
         </div>
         <aside class="info" aria-label="특강 정보">
           <div class="k">무료 공개특강 정보</div>
           <dl>
-            <dt>일시</dt><dd><b>2026년 9월 8일(화) 20:00 ~ 22:00</b><small>2시간</small></dd>
-            <dt>방식</dt><dd>온라인 LIVE(Zoom)<small>사전 신청 없이 링크로 입장</small></dd>
-            <dt>강사</dt><dd>이신우 대표(두온출판사 · 미래이음연구소)<br/>김유성 소장(AI콘텐츠마케팅연구소)</dd>
+            <dt>일시</dt><dd class="hi"><b>2026년 9월 8일(화) 20:00 ~ 22:00</b><small>2시간</small></dd>
+            <dt>방식</dt><dd class="hi"><b>온라인 LIVE(Zoom)</b><small>사전 신청 없이 링크로 입장</small></dd>
+            <dt>강사</dt><dd>김유성 소장(AI콘텐츠마케팅연구소)<br/>이신우 대표(두온출판사 · 미래이음연구소)</dd>
             <dt>참가비</dt><dd><span class="free">무료</span></dd>
             <dt>주최</dt><dd>사단법인 동북아공동체ICT포럼</dd>
           </dl>
@@ -356,7 +375,7 @@
         <div class="eyebrow">신청 · 문의</div>
         <h2>본 과정 신청은 구글폼, 특강은 Zoom으로 바로</h2>
         <div class="actions" style="margin-bottom:22px">
-          <a class="btn btn-primary" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">📝 제7기 수강 신청(구글폼)</a>
+          <a class="btn btn-orange" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">📝 제7기 수강 신청(구글폼)</a>
           <a class="btn btn-orange" href="https://us06web.zoom.us/j/82664642443?pwd=FOlfDuT0bhkKjunaN6GXRPtCz7uXsI.1" target="_blank" rel="noopener">▶ 9/8 무료 특강 입장</a>
           <button class="btn btn-outline noprint" type="button" onclick="window.print()">🖨 인쇄 · PDF 저장</button>
         </div>
@@ -377,7 +396,24 @@
       </div>
     </section>
 
-    <section id="me">
+    <section id="poster">
+      <div class="container">
+        <div class="eyebrow">공유용 포스터 · QR</div>
+        <h2>포스터를 저장해 나누고, QR로 바로 입장·신청</h2>
+        <p class="sub">포스터를 길게 눌러 저장하거나 인쇄해 쓰세요. QR을 휴대전화 카메라로 비추면 Zoom 입장과 수강 신청으로 바로 갑니다.</p>
+        <div class="poster-grid">
+          <figure><a href="poster-1.jpg" target="_blank" rel="noopener"><img src="poster-1.jpg" alt="무료 공개특강 안내 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>① 무료 공개특강 안내</figcaption></figure>
+          <figure><a href="poster-2.jpg" target="_blank" rel="noopener"><img src="poster-2.jpg" alt="10주 일정표 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>② 10주 일정표</figcaption></figure>
+          <figure><a href="poster-3.jpg" target="_blank" rel="noopener"><img src="poster-3.jpg" alt="제7기 과정 상세 안내 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>③ 과정 상세 안내</figcaption></figure>
+        </div>
+        <div class="qr-grid">
+          <div class="qr"><img src="qr-zoom.png" alt="Zoom 입장 QR" width="120" height="120"><div><b>9/8 무료 특강 Zoom 입장</b><span>카메라로 비추면 바로 입장 · 사전 신청 없음</span></div></div>
+          <div class="qr"><img src="qr-form.png" alt="수강 신청 QR" width="120" height="120"><div><b>제7기 본 과정 수강 신청</b><span>구글폼 · forms.gle/CTKrsm2AhafPYErs7</span></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="me" class="alt">
       <div class="container">
         <div class="me8">
           <div>
@@ -403,7 +439,7 @@
   </footer>
   <div class="mobilebar noprint" aria-label="빠른 이동">
     <a class="btn btn-orange" href="https://us06web.zoom.us/j/82664642443?pwd=FOlfDuT0bhkKjunaN6GXRPtCz7uXsI.1" target="_blank" rel="noopener">▶ 9/8 무료 특강 입장</a>
-    <a class="btn btn-outline" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">본 과정 신청</a>
+    <a class="btn btn-orange" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">📝 본 과정 신청</a>
   </div>
   <div class="toast" id="toast" role="status"></div>
 
@@ -416,17 +452,6 @@
     function set(lv){ document.documentElement.style.setProperty('--fz', S[lv]); document.documentElement.dataset.fz=lv; try{ localStorage.setItem('snb_fz', String(lv)); }catch(e){} paint(lv); }
     btns.forEach(function(b){ b.addEventListener('click', function(){ set(Number(b.dataset.fz)); }); });
     paint(Number(document.documentElement.dataset.fz||1));
-
-    // D-day 칩 — 압박 없이 남은 날만 (기준 KST)
-    var el=document.getElementById('dday');
-    var start=new Date('2026-09-08T20:00:00+09:00'), end=new Date('2026-09-08T22:00:00+09:00'), now=new Date();
-    var days=Math.ceil((start-now)/86400000);
-    var txt;
-    if(now>end) txt='특강 종료 · 본 과정 9/30 개강';
-    else if(now>=start) txt='지금 진행 중 · 입장 가능';
-    else if(days<=0) txt='오늘 저녁 8시';
-    else txt='D-'+days+' · 9월 8일(화)';
-    el.textContent=txt;
 
     // 링크 복사
     var toast=document.getElementById('toast'), t;
