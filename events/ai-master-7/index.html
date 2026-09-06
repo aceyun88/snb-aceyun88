@@ -87,6 +87,12 @@
     .poster-grid figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 28px rgba(6,27,58,.06)}
     .poster-grid img{width:100%;height:auto;display:block}
     .poster-grid figcaption{padding:10px 12px;font-size:14px;font-weight:800;color:var(--navy)}
+    .inline-posters{display:grid;gap:16px;margin-top:22px}
+    .inline-posters.one{grid-template-columns:minmax(0,460px);justify-content:center}
+    .inline-posters.two{grid-template-columns:repeat(2,minmax(0,460px));justify-content:center}
+    .inline-posters figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 28px rgba(6,27,58,.06)}
+    .inline-posters img{width:100%;height:auto;display:block}
+    .inline-posters figcaption{padding:10px 12px;font-size:14px;font-weight:800;color:var(--navy);text-align:center}
     .qr-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
     .qr{display:flex;gap:14px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px}
     .qr img{width:120px;height:120px;flex:none;border:1px solid var(--line);border-radius:8px}
@@ -94,7 +100,7 @@
     .qr span{display:block;font-size:13.5px;color:var(--gray);word-break:break-all}
     .qr .qr-link{margin-top:4px;color:var(--blue);font-weight:800;text-decoration:underline;text-underline-offset:3px}
     .qr:hover{border-color:var(--blue);box-shadow:0 10px 24px rgba(6,27,58,.10)}
-    @media(max-width:860px){.poster-grid,.qr-grid{grid-template-columns:1fr}.start-box .v{font-size:20px}.start-box .v em{font-size:26px}}
+    @media(max-width:860px){.poster-grid,.qr-grid,.inline-posters.two{grid-template-columns:1fr}.inline-posters.one{grid-template-columns:1fr}.start-box .v{font-size:20px}.start-box .v em{font-size:26px}}
     .tools{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:16px}
     .tools .btn{padding:10px 12px;min-height:44px;font-size:14.5px}
     /* 본문 */
@@ -281,6 +287,9 @@
             </ul>
           </article>
         </div>
+        <div class="inline-posters one">
+          <figure><a href="poster-1.jpg" target="_blank" rel="noopener"><img src="poster-1.jpg" alt="무료 공개특강 안내 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>무료 공개특강 안내 포스터 · 누르면 크게 보고 저장할 수 있습니다</figcaption></figure>
+        </div>
       </div>
     </section>
 
@@ -336,6 +345,10 @@
           </table>
         </div>
         <p class="muted" style="margin-top:12px">매 강의는 온라인(Zoom) 수업을 병행합니다. 강사진 사정 등으로 일정과 강사진이 바뀔 수 있습니다.</p>
+        <div class="inline-posters two">
+          <figure><a href="poster-2.jpg" target="_blank" rel="noopener"><img src="poster-2.jpg" alt="10주 일정표 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>② 10주 일정표</figcaption></figure>
+          <figure><a href="poster-3.jpg" target="_blank" rel="noopener"><img src="poster-3.jpg" alt="제7기 과정 상세 안내 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>③ 과정 상세 안내(주최·장소·수강료·수료 혜택)</figcaption></figure>
+        </div>
         <div class="actions noprint" style="margin-top:16px">
           <a class="btn btn-outline btn-sm" href="course.ics" download="ai-master-7-course.ics">🗓 10주 일정 파일(.ics)</a>
           <a class="btn btn-outline btn-sm" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=%EC%A0%9C7%EA%B8%B0%20%EC%83%9D%EC%84%B1%ED%98%95%20AI%20%EC%8B%A4%EC%A0%84%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EA%B3%BC%EC%A0%95&dates=20260930T183000/20260930T203000&recur=RRULE:FREQ%3DWEEKLY;COUNT%3D10&details=%EC%95%88%EB%82%B4%3A%20https%3A%2F%2Fsnb-aceyun88.netlify.app%2Fevents%2Fai-master-7%2F&location=%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%82%BC%EC%9D%BC%EB%8C%80%EB%A1%9C%20457%20%EC%88%98%EC%9A%B4%ED%9A%8C%EA%B4%80%201303%ED%98%B8&ctz=Asia%2FSeoul" target="_blank" rel="noopener">📅 구글 캘린더에 10회 추가</a>
