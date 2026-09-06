@@ -27,7 +27,7 @@
 
 "미확인"은 박사님 계정 화면에서만 볼 수 있어 AI가 확인하지 못한 칸이다. 켠 날짜를 이 표에 적는다.
 
-## 4. 연락처 표시를 바꿀 자리 (aceyun88@naver.com → aceyun88@gmail.com)
+## 4. 연락처 표시를 바꾼 자리 (aceyun88@naver.com → aceyun88@gmail.com · 2026-09-06 코드 반영 완료, 배포는 모아서)
 | 저장소 | 파일 | 자리 | 배포 |
 |---|---|---|---|
 | snb-aceyun88 | index.html | 구조화 데이터 Person·Organization 2곳, 강의 문의 mailto, 바닥글 | 프로덕션 15크레딧 |
