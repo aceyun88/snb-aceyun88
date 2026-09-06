@@ -106,7 +106,15 @@
     /* 본문 */
     section{padding:56px 0}
     section.alt{background:var(--light)}
-    .eyebrow{color:var(--gold-ink);font-weight:900;font-size:14px;letter-spacing:.06em;margin-bottom:8px}
+    .eyebrow{color:var(--gold-ink);font-weight:900;font-size:16px;letter-spacing:.04em;margin-bottom:8px}
+    h2 em{font-style:normal;color:#D9560A;background:linear-gradient(transparent 62%,#FFE3B8 62%)}
+    .stats{background:#fff;border-bottom:1px solid var(--line)}
+    .stats .container{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:22px 0}
+    .stat{display:flex;gap:12px;align-items:center;background:var(--light);border:1px solid var(--line);border-radius:16px;padding:14px 16px}
+    .stat i{font-style:normal;font-size:26px;flex:none}
+    .stat b{display:block;font-size:22px;color:var(--navy);letter-spacing:-.02em;line-height:1.15}
+    .stat b em{font-style:normal;color:#D9560A}
+    .stat span{font-size:14px;color:var(--gray);font-weight:700}
     h2{font-size:30px;line-height:1.25;color:var(--navy);letter-spacing:-.04em;margin:0 0 10px}
     .sub{color:var(--gray);font-size:17px;margin:0 0 26px;max-width:720px}
     .two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
@@ -120,8 +128,9 @@
     .checks li::before{content:"✓";position:absolute;left:0;top:0;color:var(--c,var(--c4));font-weight:900}
     .facts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
     .fact{background:#fff;border:1px solid var(--line);border-radius:20px;padding:18px;border-left:5px solid var(--c)}
-    .fact .k{font-size:13.5px;font-weight:900;color:var(--gray);letter-spacing:.04em}
-    .fact .v{font-size:18px;font-weight:900;color:var(--navy);margin-top:4px;line-height:1.35}
+    .fact .k{font-size:15px;font-weight:900;color:var(--c);letter-spacing:.02em;display:flex;align-items:center;gap:8px}
+    .fact .k i{font-style:normal;font-size:22px;line-height:1}
+    .fact .v{font-size:19px;font-weight:900;color:var(--navy);margin-top:6px;line-height:1.4}
     .fact .v small{display:block;font-weight:600;color:var(--gray);font-size:14px;margin-top:4px}
     /* 일정표 */
     .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:18px;background:#fff}
@@ -132,7 +141,9 @@
     td.n small{display:block;font-weight:700;color:var(--gray)}
     td .t{font-weight:900;color:var(--text)}
     td .w{color:var(--gray);font-size:14.5px}
-    tr.me td{background:var(--orange-bg)}
+    tbody tr:nth-child(odd) td{background:#F4F7FB}
+    tbody tr:nth-child(even) td{background:#FBF7F0}
+    tr.me td{background:var(--orange-bg)!important}
     tr.me td.n{color:#B24A05}
     .tag-me{display:inline-block;background:var(--orange);color:#fff;font-size:12px;font-weight:900;border-radius:6px;padding:2px 7px;margin-left:6px;vertical-align:middle}
     /* 수강료 */
@@ -175,6 +186,8 @@
     @media(max-width:640px){
       table{min-width:0}thead{display:none}
       tr{display:block;padding:12px 14px;border-bottom:1px solid var(--line)}
+      tbody tr:nth-child(odd){background:#F4F7FB}tbody tr:nth-child(even){background:#FBF7F0}tr.me{background:var(--orange-bg)}
+      .stats .container{grid-template-columns:1fr;gap:8px;padding:14px 0}
       td{display:block;border:0;padding:2px 0}
       td.n{font-size:15.5px}td.n small{display:inline;margin-left:6px}
       body{padding-bottom:76px}
@@ -258,10 +271,18 @@
       </div>
     </section>
 
+    <div class="stats" aria-label="한눈에 보기">
+      <div class="container">
+        <div class="stat"><i>🎥</i><div><b><em>2시간</em> LIVE 특강</b><span>9/8(화) 20시 · 무료 · 신청 없음</span></div></div>
+        <div class="stat"><i>📚</i><div><b><em>10주</em> 본 과정</b><span>9/30 개강 · 매주 수 · 강사 9인</span></div></div>
+        <div class="stat"><i>🏷</i><div><b>얼리버드 <em>30%</em></b><span>9/9(수) 24시까지 등록 시</span></div></div>
+      </div>
+    </div>
+
     <section id="talk">
       <div class="container">
-        <div class="eyebrow">특강 구성</div>
-        <h2>두 명의 현장 전문가, 두 개의 실전 시연</h2>
+        <div class="eyebrow">🎤 특강 구성</div>
+        <h2>두 명의 현장 전문가, <em>두 개의 실전 시연</em></h2>
         <p class="sub">눈으로 보는 소개가 아니라 화면을 켜고 결과가 나오는 과정을 그대로 보여 드립니다.</p>
         <div class="two">
           <article class="card" style="--c:var(--c2)">
@@ -295,12 +316,12 @@
 
     <section class="alt" id="who">
       <div class="container">
-        <div class="eyebrow">이런 분께</div>
-        <h2>보기만 하는 AI를 넘어, 결과를 만드는 실력을 원하는 분</h2>
+        <div class="eyebrow">🙋 이런 분께</div>
+        <h2>보기만 하는 AI를 넘어, <em>결과를 만드는 실력</em>을 원하는 분</h2>
         <div class="facts">
-          <div class="fact" style="--c:var(--c1)"><div class="k">추천 1</div><div class="v">생성형 AI를 업무와 비즈니스에 바로 적용해 보고 싶은 분</div></div>
-          <div class="fact" style="--c:var(--c2)"><div class="k">추천 2</div><div class="v">기획·마케팅·홍보 콘텐츠 제작 시간을 크게 줄이고 싶은 분</div></div>
-          <div class="fact" style="--c:var(--c4)"><div class="k">추천 3</div><div class="v">본 과정(10주) 등록을 고민 중이라 2시간 라이브로 먼저 판단하고 싶은 분</div></div>
+          <div class="fact" style="--c:var(--c1)"><div class="k"><i>💼</i>추천 1</div><div class="v">생성형 AI를 업무와 비즈니스에 바로 적용해 보고 싶은 분</div></div>
+          <div class="fact" style="--c:var(--c2)"><div class="k"><i>⏱</i>추천 2</div><div class="v">기획·마케팅·홍보 콘텐츠 제작 시간을 크게 줄이고 싶은 분</div></div>
+          <div class="fact" style="--c:var(--c4)"><div class="k"><i>🎯</i>추천 3</div><div class="v">본 과정(10주) 등록을 고민 중이라 2시간 라이브로 먼저 판단하고 싶은 분</div></div>
         </div>
         <p class="muted" style="margin-top:14px">본 과정 지원 자격은 정부기관·기업체·언론·학계·군·공공기관·협회·단체·개인 및 대학생 이상입니다.</p>
       </div>
@@ -308,24 +329,24 @@
 
     <section id="course">
       <div class="container">
-        <div class="eyebrow">본 과정 개요</div>
-        <h2>제7기 생성형 AI 실전 마스터 과정 (10주 완성)</h2>
+        <div class="eyebrow">📘 본 과정 개요</div>
+        <h2>제7기 생성형 AI 실전 마스터 과정 <em>10주 완성</em></h2>
         <p class="sub">2026년 초거대 AI &amp; 생성테크 교육 제7기. 매 강의에 파트너 강사가 배치되는 실습 위주 교육이며, 오프라인 강의실과 온라인(Zoom)을 함께 운영합니다.</p>
         <div class="facts">
-          <div class="fact" style="--c:var(--c5)"><div class="k">교육 기간</div><div class="v">2026. 9. 30(수) ~ 12. 2(수)<small>매주 수요일 18:30 ~ 20:30 · 총 10회 <span class="flag" title="포스터 한 장에는 09.06(수)로 적혀 있으나 9/6은 일요일이고 일정표·안내문은 9/30입니다">시작일 확인 필요</span></small></div></div>
-          <div class="fact" style="--c:var(--c6)"><div class="k">교육 장소</div><div class="v">천도교 수운회관 1303호 위데이터랩 강의실<small>서울 종로구 삼일대로 457 · 안국역 5번 출구 130m · 종로3가역 5번 출구 690m · 온라인(Zoom) 병행</small></div></div>
-          <div class="fact" style="--c:var(--c4)"><div class="k">모집</div><div class="v">선착순 40명<small>수강 신청은 구글폼 · 접수 순으로 마감</small></div></div>
-          <div class="fact" style="--c:var(--c2)"><div class="k">주최 · 주관</div><div class="v">한국디지털융합진흥원 · 동북아공동체ICT포럼</div></div>
-          <div class="fact" style="--c:var(--c3)"><div class="k">후원</div><div class="v">한국IT전문가협회 · 디지털융합교육원 · 한국정보통신공사협회</div></div>
-          <div class="fact" style="--c:var(--c1)"><div class="k">협찬</div><div class="v">전자신문</div></div>
+          <div class="fact" style="--c:var(--c5)"><div class="k"><i>📅</i>교육 기간</div><div class="v">2026. 9. 30(수) ~ 12. 2(수)<small>매주 수요일 18:30 ~ 20:30 · 총 10회 <span class="flag" title="포스터 한 장에는 09.06(수)로 적혀 있으나 9/6은 일요일이고 일정표·안내문은 9/30입니다">시작일 확인 필요</span></small></div></div>
+          <div class="fact" style="--c:var(--c6)"><div class="k"><i>📍</i>교육 장소</div><div class="v">천도교 수운회관 1303호 위데이터랩 강의실<small>서울 종로구 삼일대로 457 · 안국역 5번 출구 130m · 종로3가역 5번 출구 690m · 온라인(Zoom) 병행</small></div></div>
+          <div class="fact" style="--c:var(--c4)"><div class="k"><i>👥</i>모집</div><div class="v">선착순 40명<small>수강 신청은 구글폼 · 접수 순으로 마감</small></div></div>
+          <div class="fact" style="--c:var(--c2)"><div class="k"><i>🏛</i>주최 · 주관</div><div class="v">한국디지털융합진흥원 · 동북아공동체ICT포럼</div></div>
+          <div class="fact" style="--c:var(--c3)"><div class="k"><i>🤝</i>후원</div><div class="v">한국IT전문가협회 · 디지털융합교육원 · 한국정보통신공사협회</div></div>
+          <div class="fact" style="--c:var(--c1)"><div class="k"><i>📰</i>협찬</div><div class="v">전자신문</div></div>
         </div>
       </div>
     </section>
 
     <section class="alt" id="schedule">
       <div class="container">
-        <div class="eyebrow">10주 일정</div>
-        <h2>회차별 주제와 핵심 교육 내용</h2>
+        <div class="eyebrow">🗓 10주 일정</div>
+        <h2>회차별 주제와 <em>핵심 교육 내용</em></h2>
         <p class="sub">개강 9월 30일(수), 매주 수요일 저녁 6시 30분. 8강은 소셜앤비즈 윤성임 박사가 맡습니다.</p>
         <div class="tablewrap">
           <table>
@@ -358,8 +379,8 @@
 
     <section id="price">
       <div class="container">
-        <div class="eyebrow">수강료 · 혜택</div>
-        <h2>수강료와 할인, 수료 혜택</h2>
+        <div class="eyebrow">💳 수강료 · 혜택</div>
+        <h2>수강료와 할인, <em>수료 혜택</em></h2>
         <div class="price">
           <div class="card" style="--c:var(--c6)">
             <div class="big">60만원<small>10회 · 20시간</small></div>
@@ -387,8 +408,8 @@
 
     <section class="alt" id="apply">
       <div class="container">
-        <div class="eyebrow">신청 · 문의</div>
-        <h2>본 과정 신청은 구글폼, 특강은 Zoom으로 바로</h2>
+        <div class="eyebrow">📝 신청 · 문의</div>
+        <h2>본 과정 신청은 구글폼, <em>특강은 Zoom으로 바로</em></h2>
         <div class="actions" style="margin-bottom:22px">
           <a class="btn btn-orange" href="https://forms.gle/CTKrsm2AhafPYErs7" target="_blank" rel="noopener">📝 제7기 수강 신청(구글폼)</a>
           <a class="btn btn-orange" href="https://us06web.zoom.us/j/82664642443?pwd=FOlfDuT0bhkKjunaN6GXRPtCz7uXsI.1" target="_blank" rel="noopener">▶ 9/8 무료 특강 입장</a>
@@ -413,8 +434,8 @@
 
     <section id="poster">
       <div class="container">
-        <div class="eyebrow">공유용 포스터 · QR</div>
-        <h2>포스터를 저장해 나누고, QR로 바로 입장·신청</h2>
+        <div class="eyebrow">📣 공유용 포스터 · QR</div>
+        <h2>포스터를 저장해 나누고, <em>QR로 바로 입장·신청</em></h2>
         <p class="sub">포스터를 길게 눌러 저장하거나 인쇄해 쓰세요. QR을 휴대전화 카메라로 비추면 Zoom 입장과 수강 신청으로 바로 갑니다.</p>
         <div class="poster-grid">
           <figure><a href="poster-1.jpg" target="_blank" rel="noopener"><img src="poster-1.jpg" alt="무료 공개특강 안내 포스터" loading="lazy" onerror="this.closest('figure').hidden=true"></a><figcaption>① 무료 공개특강 안내</figcaption></figure>
