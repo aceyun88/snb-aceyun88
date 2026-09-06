@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05",
+ "updated": "2026-09-06",
  "_안내": "기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다. source가 calendar인 항목은 캘린더에서 사람이 확인해 넣은 것이라 다음 수집 때도 그대로 남는다.",
  "items": [
   {
@@ -89,17 +89,6 @@
    ],
    "logo": "",
    "show": true
-  },
-  {
-   "name": "AI크리에이팅연구소",
-   "count": 11,
-   "latest": "2026-06-17",
-   "articles": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=386394",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=385543"
-   ],
-   "logo": "",
-   "show": false
   },
   {
    "name": "농촌진흥청",
@@ -197,17 +186,6 @@
    ],
    "logo": "",
    "show": true
-  },
-  {
-   "name": "한국혁신경영협회",
-   "count": 5,
-   "latest": "2025-01-24",
-   "articles": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=344095",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=341779"
-   ],
-   "logo": "",
-   "show": false
   },
   {
    "name": "대림대학교",
@@ -416,26 +394,6 @@
    ],
    "logo": "",
    "show": true
-  },
-  {
-   "name": "대한류마티스학회",
-   "count": 2,
-   "latest": "2025-03-22",
-   "articles": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=347853"
-   ],
-   "logo": "",
-   "show": false
-  },
-  {
-   "name": "한국경영혁신협회",
-   "count": 2,
-   "latest": "2025-01-24",
-   "articles": [
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=344095"
-   ],
-   "logo": "",
-   "show": false
   },
   {
    "name": "도전왕AI연구소",

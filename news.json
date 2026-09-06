@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03",
+ "updated": "2026-09-06",
  "items": [
   {
    "title": "[윤성임 소셜비즈테크] 위데이터랩, 자사 솔루션 AWS FTR 심사 통과…‘AWS Qualified Software’ 뱃지 획득 및 솔루션 파트너 선정",
@@ -842,14 +842,16 @@
    "date": "2025-09-04",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=362483",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202509/362483_277546_4946_v150.jpg"
   },
   {
    "title": "소셜앤비즈, 이천시농업기술센터 주관 \"2025년 농업인 스마트경영·마케팅 교육\" 성료",
    "date": "2025-09-04",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=362552",
    "source": "파이낸스투데이",
-   "series": "기사"
+   "series": "기사",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202509/362552_277624_2121_v150.jpg"
   },
   {
    "title": "[윤성임 AI비즈마케팅] NotebookLM, 환각 없는 생성형AI로 여는 교육과 비즈니스 혁신",
@@ -870,28 +872,32 @@
    "date": "2025-08-03",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=359295",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202508/359295_273769_47_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] 위데이터랩, 포스트그레스큐엘 기반 고성능 DBMS ‘엑스크루즈DB’ 출시",
    "date": "2025-07-04",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=356365",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202507/356365_270083_750_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] 신간 『AI×ESG 비즈니스 트렌드』, 지속 가능 성장과 수익 창출의 길을 찾다",
    "date": "2025-06-30",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=355952",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202506/355952_269583_5413_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] 이색적인 AI 아트 전시, 레온갤러리에서 6월 28일~7월 2일 열려",
    "date": "2025-06-28",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=355683",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202506/355683_269211_76_v150.jpg"
   },
   {
    "title": "윤성임 강사, 한국강사교육진흥원에서 ‘구글 AI 활용 꿀팁’ 특강 성료",
@@ -912,35 +918,40 @@
    "date": "2025-04-10",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=349222",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202504/349222_260915_237_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] AI로 일상을 바꾸는 AI콘텐츠크리에이터, 이승주 대표와의 만남 – 콘텐츠의 미래를 그리다",
    "date": "2025-03-22",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=347853",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202503/347853_259191_15_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] AI융합비즈니스포럼 연구회, AI 영상 제작부터 유튜브 운영 전략 발표",
    "date": "2025-03-05",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=346663",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202503/346663_257640_3037_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] AI융합비즈니스포럼 연구회, 일레븐랩스와 Fliki 활용한 AI 콘텐츠 제작 사례 발표",
    "date": "2025-03-04",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=346512",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202503/346512_257468_1826_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] AI융합비즈니스포럼 연구회, '혁신적인 이미지 생성 기술인 WHISK AI의 혁신성과 가능성' 주제 발표",
    "date": "2025-03-04",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=346475",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202503/346475_257437_4410_v150.jpg"
   },
   {
    "title": "윤성임 AI비즈마케팅, OpenAI의 GPT-4.5, 인공지능의 진화와 공감의 혁신",
@@ -954,14 +965,16 @@
    "date": "2025-02-19",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=345616",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202502/345616_256348_1948_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크] (사)한국경영혁신협회, AI 디바이스 혁명과 OpenAI 오퍼레이터: 혁신 전략 세미나 개최",
    "date": "2025-01-24",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=344095",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202501/344095_254479_1746_v150.jpg"
   },
   {
    "title": "윤성임 AI비즈마케팅, OpenAI ‘12 Days of Shipmas’가 보여준 생성형 AI 기술 혁신과 활용 방향",
@@ -975,7 +988,8 @@
    "date": "2024-12-23",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=341779",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202412/341779_251342_127_v150.jpg"
   },
   {
    "title": "[주간강사] 한국강사에이전시가 김필수, 남희선, 윤성임, 한광일 강사를 소개합니다.",
@@ -996,21 +1010,24 @@
    "date": "2024-11-18",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=339144",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202411/339144_247888_4027_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크 브리핑] 한국적 감성을 담은 AI영화, 이동현 감독의 \"After the Showers 2069\"",
    "date": "2024-10-28",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=337630",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202410/337630_246025_529_v150.jpg"
   },
   {
    "title": "[윤성임 소셜비즈테크 브리핑] “메타의료가 온다“ 신간을 통해 본 AI와 사람이 이끄는 새로운 의료 혁신 패러다임",
    "date": "2024-09-05",
    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=333231",
    "source": "파이낸스투데이",
-   "series": "소셜비즈테크 칼럼"
+   "series": "소셜비즈테크 칼럼",
+   "image": "https://www.fntoday.co.kr/news/thumbnail/202409/333231_240083_4128_v150.jpg"
   },
   {
    "title": "[강사 인터뷰] ‘인공지능(생성형AI)’ 분야 윤성임 강사를 만나다",

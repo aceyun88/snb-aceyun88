@@ -1,6 +1,80 @@
 {
- "updated": "2026-09-06",
+ "updated": "2026-09-07",
  "days": [
+  {
+   "date": "2026-09-07",
+   "count": 8,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "연구 가속화: OpenAI 내부 보기",
+     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+     "at": "2026-09-06 17:00",
+     "desc": "OpenAI 내부에서는 코딩 에이전트가 AI 연구를 재편하고 있습니다. 상담원 사용, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요.",
+     "title_en": "Research acceleration: The view inside OpenAI",
+     "desc_en": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "외계인의 마음",
+     "url": "https://openai.com/index/an-alien-mind",
+     "at": "2026-09-06 18:00",
+     "desc": "자쿠브 파초키 (Jakub Pachocki) 는 점점 더 유능해지고 있는 인공지능과 인공지능을 조화롭게 유지해야 하는 과제에 대해 그는 더 강력한 안전 조치와 국제적 공조를 요구합니다.",
+     "title_en": "An Alien Mind",
+     "desc_en": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+     "at": "2026-09-07 01:26",
+     "desc": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+     "at": "2026-09-06 20:37",
+     "desc": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+     "at": "2026-09-06 20:42",
+     "desc": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214891",
+     "at": "2026-09-06 03:17",
+     "desc": "오픈AI의 'GPT-6 아스트라'가 기술 커뮤니티에서 찬사와 우려를 동시에 일으키고 있다. 단순 대화형 AI를 넘어 PC 화면 인식과 소프트웨어 제어를 자율적으로 수행하는 '에이전틱 AI' 시대가 전면화된 가운데, 실무 생산성 도약에 대한 찬사와 지나친 의존성에 대한 경계감이 동시에 표출되고 있다.실제로 오픈AI가 3일(현지시간) 공개한 아스트라의 공식…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Blend - 한 질문을 여러 AI에 보내고, 다른 AI가 그 답을 검증하는 도구",
+     "url": "https://news.hada.io/topic?id=33284",
+     "at": "2026-09-07 00:11",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+     "url": "https://news.hada.io/topic?id=33263",
+     "at": "2026-09-06 02:37",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-06",
    "count": 9,

@@ -1,35 +1,45 @@
 {
- "updated": "2026-09-04",
+ "updated": "2026-09-07",
  "posts": [
   {
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "label": "2026년 9월 1주",
-   "title": "앤트로픽, 전자상거래로 확장... 연말 대목 겨냥 '클로드 상거래 에이전트' 공개",
+   "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
    "count": 40,
    "topics": [
     {
      "key": "agent",
      "name": "AI 에이전트·자동화",
-     "count": 12,
+     "count": 15,
      "items": [
       {
        "platform": "AI타임스 주요 기사",
-       "title": "앤트로픽, 전자상거래로 확장... 연말 대목 겨냥 '클로드 상거래 에이전트' 공개",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214851",
+       "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214900",
        "source": "AI타임스",
        "note": "",
-       "at": "2026-09-04",
-       "desc": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전",
+       "at": "2026-09-06",
+       "desc": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어 ",
        "desc_en": ""
       },
       {
        "platform": "AI타임스 주요 기사",
-       "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214854",
+       "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214851",
        "source": "AI타임스",
        "note": "",
-       "at": "2026-09-04",
-       "desc": "오픈AI가 AI 에이전트의 공격 역량 강화에 맞춰, 취약점 탐지부터 패치와 배포까지 전 과정을 자동화하는 자율형 보안 체계 ‘디펜스 팩토리(Defense Factory)’를 공개했다. 이는 오픈웨이트 모델을 악용한 장기간 사이버 공격에 맞서 탐지와 대응 속도를 극대화하고 보안 업무 부담을 줄이기 위한 조치다.오픈AI는 3일(현지시간) AI 에이전트를 악용한",
+       "at": "2026-09-05",
+       "desc": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전",
+       "desc_en": ""
+      },
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "앤트로픽, ‘클로드 페이블 5.1·미토스 5.1’ 공개…‘AI 연구원’으로 진화하는 에이전트",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05NjBVbHl6NlpaZFl4aGRiS1dBcWtWclZ4aFpRVmJsbEVLREpRV1hlNXFLeTNqRVZiTXp4cnZEaUJoSG5fc3VhZGhYZFd1NXdzQU04LWxsbGl0ZmRiWXI2cU1zYVREUVE?oc=5",
+       "source": "인공지능신문",
+       "note": "",
+       "at": "2026-09-02",
+       "desc": "",
        "desc_en": ""
       },
       {
@@ -37,17 +47,27 @@
        "title": "tt-a1i/archify",
        "url": "https://github.com/tt-a1i/archify",
        "source": "JavaScript",
-       "note": "24,227 stars (이번 주)",
+       "note": "19,480 stars (이번 주)",
        "at": "",
        "desc": "아름답고 검증 가능한 아키텍처, 워크플로, 순서, 데이터 흐름 및 수명 주기 다이어그램을 위한 에이전트 기술 - 모션과 선명한 내보내기가 포함된 자체 포함 HTML.",
        "desc_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
       },
       {
        "platform": "GitHub 이번 주 인기 저장소",
+       "title": "DietrichGebert/ponytail",
+       "url": "https://github.com/DietrichGebert/ponytail",
+       "source": "JavaScript",
+       "note": "11,730 stars (이번 주)",
+       "at": "",
+       "desc": "AI 에이전트가 방에서 가장 게으른 수석 개발자처럼 생각하게 만듭니다. 가장 좋은 코드는 작성하지 않은 코드입니다.",
+       "desc_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
        "title": "THU-MAIC/OpenMAIC",
        "url": "https://github.com/THU-MAIC/OpenMAIC",
        "source": "TypeScript",
-       "note": "10,023 stars (이번 주)",
+       "note": "10,109 stars (이번 주)",
        "at": "",
        "desc": "멀티 에이전트 대화형 강의실 열기 — 단 한 번의 클릭으로 몰입감 있는 멀티 에이전트 학습 경험 제공",
        "desc_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
@@ -57,17 +77,27 @@
        "title": "K-Dense-AI/scientific-agent-skills",
        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
        "source": "Python",
-       "note": "7,370 stars (이번 주)",
+       "note": "5,491 stars (이번 주)",
        "at": "",
        "desc": "인공지능 에이전트를 인공지능 과학자로 바꿔보세요. 전 세계 190,000명 이상의 과학자가 사용하는 과학 분야 최고의 에이전트 스킬 라이브러리. 165개의 즉시 사용할 수 있는 검증된 기술과 생물학, 화학, 의학 및 약물 발견을 다루는 100개 이상의 과학 데이터베이스. Cursor, Claude Code, Codex, Pi, Antigrav와 호환 가능",
        "desc_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "affaan-m/ECC",
+       "url": "https://github.com/affaan-m/ECC",
+       "source": "JavaScript",
+       "note": "5,445 stars (이번 주)",
+       "at": "",
+       "desc": "에이전트 하네스 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등을 위한 기술, 본능, 기억, 보안 및 연구 우선 개발.",
+       "desc_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
       },
       {
        "platform": "긱뉴스(GeekNews) 화제 글",
        "title": "Claude Fable 5.1 프롬프팅 가이드",
        "url": "https://news.hada.io/topic?id=33175",
        "source": "GeekNews",
-       "note": "22 points",
+       "note": "24 points",
        "at": "2026-09-03",
        "desc": "기존 Claude Fable 5 프롬프트는 대부분 작동하지만, 5.1은 effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식이 달라 기존 설정을 그대로 교체하기보다 다시 평가 해야 함 기본값 high 에서 시작해 low , medium , xhigh , max 를 작업별로 비교해야 하며, medium 은 더 낮은 비용으로 Fable 5와 비슷한 결과를 낼 수 있음 긴 에이전트…",
        "desc_en": ""
@@ -94,6 +124,16 @@
       },
       {
        "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시",
+       "url": "https://news.hada.io/topic?id=33206",
+       "source": "GeekNews",
+       "note": "18 points",
+       "at": "2026-09-04",
+       "desc": "ChatGPT Codex, Claude Code, Gemini, Grok Build, Antigravity 등의 OAuth 계정을 로컬 프록시에 연결해 , 여러 표준 형식의 API로 제공 별도의 API 키를 발급받지 않고도 기존 SDK, API 클라이언트와 코딩 에이전트에서 구독 계정의 모델을 호출할 수 있음 OpenAI Responses, Gemini Interactions, Claude…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
        "title": "에이전트 메모리는 파이프라인이 아니라 파일 형식이어야 한다",
        "url": "https://news.hada.io/topic?id=33135",
        "source": "GeekNews",
@@ -103,126 +143,22 @@
        "desc_en": ""
       },
       {
-       "platform": "구글 · 제미나이",
-       "title": "구글, '제미나이 라이브'에 에이전트 탑재…음성으로 일정·이메일 제어",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15OWQ5LTdhMHNLeHVJQ0FqNTZqWFBIRWJwZF83ZmJ5RmJoVnkxWkpOMWFLN2xyU2ZlR0p3M0JjVHBYbjJNeE5uUWFtX1pWTUpEazVSWVRiQkRfY0tMVDRKbmNGc3M4TGE1YUE?oc=5",
-       "source": "AI타임스",
+       "platform": "AI 에이전트·자동화",
+       "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\"",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lVEtEOXEwZlBCU1l0bGx1MENzdW9NSXEzRWpkWGhWamJsaGVtamNlbUR2dzRRNWxvRFhpdkFyUkZHRVctSGIyYVdLRXlrS2dmX0R4VUVn?oc=5",
+       "source": "지디넷코리아",
        "note": "",
-       "at": "2026-08-29",
+       "at": "2026-09-06",
        "desc": "",
        "desc_en": ""
       },
       {
        "platform": "AI 에이전트·자동화",
-       "title": "크라우드웍스, 데이터 구축 노하우로 'AI 에이전트 안전성' 검증 나선다",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Mb3pyRGlidmNzY0Q4d25MdkJ2VGNvUlhHcDdlejFPQVpaZEtZclFEVFVsWkdvVXFSUVJzRmQ0REI0eXR0QVl2aXJwdTZXRXd5RVV0dk44MG1Icm9aQUFlLVZEOWFWVmNRNkE?oc=5",
-       "source": "AI타임스",
-       "note": "",
-       "at": "2026-09-04",
-       "desc": "",
-       "desc_en": ""
-      },
-      {
-       "platform": "AI 에이전트·자동화",
-       "title": "AI 에이전트부터 국가 AI 보안까지, 프라이빗에이아이가 말하는 “AI 시대 리스크 관리”",
-       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wWEFVLW9xM0NuaW9jMnQwSWdkWFRRUEJHOVY3R0VCOG5YbGV4dVVWZWl0ZWc0TS1MTkpXV2tZeUt0OXBCc1cwUHYxSHc5S3hqU0twUGxlclNSdjNZSFZwZWNIcVhfSDg2bGdV?oc=5",
+       "title": "오픈AI 에이전트, 독일 개발자 위키 사이트 장악... 통제 벗어난 AI 논란 재점화",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjbmdwTG9VMFdpa1g4M3VCeTNiQ3RjcXpKREE5YXNNWHBndEhKOGR6cHhLdG1OX19fU2RWRWVMN0tEdWVpUlhvc0FkSmM4cnJBdnB0SnJvUW1qS3ZGZFJwM21YNWo1UEVvbjRR?oc=5",
        "source": "보안뉴스",
        "note": "",
-       "at": "2026-09-04",
-       "desc": "",
-       "desc_en": ""
-      }
-     ]
-    },
-    {
-     "key": "coding",
-     "name": "바이브 코딩·개발 도구",
-     "count": 4,
-     "items": [
-      {
-       "platform": "구글 · 제미나이",
-       "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
-       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wRDdCS2Q0Ul9BMGx5aWd5a2F0UXdQOWNaVXFxUUpnSWw4SlY0UTJEM00tbXdhdnVURFdQejlKV3h1SDR2YUw2b2pHalJEUU9XRHZfdTBRaFBzRWpSNWpoNzFmSWhhRVJ2LW9J?oc=5",
-       "source": "보안뉴스",
-       "note": "",
-       "at": "2026-09-03",
-       "desc": "",
-       "desc_en": ""
-      },
-      {
-       "platform": "GitHub 이번 주 인기 저장소",
-       "title": "freestylefly/awesome-gpt-image-2",
-       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-       "source": "JavaScript",
-       "note": "5,425 stars (이번 주)",
-       "at": "",
-       "desc": "코드로 프롬프트 | GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出 Skills ，持续更新中",
-       "desc_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
-      },
-      {
-       "platform": "GitHub 이번 주 인기 저장소",
-       "title": "tashfeenahmed/freellmapi",
-       "url": "https://github.com/tashfeenahmed/freellmapi",
-       "source": "TypeScript",
-       "note": "3,194 stars (이번 주)",
-       "at": "",
-       "desc": "매월 74억 개의 토큰. 34개의 무료 LLM 공급자. 635개의 무료 모델 엔드포인트. 모두 하나의/v1 엔드포인트와 모든 사용자 정의 OpenAI 호환 엔드포인트 뒤에 있습니다. 스마트 라우팅, 자동 장애 조치, 암호화된 키. 개인적 실험에 한함.",
-       "desc_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
-      },
-      {
-       "platform": "앤트로픽 · 클로드",
-       "title": "'클로드 코드' 주간 한도 25% 인상…실제 17% 감소에 개발자 '발끈'",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZ0JZOG8wU0NSMFEwTWdReHpxQ3YtQWx4NV9DLWN4VjIzajJscDVTWG8yNjhqNmM2cGhRR0VlTEMyMEN4WnJEekNZck9SNFRpMk9sdFJrMVFNN2o2YldIa3NXcWNkT1FvZGc?oc=5",
-       "source": "AI타임스",
-       "note": "",
-       "at": "2026-08-30",
-       "desc": "",
-       "desc_en": ""
-      }
-     ]
-    },
-    {
-     "key": "image",
-     "name": "이미지·영상·음성 생성",
-     "count": 4,
-     "items": [
-      {
-       "platform": "AI타임스 주요 기사",
-       "title": "MS, 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡은 음성 인식 모델",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214858",
-       "source": "AI타임스",
-       "note": "",
-       "at": "2026-09-04",
-       "desc": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜",
-       "desc_en": ""
-      },
-      {
-       "platform": "AI타임스 주요 기사",
-       "title": "\"WASD 누르면 영상 생성\"... 텐센트, 인터랙티브 월드모델 'H3-월드' 발표",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214800",
-       "source": "AI타임스",
-       "note": "",
-       "at": "2026-09-03",
-       "desc": "영상 생성 AI가 단순히 주어진 프롬프트에 따라 영상을 만드는 단계를 넘어 사용자의 조작에 실시간으로 반응하는 ‘인터랙티브 월드 모델’로 진화하고 있다. 게임처럼 키보드를 조작하면 AI가 캐릭터의 이동과 카메라 시점을 이해하고 그에 맞는 영상을 생성하는 방식이다. 텐센트와 싱가포르 국립대학교(NUS), 홍콩공과대학교(PolyU) 공동 연구진은 1일(현지시간",
-       "desc_en": ""
-      },
-      {
-       "platform": "AI타임스 주요 기사",
-       "title": "인월드 AI, 맥락·감정 읽는 음성 모델 '실시간 TTS-2' 공개...아티피셜 애널리시스 1위 등극",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214813",
-       "source": "AI타임스",
-       "note": "",
-       "at": "2026-09-03",
-       "desc": "AI 음성 기술이 단순히 사람의 목소리를 흉내 내는 수준을 넘어 실제 대화의 맥락과 감정까지 이해하는 단계로 발전하고 있다. 음성 AI 전문 인월드 AI(Inworld AI)가 사용자의 말투와 속도, 감정 상태를 실시간으로 파악하고 자연어로 입력한 연출 지시까지 반영하는 차세대 음성 생성 모델을 공개했다 인월드 AI는 2일(현지시간) 사람과 AI가 실제로 ",
-       "desc_en": ""
-      },
-      {
-       "platform": "이미지·영상 생성",
-       "title": "옐로우박스, 이미지 제작 플랫폼 'Clor AI' 정식 출시",
-       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRkROeUhMT0s2SFJNMjlkdW1Fb1NpOGpqb1pEd1ZoT29jbF8zSDRpS0d6YURzSjhmd0ViNWZDN0V4YVBnVmpFMUhCb2J4UFF5Y2pZNndNZEtvWDhU?oc=5",
-       "source": "뉴스핌",
-       "note": "",
-       "at": "2026-09-03",
+       "at": "2026-09-05",
        "desc": "",
        "desc_en": ""
       }
@@ -238,39 +174,76 @@
        "title": "jingyaogong/minimind",
        "url": "https://github.com/jingyaogong/minimind",
        "source": "Python",
-       "note": "3,122 stars (이번 주)",
+       "note": "3,649 stars (이번 주)",
        "at": "",
        "desc": "단 2시간 만에 64M 파라미터 LLM을 처음부터 🧠 훈련하세요!",
        "desc_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
       },
       {
        "platform": "GitHub 이번 주 인기 저장소",
-       "title": "rohitg00/ai-engineering-from-scratch",
-       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-       "source": "Python",
-       "note": "2,525 stars (이번 주)",
+       "title": "tailscale/tailcat",
+       "url": "https://github.com/tailscale/tailcat",
+       "source": "Go",
+       "note": "3,187 stars (이번 주)",
        "at": "",
-       "desc": "배워보세요. 만들어 보세요. 다른 사람을 위해 배송하세요.",
-       "desc_en": "Learn it. Build it. Ship it for others."
+       "desc": "netcat과 비슷하지만 Tailscale의 제어면이 없는 Tailscale의 데이터 평면을 통해",
+       "desc_en": "like netcat, but over Tailscale's data plane, without Tailscale's control plane"
       },
       {
        "platform": "GitHub 이번 주 인기 저장소",
-       "title": "abi/screenshot-to-code",
-       "url": "https://github.com/abi/screenshot-to-code",
+       "title": "google-research/timesfm",
+       "url": "https://github.com/google-research/timesfm",
        "source": "Python",
-       "note": "2,412 stars (이번 주)",
+       "note": "2,968 stars (이번 주)",
        "at": "",
-       "desc": "스크린샷을 드롭하여 깨끗한 코드 (HTML/Tailwind/React/Vue) 로 변환합니다.",
-       "desc_en": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+       "desc": "TimesFM (시계열 기초 모델) 은 시계열 예측을 위해 Google Research에서 개발한 사전 훈련된 시계열 기초 모델입니다.",
+       "desc_en": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
       },
       {
        "platform": "긱뉴스(GeekNews) 화제 글",
        "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
        "url": "https://news.hada.io/topic?id=33174",
        "source": "GeekNews",
-       "note": "28 points",
+       "note": "33 points",
        "at": "2026-09-03",
        "desc": "앱별 음량 조절, 시스템 모니터, 앱 전환기, 창 관리, 클립보드, 화면 캡처, 파일 정리처럼 따로 구매하던 Mac 도구들을 하나의 메뉴 막대 아이콘에 통합 무료 오픈소스로 제공되며 계정, 구독, 사용 분석이나 추적 기능 없이 Mac에서 로컬로 실행 필요한 기능만 설치할 수 있고, 제거한 기능은 화면에서 사라질 뿐 아니라 CPU, 메모리와 전력을 사용하지 않음 다시 설치하면 이전 설정은…",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "image",
+     "name": "이미지·영상·음성 생성",
+     "count": 3,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "MS, 음성 모델 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡아",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214858",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-05",
+       "desc": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜",
+       "desc_en": ""
+      },
+      {
+       "platform": "이미지·영상 생성",
+       "title": "MonoGPT, 기관용 AI 영상 제작 기능 출시... 시댄스2.5·클링 비디오3.0 옴니 지원",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNWxwZnlBZExiM2pkZFZoNnJTTDJJdlozWkdabTJDNTNPT0RSSXBCSEc1NHc4MVZ1S0swSEhENjBYeDFaMm91ZGNtMUI4UQ?oc=5",
+       "source": "전자신문",
+       "note": "",
+       "at": "2026-09-02",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-07",
+       "desc": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오",
        "desc_en": ""
       }
      ]
@@ -282,12 +255,12 @@
      "items": [
       {
        "platform": "AI타임스 주요 기사",
-       "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
+       "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214891",
        "source": "AI타임스",
        "note": "",
-       "at": "2026-09-04",
-       "desc": "오픈AI가 사전 학습과 강화 학습, 정렬 분야의 기술력을 집약한 차세대 플래그십 모델 'GPT-6 아스트라(Astra)'를 공개했다. 단순한 지능 향상을 넘어 컴퓨터 제어, 브라우징, 소프트웨어 엔지니어링, 사이버 보안, 과학 연구 등 전문 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 본격적인 진입을 알렸다고 선언했다. 그렉 브록먼 오픈AI 사",
+       "at": "2026-09-06",
+       "desc": "오픈AI의 'GPT-6 아스트라'가 기술 커뮤니티에서 찬사와 우려를 동시에 일으키고 있다. 단순 대화형 AI를 넘어 PC 화면 인식과 소프트웨어 제어를 자율적으로 수행하는 '에이전틱 AI' 시대가 전면화된 가운데, 실무 생산성 도약에 대한 찬사와 지나친 의존성에 대한 경계감이 동시에 표출되고 있다.실제로 오픈AI가 3일(현지시간) 공개한 아스트라의 공식 데",
        "desc_en": ""
       },
       {
@@ -302,9 +275,9 @@
       },
       {
        "platform": "OpenAI · 챗GPT",
-       "title": "챗GPT·클로드·그록 한꺼번에 ’먹통’…이례적 동시 장애",
-       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRGRJOGlzcGVyWFBqdFM3cWZDRVdzRGQxTURVa2g3ZzlTSDFIc1JJX2EydlUxS3dWcmFIZ0tWN1VOcEJDSzg1MzB6N2hDdzJuM3pHYUp4eHZSLTREUHRlcURoNjh5OWM?oc=5",
-       "source": "연합뉴스TV",
+       "title": "챗GPT·클로드·그록 등 주요 AI 서비스, 한때 일제히 '먹통'",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PMWVMZk91TU9IZndkRUt3SmxHT1A5QTZqVVVLcjN6dWplMFlZVmVKa0xDTDd1Z2pqN1oyNGU2WlRCTS1PNHBUYXY5ZFBCZw?oc=5",
+       "source": "전자신문",
        "note": "",
        "at": "2026-09-04",
        "desc": "",
@@ -313,47 +286,20 @@
      ]
     },
     {
-     "key": "search",
-     "name": "AI 검색·퍼플렉시티",
+     "key": "copilot",
+     "name": "코파일럿·마이크로소프트",
      "count": 3,
      "items": [
       {
-       "platform": "퍼플렉시티 · AI 검색",
-       "title": "퍼플렉시티, 맥에 '하이브리드 컴퓨트' 도입…클라우드·로컬 모델 나눠 쓴다",
-       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cnVaR2ZRMzdOa1p0TWYyVlpnSzVTSlNhSEZYd0MwOUk5N1VqUEVTTS1XX1gxZUw0NHB2ZC01VHZtTVlNczJsUFpzaWs5R2ZIeUI2NHpB?oc=5",
-       "source": "지디넷코리아",
-       "note": "",
-       "at": "2026-09-02",
-       "desc": "",
-       "desc_en": ""
-      },
-      {
-       "platform": "퍼플렉시티 · AI 검색",
-       "title": "퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVVMtRkVSei1acXR4d1BuY3dpYnIzdUJvdVRhOWk4VmNDWmZTc2E3TWpYaDhCemw0V0F5Zkx4RXJ6WFVzV1R6OEk5bFk4eHdieGhnZXpZSHdkcmJhWTl0cXdJd21yd2JBbFE?oc=5",
+       "platform": "AI타임스 주요 기사",
+       "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
        "source": "AI타임스",
        "note": "",
-       "at": "2026-09-02",
-       "desc": "",
+       "at": "2026-09-07",
+       "desc": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서",
        "desc_en": ""
       },
-      {
-       "platform": "긱뉴스(GeekNews) 화제 글",
-       "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
-       "url": "https://news.hada.io/topic?id=33015",
-       "source": "GeekNews",
-       "note": "20 points",
-       "at": "2026-08-30",
-       "desc": "장시간 취약점 조사에서 LLM이 이미 폐기된 가설을 다시 제안하거나, 틀린 전제에서 나온 결론을 계속 믿는 문제를 해결하려다 Datalog 기반 상태 관리 엔진 Lemmalog 를 개발함 과거 대화를 검색하는 대신 현재 무엇이 참인지 를 사실과 규칙으로 관리하고, 전제가 바뀌면 그에 의존한 결론을 자동으로 무효화함 LLM은 코드·디버거 출력·자연어를 구조화된 사실로 바꾸고,…",
-       "desc_en": ""
-      }
-     ]
-    },
-    {
-     "key": "copilot",
-     "name": "코파일럿·마이크로소프트",
-     "count": 2,
-     "items": [
       {
        "platform": "마이크로소프트 · 코파일럿",
        "title": "KB국민은행, 경영진 대상 생성형 AI ‘코파일럿’ 실습 교육",
@@ -377,27 +323,54 @@
      ]
     },
     {
-     "key": "korea",
-     "name": "국내 AI·네이버",
+     "key": "coding",
+     "name": "바이브 코딩·개발 도구",
      "count": 2,
      "items": [
       {
-       "platform": "AI타임스 주요 기사",
-       "title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개",
-       "url": "https://www.aitimes.com/news/articleView.html?idxno=214868",
-       "source": "AI타임스",
+       "platform": "구글 · 제미나이",
+       "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wRDdCS2Q0Ul9BMGx5aWd5a2F0UXdQOWNaVXFxUUpnSWw4SlY0UTJEM00tbXdhdnVURFdQejlKV3h1SDR2YUw2b2pHalJEUU9XRHZfdTBRaFBzRWpSNWpoNzFmSWhhRVJ2LW9J?oc=5",
+       "source": "보안뉴스",
        "note": "",
-       "at": "2026-09-04",
-       "desc": "사우디아라비아가 중국 미니맥스와 협력해 아랍어에 특화된 초거대 AI 모델을 개발하며 소버린 AI 경쟁에 뛰어들었다. 사우디 국부펀드(PIF) 산하 AI 기업 휴메인(HUMAIN)은 3일 최첨단 아랍어 모델 역량 확보와 자국 AI 생태계 강화를 위해 ‘휴메인-m3(humain-m3)’를 공개했다.기술 행사 LEAP에서 휴메인-m3를 발표하고, 자체 AI 플랫",
+       "at": "2026-09-03",
+       "desc": "",
        "desc_en": ""
       },
       {
-       "platform": "네이버 · 국내 AI",
-       "title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUUdDazRJU1NHX0w4Zi0zd0lDM1VQQUpOdzJVMjd2WUI2a2IzUTYxT19ndzd2cGh1V0EtNF9QbmdkSEMzYTNkQktqTGtYVUhJbTZVZUJUdVN6bDhkRkYxSTQwOWotRGp3eFE?oc=5",
+       "platform": "구글 · 제미나이",
+       "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lemduekJGYmlRZFlaeHFtUWJOOFFxLW8zOU5WWTFlQUJXT3p3TEVHUmt0X2YwbzhpUzl5Slh0NUNTenFtN2ZfQy1iS2IyTDRWYTVmRVpETFowUzJYYzFOTE5Kd0NhMEctTFE?oc=5",
        "source": "AI타임스",
        "note": "",
-       "at": "2026-09-04",
+       "at": "2026-09-03",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "search",
+     "name": "AI 검색·퍼플렉시티",
+     "count": 2,
+     "items": [
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "퍼플렉시티, 맥에 '하이브리드 컴퓨트' 도입…클라우드·로컬 모델 나눠 쓴다",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54cnVaR2ZRMzdOa1p0TWYyVlpnSzVTSlNhSEZYd0MwOUk5N1VqUEVTTS1XX1gxZUw0NHB2ZC01VHZtTVlNczJsUFpzaWs5R2ZIeUI2NHpB?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-09-02",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVVMtRkVSei1acXR4d1BuY3dpYnIzdUJvdVRhOWk4VmNDWmZTc2E3TWpYaDhCemw0V0F5Zkx4RXJ6WFVzV1R6OEk5bFk4eHdieGhnZXpZSHdkcmJhWTl0cXdJd21yd2JBbFE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-02",
        "desc": "",
        "desc_en": ""
       }
@@ -431,10 +404,37 @@
      ]
     },
     {
+     "key": "korea",
+     "name": "국내 AI·네이버",
+     "count": 1,
+     "items": [
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iUUdDazRJU1NHX0w4Zi0zd0lDM1VQQUpOdzJVMjd2WUI2a2IzUTYxT19ndzd2cGh1V0EtNF9QbmdkSEMzYTNkQktqTGtYVUhJbTZVZUJUdVN6bDhkRkYxSTQwOWotRGp3eFE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-04",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
      "key": "other",
      "name": "그 밖의 AI 소식",
-     "count": 3,
+     "count": 4,
      "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-06",
+       "desc": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는 1",
+       "desc_en": ""
+      },
       {
        "platform": "이미지·영상 생성",
        "title": "사이버링크, 포토디렉터 365 ‘AI PC 모드’ 공개…엔비디아 RTX 스파크서 온디바이스 AI 사진 편집",
@@ -447,10 +447,10 @@
       },
       {
        "platform": "조코딩 IT뉴스 라이브 (유튜브)",
-       "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
-       "url": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+       "title": "IT뉴스 - GPT-6 Astra 미쳤다, Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, World Labs Atlas 등",
+       "url": "https://www.youtube.com/watch?v=UnWoCJPRjYg",
        "source": "조코딩",
-       "note": "조회수 4.5만회 · 스트리밍 시간: 4일 전",
+       "note": "조회수 3.8만회 · 스트리밍 시간: 12시간 전",
        "at": "",
        "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
        "desc_en": ""
@@ -471,10 +471,10 @@
    "items": [
     {
      "platform": "조코딩 IT뉴스 라이브 (유튜브)",
-     "title": "IT뉴스 - Astra 임박, 할라피뇨, Fable 5.1, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
-     "url": "https://www.youtube.com/watch?v=Xs9wHHv-wak",
+     "title": "IT뉴스 - GPT-6 Astra 미쳤다, Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, World Labs Atlas 등",
+     "url": "https://www.youtube.com/watch?v=UnWoCJPRjYg",
      "source": "조코딩",
-     "note": "조회수 4.5만회 · 스트리밍 시간: 4일 전",
+     "note": "조회수 3.8만회 · 스트리밍 시간: 12시간 전",
      "at": "",
      "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
      "topic": "other"
@@ -484,9 +484,19 @@
      "title": "tt-a1i/archify",
      "url": "https://github.com/tt-a1i/archify",
      "source": "JavaScript",
-     "note": "24,227 stars (이번 주)",
+     "note": "19,480 stars (이번 주)",
      "at": "",
      "desc": "아름답고 검증 가능한 아키텍처, 워크플로, 순서, 데이터 흐름 및 수명 주기 다이어그램을 위한 에이전트 기술 - 모션과 선명한 내보내기가 포함된 자체 포함 HTML.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "DietrichGebert/ponytail",
+     "url": "https://github.com/DietrichGebert/ponytail",
+     "source": "JavaScript",
+     "note": "11,730 stars (이번 주)",
+     "at": "",
+     "desc": "AI 에이전트가 방에서 가장 게으른 수석 개발자처럼 생각하게 만듭니다. 가장 좋은 코드는 작성하지 않은 코드입니다.",
      "topic": "agent"
     },
     {
@@ -494,7 +504,7 @@
      "title": "THU-MAIC/OpenMAIC",
      "url": "https://github.com/THU-MAIC/OpenMAIC",
      "source": "TypeScript",
-     "note": "10,023 stars (이번 주)",
+     "note": "10,109 stars (이번 주)",
      "at": "",
      "desc": "멀티 에이전트 대화형 강의실 열기 — 단 한 번의 클릭으로 몰입감 있는 멀티 에이전트 학습 경험 제공",
      "topic": "agent"
@@ -504,59 +514,49 @@
      "title": "K-Dense-AI/scientific-agent-skills",
      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
      "source": "Python",
-     "note": "7,370 stars (이번 주)",
+     "note": "5,491 stars (이번 주)",
      "at": "",
      "desc": "인공지능 에이전트를 인공지능 과학자로 바꿔보세요. 전 세계 190,000명 이상의 과학자가 사용하는 과학 분야 최고의 에이전트 스킬 라이브러리. 165개의 즉시 사용할 수 있는 검증된 기술과 생물학, 화학, 의학 및 약물 발견을 다루는 100개 이상의 과학 데이터베이스. Cursor, Claude Code, Codex, Pi, Antigrav와 호환 가능",
      "topic": "agent"
     },
     {
      "platform": "GitHub 이번 주 인기 저장소",
-     "title": "freestylefly/awesome-gpt-image-2",
-     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+     "title": "affaan-m/ECC",
+     "url": "https://github.com/affaan-m/ECC",
      "source": "JavaScript",
-     "note": "5,425 stars (이번 주)",
+     "note": "5,445 stars (이번 주)",
      "at": "",
-     "desc": "코드로 프롬프트 | GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出 Skills ，持续更新中",
-     "topic": "coding"
-    },
-    {
-     "platform": "GitHub 이번 주 인기 저장소",
-     "title": "tashfeenahmed/freellmapi",
-     "url": "https://github.com/tashfeenahmed/freellmapi",
-     "source": "TypeScript",
-     "note": "3,194 stars (이번 주)",
-     "at": "",
-     "desc": "매월 74억 개의 토큰. 34개의 무료 LLM 공급자. 635개의 무료 모델 엔드포인트. 모두 하나의/v1 엔드포인트와 모든 사용자 정의 OpenAI 호환 엔드포인트 뒤에 있습니다. 스마트 라우팅, 자동 장애 조치, 암호화된 키. 개인적 실험에 한함.",
-     "topic": "coding"
+     "desc": "에이전트 하네스 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등을 위한 기술, 본능, 기억, 보안 및 연구 우선 개발.",
+     "topic": "agent"
     },
     {
      "platform": "GitHub 이번 주 인기 저장소",
      "title": "jingyaogong/minimind",
      "url": "https://github.com/jingyaogong/minimind",
      "source": "Python",
-     "note": "3,122 stars (이번 주)",
+     "note": "3,649 stars (이번 주)",
      "at": "",
      "desc": "단 2시간 만에 64M 파라미터 LLM을 처음부터 🧠 훈련하세요!",
      "topic": "oss"
     },
     {
      "platform": "GitHub 이번 주 인기 저장소",
-     "title": "rohitg00/ai-engineering-from-scratch",
-     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-     "source": "Python",
-     "note": "2,525 stars (이번 주)",
+     "title": "tailscale/tailcat",
+     "url": "https://github.com/tailscale/tailcat",
+     "source": "Go",
+     "note": "3,187 stars (이번 주)",
      "at": "",
-     "desc": "배워보세요. 만들어 보세요. 다른 사람을 위해 배송하세요.",
+     "desc": "netcat과 비슷하지만 Tailscale의 제어면이 없는 Tailscale의 데이터 평면을 통해",
      "topic": "oss"
     },
     {
      "platform": "GitHub 이번 주 인기 저장소",
-     "title": "abi/screenshot-to-code",
-     "url": "https://github.com/abi/screenshot-to-code",
+     "title": "google-research/timesfm",
+     "url": "https://github.com/google-research/timesfm",
      "source": "Python",
-     "note": "2,412 stars (이번 주)",
+     "note": "2,968 stars (이번 주)",
      "at": "",
-     "desc": "스크린샷을 드롭하여 깨끗한 코드 (HTML/Tailwind/React/Vue) 로 변환합니다.",
+     "desc": "TimesFM (시계열 기초 모델) 은 시계열 예측을 위해 Google Research에서 개발한 사전 훈련된 시계열 기초 모델입니다.",
      "topic": "oss"
     },
     {
@@ -574,7 +574,7 @@
      "title": "Vorssaint - 여러 Mac 유틸리티를 하나로 모은 메뉴 막대 앱",
      "url": "https://news.hada.io/topic?id=33174",
      "source": "GeekNews",
-     "note": "28 points",
+     "note": "33 points",
      "at": "2026-09-03",
      "desc": "앱별 음량 조절, 시스템 모니터, 앱 전환기, 창 관리, 클립보드, 화면 캡처, 파일 정리처럼 따로 구매하던 Mac 도구들을 하나의 메뉴 막대 아이콘에 통합 무료 오픈소스로 제공되며 계정, 구독, 사용 분석이나 추적 기능 없이 Mac에서 로컬로 실행 필요한 기능만 설치할 수 있고, 제거한 기능은 화면에서 사라질 뿐 아니라 CPU, 메모리와 전력을 사용하지 않음 다시 설치하면 이전 설정은…",
      "topic": "oss"
@@ -584,7 +584,7 @@
      "title": "Claude Fable 5.1 프롬프팅 가이드",
      "url": "https://news.hada.io/topic?id=33175",
      "source": "GeekNews",
-     "note": "22 points",
+     "note": "24 points",
      "at": "2026-09-03",
      "desc": "기존 Claude Fable 5 프롬프트는 대부분 작동하지만, 5.1은 effort, 진행 업데이트, 도구 호출, 대화 이력, 출력 형식이 달라 기존 설정을 그대로 교체하기보다 다시 평가 해야 함 기본값 high 에서 시작해 low , medium , xhigh , max 를 작업별로 비교해야 하며, medium 은 더 낮은 비용으로 Fable 5와 비슷한 결과를 낼 수 있음 긴 에이전트…",
      "topic": "agent"
@@ -611,13 +611,13 @@
     },
     {
      "platform": "긱뉴스(GeekNews) 화제 글",
-     "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
-     "url": "https://news.hada.io/topic?id=33015",
+     "title": "CLIProxyAPI - AI 구독 계정을 호환 API로 노출하는 프록시",
+     "url": "https://news.hada.io/topic?id=33206",
      "source": "GeekNews",
-     "note": "20 points",
-     "at": "2026-08-30",
-     "desc": "장시간 취약점 조사에서 LLM이 이미 폐기된 가설을 다시 제안하거나, 틀린 전제에서 나온 결론을 계속 믿는 문제를 해결하려다 Datalog 기반 상태 관리 엔진 Lemmalog 를 개발함 과거 대화를 검색하는 대신 현재 무엇이 참인지 를 사실과 규칙으로 관리하고, 전제가 바뀌면 그에 의존한 결론을 자동으로 무효화함 LLM은 코드·디버거 출력·자연어를 구조화된 사실로 바꾸고,…",
-     "topic": "search"
+     "note": "18 points",
+     "at": "2026-09-04",
+     "desc": "ChatGPT Codex, Claude Code, Gemini, Grok Build, Antigravity 등의 OAuth 계정을 로컬 프록시에 연결해 , 여러 표준 형식의 API로 제공 별도의 API 키를 발급받지 않고도 기존 SDK, API 클라이언트와 코딩 에이전트에서 구독 계정의 모델을 호출할 수 있음 OpenAI Responses, Gemini Interactions, Claude…",
+     "topic": "agent"
     },
     {
      "platform": "긱뉴스(GeekNews) 화제 글",
@@ -641,82 +641,82 @@
     },
     {
      "platform": "AI타임스 주요 기사",
+     "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-07",
+     "desc": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서",
+     "topic": "copilot"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-06",
+     "desc": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는 1",
+     "topic": "other"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-06",
+     "desc": "오픈AI가 자사 AI 에이전트들이 폐쇄된 테스트 환경을 벗어나 독일의 한 위키 사이트를 장악하고 에이전트 간 소통 공간으로 활용한 ‘위키 사건’을 공식 인정했다. 이번 사건을 계기로 AI가 개발자나 사용자의 의도와 다르게 행동하는 ‘정렬 실패(misalignment)’ 사례에 대한 공개 기준을 새로 마련하겠다고 밝혔다.오픈AI는 5일(현지시간) 소셜미디어 ",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214891",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-06",
+     "desc": "오픈AI의 'GPT-6 아스트라'가 기술 커뮤니티에서 찬사와 우려를 동시에 일으키고 있다. 단순 대화형 AI를 넘어 PC 화면 인식과 소프트웨어 제어를 자율적으로 수행하는 '에이전틱 AI' 시대가 전면화된 가운데, 실무 생산성 도약에 대한 찬사와 지나친 의존성에 대한 경계감이 동시에 표출되고 있다.실제로 오픈AI가 3일(현지시간) 공개한 아스트라의 공식 데",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
      "title": "UAE, 세계 최대 규모 완전 오픈소스 AI 'K2 호라이즌' 공개",
      "url": "https://www.aitimes.com/news/articleView.html?idxno=214861",
      "source": "AI타임스",
      "note": "",
-     "at": "2026-09-04",
+     "at": "2026-09-05",
      "desc": "아랍에미리트(UAE)에서 단순 가중치 공개(오픈웨이트) 수준을 넘어 AI 역사상 최대 규모의 완전 오픈소스 AI 모델 모음이 등장했다.아부다비의 모하메드 빈 자예드 인공지능 대학교(MBZUAI) 산하 기초 모델 연구소(IFM)는 3일 6종의 파운데이션 모델 라인업으로 구성된 'K2 호라이즌(K2 Horizon)'을 발표했다.단순 가중치 배포를 넘어 소스 코",
      "topic": "edu"
     },
     {
      "platform": "AI타임스 주요 기사",
-     "title": "앤트로픽, 전자상거래로 확장... 연말 대목 겨냥 '클로드 상거래 에이전트' 공개",
+     "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개",
      "url": "https://www.aitimes.com/news/articleView.html?idxno=214851",
      "source": "AI타임스",
      "note": "",
-     "at": "2026-09-04",
+     "at": "2026-09-05",
      "desc": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전",
      "topic": "agent"
     },
     {
      "platform": "AI타임스 주요 기사",
-     "title": "MS, 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡은 음성 인식 모델",
+     "title": "MS, 음성 모델 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡아",
      "url": "https://www.aitimes.com/news/articleView.html?idxno=214858",
      "source": "AI타임스",
      "note": "",
-     "at": "2026-09-04",
+     "at": "2026-09-05",
      "desc": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜",
      "topic": "image"
     },
     {
      "platform": "AI타임스 주요 기사",
-     "title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214868",
+     "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
      "source": "AI타임스",
      "note": "",
-     "at": "2026-09-04",
-     "desc": "사우디아라비아가 중국 미니맥스와 협력해 아랍어에 특화된 초거대 AI 모델을 개발하며 소버린 AI 경쟁에 뛰어들었다. 사우디 국부펀드(PIF) 산하 AI 기업 휴메인(HUMAIN)은 3일 최첨단 아랍어 모델 역량 확보와 자국 AI 생태계 강화를 위해 ‘휴메인-m3(humain-m3)’를 공개했다.기술 행사 LEAP에서 휴메인-m3를 발표하고, 자체 AI 플랫",
-     "topic": "korea"
-    },
-    {
-     "platform": "AI타임스 주요 기사",
-     "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214854",
-     "source": "AI타임스",
-     "note": "",
-     "at": "2026-09-04",
-     "desc": "오픈AI가 AI 에이전트의 공격 역량 강화에 맞춰, 취약점 탐지부터 패치와 배포까지 전 과정을 자동화하는 자율형 보안 체계 ‘디펜스 팩토리(Defense Factory)’를 공개했다. 이는 오픈웨이트 모델을 악용한 장기간 사이버 공격에 맞서 탐지와 대응 속도를 극대화하고 보안 업무 부담을 줄이기 위한 조치다.오픈AI는 3일(현지시간) AI 에이전트를 악용한",
-     "topic": "agent"
-    },
-    {
-     "platform": "AI타임스 주요 기사",
-     "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
-     "source": "AI타임스",
-     "note": "",
-     "at": "2026-09-04",
-     "desc": "오픈AI가 사전 학습과 강화 학습, 정렬 분야의 기술력을 집약한 차세대 플래그십 모델 'GPT-6 아스트라(Astra)'를 공개했다. 단순한 지능 향상을 넘어 컴퓨터 제어, 브라우징, 소프트웨어 엔지니어링, 사이버 보안, 과학 연구 등 전문 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 본격적인 진입을 알렸다고 선언했다. 그렉 브록먼 오픈AI 사",
-     "topic": "chatgpt"
-    },
-    {
-     "platform": "AI타임스 주요 기사",
-     "title": "\"WASD 누르면 영상 생성\"... 텐센트, 인터랙티브 월드모델 'H3-월드' 발표",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214800",
-     "source": "AI타임스",
-     "note": "",
-     "at": "2026-09-03",
-     "desc": "영상 생성 AI가 단순히 주어진 프롬프트에 따라 영상을 만드는 단계를 넘어 사용자의 조작에 실시간으로 반응하는 ‘인터랙티브 월드 모델’로 진화하고 있다. 게임처럼 키보드를 조작하면 AI가 캐릭터의 이동과 카메라 시점을 이해하고 그에 맞는 영상을 생성하는 방식이다. 텐센트와 싱가포르 국립대학교(NUS), 홍콩공과대학교(PolyU) 공동 연구진은 1일(현지시간",
-     "topic": "image"
-    },
-    {
-     "platform": "AI타임스 주요 기사",
-     "title": "인월드 AI, 맥락·감정 읽는 음성 모델 '실시간 TTS-2' 공개...아티피셜 애널리시스 1위 등극",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214813",
-     "source": "AI타임스",
-     "note": "",
-     "at": "2026-09-03",
-     "desc": "AI 음성 기술이 단순히 사람의 목소리를 흉내 내는 수준을 넘어 실제 대화의 맥락과 감정까지 이해하는 단계로 발전하고 있다. 음성 AI 전문 인월드 AI(Inworld AI)가 사용자의 말투와 속도, 감정 상태를 실시간으로 파악하고 자연어로 입력한 연출 지시까지 반영하는 차세대 음성 생성 모델을 공개했다 인월드 AI는 2일(현지시간) 사람과 AI가 실제로 ",
+     "at": "2026-09-07",
+     "desc": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오",
      "topic": "image"
     },
     {
@@ -731,9 +731,9 @@
     },
     {
      "platform": "OpenAI · 챗GPT",
-     "title": "챗GPT·클로드·그록 한꺼번에 ’먹통’…이례적 동시 장애",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRGRJOGlzcGVyWFBqdFM3cWZDRVdzRGQxTURVa2g3ZzlTSDFIc1JJX2EydlUxS3dWcmFIZ0tWN1VOcEJDSzg1MzB6N2hDdzJuM3pHYUp4eHZSLTREUHRlcURoNjh5OWM?oc=5",
-     "source": "연합뉴스TV",
+     "title": "챗GPT·클로드·그록 등 주요 AI 서비스, 한때 일제히 '먹통'",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PMWVMZk91TU9IZndkRUt3SmxHT1A5QTZqVVVLcjN6dWplMFlZVmVKa0xDTDd1Z2pqN1oyNGU2WlRCTS1PNHBUYXY5ZFBCZw?oc=5",
+     "source": "전자신문",
      "note": "",
      "at": "2026-09-04",
      "desc": "",
@@ -741,13 +741,13 @@
     },
     {
      "platform": "앤트로픽 · 클로드",
-     "title": "'클로드 코드' 주간 한도 25% 인상…실제 17% 감소에 개발자 '발끈'",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZ0JZOG8wU0NSMFEwTWdReHpxQ3YtQWx4NV9DLWN4VjIzajJscDVTWG8yNjhqNmM2cGhRR0VlTEMyMEN4WnJEekNZck9SNFRpMk9sdFJrMVFNN2o2YldIa3NXcWNkT1FvZGc?oc=5",
-     "source": "AI타임스",
+     "title": "앤트로픽, ‘클로드 페이블 5.1·미토스 5.1’ 공개…‘AI 연구원’으로 진화하는 에이전트",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05NjBVbHl6NlpaZFl4aGRiS1dBcWtWclZ4aFpRVmJsbEVLREpRV1hlNXFLeTNqRVZiTXp4cnZEaUJoSG5fc3VhZGhYZFd1NXdzQU04LWxsbGl0ZmRiWXI2cU1zYVREUVE?oc=5",
+     "source": "인공지능신문",
      "note": "",
-     "at": "2026-08-30",
+     "at": "2026-09-02",
      "desc": "",
-     "topic": "coding"
+     "topic": "agent"
     },
     {
      "platform": "구글 · 제미나이",
@@ -761,13 +761,13 @@
     },
     {
      "platform": "구글 · 제미나이",
-     "title": "구글, '제미나이 라이브'에 에이전트 탑재…음성으로 일정·이메일 제어",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15OWQ5LTdhMHNLeHVJQ0FqNTZqWFBIRWJwZF83ZmJ5RmJoVnkxWkpOMWFLN2xyU2ZlR0p3M0JjVHBYbjJNeE5uUWFtX1pWTUpEazVSWVRiQkRfY0tMVDRKbmNGc3M4TGE1YUE?oc=5",
+     "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lemduekJGYmlRZFlaeHFtUWJOOFFxLW8zOU5WWTFlQUJXT3p3TEVHUmt0X2YwbzhpUzl5Slh0NUNTenFtN2ZfQy1iS2IyTDRWYTVmRVpETFowUzJYYzFOTE5Kd0NhMEctTFE?oc=5",
      "source": "AI타임스",
      "note": "",
-     "at": "2026-08-29",
+     "at": "2026-09-03",
      "desc": "",
-     "topic": "agent"
+     "topic": "coding"
     },
     {
      "platform": "마이크로소프트 · 코파일럿",
@@ -841,31 +841,31 @@
     },
     {
      "platform": "이미지·영상 생성",
-     "title": "옐로우박스, 이미지 제작 플랫폼 'Clor AI' 정식 출시",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRkROeUhMT0s2SFJNMjlkdW1Fb1NpOGpqb1pEd1ZoT29jbF8zSDRpS0d6YURzSjhmd0ViNWZDN0V4YVBnVmpFMUhCb2J4UFF5Y2pZNndNZEtvWDhU?oc=5",
-     "source": "뉴스핌",
+     "title": "MonoGPT, 기관용 AI 영상 제작 기능 출시... 시댄스2.5·클링 비디오3.0 옴니 지원",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNWxwZnlBZExiM2pkZFZoNnJTTDJJdlozWkdabTJDNTNPT0RSSXBCSEc1NHc4MVZ1S0swSEhENjBYeDFaMm91ZGNtMUI4UQ?oc=5",
+     "source": "전자신문",
      "note": "",
-     "at": "2026-09-03",
+     "at": "2026-09-02",
      "desc": "",
      "topic": "image"
     },
     {
      "platform": "AI 에이전트·자동화",
-     "title": "크라우드웍스, 데이터 구축 노하우로 'AI 에이전트 안전성' 검증 나선다",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Mb3pyRGlidmNzY0Q4d25MdkJ2VGNvUlhHcDdlejFPQVpaZEtZclFEVFVsWkdvVXFSUVJzRmQ0REI0eXR0QVl2aXJwdTZXRXd5RVV0dk44MG1Icm9aQUFlLVZEOWFWVmNRNkE?oc=5",
-     "source": "AI타임스",
+     "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\"",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lVEtEOXEwZlBCU1l0bGx1MENzdW9NSXEzRWpkWGhWamJsaGVtamNlbUR2dzRRNWxvRFhpdkFyUkZHRVctSGIyYVdLRXlrS2dmX0R4VUVn?oc=5",
+     "source": "지디넷코리아",
      "note": "",
-     "at": "2026-09-04",
+     "at": "2026-09-06",
      "desc": "",
      "topic": "agent"
     },
     {
      "platform": "AI 에이전트·자동화",
-     "title": "AI 에이전트부터 국가 AI 보안까지, 프라이빗에이아이가 말하는 “AI 시대 리스크 관리”",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wWEFVLW9xM0NuaW9jMnQwSWdkWFRRUEJHOVY3R0VCOG5YbGV4dVVWZWl0ZWc0TS1MTkpXV2tZeUt0OXBCc1cwUHYxSHc5S3hqU0twUGxlclNSdjNZSFZwZWNIcVhfSDg2bGdV?oc=5",
+     "title": "오픈AI 에이전트, 독일 개발자 위키 사이트 장악... 통제 벗어난 AI 논란 재점화",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjbmdwTG9VMFdpa1g4M3VCeTNiQ3RjcXpKREE5YXNNWHBndEhKOGR6cHhLdG1OX19fU2RWRWVMN0tEdWVpUlhvc0FkSmM4cnJBdnB0SnJvUW1qS3ZGZFJwM21YNWo1UEVvbjRR?oc=5",
      "source": "보안뉴스",
      "note": "",
-     "at": "2026-09-04",
+     "at": "2026-09-05",
      "desc": "",
      "topic": "agent"
     }
