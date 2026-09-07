@@ -1,6 +1,86 @@
 {
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "days": [
+  {
+   "date": "2026-09-08",
+   "count": 9,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "우크라이나의 독립 저널리즘 지원",
+     "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+     "at": "2026-09-07 09:00",
+     "desc": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다.",
+     "title_en": "Supporting independent journalism in Ukraine",
+     "desc_en": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214925",
+     "at": "2026-09-08 16:00",
+     "desc": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214945",
+     "at": "2026-09-08 02:19",
+     "desc": "깃허브가 하나의 AI 모델을 선택해 코딩 작업을 처리하는 기존 방식을 넘어, 작업마다 여러 AI 모델과 실행 방식을 실시간으로 조합하는 새로운 코딩 에이전트 라우팅 시스템을 공개했다. 비용을 크게 절감하면서도 프런티어급 품질을 안정적으로 유지한 것이 특징이다.깃허브는 4일(현지시간) AI 코딩 라우팅 시스템 ‘프로젝트 하이드라퓨전(Project…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214947",
+     "at": "2026-09-08 01:55",
+     "desc": "스페이스XAI가 영상 생성의 고질적인 문제로 꼽혀온 장면 간 연속성을 개선한 ‘그록 이매진 비디오 1.5(Grok Imagine Video 1.5)’ 에이전트를 공개했다. 단순히 영상 생성 모델의 화질을 높이는 데 그치지 않고 여러 개의 장면을 하나의 일관된 영상으로 연결하는 데 초점을 맞춘 것이 특징이다.스페이스XAI는 5일(현지시간) 새로운 ‘그록…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214952",
+     "at": "2026-09-08 02:51",
+     "desc": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Tokenbill — 내 AI 토큰 사용량 대시보드 & 리더보드 (Claude Code·Codex·Gemini CLI 자동 집계)",
+     "url": "https://news.hada.io/topic?id=33314",
+     "at": "2026-09-07 16:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
+     "url": "https://news.hada.io/topic?id=33321",
+     "at": "2026-09-07 21:24",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: monolog - 나에게 메시지하듯 기록하면 AI가 정리하고 다시 찾아주는 메모 앱",
+     "url": "https://news.hada.io/topic?id=33310",
+     "at": "2026-09-07 10:41",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "GPT-6 Astra, 수능 벤치마크 첫 전 영역 만점",
+     "url": "https://news.hada.io/topic?id=33307",
+     "at": "2026-09-07 10:05",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-07",
    "count": 8,
