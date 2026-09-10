@@ -1,6 +1,104 @@
 {
- "updated": "2026-09-10",
+ "updated": "2026-09-11",
  "days": [
+  {
+   "date": "2026-09-11",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "상담원 API 소개",
+     "url": "https://openai.com/index/introducing-the-agents-api",
+     "at": "2026-09-10 09:00",
+     "desc": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다.",
+     "title_en": "Introducing the Agents API",
+     "desc_en": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "금융 서비스를 위한 ChatGPT 소개",
+     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+     "at": "2026-09-10 16:00",
+     "desc": "금융 서비스용 ChatGPT를 소개합니다. 내장된 금융 데이터와 연구, 모델링 및 고객 지원 자료를 위한 GPT-6 Astra를 결합합니다.",
+     "title_en": "Introducing ChatGPT for Financial Services",
+     "desc_en": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "연구원이 CODEX 및 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
+     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+     "at": "2026-09-11 01:00",
+     "desc": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다.",
+     "title_en": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+     "desc_en": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "이제 Windows에서 Gemini 앱을 사용할 수 있습니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+     "at": "2026-09-11 01:00",
+     "desc": "쌍둥이 자리가 이제 창문에 있습니다",
+     "title_en": "The Gemini app is now available for Windows",
+     "desc_en": "Gemini is now on windows"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "이제 모든 사람이 데이터를 업무에 적용할 수 있습니다.",
+     "url": "https://openai.com/index/put-data-to-work",
+     "at": "2026-09-11 00:00",
+     "desc": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요.",
+     "title_en": "Now everyone can put data to work",
+     "desc_en": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "검색으로 다음 큰 레이스를 준비하는 3가지 방법",
+     "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+     "at": "2026-09-11 01:00",
+     "desc": "돋보기와 쌍둥이자리 스파크가 겹쳐진 테크니컬러 러너의 파란색 배경에 대한 일러스트",
+     "title_en": "3 ways to prep for your next big race with Search",
+     "desc_en": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215106",
+     "at": "2026-09-11 01:47",
+     "desc": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스트의 라이선스 음악에서 영감받아 새로운 음악을 만들 수 있도록…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+     "at": "2026-09-11 03:15",
+     "desc": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
+     "at": "2026-09-11 02:31",
+     "desc": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지 않았다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 해당 사고가…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Apple, AirPods 5 공개 - 기본 모델에도 노이즈 캔슬링 탑재",
+     "url": "https://news.hada.io/topic?id=33452",
+     "at": "2026-09-10 05:39",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-10",
    "count": 10,
