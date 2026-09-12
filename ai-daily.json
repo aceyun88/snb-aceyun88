@@ -1,6 +1,88 @@
 {
- "updated": "2026-09-12",
+ "updated": "2026-09-13",
  "days": [
+  {
+   "date": "2026-09-13",
+   "count": 9,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Perplexity는 엔드 투 엔드 시스템을 갖춘 GPT-6 Astra를 신뢰합니다",
+     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+     "at": "2026-09-14 09:00",
+     "desc": "Perplexity는 Astra를 사용하여 통신을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 적은 빈도로 체크인합니다.",
+     "title_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+     "desc_en": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Cognition은 Devin이 GPT ‑ 6 Astra로 자체 작업을 테스트하는 데 도움이 됩니다",
+     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+     "at": "2026-09-12 01:00",
+     "desc": "GPT ‑ 6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 코드를 제공하도록 돕는 것을 목표로 Devin의 소프트웨어를 테스트하고 작동함을 보여주는 능력을 향상시킵니다.",
+     "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+     "desc_en": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215190",
+     "at": "2026-09-13 01:16",
+     "desc": "세일즈포스가 기업 곳곳에 적용되는 AI 에이전트를 하나의 체계로 통합 관리하기 위한 새로운 기업용 프레임워크를 공개했다. 에이전트와 오케스트레이션 플랫폼이 부서와 업무별로 빠르게 늘어나면서 발생하는 ‘에이전트 난립(Agent Sprawl)’에 대응해, 데이터와 모델부터 에이전트의 행동, 보안, 거버넌스까지 기업이 통합적으로 통제할 수 있도록 하는 것이…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+     "at": "2026-09-12 20:34",
+     "desc": "AI 에이전트가 단순한 질의응답을 넘어 장시간에 걸쳐 코드를 작성하고 파일을 처리하며 여러 작업을 자율적으로 수행하는 단계로 발전하면서, 이를 안정적으로 운영하기 위한 개발 인프라의 중요성도 커지고 있다. 오픈AI가 코딩 에이전트 코덱스를 통해 축적한 에이전트 운영 기술을 개발자들에게 개방하며, 복잡한 에이전트 구축 과정을 간소화하는 데 나섰다.…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+     "at": "2026-09-13 02:24",
+     "desc": "구글이 대형언어모델(LLM)의 도구 사용 능력을 효율적으로 학습하기 위한 새로운 데이터 생성 프레임워크를 공개했다. 복잡한 API 탐색 과정에서 시행착오를 반복하는 기존 방식과 달리, 먼저 검증된 도구 사용 경로를 만든 뒤 이에 맞는 사용자 질의를 생성하는 방식으로 데이터 생성 비용과 실패율을 크게 낮췄다. 구글 연구진은 최근 AI 에이전트의 도구 사용…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+     "at": "2026-09-13 02:50",
+     "desc": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할 수 있다는 점이 특징이다. 앤트로픽은 10일(현지시간) 코딩 에이전트…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: ssiat llm - Pi Zero 2W에서도 동작가능한 한국어 LLM",
+     "url": "https://news.hada.io/topic?id=33581",
+     "at": "2026-09-12 21:48",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "필즈상 수상자 25명의 경고: AI의 문제 풀이 경쟁이 놓치는 수학의 목적",
+     "url": "https://news.hada.io/topic?id=33550",
+     "at": "2026-09-12 04:51",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI 때문에 느끼는 슬픔",
+     "url": "https://news.hada.io/topic?id=33548",
+     "at": "2026-09-12 03:40",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-12",
    "count": 6,
