@@ -1,6 +1,86 @@
 {
- "updated": "2026-09-14",
+ "updated": "2026-09-15",
  "days": [
+  {
+   "date": "2026-09-15",
+   "count": 9,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
+     "url": "https://openai.com/index/fyxer",
+     "at": "2026-09-14 21:00",
+     "desc": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 각 사용자의 음성으로 받은 편지함과 이메일 초안을 구성합니다.",
+     "title_en": "How Fyxer built an AI executive assistant people trust",
+     "desc_en": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215233",
+     "at": "2026-09-15 02:55",
+     "desc": "AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션이 문샷 AI의 '키미 K3'를 기반으로 사후학습한 새로운 코딩 모델을 선보이며 비용 대비 성능 경쟁에 뛰어들었다. 코그니션은 11일(현지시간) 키미 K3를 단 한 번의 강화학습(RL) 과정으로 사후학습한 새로운 코딩 모델 ‘SWE-2’를 공개했다.SWE-2는 코딩 작업 성능을 평가하는 주요…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "업스테이지, ‘솔라 미니 4’ 무료 프리뷰 공개…“프로급 성능 구현”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215245",
+     "at": "2026-09-15 02:18",
+     "desc": "업스테이지가 최신 모델 ‘솔라 프로 4’ 성능에 근접하는 ‘솔라 미니 4’를 곧 선보인다.김성훈 업스테이지 대표는 13일 페이스북을 통해 솔라 미니 4의 무료 프리뷰를 공개한다고 밝혔다. 정식 API 오픈은 오는 22일에 진행된다.솔라 미니 4(35B)는 상용 모델 ‘솔라 프로 4(250B)’의 7분의 1 정도 크기로 비슷한 성능을 기록했다. 토큰당 활성…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "텐센트, 음성 생성·편집 모델 'AuK' 공개...\"오디오용 나노바나나\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215235",
+     "at": "2026-09-15 02:50",
+     "desc": "텐센트가 텍스트를 음성으로 변환하는 것은 물론 기존 음성의 내용과 음색, 감정, 억양 등을 자연어 지시만으로 수정할 수 있는 오픈소스 AI 모델을 공개했다. 하나의 모델에서 음성 생성과 편집을 통합적으로 처리한다는 점을 강조하며 ‘오디오용 나노바나나(Nano Banana for Audio)’라는 별칭을 내세웠다.텐센트는 10일(현지시간) 음성 생성 및…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "와이즈넛, 대화로 만드는 AI 에이전트 공개…“기능 수정·추가도 손쉽게”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215238",
+     "at": "2026-09-15 00:45",
+     "desc": "AI 에이전트 전문 와이즈넛이 자연어 대화로 손쉽게 AI 에이전트를 제작할 수 있는 고도화 기능을 선보였다. 와이즈넛(대표 강용성)은 지난 10~11일 스위스 그랜드 호텔 서울에서 열린 ‘제31회 지자체 정보통신 우수사례 발표대회’에 참가해 ‘지자체 특화 AI 에이전트’를 선보였다고 밝혔다.행정안전부 주최로 최신기술을 지자체 행정에 반영한 혁신사례를…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: AI가 발표자료를 만들 때 쓰는 검증된 슬라이드 레이아웃 167종과 테마 41종",
+     "url": "https://news.hada.io/topic?id=33679",
+     "at": "2026-09-14 15:22",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Study Kit — 아는 내용은 건너뛰고, 질문으로 교재를 고치는 Claude Code·Codex 플러그인",
+     "url": "https://news.hada.io/topic?id=33666",
+     "at": "2026-09-14 09:59",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬",
+     "url": "https://news.hada.io/topic?id=33664",
+     "at": "2026-09-14 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "에이전트형 AI를 위한 데이터 준비하기",
+     "url": "https://news.hada.io/topic?id=33657",
+     "at": "2026-09-14 07:02",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-14",
    "count": 8,
