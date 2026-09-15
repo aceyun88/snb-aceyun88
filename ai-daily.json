@@ -1,6 +1,104 @@
 {
- "updated": "2026-09-15",
+ "updated": "2026-09-16",
  "days": [
+  {
+   "date": "2026-09-16",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+     "at": "2026-09-16 02:00",
+     "desc": "텍스트 \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background",
+     "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+     "desc_en": "Text \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Google AI 및 Economy Atlas의 새로운 인사이트",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+     "at": "2026-09-15 22:00",
+     "desc": "Google G 및 회전 글로브 일러스트와 함께 \"AI & Economy Atlas v1.0 2026\" 텍스트",
+     "title_en": "New insights from Google’s AI & Economy ATLAS",
+     "desc_en": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "과학을 가속화하고 삶을 개선하기 위한 AI 구축",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+     "at": "2026-09-16 01:00",
+     "desc": "교실의 선생님과 학생, 의사가 있는 환자 등 다양한 환경과 사람들을 보여주는 B-롤",
+     "title_en": "Building AI to accelerate science and improve lives",
+     "desc_en": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이자리로 집안일을 해결하는 4가지 방법",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+     "at": "2026-09-16 01:00",
+     "desc": "고장난 문손잡이의 사진에 '어떻게 하면 해결할 수 있나요?' 라는 메시지가 표시됩니다.",
+     "title_en": "4 ways to tackle household chores with Gemini",
+     "desc_en": "A photo of a broken doorknob with the prompt: How can I fix this?"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "사회적 영향을 위한 AI",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+     "at": "2026-09-16 01:00",
+     "desc": "이 컬렉션을 살펴보고 전문가와 현지 리더가 AI 혁신을 활용하여 모든 사람이 AI의 기회를 공유할 수 있도록 하는 방법을 알아보세요.",
+     "title_en": "AI for Societal Impact",
+     "desc_en": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "모든 언어로 모두를 위한 AI",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+     "at": "2026-09-16 01:00",
+     "desc": "여러 언어로 된 여러 단어의 애니메이션이 과거로 서서히 확대됨",
+     "title_en": "AI for everyone in every language",
+     "desc_en": "Animation of several words in different languages slowly zooming past"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"최고 성능에 비용은 반값\"...'라이너 모델 API' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215271",
+     "at": "2026-09-15 21:00",
+     "desc": "AI 에이전트 전문 라이너(대표 김진우)는 AI 오케스트레이션 솔루션인 ‘라이너 모델 API(Liner Model API)’를 출시했다고 15일 밝혔다. 현재 AI 시스템을 구축하는 대부분 기업은 답변 품질을 위해 고가의 프론티어급 모델 하나로 모든 사용자 질문을 일괄 처리하는 방법을 채택하고 있다. 하지만 질문 난이도가 제각각임에도 모두 상위 모델로…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"뇌처럼 학습한다\"…사카나 AI, 역전파 대체 기술 'PC-ALM' 발표",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215305",
+     "at": "2026-09-16 03:07",
+     "desc": "사카나 AI가 딥러닝 학습의 핵심 방식인 '역전파(Backpropagation)'를 사용하지 않고도 매우 깊은 신경망을 학습할 수 있는 새로운 레이어별 학습 기법을 공개했다.사카나 AI는 최근 기존 예측 코딩(PC·Predictive Coding)의 한계를 보완한 ‘PC-ALM(Augmented Lagrangian Predictive Coding)’을…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"독점 정보 유출 막아라\"...엔비디아·팔란티어, 첨단 AI 모델 도입 축소",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215294",
+     "at": "2026-09-16 02:43",
+     "desc": "AI 기업들의 데이터 수집 및 보관 정책으로 인한 데이터 및 지식재산권(IP) 유출 우려가 커지면서, 주요 기업들이 고급 AI 모델 사용을 축소하거나 새로운 보안 보장을 요구하고 나섰다. 14일(현지시간) 디 인포메이션에 따르면, 팔란티어와 엔비디아, 부즈 앨런 해밀턴 등 민감한 기업·고객 정보를 다루는 업체들은 앤트로픽과 오픈AI의 최첨단 AI 모델…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "플레이태그, AI 행동분석으로 아이 맞춤형 교육 제공…‘스토리라인 원’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215312",
+     "at": "2026-09-16 01:25",
+     "desc": "AI 행동분석 전문 플레이태그가 신규 서비스 ‘스토리라인 원(Storyline One)’을 공개했다고 15일 밝혔다.플레이태그는 어린이집이나 유치원 교실의 영상을 AI로 분석해 아이들의 개별 행동분석 리포트를 제공하는 ‘스토리라인’ 서비스를 제공해 왔다. 현재까지 누적 1000개 이상의 교실, 2만명 이상의 아동이 이용해 왔으며, 국내를 넘어 미국,…"
+    }
+   ]
+  },
   {
    "date": "2026-09-15",
    "count": 9,
