@@ -1,6 +1,101 @@
 {
- "updated": "2026-09-16",
+ "updated": "2026-09-17",
  "days": [
+  {
+   "date": "2026-09-17",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
+     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+     "at": "2026-09-16 02:05",
+     "desc": "",
+     "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "근로자가 새로운 업무 방식을 여는 방법",
+     "url": "https://openai.com/index/unlocking-new-ways-of-working",
+     "at": "2026-09-16 18:00",
+     "desc": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다.",
+     "title_en": "How workers are unlocking new ways of working",
+     "desc_en": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AI 사용을 비즈니스 가치로 연결하는 방법",
+     "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+     "at": "2026-09-16 21:00",
+     "desc": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요.",
+     "title_en": "How to connect AI usage to business value",
+     "desc_en": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "모델 오정렬을 보고하기 위한 프레임워크",
+     "url": "https://openai.com/index/model-misalignment-reporting-framework",
+     "at": "2026-09-17 02:00",
+     "desc": "OpenAI는 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크와 예기치 않은 또는 모델 동작과 관련된 6개의 보고서를 공유합니다.",
+     "title_en": "Our framework for reporting model misalignment",
+     "desc_en": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "고령자가 일상 생활에서 AI를 사용할 수 있도록 지원",
+     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+     "at": "2026-09-17 01:00",
+     "desc": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시에서 1,000명의 고령자를 대상으로 무료 실습 ChatGPT 워크숍을 개최합니다.",
+     "title_en": "Helping older adults use AI in everyday life",
+     "desc_en": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215351",
+     "at": "2026-09-17 01:27",
+     "desc": "세일즈포스가 엔비디아와 자체 CRM 데이터와 업무 방식에 특화된 추론 모델을 내놓았다. '클로드'와 '챗GPT' 등 외부 프론티어 모델에 대한 기업의 의존도를 낮추는 전략에 따른 것이다. 세일즈포스는 15일(현지시간) 드림포스 이벤트를 통해 엔비디아와 협력해 기업의 영업·마케팅·고객지원 업무에 특화된 자체 AI 추론 모델 ‘코아(Koa)’를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 말하며 생각하는 '제미나이 3.8 라이브' 공개...\"음성 품질 1위\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215332",
+     "at": "2026-09-16 22:22",
+     "desc": "구글이 실시간 음성 대화 중에도 추론과 도구 실행을 이어갈 수 있는 새로운 음성 AI 모델 2종을 공개했다. 음성 입력에 답하는 수준을 넘어 시각적 맥락을 이해하고 복잡한 작업을 수행하면서도 대화의 흐름을 유지하는 것이 핵심이다. 구글은 15일(현지시간) 실시간 추론 기능을 강화한 음성 대화형 AI 모델 ‘제미나이 3.8 라이브(Gemini 3.8…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "비드래프트 온디바이스 AI '포켓', 공개 7주 만에 100만 다운로드",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215322",
+     "at": "2026-09-16 20:20",
+     "desc": "AI 전문 비드래프트(대표 김민식)는 자사 온디바이스 AI 모델 '포켓-35B(POCKET-35B)'가 공개 7주 만에 허깅페이스 누적 다운로드 100만건을 돌파했다고 15일 밝혔다. 15일 기준 누적 107만6570건을 기록했다.주목할 점으로 다운로드 속도를 꼽았다. 지난 7월22일 공개돼 9월11일 100만건을 넘었다. 일평균 1만9936건으로, 누적…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "네이버, 실제 서비스에 ‘AI 안전성 체계’ 적용...세이프티 리포트 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215340",
+     "at": "2026-09-16 23:21",
+     "desc": "네이버(대표 최수연)가 자체 AI 안전성 체계 ‘ASF 2.0’의 실제 서비스 적용 과정과 구체적 실행 사례를 담은 ‘AI 세이프티 프로그레스 리포트’를 처음 발간했다고 16일 밝혔다.ASF 2.0은 AI 모델의 성능과 위험 수준은 물론, 이용자와 서비스 보호까지 포괄하는 네이버의 AI 안전성 관리 체계다. AI 서비스의 설계·개발부터 출시, 운영에…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: AI에게 “시니어처럼 생각해”라고 하지 않고, 엔지니어의 판단 과정을 23개 스킬로 쪼개봤습니다",
+     "url": "https://news.hada.io/topic?id=33762",
+     "at": "2026-09-16 10:02",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-16",
    "count": 10,
