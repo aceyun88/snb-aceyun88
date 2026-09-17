@@ -1,6 +1,96 @@
 {
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "days": [
+  {
+   "date": "2026-09-18",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "법학 분야를 위한 아스트라 소개",
+     "url": "https://openai.com/index/astra-for-law",
+     "at": "2026-09-17 09:00",
+     "desc": "OpenAI for Law는 법률, 맞춤 회사 워크플로우, 연결된 법률 데이터 소스 및 기밀 클라이언트 작업을 위한 법적 수준의 통제를 위한 프론티어 인텔리전스를 제공합니다.",
+     "title_en": "Introducing Astra for Law",
+     "desc_en": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AI로 광고 재창조하기",
+     "url": "https://openai.com/index/reimagining-advertising-with-ai",
+     "at": "2026-09-16 22:00",
+     "desc": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요.",
+     "title_en": "Reimagining advertising with AI",
+     "desc_en": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "AAII 국내 1위 ‘모티프 3’ 29일까지 API 무료 공개...\"에이전트에 집중\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215415",
+     "at": "2026-09-18 01:56",
+     "desc": "모티프테크놀로지스가 ‘모티프 3(Motif 3)’ 모델의 무료 API를 한시적으로 공개한다. 모티프 3는 아티피셜 애널리시스 인텔리전스 인덱스(AAII) 에서 평균 점수 47점을 기록하며 국내 AI 모델로서 최고 성능을 입증한 모델이다.임정환 모티프테크놀로지스 대표는 오는 29일까지 AI 인프라 플랫폼 ‘인프론(Infron)’을 통해 ‘모티프 3’의…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "피어리오딕 랩스, 재료과학 AI '네온' 공개...\"첨단 모델 성능 뛰어넘어\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215414",
+     "at": "2026-09-18 02:53",
+     "desc": "대형언어모델(LLM)의 추론 능력과 강화학습, 과학 도구를 결합해 새로운 소재를 탐색하려는 시도가 이어지는 가운데, 피어리오딕 랩스(Periodic Labs)가 재료과학에 초점을 맞춘 AI 모델을 선보였다. 오픈AI 출신 리암 페더스가 설립한 피어리오딕 랩스는 15일(현지시간) 재료과학 연구에 특화된 AI 모델 ‘네온(Neon)’을 공개했다.이 회사는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215396",
+     "at": "2026-09-17 23:32",
+     "desc": "지니젠AI(대표 최선영)가 글로벌 AI 모델 중개 플랫폼 오픈라우터의 모델 426종을 분석, 한국어 품질 평가 결과를 담은 리더보드를 허깅페이스에 공개했다고 17일 밝혔다.오픈라우터는 앤트로픽, 구글, 오픈AI, xAI, 딥시크 등 다양한 AI 모델을 단일 API로 제공하는 플랫폼이다. 2026년 8월 기준 이용자 1000만명, 일 처리량 10조 토큰을…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215416",
+     "at": "2026-09-18 02:36",
+     "desc": "기존 대형언어모델(LLM)이 자연어를 생성하는 데 초점을 맞춰 발전해온 가운데, AI가 소프트웨어의 의사결정을 직접 수행하도록 설계한 새로운 접근법이 등장했다. 특히 속도와 비용, 안정성이 중요한 자동화 분야를 겨냥해 텍스트 생성 대신 구조화된 판단 자체를 출력하는 AI 모델이 공개됐다.'챗GPT'와 인간 피드백 기반 강화학습(RLHF) 개발에 참여했던…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: CPGuard – SAST 취약점을 AI 에이전트가 동적으로 실증하는 오픈소스 (CPG taint + MCP)",
+     "url": "https://news.hada.io/topic?id=33844",
+     "at": "2026-09-18 00:02",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 주식매니저 - 회원가입 없이 보는 한국·미국 주식 수급 순위와 AI 시황 브리핑 (무료 웹/앱)",
+     "url": "https://news.hada.io/topic?id=33826",
+     "at": "2026-09-17 15:02",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
+     "url": "https://news.hada.io/topic?id=33814",
+     "at": "2026-09-17 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+     "url": "https://news.hada.io/topic?id=33809",
+     "at": "2026-09-17 07:45",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-17",
    "count": 10,
