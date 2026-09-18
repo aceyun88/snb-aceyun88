@@ -1,6 +1,96 @@
 {
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "days": [
+  {
+   "date": "2026-09-19",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Google AI & Economy 팀에 합류한 새로운 전문가",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+     "at": "2026-09-18 23:00",
+     "desc": "오른쪽 하단에 Google G 로고가 있는 녹색 격자 배경에 \"AI & Economy Research Program\" 을 입력합니다.",
+     "title_en": "New experts join Google’s AI & Economy team",
+     "desc_en": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "쿨리가 ChatGPT로 IPO 업무를 가속화하는 방법",
+     "url": "https://openai.com/index/cooley-gopublic",
+     "at": "2026-09-17 21:00",
+     "desc": "Cooley는 IPO 프로세스에 인텔리전스를 제공하기 위해 ChatGPT Work로 GO Public을 구축하여 변호사가 문제를 조기에 표면화하고 가장 중요한 곳에 판단을 집중할 수 있도록 지원했습니다.",
+     "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+     "desc_en": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215465",
+     "at": "2026-09-19 03:01",
+     "desc": "논문에 포함된 복잡한 분석 코드와 연구 방법을 자동으로 검증하고, 자연어로 실행할 수 있는 대화형 AI 에이전트로 바꾸는 오픈소스 시스템이 등장했다. 스탠포드대학교 연구진은 16일(현지시간) 논문과 코드 저장소를 분석해 연구 방법을 실행 가능한 도구로 변환하는 '페이퍼투에이전트(Paper2Agent)'를 네이처를 통해 공개했다. 단순히 논문 내용을…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215470",
+     "at": "2026-09-19 02:49",
+     "desc": "휴머노이드 로봇이 한 번도 방문하지 않은 가정에서도 별도의 환경 적응이나 추가 데이터 수집 없이 집안일을 수행할 수 있다는 실험 결과가 나왔다. 이번 결과는 작업 장소마다 별도로 학습하는 방식에서 벗어나, 인간의 행동 경험을 사전 학습해 실제 환경에 바로 적용하는 방향으로 발전할 가능성을 보여준다.피규어 AI는 17일(현지시간) 인간의 행동 데이터를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, '대형 신제품' 출시 일주일 연기…'GPT-6 솔' 기대감 고조",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215462",
+     "at": "2026-09-19 01:05",
+     "desc": "샘 알트먼 오픈AI CEO가 이번 주 예정이던 대형 신제품의 출시 일정을 다음 주로 연기했다.알트먼 CEO는 17일(현지시간) X를 통해 \"이번 주 출시를 가장 기대했던 메인 제품이 다음 주로 연기됐다\"라며 \"그러나 기다릴 만한 충분한 가치가 있을 것\"이라고 밝혔다. 이유는 언급하지 않았다.그는 이틀 전인 15일 이번 주 대형 신제품 출시와 더불어…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215430",
+     "at": "2026-09-18 20:56",
+     "desc": "앤트로픽이 AI를 단순한 코드 작성 도구를 넘어 장기적인 소프트웨어 개발 프로젝트 전체를 총괄하는 방향으로 진화시키고 있다. 개발자가 개별 작업을 일일이 지시하는 방식에서 벗어나, AI가 스스로 여러 작업을 병렬로 배분하고 과거 결정 사항까지 기억하며 개발 전 과정을 지속 조율하도록 만들기 위한 의도다.앤트로픽은 17일(현지시간) 장기적인 소프트웨어 개발…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
+     "url": "https://news.hada.io/topic?id=33869",
+     "at": "2026-09-18 09:42",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트",
+     "url": "https://news.hada.io/topic?id=33868",
+     "at": "2026-09-18 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Jevlike - 문장 대신 선택지별 확률을 반환하는 Jev 방식의 오픈소스 모델",
+     "url": "https://news.hada.io/topic?id=33854",
+     "at": "2026-09-18 04:52",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+     "url": "https://news.hada.io/topic?id=33842",
+     "at": "2026-09-17 22:52",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-18",
    "count": 10,
