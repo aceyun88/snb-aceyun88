@@ -1,6 +1,86 @@
 {
- "updated": "2026-09-19",
+ "updated": "2026-09-20",
  "days": [
+  {
+   "date": "2026-09-20",
+   "count": 9,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "호주 청소년 안전 청사진 소개",
+     "url": "https://openai.com/index/australian-youth-safety-blueprint",
+     "at": "2026-09-18 21:00",
+     "desc": "OpenAI는 청소년을 보호하고 권한을 부여하는 안전한 AI 경험을 위한 6가지 핵심 로드맵인 호주 청소년 안전 청사진을 소개합니다.",
+     "title_en": "Introducing the Australian Youth Safety Blueprint",
+     "desc_en": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+     "at": "2026-09-20 04:46",
+     "desc": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+     "at": "2026-09-20 01:24",
+     "desc": "알리바바가 오디오와 비디오를 이해하는 데 그치지 않고 사용자의 지시에 따라 도구를 호출하고 작업까지 수행할 수 있는 차세대 옴니모달 모델을 공개했다. 알리바바는 18일(현지시간) 단순한 콘텐츠 인식을 넘어 작업 계획과 실행이 가능한 새로운 옴니모달 모델 ‘큐원3.8-옴니-플래시(Qwen3.8-Omni-Flash)’를 공개했다.텍스트와 이미지뿐 아니라…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브 2.0’ 공개...전사 정확도 1위",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+     "at": "2026-09-20 00:50",
+     "desc": "스페이스XAI는 18일(현지시간) 음성을 텍스트로 변환하는 새로운 음성 전사 모델 ‘그록 보이스 트랜스크라이브 2.0(Grok Voice Transcribe 2.0)’을 공개했다.이를 두고 \"현재 사용 가능한 변환 모델 중 가장 정확한 모델 중 하나\"라고 강조했다. 실제 환경에서 수집한 다양한 음성 데이터를 바탕으로 전사 정확도를 크게 높였다는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215459",
+     "at": "2026-09-19 03:37",
+     "desc": "구글이 AI 에이전트의 문제 해결 과정에 재귀적 자기개선(RSI)을 적용하면서도 탐색에 필요한 실행 비용을 크게 줄이는 새로운 방법을 공개했다. 구글은 17일(현지시간) AI 코딩 및 문제 해결(탐색) 에이전트가 실패한 경로를 반복 실행하며 막대한 연산 비용을 낭비하는 문제를 해결하기 위해, 과거의 경로 탐색 기록을 재사용하는…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Code, 이제 AGENTS.md도 지원",
+     "url": "https://news.hada.io/topic?id=33925",
+     "at": "2026-09-19 10:38",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+     "url": "https://news.hada.io/topic?id=33920",
+     "at": "2026-09-19 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
+     "url": "https://news.hada.io/topic?id=33919",
+     "at": "2026-09-19 09:25",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
+     "url": "https://news.hada.io/topic?id=33905",
+     "at": "2026-09-19 02:42",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-19",
    "count": 10,
