@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13",
+ "updated": "2026-09-20",
  "_안내": "기사 본문에서 자동으로 뽑은 기관명 후보. show가 true인 것만 홈페이지에 나온다(처음 값은 3회 이상 언급). 사람이 검토해 show를 고치고, 로고 파일이 있으면 clients/영문이름.png 를 logo에 적는다. 이름·show·logo는 다음 수집 때도 보존된다. source가 calendar인 항목은 캘린더에서 사람이 확인해 넣은 것이라 다음 수집 때도 그대로 남는다.",
  "items": [
   {
@@ -391,6 +391,16 @@
    "latest": "2025-06-28",
    "articles": [
     "https://www.fntoday.co.kr/news/articleView.html?idxno=355683"
+   ],
+   "logo": "",
+   "show": true
+  },
+  {
+   "name": "대전신용보증재단",
+   "count": 1,
+   "latest": "2026-09-20",
+   "articles": [
+    "https://www.sbma.kr/news_gisa/gisa_view.htm?gisa_category=01000000&gisa_idx=79364&date_y=0&date_m=0"
    ],
    "logo": "",
    "show": true
@@ -1487,16 +1497,6 @@
   },
   {
    "name": "수원경찰청",
-   "count": 0,
-   "latest": "",
-   "articles": [],
-   "logo": "",
-   "show": true,
-   "source": "calendar",
-   "field": "공공"
-  },
-  {
-   "name": "대전신용보증재단",
    "count": 0,
    "latest": "",
    "articles": [],
