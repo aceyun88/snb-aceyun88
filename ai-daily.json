@@ -1,6 +1,100 @@
 {
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "days": [
+  {
+   "date": "2026-09-23",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "GPT-6 Sol 및 Luna 소개",
+     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+     "at": "2026-09-23 03:00",
+     "desc": "능력과 비용의 균형이 다른 일상 업무에 프론티어 인텔리전스를 제공하는 두 모델인 GPT-6 Sol과 Luna를 만나보세요.",
+     "title_en": "Introducing GPT-6 Sol and Luna",
+     "desc_en": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "GPT-6에 대한 더 나은 프롬프트 캐싱",
+     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+     "at": "2026-09-23 06:00",
+     "desc": "GPT-6가 높은 캐시 적중률, 새로운 진단, 명시적 중단점 및 대기 시간과 비용을 줄이는 제어 기능을 통해 프롬프트 캐싱을 개선하는 방법을 알아보세요.",
+     "title_en": "Better prompt caching for GPT-6",
+     "desc_en": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "GPT ‑ 6 Astra로 연구 시간과 비용을 병렬로 절반으로 줄이기",
+     "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+     "at": "2026-09-22 21:00",
+     "desc": "GPT ‑ 6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 절반의 비용으로 노동 시장 데이터를 연구하고 합성할 수 있었습니다.",
+     "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+     "desc_en": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
+     "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+     "at": "2026-09-22 09:00",
+     "desc": "OpenAI는 프론티어 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선 순위와 원칙을 설명합니다.",
+     "title_en": "Priorities and principles for effective third party assessments",
+     "desc_en": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215552",
+     "at": "2026-09-23 04:21",
+     "desc": "샤오미가 오픈소스 모델을 앞세워 글로벌 AI 선두권과의 성능 격차 좁히기에 속도를 내고 있다. 샤오미는 21일(현지시간) 차세대 오픈소스 AI 모델 ‘미모-V2.6(MiMo-V2.6)’ 시리즈를 공개했다. 대규모 강화학습 컴퓨팅을 투입해 추론·코딩 역량을 높이는 동시에 3D 공간 추론과 멀티모달 인식, 컴퓨터를 직접 조작하는 에이전트 능력까지 폭넓게…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215566",
+     "at": "2026-09-23 03:58",
+     "desc": "메타의 개인형 AI 에이전트 앱 ‘뮤즈(Muse)’가 출시 초기부터 가파른 사용자 증가세를 보이며 소비자용 에이전트 시장의 새로운 가능성을 보여주고 있다. 시장조사 전문 앱토피아(Apptopia)에 따르면, 뮤즈는 지난 8일(현지시간) 출시 후 13일 동안 미국과 캐나다에서 '챗GPT'의 모바일 출시 초기 기록을 넘어선 것으로 나타났다.동일한 조건으로…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "튜링 GPAI, 대학생 겨냥 신기능 대거 출시…\"자료 정리·시험 대비·발표 준비까지\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215580",
+     "at": "2026-09-23 01:50",
+     "desc": "AI 에이전트 전문 튜링이 AI 앱 'GPAI'에 문제 생성, AI 드라이브, PPT 제작 등 대학생을 위한 신기능 3종을 출시했다고 22일 밝혔다. 강의자료 정리부터 시험 대비, 발표 준비까지 대학 학업의 전 과정을 하나의 서비스에서 지원하는 것이 핵심이다. 대학생의 학업 워크플로우를 반영했다는 설명이다. 먼저, AI 드라이브 곳곳에 흩어진 강의자료와…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "알리바바, 생성·편집 통합 '큐원 이미지 2.1' 공개…'따라하기' 비판도",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215554",
+     "at": "2026-09-22 22:07",
+     "desc": "알리바바가 이미지 생성과 편집을 하나의 모델에서 처리할 수 있는 오픈 웨이트 기반 멀티모달 AI 모델을 선보였다. 경량화된 구조를 바탕으로 참조 이미지 합성부터 영역 편집, 투명 배경 생성까지 단일 모델로 구현했지만, 이미 상당수 기능은 다른 첨단 모델에서 구현됐다는 지적도 제기된다.알리바바는 21일(현지시간) 이미지 생성·편집 통합형 멀티모달 AI 모델…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "확산 언어 모델을 만드는 방법",
+     "url": "https://news.hada.io/topic?id=34095",
+     "at": "2026-09-22 09:55",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "M5 Ultra Mac Studio 리뷰: 로컬 AI 에이전트를 위한 꿈의 Mac",
+     "url": "https://news.hada.io/topic?id=34079",
+     "at": "2026-09-22 02:55",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-22",
    "count": 10,
@@ -1164,86 +1258,6 @@
      "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
      "url": "https://news.hada.io/topic?id=33343",
      "at": "2026-09-08 10:10",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-08",
-   "count": 9,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "우크라이나의 독립 저널리즘 지원",
-     "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-     "at": "2026-09-07 09:00",
-     "desc": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다.",
-     "title_en": "Supporting independent journalism in Ukraine",
-     "desc_en": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214925",
-     "at": "2026-09-08 16:00",
-     "desc": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214945",
-     "at": "2026-09-08 02:19",
-     "desc": "깃허브가 하나의 AI 모델을 선택해 코딩 작업을 처리하는 기존 방식을 넘어, 작업마다 여러 AI 모델과 실행 방식을 실시간으로 조합하는 새로운 코딩 에이전트 라우팅 시스템을 공개했다. 비용을 크게 절감하면서도 프런티어급 품질을 안정적으로 유지한 것이 특징이다.깃허브는 4일(현지시간) AI 코딩 라우팅 시스템 ‘프로젝트 하이드라퓨전(Project…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214947",
-     "at": "2026-09-08 01:55",
-     "desc": "스페이스XAI가 영상 생성의 고질적인 문제로 꼽혀온 장면 간 연속성을 개선한 ‘그록 이매진 비디오 1.5(Grok Imagine Video 1.5)’ 에이전트를 공개했다. 단순히 영상 생성 모델의 화질을 높이는 데 그치지 않고 여러 개의 장면을 하나의 일관된 영상으로 연결하는 데 초점을 맞춘 것이 특징이다.스페이스XAI는 5일(현지시간) 새로운 ‘그록…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214952",
-     "at": "2026-09-08 02:51",
-     "desc": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Tokenbill — 내 AI 토큰 사용량 대시보드 & 리더보드 (Claude Code·Codex·Gemini CLI 자동 집계)",
-     "url": "https://news.hada.io/topic?id=33314",
-     "at": "2026-09-07 16:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
-     "url": "https://news.hada.io/topic?id=33321",
-     "at": "2026-09-07 21:24",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: monolog - 나에게 메시지하듯 기록하면 AI가 정리하고 다시 찾아주는 메모 앱",
-     "url": "https://news.hada.io/topic?id=33310",
-     "at": "2026-09-07 10:41",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "GPT-6 Astra, 수능 벤치마크 첫 전 영역 만점",
-     "url": "https://news.hada.io/topic?id=33307",
-     "at": "2026-09-07 10:05",
      "desc": ""
     }
    ]
