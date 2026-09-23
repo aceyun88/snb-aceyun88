@@ -1,6 +1,106 @@
 {
- "updated": "2026-09-23",
+ "updated": "2026-09-24",
  "days": [
+  {
+   "date": "2026-09-24",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "MentalHealthBench 소개",
+     "url": "https://openai.com/index/introducing-mentalhealthbench",
+     "at": "2026-09-23 19:00",
+     "desc": "MentalHealthBench는 현실적인 정신 건강 대화에서 유용하고 안전한 AI 반응을 평가하기 위한 전문가의 정보에 입각한 벤치마크입니다.",
+     "title_en": "Introducing MentalHealthBench",
+     "desc_en": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Connected Apps의 새로운 물결이 Gemini에 출시됩니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+     "at": "2026-09-24 01:00",
+     "desc": "Gemini는 Adobe, Airtable, Linear, Peloton 등 새로운 커넥티드 앱을 추가하여 할 일 목록을 손쉽게 처리할 수 있도록 지원합니다.",
+     "title_en": "A new wave of Connected Apps is rolling out to Gemini.",
+     "desc_en": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list."
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "안전한 서버 측 메모리를 갖춘 프라이빗 AI 컴퓨팅의 발전",
+     "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+     "at": "2026-09-24 01:00",
+     "desc": "개인 AI를 위해 Private AI Compute에 전용 서버 측 메모리를 도입합니다.",
+     "title_en": "Advancing Private AI Compute with secure, server-side memory",
+     "desc_en": "Introducing private, server-side memory to Private AI Compute for personal AI."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "에어비앤비, GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 접근성 확대",
+     "url": "https://openai.com/index/airbnb-gpt-6-astra",
+     "at": "2026-09-23 10:00",
+     "desc": "엔지니어링 팀이 버그를 해결하고, 시스템을 설계하고, 더 빠르게 배송할 수 있도록 에어비앤비가 GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 액세스를 확대하는 방법을 알아보세요.",
+     "title_en": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+     "desc_en": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Grab과 OpenAI는 동남아시아에 실용적인 AI 기술을 제공합니다.",
+     "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+     "at": "2026-09-23 09:00",
+     "desc": "OpenAI와 Grab은 3만 명의 파트너가 동남아시아 전역에서 실용적인 AI 기술을 구축할 수 있도록 지원하는 지역 프로그램인 GO Forward with AI를 출시합니다.",
+     "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+     "desc_en": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Ringg의 AI 상담원은 OpenAI로 고객 통화의 최대 65% 를 해결합니다.",
+     "url": "https://openai.com/index/ringg",
+     "at": "2026-09-23 21:00",
+     "desc": "Ringg는 GPT-5.6을 사용하여 음성, 채팅, WhatsApp 및 웹에서 GPT-4.1에 비해 90% 저렴한 비용으로 다국어 상담원을 지원합니다.",
+     "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+     "desc_en": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 3.8 text-to-speech says hello",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+     "at": "2026-09-24 00:15",
+     "desc": "\"Introducing Gemini 3.8 Flash TTS and 3.8 Flash-Lite TTS\" 라는 텍스트 카드 이미지",
+     "title_en": "Gemini 3.8 text-to-speech says hello",
+     "desc_en": "a text card image reading \"Introducing Gemini 3.8 Flash TTS and 3.8 Flash-Lite TTS\""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 '스트랜즈 하네스' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
+     "at": "2026-09-23 23:55",
+     "desc": "아마존웹서비스(AWS)는 에이전트를 손쉽게 구축·운영할 수 있는 오픈소스 실행환경 '스트랜즈 하네스'를 공개했다고 23일 밝혔다.스트랜즈 하네스는 AI 에이전트 실행에 필요한 구성요소를 조립해 제공하는 방식으로 모델·도구·메모리 등을 개별적으로 연결해야 했던 기존 구축 과정을 단순화했다.로컬 PC에서 즉시 실행하거나 클라우드 환경에 배포할 수 있으며,…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215614",
+     "at": "2026-09-24 00:55",
+     "desc": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 '에이전틱 AI' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) '스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) '과…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "노타 ‘휴머노이드 서밋’서 로봇 AI 모델 7종 최적화 성과 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215628",
+     "at": "2026-09-24 00:00",
+     "desc": "노타(대표 채명수)는 서울 코엑스에서 열린 '휴머노이드 서밋 서울 2026'에 참여해 자체 플랫폼 '넷츠프레소'를 활용한 7종의 로봇 AI 모델 최적화 성과를 발표했다고 23일 밝혔다.노타는 퀄컴 신경망처리장치(NPU) '드래곤윙 IQ-9075'와 엔비디아 그래픽처리장치(GPU) 기반 엣지 AI 플랫폼 '젯슨 토르'를 대상으로 최적화 결과를 공개했다.검증…"
+    }
+   ]
+  },
   {
    "date": "2026-09-23",
    "count": 10,
@@ -1164,100 +1264,6 @@
      "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
      "url": "https://news.hada.io/topic?id=33379",
      "at": "2026-09-09 07:56",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-09",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "ChatGPT 이미지 2.5 소개",
-     "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-     "at": "2026-09-08 20:30",
-     "desc": "ChatGPT Images 2.5는 아이디어, 스케치 및 참조 사진을 아이디어를 더 잘 반영하는 보다 개인화되고 세련된 이미지로 변환하는 데 도움이 됩니다.",
-     "title_en": "Introducing ChatGPT Images 2.5",
-     "desc_en": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "AI 및 청소년 발달에 대한 새로운 연구를 위한 보조금 지원",
-     "url": "https://openai.com/index/teen-development-research-grants",
-     "at": "2026-09-08 18:00",
-     "desc": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오.",
-     "title_en": "Funding grants for new research into AI and teen development",
-     "desc_en": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "1Password는 CODEX로 엔지니어링 생산성을 21% 향상시킵니다",
-     "url": "https://openai.com/index/1password",
-     "at": "2026-09-08 09:00",
-     "desc": "1Password의 엔지니어는 CODEX를 사용하여 새로운 기능과 내부 도구를 신속하게 구축하고 엄격한 보안 정책을 유지하면서 생산 준비 상태에 도달합니다.",
-     "title_en": "1Password increases engineering productivity 21% with Codex",
-     "desc_en": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT-5.6 SOL이 양자 컴퓨팅 실험을 실행하는 방법",
-     "url": "https://openai.com/index/codex-quantum-computing-experiments",
-     "at": "2026-09-09 02:00",
-     "desc": "MIT 연구원이 코덱스와 함께 GPT-5.6 SOL을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보십시오.",
-     "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
-     "desc_en": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214976",
-     "at": "2026-09-08 21:50",
-     "desc": "오픈AI가 오는 29일(현지시간) 미국 샌프란시스코에서 열리는 개발자 행사 '데브데이'에서 인프라 구축 없이 에이전트를 운영할 수 있는 '관리형 에이전트(Managed Agents)' 서비스를 공개할 것이라는 관측이 나왔다. 7일 테스팅카탈로그에 따르면, 오픈AI는 개발자가 플랫폼 내에서 에이전트, 실행 환경, 세션을 직접 생성하고 관리하는 기능을 준비…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214982",
-     "at": "2026-09-09 02:42",
-     "desc": "틱톡과 시댄스(Seedance)로 영상 생성 AI 분야에서 경쟁력을 확보한 바이트댄스가 ‘월드 모델(World Model)' 시장에 뛰어들었다.7일(현지시간) 블룸버그에 따르면, 바이트댄스는 사용자의 움직임과 음성에 실시간으로 반응하는 가상 세계를 구현하는 '월드 모델' 개발에 착수했다. 장이밍 바이트댄스 창립자가 다음 달 출시 목표인 새로운 '실시간…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"AI가 알아서 다크웹 뒤진다\"...S2W, 범죄수사 특화 에이전트 'DRI' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214975",
-     "at": "2026-09-08 20:45",
-     "desc": "에스투더블유(S2W, 대표 서상덕)는 범죄수사에 특화된 AI 에이전트 'DRI'를 출시했다고 8일 밝혔다.DRI는 자체 안보 AI 플랫폼 '자비스'에 탑재되며, 다크웹·텔레그램·해킹 포럼 등에서 수집한 빅데이터를 지식 컨텍스트로 연계해 위협을 분석하고 수사에 필요한 인텔리전스를 제공한다. 다크웹 모니터링, 랜섬웨어 추적 등 9종의 조사 전략 중 질의…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "화웨이·샤오미, 애플 이벤트 직전 폴더블 신제품 공개…중국 프리미엄 시장 맞불",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215004",
-     "at": "2026-09-09 01:10",
-     "desc": "화웨이와 샤오미가 애플의 신형 아이폰 공개를 앞두고 새로운 폴더블 스마트폰을 잇달아 선보이며 중국 프리미엄 스마트폰 시장 선점에 나섰다.화웨이는 7일 두 번 접어 태블릿 크기로 펼칠 수 있는 트라이폴드 스마트폰 신제품 '메이트 XT2' 시리즈를 공개했다.신제품에는 자체 개발한 '기린 9050 프로' 칩과 개선된 힌지 구조, 향상된 방수 기능이 적용됐다.…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
-     "url": "https://news.hada.io/topic?id=33357",
-     "at": "2026-09-08 16:52",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
-     "url": "https://news.hada.io/topic?id=33343",
-     "at": "2026-09-08 10:10",
      "desc": ""
     }
    ]
