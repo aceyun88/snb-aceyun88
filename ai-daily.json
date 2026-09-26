@@ -1,6 +1,76 @@
 {
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "days": [
+  {
+   "date": "2026-09-27",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+     "at": "2026-09-26 06:45",
+     "desc": "오픈AI가 'GPT-6' 제품군을 장시간 작동하는 AI 에이전트 환경에서 효율적으로 구동할 수 있도록 '프롬프트 캐싱' 기능을 대폭 강화했다.오픈AI는 22일(현지시간) GPT‑6 제품군과 함께 기본 캐시 적중률을 높인 향상된 프롬프트 캐싱 시스템을 출시했다.코드베이스 리팩터링이나 대규모 조사, 문서·프레젠테이션 제작처럼 수 시간에 걸쳐 여러 차례 API…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215666",
+     "at": "2026-09-26 22:47",
+     "desc": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에서 사용자의 민감한 정보에 접근할 수 있는 보안 취약점이 발견되자 안전 경고를 강화했다. AI 에이전트가 이메일과 파일 등 개인 데이터에 직접 접근하고 외부 웹사이트와 상호작용하는 만큼, 악성 링크를 이용한 공격 가능성에 대한 보호 장치를 추가한 것이다.24일(현지시간) 디 인포메이션에 따르면, 외부 보안…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+     "at": "2026-09-26 04:53",
+     "desc": "앤트로픽이 안전장치를 우회해 AI 모델의 지식이나 능력을 복제하려는 ‘모델 증류 공격’에 대응하기 위해, 안전장치에 의해 차단된 일부 요청에도 요금을 부과하기로 했다. 대규모 반복 요청을 통한 증류 시도를 억제하기 위한 방어 조치다.앤트로픽은 24일(현지시간)부터 '클로드'가 응답하기 전에 안전장치에 의해 거부한 요청 가운데 주요 위험 정책 범주에…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215675",
+     "at": "2026-09-27 00:30",
+     "desc": "챗봇 기능을 빼고 속도와 비용 효율에 집중한 신형 AI 모델 '제브(Jev)'가 출시 일주일 만에 폭발적인 반응을 얻고 있다. 개발사인 타입세이프 AI(TypeSafe AI)의 기업 가치도 일주일 새 50배 치솟았다.24일(현지시간) 디 인포메이션에 따르면, 타입세이프 AI는 최근 투자자들과 10억달러(약 1조3590억원) 이상 규모의 신규 자금 조달을…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Ollaya - Jev 같은 의사결정 모델을 위한 Ollama",
+     "url": "https://news.hada.io/topic?id=34288",
+     "at": "2026-09-26 06:32",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+     "url": "https://news.hada.io/topic?id=34310",
+     "at": "2026-09-26 15:03",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Rails는 어떻게 되는가?",
+     "url": "https://news.hada.io/topic?id=34268",
+     "at": "2026-09-25 23:49",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "“완전 AI 같아!” 알파 세대의 욕이 된 AI",
+     "url": "https://news.hada.io/topic?id=34264",
+     "at": "2026-09-25 21:33",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-26",
    "count": 10,
@@ -1210,62 +1280,6 @@
      "title": "AI 때문에 느끼는 슬픔",
      "url": "https://news.hada.io/topic?id=33548",
      "at": "2026-09-12 03:40",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-12",
-   "count": 6,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "온라인 스토리지를 신속하게 확장하여 10억 명 이상의 ChatGPT 사용자에게 서비스를 제공합니다.",
-     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-     "at": "2026-09-11 19:00",
-     "desc": "OpenAI가 어떻게 해비텟을 파이썬 라이브러리에서 10억 명의 ChatGPT 사용자와 초당 2200만 건의 요청을 처리하는 전 세계적으로 분산된 스토리지 플랫폼으로 진화시켰는지 알아보십시오.",
-     "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-     "desc_en": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215131",
-     "at": "2026-09-11 21:11",
-     "desc": "딥시크가 장기 실행 AI 에이전트의 핵심 병목으로 꼽히는 메모리 사용량을 크게 줄인 새로운 경량 모델을 공개했다. 100만 토큰의 초대형 컨텍스트 창을 지원하면서도 KV 캐시 사용량을 전작 대비 약 4분의 1 수준으로 낮춘 것이 핵심이다.딥시크는 10일(현지시간) 새로운 아키텍처 제품군 가운데 가장 작은 모델인 '딥시크 V4.1…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215145",
-     "at": "2026-09-12 01:55",
-     "desc": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex)…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215146",
-     "at": "2026-09-12 01:25",
-     "desc": "오픈AI가 기업 구성원이 전문적인 데이터 분석 도구나 쿼리 작성법을 배우지 않고도 자연어로 사내 데이터를 분석할 수 있는 새로운 AI 에이전트를 공개했다. 기업 데이터베이스와 문서 저장소를 연결하면 매출 감소나 비용 증가의 원인을 조사하고, 분석 결과를 대화형 대시보드로 만들어 공유하는 것은 물론 후속 업무까지 이어갈 수 있다.오픈AI는 10일(현지시간)…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 월가 겨냥한 '금융 특화 챗GPT' 공개...\"기업 분석부터 보고서 생성까지\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215141",
-     "at": "2026-09-11 22:40",
-     "desc": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한다는 전략이다.오픈AI는 10일(현지시간) 금융 서비스에 특화된 기업용…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Google ARTEMIS - 자연어로 Android 앱을 조작/테스트하는 자동화 도구",
-     "url": "https://news.hada.io/topic?id=33506",
-     "at": "2026-09-11 09:30",
      "desc": ""
     }
    ]
