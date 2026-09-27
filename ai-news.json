@@ -1,6 +1,846 @@
 {
- "updated": "2026-09-21",
+ "updated": "2026-09-28",
  "posts": [
+  {
+   "date": "2026-09-28",
+   "label": "2026년 9월 4주",
+   "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+   "count": 38,
+   "topics": [
+    {
+     "key": "agent",
+     "name": "AI 에이전트·자동화",
+     "count": 21,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-28",
+       "desc": "AI 에이전트 전문 라이너(대표 김진우)가 기존 MCP 생태계의 복잡한 진입 장벽을 해결하기 위해 ‘라이너 액션 MCP’를 선보인다. 서치·리서치 에이전트로서의 핵심 역량을 고도화하는 동시에, 사용자 환경에 최적화된 ‘통합 워크플로우 에이전트 환경’을 갖추겠다는 전략이다.라이너는 '라이너 액션 MCP(Liner Actions MCP)'를 국내에서도 사전 이",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "오픈AI, 데브데이서 ‘상시 작동 에이전트’ 공개하나…‘o’ 포착",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215684",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-27",
+       "desc": "오픈AI가 오는 29일(현지시간) 개발자 행사 ‘데브데이’에서 상시 작동하는 에이전트 ‘o’를 공개할 가능성이 제기됐다.테스팅카탈로그에 따르면, X에서는 최근 오픈AI가 o라는 이름의 상시 작동 에이전트를 준비하고 있는 정황이 발견됐다.오픈AI 내부 화면에서 “\"o, 당신의 상시 작동 어시스턴트(o, your always-on assistant)”라는 문구",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어 '전용 배포' 선보인다",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-26",
+       "desc": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 수 있도록 지원하는 최초의 사이버 보안 전용 제품을 선보인다.포춘은 24일(현지시간) 소식통을 인용해 오픈AI가 오는 29일 미국 샌프란시스코에서 열리는 '데브데",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "MS, 에이전트·코딩 통합 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-26",
+       "desc": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 2",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-25",
+       "desc": "메타가 스마트폰을 거치지 않고 AI 에이전트와 직접 소통하는 전용 모바일 디바이스를 선보이며 자체 AI 생태계 확장에 나섰다.마크 저커버그 메타 CEO는 23일(현지시간) 미국 캘리포니아주 멘로파크 본사에서 열린 연례행사 '메타 커넥트 2026'에서 인기 AI 에이전트 '뮤즈(Muse)'를 즉각 호출해 사용할 수 있는 손바닥 크기의 디바이스 '뮤즈 참(Mu",
+       "desc_en": ""
+      },
+      {
+       "platform": "마이크로소프트 · 코파일럿",
+       "title": "MS도 AI 에이전트 시대 맞아 새 코파일럿 OS 공개",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kOThsU0ZaalRxOXZ0MWdkWDlnVXlBV1RVYWYtTVZnd1BMZkRYbEExMk1Vb1lhQy1ZcU1pc2kwYk5tZkYtWGpDTjBmY2VNZmNJUDUwMWdQWFhuOVVGdVE?oc=5",
+       "source": "YTN",
+       "note": "",
+       "at": "2026-09-25",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "vectorize-io/hindsight",
+       "url": "https://github.com/vectorize-io/hindsight",
+       "source": "Python",
+       "note": "7,282 stars (이번 주)",
+       "at": "",
+       "desc": "Hindsight: 학습한 상담원의 기억",
+       "desc_en": "Hindsight: Agent Memory That Learns"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "stablyai/orca",
+       "url": "https://github.com/stablyai/orca",
+       "source": "TypeScript",
+       "note": "6,503 stars (이번 주)",
+       "at": "",
+       "desc": "ORCA는 병렬 요원 함대와 협력하기 위한 ADE입니다. 자체 구독으로 모든 코딩 에이전트를 실행합니다. 데스크톱, 모바일 및 원격 런타임에서 사용할 수 있습니다.",
+       "desc_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "cloudflare/security-audit-skill",
+       "url": "https://github.com/cloudflare/security-audit-skill",
+       "source": "JavaScript",
+       "note": "6,474 stars (이번 주)",
+       "at": "",
+       "desc": "독립적으로 검증되고 기계 판독이 가능한 다단계 보안 감사를 위한 코딩 에이전트 기술",
+       "desc_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "affaan-m/ECC",
+       "url": "https://github.com/affaan-m/ECC",
+       "source": "JavaScript",
+       "note": "5,522 stars (이번 주)",
+       "at": "",
+       "desc": "에이전트 하네스 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등을 위한 기술, 본능, 기억, 보안 및 연구 우선 개발.",
+       "desc_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "paperclipai/paperclip",
+       "url": "https://github.com/paperclipai/paperclip",
+       "source": "TypeScript",
+       "note": "5,376 stars (이번 주)",
+       "at": "",
+       "desc": "모든 사람이 직장에서 상담원을 관리하는 데 사용하는 오픈 소스 앱",
+       "desc_en": "The open-source app everyone uses to manage agents at work"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "alibaba/open-code-review",
+       "url": "https://github.com/alibaba/open-code-review",
+       "source": "Go",
+       "note": "4,310 stars (이번 주)",
+       "at": "",
+       "desc": "Alibaba의 규모에서 안전하고, 빠르고, 효율적이며, 전투 테스트를 거쳤습니다. 하이브리드 아키텍처 코드 검토 도구: 결정론적 파이프라인 + LLM 에이전트, 정확한 라인 수준의 코멘트, 내장된 다국어 규칙 세트 (NPE, 스레드 안전, XSS, SQL 주입), OpenAI 및 Anthropic 호환.",
+       "desc_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "Tencent/WeKnora",
+       "url": "https://github.com/Tencent/WeKnora",
+       "source": "Go",
+       "note": "3,015 stars (이번 주)",
+       "at": "",
+       "desc": "오픈 소스 LLM 지식 플랫폼: 원시 문서를 쿼리 가능한 RAG, 자율 추리 에이전트 및 자체 유지 관리 Wiki로 전환합니다.",
+       "desc_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "MCP는 처음부터 잘못된 아이디어였다",
+       "url": "https://news.hada.io/topic?id=34059",
+       "source": "GeekNews",
+       "note": "23 points",
+       "at": "2026-09-21",
+       "desc": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며 , 필요한 기능이 이미 있는 HTTP API와 CLI를 직접 사용하면 됨 MCP 서버를 늘릴수록 도구 설명과 스키마가 컨텍스트를 과도하게 차지 하고, 이를 해결하기 위한 도구 검색과 서버 관리 시스템까지 추가되는 구조임 최신 모델은 처음 접하는 API의 사용법을 파악하고,…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Whiteboard - AI가 만든 코드를 이해하고 검토하는 오픈소스 캔버스",
+       "url": "https://news.hada.io/topic?id=34245",
+       "source": "GeekNews",
+       "note": "19 points",
+       "at": "2026-09-25",
+       "desc": "Claude Code와 Codex가 만든 코드의 구조와 변경 이유를 그림으로 살펴보는 데스크톱 앱으로, 기존 코딩 에이전트에 연결해 사용 에이전트가 캔버스에 시퀀스 다이어그램과 데이터 관계 등을 그리며, 그림에서 관련 코드로 바로 이동 해 설명과 실제 구현을 함께 확인할 수 있음 줄 단위 변경을 나열하는 대신 코드 구조를 이해하는 diff 뷰어 로 변경 사항을 보여주며, 큰 신규 함수는…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+       "url": "https://news.hada.io/topic?id=34248",
+       "source": "GeekNews",
+       "note": "19 points",
+       "at": "2026-09-25",
+       "desc": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램 을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명주기 등 다섯 가지 다이어그램 유형 지원 에이전트가 구조화된 JSON을 작성하면 Node.js 렌더러가…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+       "url": "https://news.hada.io/topic?id=34204",
+       "source": "GeekNews",
+       "note": "14 points",
+       "at": "2026-09-24",
+       "desc": "Tailscale처럼 여러 컴퓨터를 하나의 암호화된 사설망으로 연결 하고, SSH 접속과 내부 서비스 공유, 공개 터널, 파일 전송을 같은 계정과 접근 정책으로 관리 장치에 설치하는 에이전트뿐 아니라 관리 서버, 대시보드와 릴레이까지 공개 해, 외부 업체의 제어 서버에 의존하지 않고 전체 네트워크를 직접 운영 가능 등록된 장치마다 사설망에서 사용할 IP 주소와 호스트명을 부여해 ping ,…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+       "url": "https://news.hada.io/topic?id=34310",
+       "source": "GeekNews",
+       "note": "12 points",
+       "at": "2026-09-26",
+       "desc": "AI가 대부분의 코드를 생성하는 시대에 소프트웨어 엔지니어링의 역할, 기회, 위험, 그리고 제품 관리와의 관계가 어떻게 바뀔지 살펴봅니다. AI 코딩 에이전트가 빠르게 발전하면서 숙련된 개발자들 사이에서도 \"직접 코드를 거의 작성하지 않는다\"는 사례가 늘고 있음. 글의 핵심은 코딩이 사라지는 것이 아니라, 코드 작성 자체가 개발의 핵심 병목에서 빠지고 있다는 것 . 코드 작성보다 더…",
+       "desc_en": ""
+      },
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cNIBYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cA?oc=5",
+       "source": "연합뉴스",
+       "note": "",
+       "at": "2026-09-27",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "오픈AI AI 에이전트, 호주 정부 보건 사이트 침해... 호주 총리, “용납 못할 일”",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MNTR6WkJYYmlvSi1sT18wbFhOWS16U3lWVE5rYno1T092WUZXQUh3Q09vS1c4Z0pxcnNubi1ab0xtdXFSNE5KOXQyNUlKMjJ0ZEVUcFhleDRUQXB4MEItSjlvUjJhbjNaTnVR?oc=5",
+       "source": "보안뉴스",
+       "note": "",
+       "at": "2026-09-24",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "오픈AI 에이전트, 이용자 이미지 53장 무단 게시…경위 조사",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdTZ2WmFvazc5UU5wakxCSk9zR0VHOWxITDJtY2NTdTktSGR4T20xb1gzQmQzOEt6aHpoWjNzdWNZM3pXdGVGRUVpQ2VLZw?oc=5",
+       "source": "전자신문",
+       "note": "",
+       "at": "2026-09-26",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "coding",
+     "name": "바이브 코딩·개발 도구",
+     "count": 3,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-28",
+       "desc": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 ",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "AI 코딩으로 병목이 된 CI, Linear는 어떻게 개선했나",
+       "url": "https://news.hada.io/topic?id=34105",
+       "source": "GeekNews",
+       "note": "18 points",
+       "at": "2026-09-22",
+       "desc": "Linear는 연초 이후 테스트가 거의 4배로 늘었는데도 , PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 실행 환경과 네이티브 TypeScript 컴파일러 tsgo 로 전환하고, 린트에서 불필요한 타입 분석을 제거해 개별 검사 시간을 단축함 모든 테스트가 기다리는 선행 작업에서는 필요한 코드와 이력만 가져오고 , 테스트…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Claude Code 개발자 보리스 처니: \"나는 자주 틀린다\"",
+       "url": "https://news.hada.io/topic?id=34034",
+       "source": "GeekNews",
+       "note": "15 points",
+       "at": "2026-09-21",
+       "desc": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함 . 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수 있음 정보를 파악하고 부족한 내용을 채운 뒤, 문제와 단순한 해결 방법, 목표를 명확히 정하고 빠르게 실행 하는 과정을 반복함 흔한 실패는 무엇을 풀려는지 불명확하거나 해결 방법이 복잡한 것 이며, 이 상태에서는 계획만 커지고 성공 기준은 흐려짐…",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "gemini",
+     "name": "제미나이·구글",
+     "count": 3,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215646",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-25",
+       "desc": "구글의 차세대 모델 '제미나이 4'의 출시 시점이 당초 예상보다 대폭 앞당겨질 전망이다. 경쟁사들의 공세에 맞서 핵심 모델의 공개 일정을 앞당겨 격차를 줄이고 주도권을 탈환하겠다는 의도다.구글 딥마인드의 수장인 코레이 카부쿠오글루 수석 부사장은 23일(현지시간) 디 인포메이션이 주최한 'AI 어젠다 라이브 서밋' 인터뷰에서 제미나이 4의 개발 현황을 상세히",
+       "desc_en": ""
+      },
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글, 제미나이·안드로이드 결합한 프리미엄 '구글북' 출시",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOHhNUk00YWY5bzhGTWUtUC1qTkszbld6WGxSWWQyMUJVS0dCSktEQzBUZmhWN0hOcktRTXBxMW5aQm00TVlETkprdWJ2V01raU1DUi10Ul9XZWlibTlMTVVFOGxEN1lObnc?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-22",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글 '제미나이 인텔리전스', 퀄컴 스냅드래곤 품고 달린다",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNlp0WElXeHBZa3E4anlDT1BORUdvZ0d3MDhvOUQ2bGJGMVZtYUVtWFM2eldVX1ItcEFiNlpZRHVuMVNhNzVTeGVXTk5RY3hQanJfM3d3?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-09-23",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "image",
+     "name": "이미지·영상·음성 생성",
+     "count": 2,
+     "items": [
+      {
+       "platform": "이미지·영상 생성",
+       "title": "[중국 특징주] 텐센트, 신형 이미지 생성 AI 모델 공개",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRWJqUFFXTnVwMlV5eWlDSTMwQUN0MTI1SXBpaGlfb3FYUmIwUWVfSzEzYzdYalQyUzVzSmp3WXZfLUtWbVdabVRMTWpBYUFwRkdhdFJjYjFRWTl3?oc=5",
+       "source": "뉴스핌",
+       "note": "",
+       "at": "2026-09-22",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "OpenAI · 챗GPT",
+       "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHZmYWI0U1lNN0FjdUNWcG5HT21heWJXQm5yRWt2WkVNVC1SbU14SVdZczhaSjBielRnT3NYaTlMTTVHQ3g2aE1ya052bjNvbWk1MmZoTndfRTkzN0cxR0pteWVvYjc0UzBpUjVHUkdCcnE2MFdkYi1YOHR1S1R2aUhB?oc=5",
+       "source": "한겨레",
+       "note": "",
+       "at": "2026-09-26",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "chatgpt",
+     "name": "챗GPT·OpenAI",
+     "count": 2,
+     "items": [
+      {
+       "platform": "OpenAI · 챗GPT",
+       "title": "\"개발비 반값\" 가성비 챗GPT '깜짝'…오픈AI 새 모델 2종 출시",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZUFOcXpoWnNORmxETWJYSnBwY2pNaDBTbU9GUEFpVFBxX292YXJlVDJyUlYxd2hDby1td2NmUlpQYjhNWm9iTlVxVUpYRnRtUFFYWktnazlNZw?oc=5",
+       "source": "한국경제",
+       "note": "",
+       "at": "2026-09-23",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "\"구글·오픈AI부터 퍼플렉시티까지\"…빅테크 AI 거물 한 자리 모인다",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOWtvbHdjQ2VYeFg2VURIVVY0eU1URVNaYWVnYkJhTnpxUlZCTHl0UjR6R1phQk94Ym1uSFljTDNOWFhsa2Z6MkhFRkRGSHdITkFzU2Jn?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-09-21",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "claude",
+     "name": "클로드·앤트로픽",
+     "count": 2,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-09-28",
+       "desc": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을 간편하게 만들고 실제 사용자에게 배포할 수 있도록 플러그인 개발과 관리 환경을 강화했다. 앤트로픽은 25일(현지시간) 클로드용 플러그인을 더 쉽게 개발하고 배포할 수 있도록 새로운 포털을 공개했다.",
+       "desc_en": ""
+      },
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "앤트로픽, 클로드 오퍼스 5.5 공개…클로드 5.5 패밀리 첫 모델, 성능은 높이고 운영비는 40% 낮췄다",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nRjRhMnNBVjZzNVhTenFNV1F2aEdmYzdsLXRjdUhjSXBQbE82eXp1NjQ5dzNMWmQyVnB0SDNUbElqLTJpMUpQemRrc2dwOHFYM240OE9scmE1ZHlQSHpoQ2x1RHpzRGs?oc=5",
+       "source": "인공지능신문",
+       "note": "",
+       "at": "2026-09-23",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "search",
+     "name": "AI 검색·퍼플렉시티",
+     "count": 1,
+     "items": [
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "AI 검색과 저작권 [강민주의 디지털 법률 Insight]",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FeXRGSENlREdrVll4Unk1Z2pTZ0NKT0FDTjNGS1FjQ2t3Vm9GMDB6clRQdFd4YU5ZcElkajl4ZFJqYWdLamxFV25IbjJPLUZ1WkFNdkRQY2lkUQ?oc=5",
+       "source": "한국경제",
+       "note": "",
+       "at": "2026-09-21",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "edu",
+     "name": "교육·학습",
+     "count": 1,
+     "items": [
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
+       "url": "https://news.hada.io/topic?id=34065",
+       "source": "GeekNews",
+       "note": "17 points",
+       "at": "2026-09-21",
+       "desc": "Qwen3.5 를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수 를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부서, 긴급 대응 여부, 고객의 불만 정도 를 함께 판단할 수 있으며, 각 질문은 다른 질문의 내용에 영향을 받지 않도록 분리됨 0.8B, 4B, 9B 모델의 가중치와 학습 코드, 평가 데이터 를 공개해, 필요한 정확도와 메모리 여유에 따라…",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "oss",
+     "name": "오픈소스 모델·도구",
+     "count": 1,
+     "items": [
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "rohitg00/ai-engineering-from-scratch",
+       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+       "source": "Python",
+       "note": "3,207 stars (이번 주)",
+       "at": "",
+       "desc": "배워보세요. 만들어 보세요. 다른 사람을 위해 배송하세요.",
+       "desc_en": "Learn it. Build it. Ship it for others."
+      }
+     ]
+    },
+    {
+     "key": "other",
+     "name": "그 밖의 AI 소식",
+     "count": 2,
+     "items": [
+      {
+       "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+       "title": "IT뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
+       "url": "https://www.youtube.com/watch?v=nZbxgWmgo6M",
+       "source": "조코딩",
+       "note": "3만 · 스트리밍 시간: 12시간 전",
+       "at": "",
+       "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+       "desc_en": ""
+      },
+      {
+       "platform": "이미지·영상 생성",
+       "title": "오노마에이아이, 생성형 AI로 웹툰·애니메이션 제작 가속 [서울AI허브 2027]",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVd3hwNG1za3lqSEowVGE2T2hHWllfTmlUQlRZX3o3QzNrZjBfUDVReWVORXRyUWZnTlkyQzkyN0EtZHU3Rmo2dzlRX3F0bzM3blBSQmlkaGlSMHl4ajdmNEp2SVBXUGNFTnl1NlRNa3BlU2dr0gF0QVVfeXFMUFV3eHA0bXNreWpISjBUYTZPaEdaWV9OaVRCVFlfejdDM2tmMF9QNVF5ZU5FdHJRZmdOWTJDOTI3QS1kdTdGajZ3OVFfcXRvMzduUFJCaWRoaVIweXhqN2Y0SnZJUFdQY0VOeXU2VE1rcGVTZ2s?oc=5",
+       "source": "IT조선",
+       "note": "",
+       "at": "2026-09-26",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+     "title": "IT뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
+     "url": "https://www.youtube.com/watch?v=nZbxgWmgo6M",
+     "source": "조코딩",
+     "note": "3만 · 스트리밍 시간: 12시간 전",
+     "at": "",
+     "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+     "topic": "other"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "vectorize-io/hindsight",
+     "url": "https://github.com/vectorize-io/hindsight",
+     "source": "Python",
+     "note": "7,282 stars (이번 주)",
+     "at": "",
+     "desc": "Hindsight: 학습한 상담원의 기억",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "stablyai/orca",
+     "url": "https://github.com/stablyai/orca",
+     "source": "TypeScript",
+     "note": "6,503 stars (이번 주)",
+     "at": "",
+     "desc": "ORCA는 병렬 요원 함대와 협력하기 위한 ADE입니다. 자체 구독으로 모든 코딩 에이전트를 실행합니다. 데스크톱, 모바일 및 원격 런타임에서 사용할 수 있습니다.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "cloudflare/security-audit-skill",
+     "url": "https://github.com/cloudflare/security-audit-skill",
+     "source": "JavaScript",
+     "note": "6,474 stars (이번 주)",
+     "at": "",
+     "desc": "독립적으로 검증되고 기계 판독이 가능한 다단계 보안 감사를 위한 코딩 에이전트 기술",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "affaan-m/ECC",
+     "url": "https://github.com/affaan-m/ECC",
+     "source": "JavaScript",
+     "note": "5,522 stars (이번 주)",
+     "at": "",
+     "desc": "에이전트 하네스 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등을 위한 기술, 본능, 기억, 보안 및 연구 우선 개발.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "paperclipai/paperclip",
+     "url": "https://github.com/paperclipai/paperclip",
+     "source": "TypeScript",
+     "note": "5,376 stars (이번 주)",
+     "at": "",
+     "desc": "모든 사람이 직장에서 상담원을 관리하는 데 사용하는 오픈 소스 앱",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "alibaba/open-code-review",
+     "url": "https://github.com/alibaba/open-code-review",
+     "source": "Go",
+     "note": "4,310 stars (이번 주)",
+     "at": "",
+     "desc": "Alibaba의 규모에서 안전하고, 빠르고, 효율적이며, 전투 테스트를 거쳤습니다. 하이브리드 아키텍처 코드 검토 도구: 결정론적 파이프라인 + LLM 에이전트, 정확한 라인 수준의 코멘트, 내장된 다국어 규칙 세트 (NPE, 스레드 안전, XSS, SQL 주입), OpenAI 및 Anthropic 호환.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "rohitg00/ai-engineering-from-scratch",
+     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+     "source": "Python",
+     "note": "3,207 stars (이번 주)",
+     "at": "",
+     "desc": "배워보세요. 만들어 보세요. 다른 사람을 위해 배송하세요.",
+     "topic": "oss"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "Tencent/WeKnora",
+     "url": "https://github.com/Tencent/WeKnora",
+     "source": "Go",
+     "note": "3,015 stars (이번 주)",
+     "at": "",
+     "desc": "오픈 소스 LLM 지식 플랫폼: 원시 문서를 쿼리 가능한 RAG, 자율 추리 에이전트 및 자체 유지 관리 Wiki로 전환합니다.",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "MCP는 처음부터 잘못된 아이디어였다",
+     "url": "https://news.hada.io/topic?id=34059",
+     "source": "GeekNews",
+     "note": "23 points",
+     "at": "2026-09-21",
+     "desc": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며 , 필요한 기능이 이미 있는 HTTP API와 CLI를 직접 사용하면 됨 MCP 서버를 늘릴수록 도구 설명과 스키마가 컨텍스트를 과도하게 차지 하고, 이를 해결하기 위한 도구 검색과 서버 관리 시스템까지 추가되는 구조임 최신 모델은 처음 접하는 API의 사용법을 파악하고,…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Whiteboard - AI가 만든 코드를 이해하고 검토하는 오픈소스 캔버스",
+     "url": "https://news.hada.io/topic?id=34245",
+     "source": "GeekNews",
+     "note": "19 points",
+     "at": "2026-09-25",
+     "desc": "Claude Code와 Codex가 만든 코드의 구조와 변경 이유를 그림으로 살펴보는 데스크톱 앱으로, 기존 코딩 에이전트에 연결해 사용 에이전트가 캔버스에 시퀀스 다이어그램과 데이터 관계 등을 그리며, 그림에서 관련 코드로 바로 이동 해 설명과 실제 구현을 함께 확인할 수 있음 줄 단위 변경을 나열하는 대신 코드 구조를 이해하는 diff 뷰어 로 변경 사항을 보여주며, 큰 신규 함수는…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+     "url": "https://news.hada.io/topic?id=34248",
+     "source": "GeekNews",
+     "note": "19 points",
+     "at": "2026-09-25",
+     "desc": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램 을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명주기 등 다섯 가지 다이어그램 유형 지원 에이전트가 구조화된 JSON을 작성하면 Node.js 렌더러가…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI 코딩으로 병목이 된 CI, Linear는 어떻게 개선했나",
+     "url": "https://news.hada.io/topic?id=34105",
+     "source": "GeekNews",
+     "note": "18 points",
+     "at": "2026-09-22",
+     "desc": "Linear는 연초 이후 테스트가 거의 4배로 늘었는데도 , PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 실행 환경과 네이티브 TypeScript 컴파일러 tsgo 로 전환하고, 린트에서 불필요한 타입 분석을 제거해 개별 검사 시간을 단축함 모든 테스트가 기다리는 선행 작업에서는 필요한 코드와 이력만 가져오고 , 테스트…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
+     "url": "https://news.hada.io/topic?id=34065",
+     "source": "GeekNews",
+     "note": "17 points",
+     "at": "2026-09-21",
+     "desc": "Qwen3.5 를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수 를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부서, 긴급 대응 여부, 고객의 불만 정도 를 함께 판단할 수 있으며, 각 질문은 다른 질문의 내용에 영향을 받지 않도록 분리됨 0.8B, 4B, 9B 모델의 가중치와 학습 코드, 평가 데이터 를 공개해, 필요한 정확도와 메모리 여유에 따라…",
+     "topic": "edu"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Claude Code 개발자 보리스 처니: \"나는 자주 틀린다\"",
+     "url": "https://news.hada.io/topic?id=34034",
+     "source": "GeekNews",
+     "note": "15 points",
+     "at": "2026-09-21",
+     "desc": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함 . 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수 있음 정보를 파악하고 부족한 내용을 채운 뒤, 문제와 단순한 해결 방법, 목표를 명확히 정하고 빠르게 실행 하는 과정을 반복함 흔한 실패는 무엇을 풀려는지 불명확하거나 해결 방법이 복잡한 것 이며, 이 상태에서는 계획만 커지고 성공 기준은 흐려짐…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
+     "url": "https://news.hada.io/topic?id=34204",
+     "source": "GeekNews",
+     "note": "14 points",
+     "at": "2026-09-24",
+     "desc": "Tailscale처럼 여러 컴퓨터를 하나의 암호화된 사설망으로 연결 하고, SSH 접속과 내부 서비스 공유, 공개 터널, 파일 전송을 같은 계정과 접근 정책으로 관리 장치에 설치하는 에이전트뿐 아니라 관리 서버, 대시보드와 릴레이까지 공개 해, 외부 업체의 제어 서버에 의존하지 않고 전체 네트워크를 직접 운영 가능 등록된 장치마다 사설망에서 사용할 IP 주소와 호스트명을 부여해 ping ,…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+     "url": "https://news.hada.io/topic?id=34310",
+     "source": "GeekNews",
+     "note": "12 points",
+     "at": "2026-09-26",
+     "desc": "AI가 대부분의 코드를 생성하는 시대에 소프트웨어 엔지니어링의 역할, 기회, 위험, 그리고 제품 관리와의 관계가 어떻게 바뀔지 살펴봅니다. AI 코딩 에이전트가 빠르게 발전하면서 숙련된 개발자들 사이에서도 \"직접 코드를 거의 작성하지 않는다\"는 사례가 늘고 있음. 글의 핵심은 코딩이 사라지는 것이 아니라, 코드 작성 자체가 개발의 핵심 병목에서 빠지고 있다는 것 . 코드 작성보다 더…",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-28",
+     "desc": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 ",
+     "topic": "coding"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-28",
+     "desc": "AI 에이전트 전문 라이너(대표 김진우)가 기존 MCP 생태계의 복잡한 진입 장벽을 해결하기 위해 ‘라이너 액션 MCP’를 선보인다. 서치·리서치 에이전트로서의 핵심 역량을 고도화하는 동시에, 사용자 환경에 최적화된 ‘통합 워크플로우 에이전트 환경’을 갖추겠다는 전략이다.라이너는 '라이너 액션 MCP(Liner Actions MCP)'를 국내에서도 사전 이",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-28",
+     "desc": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을 간편하게 만들고 실제 사용자에게 배포할 수 있도록 플러그인 개발과 관리 환경을 강화했다. 앤트로픽은 25일(현지시간) 클로드용 플러그인을 더 쉽게 개발하고 배포할 수 있도록 새로운 포털을 공개했다.",
+     "topic": "claude"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, 데브데이서 ‘상시 작동 에이전트’ 공개하나…‘o’ 포착",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215684",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-27",
+     "desc": "오픈AI가 오는 29일(현지시간) 개발자 행사 ‘데브데이’에서 상시 작동하는 에이전트 ‘o’를 공개할 가능성이 제기됐다.테스팅카탈로그에 따르면, X에서는 최근 오픈AI가 o라는 이름의 상시 작동 에이전트를 준비하고 있는 정황이 발견됐다.오픈AI 내부 화면에서 “\"o, 당신의 상시 작동 어시스턴트(o, your always-on assistant)”라는 문구",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어 '전용 배포' 선보인다",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-26",
+     "desc": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 수 있도록 지원하는 최초의 사이버 보안 전용 제품을 선보인다.포춘은 24일(현지시간) 소식통을 인용해 오픈AI가 오는 29일 미국 샌프란시스코에서 열리는 '데브데",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "MS, 에이전트·코딩 통합 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-26",
+     "desc": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 2",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-25",
+     "desc": "메타가 스마트폰을 거치지 않고 AI 에이전트와 직접 소통하는 전용 모바일 디바이스를 선보이며 자체 AI 생태계 확장에 나섰다.마크 저커버그 메타 CEO는 23일(현지시간) 미국 캘리포니아주 멘로파크 본사에서 열린 연례행사 '메타 커넥트 2026'에서 인기 AI 에이전트 '뮤즈(Muse)'를 즉각 호출해 사용할 수 있는 손바닥 크기의 디바이스 '뮤즈 참(Mu",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215646",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-25",
+     "desc": "구글의 차세대 모델 '제미나이 4'의 출시 시점이 당초 예상보다 대폭 앞당겨질 전망이다. 경쟁사들의 공세에 맞서 핵심 모델의 공개 일정을 앞당겨 격차를 줄이고 주도권을 탈환하겠다는 의도다.구글 딥마인드의 수장인 코레이 카부쿠오글루 수석 부사장은 23일(현지시간) 디 인포메이션이 주최한 'AI 어젠다 라이브 서밋' 인터뷰에서 제미나이 4의 개발 현황을 상세히",
+     "topic": "gemini"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSHZmYWI0U1lNN0FjdUNWcG5HT21heWJXQm5yRWt2WkVNVC1SbU14SVdZczhaSjBielRnT3NYaTlMTTVHQ3g2aE1ya052bjNvbWk1MmZoTndfRTkzN0cxR0pteWVvYjc0UzBpUjVHUkdCcnE2MFdkYi1YOHR1S1R2aUhB?oc=5",
+     "source": "한겨레",
+     "note": "",
+     "at": "2026-09-26",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "\"개발비 반값\" 가성비 챗GPT '깜짝'…오픈AI 새 모델 2종 출시",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZUFOcXpoWnNORmxETWJYSnBwY2pNaDBTbU9GUEFpVFBxX292YXJlVDJyUlYxd2hDby1td2NmUlpQYjhNWm9iTlVxVUpYRnRtUFFYWktnazlNZw?oc=5",
+     "source": "한국경제",
+     "note": "",
+     "at": "2026-09-23",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "앤트로픽, 클로드 오퍼스 5.5 공개…클로드 5.5 패밀리 첫 모델, 성능은 높이고 운영비는 40% 낮췄다",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nRjRhMnNBVjZzNVhTenFNV1F2aEdmYzdsLXRjdUhjSXBQbE82eXp1NjQ5dzNMWmQyVnB0SDNUbElqLTJpMUpQemRrc2dwOHFYM240OE9scmE1ZHlQSHpoQ2x1RHpzRGs?oc=5",
+     "source": "인공지능신문",
+     "note": "",
+     "at": "2026-09-23",
+     "desc": "",
+     "topic": "claude"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글 '제미나이 인텔리전스', 퀄컴 스냅드래곤 품고 달린다",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FNlp0WElXeHBZa3E4anlDT1BORUdvZ0d3MDhvOUQ2bGJGMVZtYUVtWFM2eldVX1ItcEFiNlpZRHVuMVNhNzVTeGVXTk5RY3hQanJfM3d3?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-09-23",
+     "desc": "",
+     "topic": "gemini"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 제미나이·안드로이드 결합한 프리미엄 '구글북' 출시",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOHhNUk00YWY5bzhGTWUtUC1qTkszbld6WGxSWWQyMUJVS0dCSktEQzBUZmhWN0hOcktRTXBxMW5aQm00TVlETkprdWJ2V01raU1DUi10Ul9XZWlibTlMTVVFOGxEN1lObnc?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-09-22",
+     "desc": "",
+     "topic": "gemini"
+    },
+    {
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "MS도 AI 에이전트 시대 맞아 새 코파일럿 OS 공개",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kOThsU0ZaalRxOXZ0MWdkWDlnVXlBV1RVYWYtTVZnd1BMZkRYbEExMk1Vb1lhQy1ZcU1pc2kwYk5tZkYtWGpDTjBmY2VNZmNJUDUwMWdQWFhuOVVGdVE?oc=5",
+     "source": "YTN",
+     "note": "",
+     "at": "2026-09-25",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "\"구글·오픈AI부터 퍼플렉시티까지\"…빅테크 AI 거물 한 자리 모인다",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOWtvbHdjQ2VYeFg2VURIVVY0eU1URVNaYWVnYkJhTnpxUlZCTHl0UjR6R1phQk94Ym1uSFljTDNOWFhsa2Z6MkhFRkRGSHdITkFzU2Jn?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-09-21",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "AI 검색과 저작권 [강민주의 디지털 법률 Insight]",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FeXRGSENlREdrVll4Unk1Z2pTZ0NKT0FDTjNGS1FjQ2t3Vm9GMDB6clRQdFd4YU5ZcElkajl4ZFJqYWdLamxFV25IbjJPLUZ1WkFNdkRQY2lkUQ?oc=5",
+     "source": "한국경제",
+     "note": "",
+     "at": "2026-09-21",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cNIBYEFVX3lxTE1qb2VNRF9lTk81cWZEcllDelVPNWJBc0ZKbnU4X3prbzBhNkF1RDRYUXRFYzAxOHprN1gwTVVsLXEyeU9Ka080RkJHdVFuYW9HUWQ5bDNYY2N5UnVqdFB0cA?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-09-27",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "[중국 특징주] 텐센트, 신형 이미지 생성 AI 모델 공개",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRWJqUFFXTnVwMlV5eWlDSTMwQUN0MTI1SXBpaGlfb3FYUmIwUWVfSzEzYzdYalQyUzVzSmp3WXZfLUtWbVdabVRMTWpBYUFwRkdhdFJjYjFRWTl3?oc=5",
+     "source": "뉴스핌",
+     "note": "",
+     "at": "2026-09-22",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "오노마에이아이, 생성형 AI로 웹툰·애니메이션 제작 가속 [서울AI허브 2027]",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVd3hwNG1za3lqSEowVGE2T2hHWllfTmlUQlRZX3o3QzNrZjBfUDVReWVORXRyUWZnTlkyQzkyN0EtZHU3Rmo2dzlRX3F0bzM3blBSQmlkaGlSMHl4ajdmNEp2SVBXUGNFTnl1NlRNa3BlU2dr0gF0QVVfeXFMUFV3eHA0bXNreWpISjBUYTZPaEdaWV9OaVRCVFlfejdDM2tmMF9QNVF5ZU5FdHJRZmdOWTJDOTI3QS1kdTdGajZ3OVFfcXRvMzduUFJCaWRoaVIweXhqN2Y0SnZJUFdQY0VOeXU2VE1rcGVTZ2s?oc=5",
+     "source": "IT조선",
+     "note": "",
+     "at": "2026-09-26",
+     "desc": "",
+     "topic": "other"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "오픈AI AI 에이전트, 호주 정부 보건 사이트 침해... 호주 총리, “용납 못할 일”",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MNTR6WkJYYmlvSi1sT18wbFhOWS16U3lWVE5rYno1T092WUZXQUh3Q09vS1c4Z0pxcnNubi1ab0xtdXFSNE5KOXQyNUlKMjJ0ZEVUcFhleDRUQXB4MEItSjlvUjJhbjNaTnVR?oc=5",
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-09-24",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "오픈AI 에이전트, 이용자 이미지 53장 무단 게시…경위 조사",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdTZ2WmFvazc5UU5wakxCSk9zR0VHOWxITDJtY2NTdTktSGR4T20xb1gzQmQzOEt6aHpoWjNzdWNZM3pXdGVGRUVpQ2VLZw?oc=5",
+     "source": "전자신문",
+     "note": "",
+     "at": "2026-09-26",
+     "desc": "",
+     "topic": "agent"
+    }
+   ]
+  },
   {
    "date": "2026-09-21",
    "label": "2026년 9월 3주",
