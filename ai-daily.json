@@ -1,6 +1,104 @@
 {
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "days": [
+  {
+   "date": "2026-09-29",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "귀하는 코덱스 원본입니까?",
+     "url": "https://openai.com/form/codex-originals",
+     "at": "2026-09-28 09:00",
+     "desc": "우리는 코덱스를 사용하여 놀라운 일을 하는 건축업자, 땜장이, 연구원 및 제작자의 실제 이야기를 수집하고 있습니다. 코덱스 오리지널의 다음 장에 참여하고 싶다면...",
+     "title_en": "Are you a Codex Original?",
+     "desc_en": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals…"
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 3.8 Flash로 4명의 빌더가 무엇을 만들고 있는지 확인하세요",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+     "at": "2026-09-29 01:00",
+     "desc": "지구 위성 지도의 두 가지 모습, 공룡 골격 모델, 라벨이 붙은 기계 전송 다이어그램의 분해도를 보여주는 4개의 디지털 3D 시각화 프로젝트의 콜라주…",
+     "title_en": "See what 4 builders are making with Gemini 3.8 Flash",
+     "desc_en": "A collage of four digital 3D visualization projects showing two views of globe satellite maps, a dinosaur skeleton model, and an exploded view of a mechanical transmission diagram with labeled…"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Future Vision XPRIZE, The Gifted의 우승 트레일러를 시청하세요.",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+     "at": "2026-09-29 04:00",
+     "desc": "Future Vision XPRIZE, The Gifted의 우승 트레일러를 시청하세요.",
+     "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+     "desc_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이자리와 함께 200명의 게스트를 위해 요리하는 3가지 방법",
+     "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
+     "at": "2026-09-29 00:00",
+     "desc": "200명의 게스트를 위한 Edy의 식료품점 유튜브 동영상",
+     "title_en": "3 ways this grocer cooks for 200 guests with Gemini",
+     "desc_en": "How Edy’s Grocer Caters for 200 Guests YouTube video"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Lenfest Institute는 OpenAI 지원을 확대하여 랜드마크 프로그램을 성장시킵니다.",
+     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+     "at": "2026-09-28 16:00",
+     "desc": "OpenAI는 5백만 달러의 자금과 최대 5백만 달러의 소프트웨어 크레딧 및 엔지니어링 지원을 통해 Lenfest AI Collaborative and Fellowship 프로그램을 확장하고 있습니다.",
+     "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+     "desc_en": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Basis는 GPT-6 Astra로 세금 워크북을 2배 빠르게 완료합니다",
+     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+     "at": "2026-09-28 09:00",
+     "desc": "GPT-6 Astra는 GPT-5.6 Sol보다 두 배 빠른 50탭 세금 워크북을 완성했으며, 사용자 의도에 대한 이해가 강화되어 Basis는 실제 사용에 대해 더 자신감을 갖게 되었습니다.",
+     "title_en": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+     "desc_en": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215734",
+     "at": "2026-09-29 16:27",
+     "desc": "앤트로픽이 차세대 모델 라인업의 두 번째 주자인 '클로드 소네트 5.5(Claude Sonnet 5.5)'를 출시했다. 상장(IPO)을 준비 중인 앤트로픽이 기업용 시장에서의 주도권을 확고히 하기 위해 성능은 물론 효율성을 대폭 끌어올린 실용형 모델이라는 점이 특징이다.28일(현지시간) 발표에 따르면, 소네트 5.5는 이전 세대인 '소네트 5' 대비…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, '클로드 소네트 5.5' 출시 임박...오픈AI '데브데이' 견제하나",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215700",
+     "at": "2026-09-28 20:10",
+     "desc": "앤트로픽이 ‘클로드 소네트 5.5(Claude Sonnet 5.5)’의 기습 출시를 준비하고 있다는 정황이 잇따라 나오고 있다. 오픈AI의 개발자 행사 ‘데브데이’를 앞두고 출시 시점을 앞당길 가능성이 제기되면서, 양사의 개발자용 AI 모델 경쟁이 한층 치열해질 전망이다.26일(현지시간) AI 정보 유출 전문 계정 라이라(Lyra)에 따르면, 앤트로픽은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215708",
+     "at": "2026-09-28 21:57",
+     "desc": "스캐터랩(대표 김종윤·박세웅)은 AI 인터랙티브 엔터테인먼트 플랫폼 '제타'에 새로운 플레이 모드인 '비주얼 노벨 모드'를 출시했다고 28일 밝혔다.비주얼 노벨 모드는 대화 맥락과 스토리에 따라 캐릭터와 배경이 실시간으로 변화하는 플레이 모드다. 캐릭터가 상황에 따라 표정과 행동을 바꾸고, 장소가 전환되면 배경도 함께 바뀐다.여기에 상황에 따라 선택지를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, 스마트폰으로 AI 게임 만드는 '호라이즌 크리에이트' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215710",
+     "at": "2026-09-28 21:00",
+     "desc": "메타가 모바일 기반 AI 게임 제작 플랫폼 구축에 박차를 가하고 있다.메타는 지난 24일(현지시간) 열린 '메타 커넥트 2026' 행사에서 스마트폰과 웹 브라우저만으로 비디오 게임을 직접 개발하고 퍼블리싱할 수 있는 AI 기반 게임 제작 도구 '호라이즌 크리에이트'와 '호라이즌 스튜디오'를 공개했다.이번 발표는 기존 가상현실(VR) 헤드셋 중심이었던…"
+    }
+   ]
+  },
   {
    "date": "2026-09-28",
    "count": 7,
@@ -1190,76 +1288,6 @@
      "title": "에이전트형 AI를 위한 데이터 준비하기",
      "url": "https://news.hada.io/topic?id=33657",
      "at": "2026-09-14 07:02",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215200",
-     "at": "2026-09-13 19:27",
-     "desc": "테슬라가 오랜 기간 출시가 미뤄져 온 2세대 로드스터를 오는 10월1일 공개할 예정이다. 2017년 처음 공개된 이후 수차례 일정이 연기된 모델인 만큼, 이번 공개를 계기로 실제 양산까지 이어질 수 있을지 관심이 쏠린다.테슬라는 12일(현지시간) X에 “Go for launch(출격 준비 완료)”라는 짧은 메시지와 함께 ’10.01’이라는 날짜가 표시된…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215186",
-     "at": "2026-09-13 01:49",
-     "desc": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인 ‘푸구 맥스(Fugu Max)’와 ‘푸구 울트라 v2(Fugu…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215182",
-     "at": "2026-09-12 20:56",
-     "desc": "AI 에이전트의 성능을 좌우하는 요소가 모델 자체의 능력뿐 아니라 이를 둘러싼 실행 환경과 소프트웨어인 ‘하네스(harness)’로 확대되는 가운데, AI가 스스로 실행 시스템을 만들고 개선할 수 있는지를 평가하는 새로운 연구가 나왔다. 바이트댄스 연구진은 최근 대형언어모델(LLM)이 에이전트의 실행 시스템을 직접 구축하고 발전시키는 능력을 측정하는 평가…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "다리오에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
-     "url": "https://news.hada.io/topic?id=33595",
-     "at": "2026-09-13 05:35",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"지침 줄이고 완료 기준 명확히\"...오픈AI가 밝힌 '아스트라' 활용법",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215202",
-     "at": "2026-09-13 20:18",
-     "desc": "'GPT-6 아스트라'의 등장으로 코딩 에이전트 활용 방식과 개발자가 작성하는 스킬·프롬프트의 설계 원칙도 다시 점검할 필요가 커지고 있다. 과거에는 모델의 작업을 원하는 방향으로 유도하기 위해 상세한 지침과 반복적인 스캐폴딩이 필요했지만, 모델 성능이 크게 향상되면서 지나친 지시가 오히려 판단을 방해하는 요소로 지적됐다.오픈AI는 11일(현지시간)…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: irasutoya - (Claude Skill) いらすとや 이라스토야 일러스트를 검색·다운로드해 활용",
-     "url": "https://news.hada.io/topic?id=33607",
-     "at": "2026-09-13 10:35",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI가 스스로 더 나은 AI를 만드는 날은 얼마나 가까웠나?",
-     "url": "https://news.hada.io/topic?id=33600",
-     "at": "2026-09-13 08:11",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Nvidia는 AI의 중앙은행이다",
-     "url": "https://news.hada.io/topic?id=33588",
-     "at": "2026-09-13 02:44",
      "desc": ""
     }
    ]
