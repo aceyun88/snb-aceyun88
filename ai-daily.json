@@ -1,6 +1,102 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "days": [
+  {
+   "date": "2026-10-01",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "SynthID 소개",
+     "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+     "at": "2026-10-01 00:03",
+     "desc": "생물학적 기능을 유지하면서 AI 생성 단백질을 워터마킹하는 개념 증명.",
+     "title_en": "Introducing SynthID Bio",
+     "desc_en": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "조율된 모델 증류 캠페인 중단",
+     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+     "at": "2026-09-30 19:30",
+     "desc": "OpenAI가 보호된 모델 추론을 추출하는 캠페인을 방해하고 적대적 증류에 대한 방어를 강화하는 방법을 알아보십시오.",
+     "title_en": "Disrupting a coordinated model-distillation campaign",
+     "desc_en": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이 자리의 기술이 가장 반복적 인 작업을 처리하게하십시오",
+     "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+     "at": "2026-10-01 01:00",
+     "desc": "프레젠테이션 준비 기술 예시",
+     "title_en": "Let skills in Gemini tackle your most repetitive tasks",
+     "desc_en": "Example skill for presentation prep"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "소규모 기업들이 AI를 활용할 수 있도록 지원",
+     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+     "at": "2026-09-30 19:00",
+     "desc": "OpenAI는 미국의 SBDC와 협력하여 소규모 팀이 AI를 사용하는 방식에 대한 새로운 보고서와 함께 소규모 기업에 대한 실습 AI 교육 및 현지 지원을 확대하고 있습니다.",
+     "title_en": "Helping small businesses put AI to work",
+     "desc_en": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이자리 4 아르곤: 차세대 프론티어 인텔리전스 시대",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+     "at": "2026-10-01 05:00",
+     "desc": "현대적인 편집 브랜딩과 \"Gemini 4 Argon\" 텍스트가 있는 스타일리시한 프로모션 블로그 키 아트 그래픽",
+     "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
+     "desc_en": "Stylized promotional blog key art graphic with modern editorial branding and the text \"Gemini 4 Argon\""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, AI 모델 재학습 없이 ‘하네스’ 스스로 개선하는 ‘RRSI’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215802",
+     "at": "2026-10-01 03:09",
+     "desc": "구글이 AI 모델을 재학습하지 않고도 에이전트 성능을 스스로 개선할 수 있는 연구 프레임워크를 공개했다. 핵심은 모델의 가중치를 바꾸는 대신, 프롬프트와 도구 사용 방식, 제어 흐름, 메모리와 컨텍스트 관리, 기술 모듈, 하위 에이전트 등 모델을 둘러싼 ‘하네스(harness)’를 반복적으로 수정하는 것이다.구글 클라우드 AI 리서치 연구진은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215792",
+     "at": "2026-09-30 20:58",
+     "desc": "메타가 개인용 AI 에이전트 ‘뮤즈(Muse)’를 소상공인용으로 확대하며 기업용 AI 시장 공략에 본격적으로 나섰다. 뮤즈를 기업이 사용하는 각종 업무용 소프트웨어와 연결해 사업 운영과 마케팅, 고객 확보 등을 지원하도록 했다.메타는 29일(현지시간) ‘뮤즈 포 스몰 비즈니스(Muse for Small Business)’를 공개했다.사용자는 이를 통해…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+     "at": "2026-10-01 15:23",
+     "desc": "구글이 프런티어급 지능과 에이전트 작업 능력을 대폭 끌어올린 차세대 플래그십 모델 '제미나이 4 아르곤(Gemini 4 Argon)'을 공개했다. 핵심 경쟁 모델들을 제치고 벤치마크 선두를 탈환했음에도 불구하고, 대다수 개발자와 기업이 당장 사용할 수 없는 '제한적 출시'에 그쳤다. 구글은 30일(현지시간) 제미나이 4 아르곤을 소개하며…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+     "at": "2026-09-30 16:07",
+     "desc": "오픈AI가 24시간 백그라운드에서 상시 가동되는 자율형 AI 에이전트 서비스 '닷츠(dots)'를 공개했다. 당초 메타의 개인 맞춤형 에이전트 '뮤즈(Muse)'를 겨냥한 제품으로 예상됐으나, 완전히 성격이 다른 기업용 업무 에이전트에 초점을 맞췄다.오픈AI는 29일(현지시간) 연례 개발자 행사 '데브데이 2026'에서 20여개의 신규 업데이트 항목…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Traycer - 여러 코딩 에이전트의 문맥과 협업을 한곳에서 관리",
+     "url": "https://news.hada.io/topic?id=34575",
+     "at": "2026-10-01 09:30",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-09-30",
    "count": 10,
@@ -1205,104 +1301,6 @@
      "url": "https://news.hada.io/topic?id=33762",
      "at": "2026-09-16 10:02",
      "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-     "at": "2026-09-16 02:00",
-     "desc": "텍스트 \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background",
-     "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-     "desc_en": "Text \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "Google AI 및 Economy Atlas의 새로운 인사이트",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-     "at": "2026-09-15 22:00",
-     "desc": "Google G 및 회전 글로브 일러스트와 함께 \"AI & Economy Atlas v1.0 2026\" 텍스트",
-     "title_en": "New insights from Google’s AI & Economy ATLAS",
-     "desc_en": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "과학을 가속화하고 삶을 개선하기 위한 AI 구축",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-     "at": "2026-09-16 01:00",
-     "desc": "교실의 선생님과 학생, 의사가 있는 환자 등 다양한 환경과 사람들을 보여주는 B-롤",
-     "title_en": "Building AI to accelerate science and improve lives",
-     "desc_en": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "쌍둥이자리로 집안일을 해결하는 4가지 방법",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
-     "at": "2026-09-16 01:00",
-     "desc": "고장난 문손잡이의 사진에 '어떻게 하면 해결할 수 있나요?' 라는 메시지가 표시됩니다.",
-     "title_en": "4 ways to tackle household chores with Gemini",
-     "desc_en": "A photo of a broken doorknob with the prompt: How can I fix this?"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "사회적 영향을 위한 AI",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-     "at": "2026-09-16 01:00",
-     "desc": "이 컬렉션을 살펴보고 전문가와 현지 리더가 AI 혁신을 활용하여 모든 사람이 AI의 기회를 공유할 수 있도록 하는 방법을 알아보세요.",
-     "title_en": "AI for Societal Impact",
-     "desc_en": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "모든 언어로 모두를 위한 AI",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-     "at": "2026-09-16 01:00",
-     "desc": "여러 언어로 된 여러 단어의 애니메이션이 과거로 서서히 확대됨",
-     "title_en": "AI for everyone in every language",
-     "desc_en": "Animation of several words in different languages slowly zooming past"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"최고 성능에 비용은 반값\"...'라이너 모델 API' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215271",
-     "at": "2026-09-15 21:00",
-     "desc": "AI 에이전트 전문 라이너(대표 김진우)는 AI 오케스트레이션 솔루션인 ‘라이너 모델 API(Liner Model API)’를 출시했다고 15일 밝혔다. 현재 AI 시스템을 구축하는 대부분 기업은 답변 품질을 위해 고가의 프론티어급 모델 하나로 모든 사용자 질문을 일괄 처리하는 방법을 채택하고 있다. 하지만 질문 난이도가 제각각임에도 모두 상위 모델로…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"뇌처럼 학습한다\"…사카나 AI, 역전파 대체 기술 'PC-ALM' 발표",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215305",
-     "at": "2026-09-16 03:07",
-     "desc": "사카나 AI가 딥러닝 학습의 핵심 방식인 '역전파(Backpropagation)'를 사용하지 않고도 매우 깊은 신경망을 학습할 수 있는 새로운 레이어별 학습 기법을 공개했다.사카나 AI는 최근 기존 예측 코딩(PC·Predictive Coding)의 한계를 보완한 ‘PC-ALM(Augmented Lagrangian Predictive Coding)’을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"독점 정보 유출 막아라\"...엔비디아·팔란티어, 첨단 AI 모델 도입 축소",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215294",
-     "at": "2026-09-16 02:43",
-     "desc": "AI 기업들의 데이터 수집 및 보관 정책으로 인한 데이터 및 지식재산권(IP) 유출 우려가 커지면서, 주요 기업들이 고급 AI 모델 사용을 축소하거나 새로운 보안 보장을 요구하고 나섰다. 14일(현지시간) 디 인포메이션에 따르면, 팔란티어와 엔비디아, 부즈 앨런 해밀턴 등 민감한 기업·고객 정보를 다루는 업체들은 앤트로픽과 오픈AI의 최첨단 AI 모델…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "플레이태그, AI 행동분석으로 아이 맞춤형 교육 제공…‘스토리라인 원’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215312",
-     "at": "2026-09-16 01:25",
-     "desc": "AI 행동분석 전문 플레이태그가 신규 서비스 ‘스토리라인 원(Storyline One)’을 공개했다고 15일 밝혔다.플레이태그는 어린이집이나 유치원 교실의 영상을 AI로 분석해 아이들의 개별 행동분석 리포트를 제공하는 ‘스토리라인’ 서비스를 제공해 왔다. 현재까지 누적 1000개 이상의 교실, 2만명 이상의 아동이 이용해 왔으며, 국내를 넘어 미국,…"
     }
    ]
   }
