@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "days": [
+  {
+   "date": "2026-10-03",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "2026년 9월에 발표한 최신 AI 뉴스",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+     "at": "2026-10-03 00:00",
+     "desc": "9월 AI 업데이트를 보여주는 동영상",
+     "title_en": "The latest AI news we announced in September 2026",
+     "desc_en": "A video showing the September AI updates"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "GPT-6 제품군을 위한 모델 가이드",
+     "url": "https://openai.com/index/practical-guide-building-gpt-6",
+     "at": "2026-10-03 01:15",
+     "desc": "신생 기업이 GPT-6 모델을 선택하고, 추론 노력을 조정하고, 프롬프트와 기술을 개선하고, 도구를 조정하고, 생산을 위한 워크플로를 준비하는 방법을 알아보세요.",
+     "title_en": "A model guide for the GPT-6 family",
+     "desc_en": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Chatham은 OpenAI로 자본 시장 전문성을 확장합니다",
+     "url": "https://openai.com/index/chatham-financial",
+     "at": "2026-10-02 09:00",
+     "desc": "채텀 파이낸셜은 코덱스와 GPT-5.6을 사용하여 기술을 구축하고 워크플로우를 재설계하여 거래 유효성 검사를 30분에서 4분 미만으로 줄입니다.",
+     "title_en": "Chatham scales its capital markets expertise with OpenAI",
+     "desc_en": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215887",
+     "at": "2026-10-03 03:16",
+     "desc": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
+     "at": "2026-10-03 02:08",
+     "desc": "‘제브’로 인해 판단 전용 AI 붐이 일어난 가운데, 업스테이지도 ‘솔라 미니 4’를 기반 모델로 ‘솔라 디사이드(Solar Decide)’를 공개했다.김성훈 업스테이지 대표는 오픈라우터 플랫폼을 통해 판단만 해주는 AI ‘솔라 디사이드’를 출시했다고 2일 밝혔다.업스테이지 관계자는 “제브처럼 구조적 의사결정(structured decision)을…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215849",
+     "at": "2026-10-02 02:15",
+     "desc": "플랫폼과 서비스에 AI 도입 경쟁이 심화하는 가운데, 네이버 웨일이 'AI 브라우저'로 본격 탈바꿈한다. 탄탄한 기반 사용자층을 중심으로 편의성을 극대화하는 데 초점을 맞췄다. 네이버(대표 최수연)는 웨일 브라우저에 ‘AI 챗’ 기능을 정식 출시했다고 1일 밝혔다. 기반 모델은 비공개다.최근 AI와 서비스의 결합이 증가하면서 단순히 'AI 검색 엔진'을…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Pi 1.0 출시 - 미니멀한 터미널 코딩 에이전트",
+     "url": "https://news.hada.io/topic?id=34632",
+     "at": "2026-10-02 05:38",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215902",
+     "at": "2026-10-03 03:06",
+     "desc": "AI가 생명과학 연구에 활용되면서 기존에 없던 단백질과 유전체를 설계하는 기술도 빠르게 발전하고 있다. 하지만 AI가 만든 생물학적 설계가 실제 실험과 데이터베이스에 활용되면서 그 출처를 확인하고 추적하는 새로운 과제도 등장했다. 구글 딥마인드는 30일(현지시간) AI로 설계한 단백질을 식별하고 추적할 수 있는 생물학 전용 워터마킹 기술 ‘신스ID…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
+     "url": "https://news.hada.io/topic?id=34645",
+     "at": "2026-10-02 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스",
+     "url": "https://news.hada.io/topic?id=34641",
+     "at": "2026-10-02 07:35",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-02",
    "count": 10,
@@ -1210,96 +1302,6 @@
      "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
      "url": "https://news.hada.io/topic?id=33842",
      "at": "2026-09-17 22:52",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "법학 분야를 위한 아스트라 소개",
-     "url": "https://openai.com/index/astra-for-law",
-     "at": "2026-09-17 09:00",
-     "desc": "OpenAI for Law는 법률, 맞춤 회사 워크플로우, 연결된 법률 데이터 소스 및 기밀 클라이언트 작업을 위한 법적 수준의 통제를 위한 프론티어 인텔리전스를 제공합니다.",
-     "title_en": "Introducing Astra for Law",
-     "desc_en": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "AI로 광고 재창조하기",
-     "url": "https://openai.com/index/reimagining-advertising-with-ai",
-     "at": "2026-09-16 22:00",
-     "desc": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요.",
-     "title_en": "Reimagining advertising with AI",
-     "desc_en": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AAII 국내 1위 ‘모티프 3’ 29일까지 API 무료 공개...\"에이전트에 집중\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215415",
-     "at": "2026-09-18 01:56",
-     "desc": "모티프테크놀로지스가 ‘모티프 3(Motif 3)’ 모델의 무료 API를 한시적으로 공개한다. 모티프 3는 아티피셜 애널리시스 인텔리전스 인덱스(AAII) 에서 평균 점수 47점을 기록하며 국내 AI 모델로서 최고 성능을 입증한 모델이다.임정환 모티프테크놀로지스 대표는 오는 29일까지 AI 인프라 플랫폼 ‘인프론(Infron)’을 통해 ‘모티프 3’의…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "피어리오딕 랩스, 재료과학 AI '네온' 공개...\"첨단 모델 성능 뛰어넘어\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215414",
-     "at": "2026-09-18 02:53",
-     "desc": "대형언어모델(LLM)의 추론 능력과 강화학습, 과학 도구를 결합해 새로운 소재를 탐색하려는 시도가 이어지는 가운데, 피어리오딕 랩스(Periodic Labs)가 재료과학에 초점을 맞춘 AI 모델을 선보였다. 오픈AI 출신 리암 페더스가 설립한 피어리오딕 랩스는 15일(현지시간) 재료과학 연구에 특화된 AI 모델 ‘네온(Neon)’을 공개했다.이 회사는…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215396",
-     "at": "2026-09-17 23:32",
-     "desc": "지니젠AI(대표 최선영)가 글로벌 AI 모델 중개 플랫폼 오픈라우터의 모델 426종을 분석, 한국어 품질 평가 결과를 담은 리더보드를 허깅페이스에 공개했다고 17일 밝혔다.오픈라우터는 앤트로픽, 구글, 오픈AI, xAI, 딥시크 등 다양한 AI 모델을 단일 API로 제공하는 플랫폼이다. 2026년 8월 기준 이용자 1000만명, 일 처리량 10조 토큰을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215416",
-     "at": "2026-09-18 02:36",
-     "desc": "기존 대형언어모델(LLM)이 자연어를 생성하는 데 초점을 맞춰 발전해온 가운데, AI가 소프트웨어의 의사결정을 직접 수행하도록 설계한 새로운 접근법이 등장했다. 특히 속도와 비용, 안정성이 중요한 자동화 분야를 겨냥해 텍스트 생성 대신 구조화된 판단 자체를 출력하는 AI 모델이 공개됐다.'챗GPT'와 인간 피드백 기반 강화학습(RLHF) 개발에 참여했던…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: CPGuard – SAST 취약점을 AI 에이전트가 동적으로 실증하는 오픈소스 (CPG taint + MCP)",
-     "url": "https://news.hada.io/topic?id=33844",
-     "at": "2026-09-18 00:02",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 주식매니저 - 회원가입 없이 보는 한국·미국 주식 수급 순위와 AI 시황 브리핑 (무료 웹/앱)",
-     "url": "https://news.hada.io/topic?id=33826",
-     "at": "2026-09-17 15:02",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
-     "url": "https://news.hada.io/topic?id=33814",
-     "at": "2026-09-17 09:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
-     "url": "https://news.hada.io/topic?id=33809",
-     "at": "2026-09-17 07:45",
      "desc": ""
     }
    ]
