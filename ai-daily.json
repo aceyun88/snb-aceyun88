@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "days": [
+  {
+   "date": "2026-10-08",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "청소년들이 인공지능의 미래를 배우고, 계획하고, 형성할 수 있도록 돕는다.",
+     "url": "https://openai.com/index/teens-learn-and-plan",
+     "at": "2026-10-07 21:00",
+     "desc": "College Planner는 학생들이 새로운 플래시 카드, 퀴즈 및 십대 AI 협의회와 함께 대학 응용 프로그램을 관리하는 데 도움이 되는 청소년용 ChatGPT를 선보입니다.",
+     "title_en": "Helping teens learn, plan, and shape the future of AI",
+     "desc_en": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.",
+     "url": "https://openai.com/index/radisson",
+     "at": "2026-10-07 16:00",
+     "desc": "Radisson은 Accenture와 파트너십을 맺고 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자들이 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 지원했습니다.",
+     "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+     "desc_en": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "모두를 위한 GPT-6 및 지능형 UI",
+     "url": "https://openai.com/index/gpt-6-for-everyone",
+     "at": "2026-10-07 09:00",
+     "desc": "GPT ‑ 6은 지능형 UI를 갖춘 ChatGPT에서 전 세계적으로 출시되어 직접 탐색하고 사용할 수 있는 비주얼 및 대화형 경험을 통해 더 빠른 응답을 제공합니다.",
+     "title_en": "GPT-6 and Intelligent UI for everyone",
+     "desc_en": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "미스트랄, 1조 매개변수 ‘라지 4’ 공개...\"사이버 보안·오픈 모델 최상위\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216024",
+     "at": "2026-10-07 23:02",
+     "desc": "프랑스의 미스트랄 AI가 내부 별칭 '르 총크(Le Chonk)'로 불리는 차세대 플래그십 AI 모델을 공개했다. '뚱뚱한 고양이'를 뜻하는 이 별칭은 1조개가 넘는 매개변수를 가진 거대 모델의 규모감을 위트 있게 표현한 것이다.미스트랄은 6일(현지시간) 오픈웨이트 모델 '미스트랄 라지 4(ML4·Mistral Large 4)'를 공개했다.현재는 API를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+     "at": "2026-10-08 14:34",
+     "desc": "앤트로픽이 가격을 대폭 내리고 성능을 최고 수준으로 끌어올린 소형 모델 '클로드 하이쿠 5.5(Claude Haiku 5.5)'를 출시했다. 기업공개(IPO)를 앞두고 AI 라인업을 대대적으로 확장하는 가운데, 경량화·고성능·저비용 모델을 앞세워 기업용 AI 시장 점유율을 대폭 확대하겠다는 전략이다.앤트로픽은 7일(현지시간) 하이쿠 5.5를 공개하며 가장…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "하크, '스마트폰 대체' AI 에이전트 공개...2027년 전용 기기 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216039",
+     "at": "2026-10-08 01:59",
+     "desc": "휴머노이드 로봇 전문 피규어 AI의 브렛 애드콕이 설립한 스마트폰 대체용 AI 하드웨어 스타트업 하크(Hark)가 내년 하드웨어 출시를 앞두고 능동적으로 작업을 수행하는 AI 에이전트 ‘하크 프로(Hark Pro)’를 공개했다. 사용자의 지시를 기다리는 데 그치지 않고 이메일과 일정 등을 바탕으로 해야 할 일을 찾아 직접 처리하는 것이 특징이다.하크는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"1인칭 영상을 로봇 학습 데이터로\"...트웰브랩스 '페가수스 1.6' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216022",
+     "at": "2026-10-07 23:29",
+     "desc": "트웰브랩스가 엔터테인먼트, 스포츠, 공공 분야에 적용해온 영상 이해 기술을 로봇 등 피지컬 AI 분야로 확대한다.트웰브랩스는 피지컬 AI 학습 데이터 수집에 특화된 비전언어모델(VLM) '페가수스 1.6'을 출시했다고 밝혔다. 페가수스 1.6은 '에고센트릭 데이터(Egocentric Data)' 이해 및 라벨링 자동화가 특징이다.에고센트릭 데이터는 1인칭…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Haiku 5.5 출시 - 평균 실행 비용 75% 절감, Max·Team에 API 크레딧 제공",
+     "url": "https://news.hada.io/topic?id=34958",
+     "at": "2026-10-08 03:43",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "OpenAI, GPT‑6 확대 적용과 더 똑똑한 대화형 UI 도입",
+     "url": "https://news.hada.io/topic?id=34960",
+     "at": "2026-10-08 04:40",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Lemma - 사람과 AI 에이전트가 한 팀으로 일하는 오픈소스 작업 공간",
+     "url": "https://news.hada.io/topic?id=34976",
+     "at": "2026-10-08 09:30",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-07",
    "count": 10,
@@ -1208,100 +1300,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=215628",
      "at": "2026-09-24 00:00",
      "desc": "노타(대표 채명수)는 서울 코엑스에서 열린 '휴머노이드 서밋 서울 2026'에 참여해 자체 플랫폼 '넷츠프레소'를 활용한 7종의 로봇 AI 모델 최적화 성과를 발표했다고 23일 밝혔다.노타는 퀄컴 신경망처리장치(NPU) '드래곤윙 IQ-9075'와 엔비디아 그래픽처리장치(GPU) 기반 엣지 AI 플랫폼 '젯슨 토르'를 대상으로 최적화 결과를 공개했다.검증…"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT-6 Sol 및 Luna 소개",
-     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-     "at": "2026-09-23 03:00",
-     "desc": "능력과 비용의 균형이 다른 일상 업무에 프론티어 인텔리전스를 제공하는 두 모델인 GPT-6 Sol과 Luna를 만나보세요.",
-     "title_en": "Introducing GPT-6 Sol and Luna",
-     "desc_en": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT-6에 대한 더 나은 프롬프트 캐싱",
-     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-     "at": "2026-09-23 06:00",
-     "desc": "GPT-6가 높은 캐시 적중률, 새로운 진단, 명시적 중단점 및 대기 시간과 비용을 줄이는 제어 기능을 통해 프롬프트 캐싱을 개선하는 방법을 알아보세요.",
-     "title_en": "Better prompt caching for GPT-6",
-     "desc_en": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT ‑ 6 Astra로 연구 시간과 비용을 병렬로 절반으로 줄이기",
-     "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-     "at": "2026-09-22 21:00",
-     "desc": "GPT ‑ 6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 절반의 비용으로 노동 시장 데이터를 연구하고 합성할 수 있었습니다.",
-     "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
-     "desc_en": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
-     "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-     "at": "2026-09-22 09:00",
-     "desc": "OpenAI는 프론티어 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선 순위와 원칙을 설명합니다.",
-     "title_en": "Priorities and principles for effective third party assessments",
-     "desc_en": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215552",
-     "at": "2026-09-23 04:21",
-     "desc": "샤오미가 오픈소스 모델을 앞세워 글로벌 AI 선두권과의 성능 격차 좁히기에 속도를 내고 있다. 샤오미는 21일(현지시간) 차세대 오픈소스 AI 모델 ‘미모-V2.6(MiMo-V2.6)’ 시리즈를 공개했다. 대규모 강화학습 컴퓨팅을 투입해 추론·코딩 역량을 높이는 동시에 3D 공간 추론과 멀티모달 인식, 컴퓨터를 직접 조작하는 에이전트 능력까지 폭넓게…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215566",
-     "at": "2026-09-23 03:58",
-     "desc": "메타의 개인형 AI 에이전트 앱 ‘뮤즈(Muse)’가 출시 초기부터 가파른 사용자 증가세를 보이며 소비자용 에이전트 시장의 새로운 가능성을 보여주고 있다. 시장조사 전문 앱토피아(Apptopia)에 따르면, 뮤즈는 지난 8일(현지시간) 출시 후 13일 동안 미국과 캐나다에서 '챗GPT'의 모바일 출시 초기 기록을 넘어선 것으로 나타났다.동일한 조건으로…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "튜링 GPAI, 대학생 겨냥 신기능 대거 출시…\"자료 정리·시험 대비·발표 준비까지\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215580",
-     "at": "2026-09-23 01:50",
-     "desc": "AI 에이전트 전문 튜링이 AI 앱 'GPAI'에 문제 생성, AI 드라이브, PPT 제작 등 대학생을 위한 신기능 3종을 출시했다고 22일 밝혔다. 강의자료 정리부터 시험 대비, 발표 준비까지 대학 학업의 전 과정을 하나의 서비스에서 지원하는 것이 핵심이다. 대학생의 학업 워크플로우를 반영했다는 설명이다. 먼저, AI 드라이브 곳곳에 흩어진 강의자료와…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "알리바바, 생성·편집 통합 '큐원 이미지 2.1' 공개…'따라하기' 비판도",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215554",
-     "at": "2026-09-22 22:07",
-     "desc": "알리바바가 이미지 생성과 편집을 하나의 모델에서 처리할 수 있는 오픈 웨이트 기반 멀티모달 AI 모델을 선보였다. 경량화된 구조를 바탕으로 참조 이미지 합성부터 영역 편집, 투명 배경 생성까지 단일 모델로 구현했지만, 이미 상당수 기능은 다른 첨단 모델에서 구현됐다는 지적도 제기된다.알리바바는 21일(현지시간) 이미지 생성·편집 통합형 멀티모달 AI 모델…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "확산 언어 모델을 만드는 방법",
-     "url": "https://news.hada.io/topic?id=34095",
-     "at": "2026-09-22 09:55",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "M5 Ultra Mac Studio 리뷰: 로컬 AI 에이전트를 위한 꿈의 Mac",
-     "url": "https://news.hada.io/topic?id=34079",
-     "at": "2026-09-22 02:55",
-     "desc": ""
     }
    ]
   }
