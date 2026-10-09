@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "days": [
+  {
+   "date": "2026-10-09",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "오라클이 ChatGPT 및 CODEX를 통해 업무 시간을 분 단위로 전환하는 방법",
+     "url": "https://openai.com/index/oracle",
+     "at": "2026-10-09 01:00",
+     "desc": "채용, 엔지니어링 및 운영 전반에 걸쳐 오라클은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다.",
+     "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+     "desc_en": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "LegalOn은 개발 속도를 유지하면서 코덱스 비용을 절반으로 줄입니다",
+     "url": "https://openai.com/index/legalon-halves-codex-costs",
+     "at": "2026-10-08 21:00",
+     "desc": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다.",
+     "title_en": "LegalOn halves Codex costs while maintaining development speed",
+     "desc_en": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI로 창의적인 아이디어를 캠페인으로 전환하는 Pollo AI",
+     "url": "https://openai.com/index/pollo-ai",
+     "at": "2026-10-08 21:00",
+     "desc": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다.",
+     "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+     "desc_en": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AI가 활성화된 \"허위 전선\" 작업 중단",
+     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+     "at": "2026-10-08 09:00",
+     "desc": "OpenAI는 거짓 전선 저널리스트와 씽크탱크를 사용하여 지정학적 메시지를 전파하는 두 가지 AI 지원 영향력 운영을 중단했습니다.",
+     "title_en": "Disrupting AI-enabled “false front” operations",
+     "desc_en": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216073",
+     "at": "2026-10-09 01:52",
+     "desc": "카카오가 AI 모델의 학습 효율을 높이고 모델 크기를 줄이는 경량화 연구 성과를 공개했다.카카오는 언어모델링 국제 학회 'COLM 2026'의 메인 컨퍼런스와 토크나이제이션 워크숍 'TokShop'에서 각각 연구 성과를 발표했다고 8일 밝혔다.메인 컨퍼런스에서 발표한 논문은 대규모 전문가 혼합(MoE) 모델의 사전학습에 필요한 최적 학습률을 전체 학습…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "리퀴드 AI, 10배 큰 체급 제친 멀티모달 의사결정 모델 ‘d1-3B’ 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216087",
+     "at": "2026-10-09 01:51",
+     "desc": "리퀴드 AI가 30억개 매개변수 수준의 소형 크기로 10배 이상 큰 대형 모델을 제친 오픈웨이트 멀티모달 의사결정 모델을 공개했다.리퀴드 AI는 7일(현지시간) 의사결정 모델 ‘d1’ 제품군의 새로운 모델인 ‘d1-3B’와 ‘d1-옴니-600M’을 출시했다. 두 모델은 생성 AI처럼 답변을 토큰 단위로 순차 생성하는 대신, 입력 상태를 한 번에 연산해…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 서피스 랩톱 울트라 출시에 'MAI-코드-1.1' 온디바이스 최적화 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216071",
+     "at": "2026-10-09 01:43",
+     "desc": "마이크로소프트(MS)가 차세대 대표 하드웨어 출시 시점에 맞춰 자사의 최신 코딩 AI 모델을 클라우드가 아닌 사용자 PC에서 직접 실행할 수 있도록 온디바이스 환경을 대폭 강화했다.MS는 7일(현지시간) 엔비디아 RTX 스파크 기반 '서피스 랩톱 울트라' 등 차세대 PC 출시에 발맞추어 코딩 특화 AI 모델 'MAI-코드-1.1…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, ‘나노 바나나 2.1’ 공개...성능 높이고 비용은 반값으로",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216030",
+     "at": "2026-10-08 03:05",
+     "desc": "구글이 이미지 생성 모델 ‘나노 바나나’의 성능과 비용 효율을 동시에 끌어올렸다. 고해상도 이미지의 사실감과 편집 정확도를 높이고 여러 참조 이미지와 캐릭터를 일관되게 처리하면서도 생성 비용은 크게 낮췄다. 구글은 6일(현지시간) 이미지 생성·편집 모델 ‘나노 바나나 2.1(Nano Banana 2.1)’을 공개했다.‘제미나이 3.6 플래시’를 기반으로…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 젠스파크 크레딧 아끼면서 대화 이어가는 스킬 4개 (무료, MIT)",
+     "url": "https://news.hada.io/topic?id=35035",
+     "at": "2026-10-09 08:37",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 더빙메이트 – 유튜브 자막을 내 PC에서 음성으로 읽어 주는 더빙 앱",
+     "url": "https://news.hada.io/topic?id=35036",
+     "at": "2026-10-09 08:47",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-08",
    "count": 10,
@@ -1200,106 +1294,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=215636",
      "at": "2026-09-25 03:54",
      "desc": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수 있도록 한 것이 특징이다.구글은 23일(현지시간) 제미나이 오디오…"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "MentalHealthBench 소개",
-     "url": "https://openai.com/index/introducing-mentalhealthbench",
-     "at": "2026-09-23 19:00",
-     "desc": "MentalHealthBench는 현실적인 정신 건강 대화에서 유용하고 안전한 AI 반응을 평가하기 위한 전문가의 정보에 입각한 벤치마크입니다.",
-     "title_en": "Introducing MentalHealthBench",
-     "desc_en": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Connected Apps의 새로운 물결이 Gemini에 출시됩니다.",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
-     "at": "2026-09-24 01:00",
-     "desc": "Gemini는 Adobe, Airtable, Linear, Peloton 등 새로운 커넥티드 앱을 추가하여 할 일 목록을 손쉽게 처리할 수 있도록 지원합니다.",
-     "title_en": "A new wave of Connected Apps is rolling out to Gemini.",
-     "desc_en": "Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list."
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "안전한 서버 측 메모리를 갖춘 프라이빗 AI 컴퓨팅의 발전",
-     "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-     "at": "2026-09-24 01:00",
-     "desc": "개인 AI를 위해 Private AI Compute에 전용 서버 측 메모리를 도입합니다.",
-     "title_en": "Advancing Private AI Compute with secure, server-side memory",
-     "desc_en": "Introducing private, server-side memory to Private AI Compute for personal AI."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "에어비앤비, GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 접근성 확대",
-     "url": "https://openai.com/index/airbnb-gpt-6-astra",
-     "at": "2026-09-23 10:00",
-     "desc": "엔지니어링 팀이 버그를 해결하고, 시스템을 설계하고, 더 빠르게 배송할 수 있도록 에어비앤비가 GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 액세스를 확대하는 방법을 알아보세요.",
-     "title_en": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-     "desc_en": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Grab과 OpenAI는 동남아시아에 실용적인 AI 기술을 제공합니다.",
-     "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-     "at": "2026-09-23 09:00",
-     "desc": "OpenAI와 Grab은 3만 명의 파트너가 동남아시아 전역에서 실용적인 AI 기술을 구축할 수 있도록 지원하는 지역 프로그램인 GO Forward with AI를 출시합니다.",
-     "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-     "desc_en": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Ringg의 AI 상담원은 OpenAI로 고객 통화의 최대 65% 를 해결합니다.",
-     "url": "https://openai.com/index/ringg",
-     "at": "2026-09-23 21:00",
-     "desc": "Ringg는 GPT-5.6을 사용하여 음성, 채팅, WhatsApp 및 웹에서 GPT-4.1에 비해 90% 저렴한 비용으로 다국어 상담원을 지원합니다.",
-     "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-     "desc_en": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 3.8 text-to-speech says hello",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-     "at": "2026-09-24 00:15",
-     "desc": "\"Introducing Gemini 3.8 Flash TTS and 3.8 Flash-Lite TTS\" 라는 텍스트 카드 이미지",
-     "title_en": "Gemini 3.8 text-to-speech says hello",
-     "desc_en": "a text card image reading \"Introducing Gemini 3.8 Flash TTS and 3.8 Flash-Lite TTS\""
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 '스트랜즈 하네스' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
-     "at": "2026-09-23 23:55",
-     "desc": "아마존웹서비스(AWS)는 에이전트를 손쉽게 구축·운영할 수 있는 오픈소스 실행환경 '스트랜즈 하네스'를 공개했다고 23일 밝혔다.스트랜즈 하네스는 AI 에이전트 실행에 필요한 구성요소를 조립해 제공하는 방식으로 모델·도구·메모리 등을 개별적으로 연결해야 했던 기존 구축 과정을 단순화했다.로컬 PC에서 즉시 실행하거나 클라우드 환경에 배포할 수 있으며,…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215614",
-     "at": "2026-09-24 00:55",
-     "desc": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 '에이전틱 AI' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) '스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) '과…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "노타 ‘휴머노이드 서밋’서 로봇 AI 모델 7종 최적화 성과 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215628",
-     "at": "2026-09-24 00:00",
-     "desc": "노타(대표 채명수)는 서울 코엑스에서 열린 '휴머노이드 서밋 서울 2026'에 참여해 자체 플랫폼 '넷츠프레소'를 활용한 7종의 로봇 AI 모델 최적화 성과를 발표했다고 23일 밝혔다.노타는 퀄컴 신경망처리장치(NPU) '드래곤윙 IQ-9075'와 엔비디아 그래픽처리장치(GPU) 기반 엣지 AI 플랫폼 '젯슨 토르'를 대상으로 최적화 결과를 공개했다.검증…"
     }
    ]
   }
