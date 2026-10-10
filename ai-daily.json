@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "days": [
+  {
+   "date": "2026-10-10",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Asana, GPT-6.1 SOL로 브라우저 테스트에서 모델 비용 76배 절감",
+     "url": "https://openai.com/index/asana-browser-agent",
+     "at": "2026-10-09 16:00",
+     "desc": "Asana는 Codex에서 GPT-6 Astra를 사용하여 브라우저 에이전트를 76배 더 저렴하고 5배 더 빠르게 테스트하여 고객에게 더 유능한 모델을 제공했습니다.",
+     "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+     "desc_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
+     "url": "https://openai.com/index/sophos",
+     "at": "2026-10-09 16:00",
+     "desc": "Sophos가 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 MDR 사례의 52% 를 자동화하는 동시에 인적 감시를 유지하는 방법을 알아보세요.",
+     "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+     "desc_en": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+     "at": "2026-10-09 19:27",
+     "desc": "구글 클라우드가 기업용 AI 통합 솔루션인 '제미나이 에이전트(Gemini agent)'를 공개하며 차세대 에이전트 시장 주도권 잡기에 나섰다. 이번 발표는 단발성 질의응답을 처리하는 대화형 챗봇 단계를 넘어, 기업 내 실질적인 자율 수행 디지털 동료를 구축하려는 구글의 전략적 기조를 잘 보여준다.구글 클라우드는 8일(현지시간) 미국 샌프란시스코에서…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+     "at": "2026-10-10 01:56",
+     "desc": "앤트로픽이 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 서비스를 공개했다. AI가 취약점을 발견하는 속도가 빨라지는 가운데, 오픈소스 개발자들이 보안 문제를 더 신속하게 파악하고 대응할 수 있도록 지원한다. 앤트로픽은 8일(현지시간) 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 도구 ‘OSS 스캐너(OSS…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 온디바이스 AI '서피스 랩톱 울트라' 공개...1200억 매개변수 모델 직접 구동",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
+     "at": "2026-10-09 00:50",
+     "desc": "마이크로소프트(MS)가 클라우드 의존 없이 PC에서 직접 AI를 실행하는 고성능 노트북을 선보였다. 엔비디아의 최신 AI 칩을 탑재한 '서피스 랩톱 울트라(Surface Laptop Ultra)'와 AI 에이전트의 무단 접근을 막는 보안 기술을 앞세워 온디바이스 AI 시장에서 애플과의 경쟁에 나선 것이다.MS는 7일(현지시간) 미국 샌프란시스코에서 열린…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타 '뮤즈', 스마트폰 이어 아이패드용 앱 출시…업무용 도구 연동 강화",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216078",
+     "at": "2026-10-08 23:34",
+     "desc": "메타가 개인용 AI 에이전트 서비스 '뮤즈'의 아이패드 전용 앱을 출시했다. 지난달 8일 안드로이드와 아이폰 등 모바일용 앱을 선보인 지 한 달 만의 발 빠른 행보다.7일(현지시간) 메타에 따르면, 아이패드 버전은 대화면 디스플레이 환경에 맞춰 최적화된 인터페이스를 제공한다. 태블릿 특유의 넉넉한 화면을 활용해 이메일이나 문서 정리, 일정 관리 등의…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Expo bets big on React Native's agentic future",
+     "url": "https://news.hada.io/topic?id=35095",
+     "at": "2026-10-10 09:58",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: AI 두뇌를 바꿔도 지난 이야기를 이어 가는 데스크톱 비서 마루비",
+     "url": "https://news.hada.io/topic?id=35081",
+     "at": "2026-10-10 05:07",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI 생성곡을 봇으로 반복 재생해 약 110억 원 챙긴 미국 남성, 징역 18개월",
+     "url": "https://news.hada.io/topic?id=35047",
+     "at": "2026-10-09 12:38",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI 시대에 SaaS 기업을 피벗하는 방법",
+     "url": "https://news.hada.io/topic?id=35041",
+     "at": "2026-10-09 10:05",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-09",
    "count": 10,
@@ -1197,103 +1287,6 @@
      "url": "https://news.hada.io/topic?id=34242",
      "at": "2026-09-25 05:38",
      "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "라이브 아바타와 함께하는 쌍둥이자리 3.8 라이브 체험",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
-     "at": "2026-09-25 00:30",
-     "desc": "\"Gemini 3.8 Live with Live Avatar\" 문구가 있는 이미지",
-     "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-     "desc_en": "an image with the phrase \"Gemini 3.8 Live with Live Avatar\""
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI Academy 2년",
-     "url": "https://openai.com/index/two-years-of-openai-academy",
-     "at": "2026-09-24 01:00",
-     "desc": "OpenAI Academy의 2년을 기념하고 더 많은 커뮤니티에 AI 기술을 제공합니다.",
-     "title_en": "Two years of OpenAI Academy",
-     "desc_en": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Harvey는 GPT-6 Astra로 법적 맥락을 더 강력한 초안으로 바꿉니다.",
-     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-     "at": "2026-09-23 21:00",
-     "desc": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다.",
-     "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-     "desc_en": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "Gemini 3.8 text-to-speech says hello",
-     "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-     "at": "2026-09-24 00:25",
-     "desc": "",
-     "title_en": "Gemini 3.8 text-to-speech says hello"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI, 민간 방어를 위해 우크라이나에 대한 사이버 액세스 확대",
-     "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-     "at": "2026-09-23 22:00",
-     "desc": "OpenAI는 민간 인프라의 사이버 방어를 지원하기 위해 우크라이나 정부로 Daybreak 프로그램에 대한 액세스를 확대하고 있습니다.",
-     "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
-     "desc_en": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "샘 알트먼의 유엔 안전보장이사회 연설",
-     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-     "at": "2026-09-23 21:00",
-     "desc": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 이 유엔 안전보장이사회 연설에서 AI 안전, 인간 통제 및 국제 협력에 대해 논의합니다.",
-     "title_en": "Sam Altman’s remarks at the United Nations Security Council",
-     "desc_en": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215634",
-     "at": "2026-09-25 04:26",
-     "desc": "딥시크가 대규모 AI 에이전트 학습 과정에서 수많은 실행 환경을 효율적으로 관리하고 에이전트의 예기치 않은 돌발 행동을 차단하기 위한 전용 인프라 기술을 공개했다.량원펑 딥시크 창립자를 포함한 연구진은 19일 대규모 에이전트 학습을 위해 설계된 샌드박스 플랫폼 ‘딥시크 엘라스틱 컴퓨트(DSec·DeepSeek Elastic Compute)’를 온라인…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215638",
-     "at": "2026-09-25 04:54",
-     "desc": "앤트로픽이 최신 AI 모델의 성능을 끌어내기 위한 프롬프트 작성과 작업 관리 전략을 제시했다. 단순히 모델에 더 많이 생각하라고 요구하기보다 작업의 목표와 완료 조건을 명확히 제시하고, 장시간 작업에서는 진행 상황을 체계적으로 관리하는 것이 중요하다는 설명이다. 앤트로픽은 23일(현지시간) 최신 AI 모델인 '클로드 오퍼스 5.5(Opus 5.5)'를 더…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215646",
-     "at": "2026-09-25 07:29",
-     "desc": "구글의 차세대 모델 '제미나이 4'의 출시 시점이 당초 예상보다 대폭 앞당겨질 전망이다. 경쟁사들의 공세에 맞서 핵심 모델의 공개 일정을 앞당겨 격차를 줄이고 주도권을 탈환하겠다는 의도다.구글 딥마인드의 수장인 코레이 카부쿠오글루 수석 부사장은 23일(현지시간) 디 인포메이션이 주최한 'AI 어젠다 라이브 서밋' 인터뷰에서 제미나이 4의 개발 현황을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, '제미나이 3.8 플래시 TTS' 공개...'음성 디자인' 패러다임 연다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215636",
-     "at": "2026-09-25 03:54",
-     "desc": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수 있도록 한 것이 특징이다.구글은 23일(현지시간) 제미나이 오디오…"
     }
    ]
   }
