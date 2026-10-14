@@ -1,6 +1,103 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "days": [
+  {
+   "date": "2026-10-14",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "이제 Gemini 4 Argon을 개발자가 사용할 수 있습니다.",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+     "at": "2026-10-14 01:00",
+     "desc": "Google Gemini 4 Argon으로 복잡한 소프트웨어 및 사이버 보안 워크플로우를 구축하세요. Gemini API 개발자 가이드를 확인하고 Google Antigravity 및 Android Studi를 읽어보세요.",
+     "title_en": "Gemini 4 Argon is now available for developers.",
+     "desc_en": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…"
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 4 Argon이 Gemini 앱으로 제공됩니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+     "at": "2026-10-14 01:00",
+     "desc": "Gemini 4 Argon은 Google Gemini 앱에 프론티어 추론 및 에이전트 코딩을 제공합니다. Google AI Pro 및 Ultra 구독자는 이제 Gemini 4 Argon에 액세스할 수 있습니다.",
+     "title_en": "Gemini 4 Argon comes to the Gemini app.",
+     "desc_en": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "책임감 있고 안전하게 쌍둥이자리 4 아르곤 개발",
+     "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+     "at": "2026-10-14 03:00",
+     "desc": "그라데이션 파란색 배경에 커다란 흰색 \"4\" 옆에 있는 쌍둥이자리 4 아르곤 로고",
+     "title_en": "Developing Gemini 4 Argon responsibly and safely",
+     "desc_en": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background"
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "로봇 공학용 쌍둥이자리 4 아르곤",
+     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+     "at": "2026-10-14 01:01",
+     "desc": "",
+     "title_en": "Gemini 4 Argon for Robotics"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "쌍둥이자리 4 아르곤: 가장 어려운 문제를 해결하기 위해 제작됨",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+     "at": "2026-10-14 01:00",
+     "desc": "TBD",
+     "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
+     "desc_en": "TBD"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "힉스필드는 AI 동영상을 1분에서 10분 이상",
+     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+     "at": "2026-10-13 21:00",
+     "desc": "힉스필드는 GPT-6 Astra로 크리에이터에게 더 긴 동영상, GPT-Image-2.5로 정밀한 비주얼, GPT-Live로 음성 영화 제작의 길을 제시합니다.",
+     "title_en": "Higgsfield takes AI video from 1 minute to over 10",
+     "desc_en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "AI 업무 플랫폼 '팔레트 에이전트' 글로벌 출시…\"기획부터 앱 제작까지 통합 지원\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216199",
+     "at": "2026-10-13 22:58",
+     "desc": "AI 플랫폼 전문 팔레트가 23일 AI 에이전트 서비스 '팔레트 에이전트(Palette Agent)'를 글로벌 시장에 공식 출시했다고 밝혔다.글로벌 빅테크 기업들이 AI 에이전트 시장에 잇따라 진출하며 경쟁을 확대하는 가운데, 팔레트는 여러 AI 모델과 업무 도구를 연계하고 사용자가 필요한 앱을 직접 제작할 수 있는 통합 업무 환경을 제시했다. 개별 AI…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216213",
+     "at": "2026-10-14 02:17",
+     "desc": "멀티모달 AI 에이전트 도입이 가속화되는 가운데, 텍스트와 구조화된 데이터 처리에 국한됐던 기존 '의사결정' 모델이 이미지와 오디오, 비디오 등 다양한 입력 정보를 직접 이해하고 판단하는 멀티모달 모델로 빠르게 진화하고 있다.vLLM 시맨틱 라우터(vLLM Semantic Router) 개발팀은 11일(현지시간) 텍스트와 JSON뿐만 아니라 이미지까지…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"책 데이터도 '토큰 단위'로 산다\"...멘탯, AI 학습 도서 검색 서비스 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216215",
+     "at": "2026-10-14 01:30",
+     "desc": "AI 기업이 저작권 걱정 없이 정식 라이선스를 받은 도서 데이터를 손쉽게 찾아 활용할 수 있게 될 전망이다.멘탯(대표 전병욱)은 기업용 AI 학습 도서 검색 서비스 '멘탯 디스커버리'를 출시했다고 13일 밝혔다. AI 기업이 자사 서비스에 맞는 도서 데이터를 검색하고 검토부터 계약까지 진행할 수 있도록 지원한다.주요 기능은 ▲내용 기반 카테고리 분류…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[게시판] KT '모두의 AI' 연내 출시 앞두고 중간 점검 등 단신",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216172",
+     "at": "2026-10-13 02:00",
+     "desc": "■ KT(대표 박윤영)는 서울 광화문빌딩에서 컨소시엄 참여사와 '모두의 AI 커넥트 서밋 2026'을 개최했다고 밝혔다. 업스테이지, 리벨리온, 래블업, 베슬AI, 모티프테크놀로지스, NC AI 등 17개 기업이 참석해 12월 정식 출시 예정인 '모두의 AI'의 개발 현황과 고도화 전략을 논의했다. 컨소시엄은 참여사의 AI 기술을 연계해 검색, 교육,…"
+    }
+   ]
+  },
   {
    "date": "2026-10-13",
    "count": 8,
@@ -1170,104 +1267,6 @@
      "url": "https://news.hada.io/topic?id=34500",
      "at": "2026-09-30 02:37",
      "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-29",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "귀하는 코덱스 원본입니까?",
-     "url": "https://openai.com/form/codex-originals",
-     "at": "2026-09-28 09:00",
-     "desc": "우리는 코덱스를 사용하여 놀라운 일을 하는 건축업자, 땜장이, 연구원 및 제작자의 실제 이야기를 수집하고 있습니다. 코덱스 오리지널의 다음 장에 참여하고 싶다면...",
-     "title_en": "Are you a Codex Original?",
-     "desc_en": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals…"
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 3.8 Flash로 4명의 빌더가 무엇을 만들고 있는지 확인하세요",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
-     "at": "2026-09-29 01:00",
-     "desc": "지구 위성 지도의 두 가지 모습, 공룡 골격 모델, 라벨이 붙은 기계 전송 다이어그램의 분해도를 보여주는 4개의 디지털 3D 시각화 프로젝트의 콜라주…",
-     "title_en": "See what 4 builders are making with Gemini 3.8 Flash",
-     "desc_en": "A collage of four digital 3D visualization projects showing two views of globe satellite maps, a dinosaur skeleton model, and an exploded view of a mechanical transmission diagram with labeled…"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "Future Vision XPRIZE, The Gifted의 우승 트레일러를 시청하세요.",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-     "at": "2026-09-29 04:00",
-     "desc": "Future Vision XPRIZE, The Gifted의 우승 트레일러를 시청하세요.",
-     "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-     "desc_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "쌍둥이자리와 함께 200명의 게스트를 위해 요리하는 3가지 방법",
-     "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
-     "at": "2026-09-29 00:00",
-     "desc": "200명의 게스트를 위한 Edy의 식료품점 유튜브 동영상",
-     "title_en": "3 ways this grocer cooks for 200 guests with Gemini",
-     "desc_en": "How Edy’s Grocer Caters for 200 Guests YouTube video"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Lenfest Institute는 OpenAI 지원을 확대하여 랜드마크 프로그램을 성장시킵니다.",
-     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-     "at": "2026-09-28 16:00",
-     "desc": "OpenAI는 5백만 달러의 자금과 최대 5백만 달러의 소프트웨어 크레딧 및 엔지니어링 지원을 통해 Lenfest AI Collaborative and Fellowship 프로그램을 확장하고 있습니다.",
-     "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-     "desc_en": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Basis는 GPT-6 Astra로 세금 워크북을 2배 빠르게 완료합니다",
-     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-     "at": "2026-09-28 09:00",
-     "desc": "GPT-6 Astra는 GPT-5.6 Sol보다 두 배 빠른 50탭 세금 워크북을 완성했으며, 사용자 의도에 대한 이해가 강화되어 Basis는 실제 사용에 대해 더 자신감을 갖게 되었습니다.",
-     "title_en": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-     "desc_en": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215734",
-     "at": "2026-09-29 16:27",
-     "desc": "앤트로픽이 차세대 모델 라인업의 두 번째 주자인 '클로드 소네트 5.5(Claude Sonnet 5.5)'를 출시했다. 상장(IPO)을 준비 중인 앤트로픽이 기업용 시장에서의 주도권을 확고히 하기 위해 성능은 물론 효율성을 대폭 끌어올린 실용형 모델이라는 점이 특징이다.28일(현지시간) 발표에 따르면, 소네트 5.5는 이전 세대인 '소네트 5' 대비…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, '클로드 소네트 5.5' 출시 임박...오픈AI '데브데이' 견제하나",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215700",
-     "at": "2026-09-28 20:10",
-     "desc": "앤트로픽이 ‘클로드 소네트 5.5(Claude Sonnet 5.5)’의 기습 출시를 준비하고 있다는 정황이 잇따라 나오고 있다. 오픈AI의 개발자 행사 ‘데브데이’를 앞두고 출시 시점을 앞당길 가능성이 제기되면서, 양사의 개발자용 AI 모델 경쟁이 한층 치열해질 전망이다.26일(현지시간) AI 정보 유출 전문 계정 라이라(Lyra)에 따르면, 앤트로픽은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "스캐터랩, 캐릭터챗 '제타' 신규 기능 출시...\"대화 따라 표정·배경 바뀐다\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215708",
-     "at": "2026-09-28 21:57",
-     "desc": "스캐터랩(대표 김종윤·박세웅)은 AI 인터랙티브 엔터테인먼트 플랫폼 '제타'에 새로운 플레이 모드인 '비주얼 노벨 모드'를 출시했다고 28일 밝혔다.비주얼 노벨 모드는 대화 맥락과 스토리에 따라 캐릭터와 배경이 실시간으로 변화하는 플레이 모드다. 캐릭터가 상황에 따라 표정과 행동을 바꾸고, 장소가 전환되면 배경도 함께 바뀐다.여기에 상황에 따라 선택지를…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타, 스마트폰으로 AI 게임 만드는 '호라이즌 크리에이트' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215710",
-     "at": "2026-09-28 21:00",
-     "desc": "메타가 모바일 기반 AI 게임 제작 플랫폼 구축에 박차를 가하고 있다.메타는 지난 24일(현지시간) 열린 '메타 커넥트 2026' 행사에서 스마트폰과 웹 브라우저만으로 비디오 게임을 직접 개발하고 퍼블리싱할 수 있는 AI 기반 게임 제작 도구 '호라이즌 크리에이트'와 '호라이즌 스튜디오'를 공개했다.이번 발표는 기존 가상현실(VR) 헤드셋 중심이었던…"
     }
    ]
   }
