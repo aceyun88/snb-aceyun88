@@ -1,6 +1,104 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "days": [
+  {
+   "date": "2026-10-15",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AMP는 AI 에이전트가 OpenAI 모델에서 코드 이상의 작업을 수행하도록 합니다.",
+     "url": "https://openai.com/index/amp-beyond-coding",
+     "at": "2026-10-14 21:00",
+     "desc": "Amp가 GPT-6 Astra, Ultrafast, GPT-Live-1 및 ChatGPT로 로그인하여 상담원이 할 수 있는 일의 최전선을 어떻게 밀어붙이는지 알아보세요.",
+     "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
+     "desc_en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Third Moment Research가 36시간 이상 10,000명의 상담원을 운영하는 방법",
+     "url": "https://openai.com/index/third-moment-research",
+     "at": "2026-10-14 16:00",
+     "desc": "사이버 보안을 위해 GPT-6 Astra 및 GPT-6.1 SOL, CODEX 및 DAYBREAK를 사용하는 이 AI 연구소는 며칠 동안 집중하고 사용으로 개선하는 에이전트를 구축합니다.",
+     "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
+     "desc_en": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Google DeepMind와 싱가포르 정부가 협력하여 사기 탐지를 위한 정밀 조정된 AI 모델을 구축합니다.",
+     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+     "at": "2026-10-14 11:00",
+     "desc": "Google DeepMind와 GovTech Singapore가 경량 온디바이스 Gemma 모델을 사용하여 클라우드 데이터 유출이 전혀 없는 비공개 채팅에서 대화형 사기를 차단하는 방법을 알아보세요.",
+     "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+     "desc_en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AI에서 EU의 다음 장은 agentic입니다.",
+     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "at": "2026-10-14 09:00",
+     "desc": "새로운 분석은 에이전트 AI 채택이 EU 기업과 중소기업에서 어떻게 성장하고 있는지, 그리고 더 깊은 사용이 더 많은 가치를 창출할 수 있는지를 보여줍니다.",
+     "title_en": "The EU’s next chapter in AI is agentic",
+     "desc_en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "SentinelOne은 악성 소프트웨어 분석을 몇 주에서 몇 시간으로 단축합니다.",
+     "url": "https://openai.com/index/sentinelone",
+     "at": "2026-10-14 21:00",
+     "desc": "OpenAI Daybreak를 통해 SentinelOne은 몇 주에 걸친 악성 소프트웨어 분석을 몇 시간으로 단축하여 더 많은 위협을 조사할 수 있는 역량을 창출합니다.",
+     "title_en": "SentinelOne cuts malware analysis from weeks to hours",
+     "desc_en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "책임감 있고 안전하게 쌍둥이자리 4 아르곤 개발",
+     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+     "at": "2026-10-14 04:43",
+     "desc": "",
+     "title_en": "Developing Gemini 4 Argon responsibly and safely"
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "쌍둥이자리 4 아르곤: 가장 어려운 문제를 해결하기 위해 제작됨",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+     "at": "2026-10-14 01:01",
+     "desc": "",
+     "title_en": "Gemini 4 Argon: Built to solve your hardest problems"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽 차기 모델 ‘페이블 5.5’ 흔적 포착...\"이번 주 출시 예상\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216251",
+     "at": "2026-10-14 23:31",
+     "desc": "앤트로픽이 기존 서비스를 통해 차세대 AI 모델을 테스트 중이라는 관측이 나온 데 이어, 애저(Azure) 관련 설정에서 ‘클로드 페이블 5.5’의 흔적이 발견됐다는 소식이 전해졌다. 다만 앞서 테스트 중인 것으로 거론된 모델과 같은 모델인지, 실제 출시가 임박했는지는 확인되지 않았다.테스팅카탈로그는 13일(현지시간) X를 통해 애저 설정에서 클로드…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시...벤치마크서 '페이블 5' 제치고 1위",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216260",
+     "at": "2026-10-15 02:12",
+     "desc": "중국 Z.ai(지푸 AI)가 법률 문서 분석부터 최종 결과물 작성까지 수행하도록 설계한 특화 모델을 선보였다. 법률 에이전트 성능 평가에서 앤트로픽의 '클로드 페이블 5'와 문샷 AI의 '키미 K3'를 앞서는 성적을 거뒀다. Z.ai는 12일 계약 검토와 증거 분석, 규정 준수 조사 등 법률 실무에 특화한 AI 모델 'GLM-리걸(GLM-Legal)'을…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216219",
+     "at": "2026-10-14 23:32",
+     "desc": "정부 예산으로 구축한 AI 학습용 데이터의 공개가 의무화되고, 공공·민간에 흩어진 데이터를 한곳에서 검색할 수 있는 법적 기반이 마련된다.과학기술정보통신부(장관 배경훈)는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 AI 기본법 및 데이터산업법 개정안이 국무회의를 통과했다고 14일 밝혔다.AI 기본법 개정안은 정부 사업 등에서 구축된 AI 학습용…"
+    }
+   ]
+  },
   {
    "date": "2026-10-14",
    "count": 10,
@@ -1172,100 +1270,6 @@
      "title": "Traycer - 여러 코딩 에이전트의 문맥과 협업을 한곳에서 관리",
      "url": "https://news.hada.io/topic?id=34575",
      "at": "2026-10-01 09:30",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-09-30",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "점 소개",
-     "url": "https://openai.com/index/introducing-dots",
-     "at": "2026-09-29 09:00",
-     "desc": "DOTS by OpenAI는 복잡한 프로젝트와 일상적인 작업에서 계속 작업할 수 있는 능동적인 어시스턴트입니다. 업무가 진행되는 동안 점들이 어떻게 통제력을 유지하는 데 도움이 되는지 알아보세요.",
-     "title_en": "Introducing dots",
-     "desc_en": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT-6.1 SOL 소개",
-     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-     "at": "2026-09-29 19:00",
-     "desc": "GPT-6.1 SOL 소개: Astra 표준 API 입력 및 출력 토큰 가격의 1/5에서 코딩, 컴퓨터 사용 및 전문 작업을 위한 Near-Astra 인텔리전스.",
-     "title_en": "Introducing GPT-6.1 Sol",
-     "desc_en": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "DevDay 2026 요약",
-     "url": "https://openai.com/index/devday-2026-recap",
-     "at": "2026-09-29 19:00",
-     "desc": "GPT-6 Astra, ChatGPT, Codex, API, 보안 및 빌더를 위한 새로운 도구를 포함하여 OpenAI DevDay 2026의 20개 이상의 발표를 살펴보세요.",
-     "title_en": "DevDay 2026 Recap",
-     "desc_en": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "프론티어 AI 훈련을 위한 안전 사례를 향하여",
-     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-     "at": "2026-09-29 04:00",
-     "desc": "프론티어 AI 교육의 안전 사례에 대한 당사의 초기 지침은 기술적 보호 조치, 운영 관행 및 정렬 불량 사고 조사를 다룹니다.",
-     "title_en": "Towards safety cases for frontier AI training",
-     "desc_en": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "마누스, '2.0 버전'·'큐' 공개...전문 작업·일상 업무로 영역 확장",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215767",
-     "at": "2026-09-30 01:55",
-     "desc": "마누스가 전문 디지털 작업과 일상 업무를 아우르는 차세대 에이전트 라인업을 공개하고 시장 공략에 나섰다.마누스는 28일 차세대 다목적 AI 에이전트 '마누스 2.0'과 개인용 에이전트 생성·배포 앱 '큐(Cue)'를 출시했다고 밝혔다. 이번 발표는 단순한 모델 업그레이드를 넘어 새로운 에이전트 아키텍처와 제품군을 선보이는 대규모 개편이다.마누스 2.0은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "엔비디아, 에이전트 '보안 플랫폼' 공개...\"허깅페이스 사태 막을 수 있어\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215739",
-     "at": "2026-09-29 21:32",
-     "desc": "엔비디아가 AI 에이전트의 허가받지 않은 시스템 접근이나 보안 통제 우회를 막기 위한 소프트웨어 플랫폼을 출시했다. AI 에이전트가 자율적으로 수행하는 업무가 늘면서 모델 자체에만 안전을 맡기는 방식의 한계를 보완하려는 움직임이다.엔비디아는 28일(현지시간) AI 에이전트의 테스트부터 배포까지 보안과 통제를 강화하는 ‘오픈 에이전트 세이프티…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215778",
-     "at": "2026-09-30 14:54",
-     "desc": "오픈AI가 최상위 플래그십 모델 성능에 근접하면서도 비용을 획기적으로 낮춘 업그레이드 모델 'GPT-6.1 솔(Sol)'을 출시했다.샘 알트먼 오픈AI CEO는 29일(현지시간) 샌프란시스코에서 열린 '데브데이 2026' 행사를 통해 새로운 모델을 공개했다.GPT-6.1 솔은 개발자와 기업 사용자를 겨냥해 에이전트 기반 코딩, 복잡한 문서 분석, 컴퓨터…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "일레븐랩스, 감정 표현·지연 시간 혁신한 '일레븐 v4' 공개…TTS 아레나 1위",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215762",
-     "at": "2026-09-30 02:03",
-     "desc": "일레븐랩스가 감정 표현력과 실시간 처리 성능을 강화한 차세대 음성 생성 모델을 공개했다.일레븐랩스는 28일(현지시간) 감정 표현과 음성 복제 성능을 높이고 실시간 대화에 필요한 지연 시간을 줄인 음성 생성 모델 '일레븐 v4'와 '일레븐 v4 터보'를 공개했다. 두 모델은 대폭 개편된 아키텍처를 기반으로 개발됐다. 기존 텍스트 음성 변환 모델이 주어진…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
-     "url": "https://news.hada.io/topic?id=34501",
-     "at": "2026-09-30 03:40",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenAI, GPT-6.1 Sol 공개",
-     "url": "https://news.hada.io/topic?id=34500",
-     "at": "2026-09-30 02:37",
      "desc": ""
     }
    ]
