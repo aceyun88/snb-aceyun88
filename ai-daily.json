@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "days": [
+  {
+   "date": "2026-10-17",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "상담원용 스택 오버플로는 ChatGPT 플러그인으로 가입을 세 배로 늘립니다.",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "at": "2026-10-16 09:00",
+     "desc": "두 명의 엔지니어가 코덱스와 함께 몇 주 만에 에이전트용 스택 오버플로를 제공했으며, ChatGPT 플러그인은 에이전트 생성에서 최대 10배의 성장을 도왔습니다.",
+     "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "desc_en": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Itaú가 전체 고객 기반을 위한 생성적 AI를 구축하는 방법",
+     "url": "https://openai.com/index/itau-generative-ai",
+     "at": "2026-10-17 04:00",
+     "desc": "대화형 인터페이스인 ia.i와 Iara 거버넌스 플랫폼을 통해 Itaú는 브라질에서 가장 규제된 분야 중 하나인 고객과 직원에게 AI First 전략을 적용하고 있습니다.",
+     "title_en": "How Itaú is building generative AI for its entire customer base",
+     "desc_en": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+     "at": "2026-10-17 03:08",
+     "desc": "마이크로소프트(MS)가 2조8000억개의 매개변수를 갖춘 대규모 AI 모델 'MAI-베이스-2(MAI-Base-2)'의 사전 학습 완료를 발표했다. 정식 출시 전 무스타파 술레이먼 MS AI CEO까지 나서 개발 성과를 강조하면서, 오픈AI 등 외부 모델에 대한 의존도를 낮출 독자적인 개발 역량을 부각하려는 행보로 풀이된다.MS는 15일(현지시간) 자체…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216341",
+     "at": "2026-10-17 02:19",
+     "desc": "트웰브랩스(대표 이재성)는 개발 지식이 없는 일반 사용자도 쉽게 영상을 편집할 수 있도록 돕는 영상 이해 AI 에이전트 '자키'를 출시했다고 16일 밝혔다.자키는 자체 파운데이션 모델에 임베딩과 메타데이터 생성 기술 등을 적용해 사용자가 말로 요청하면 영상 속 원하는 장면을 찾아 필요한 작업을 수행하는 것이 특징이다.긴 원본 영상 속 하이라이트 장면으로…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216322",
+     "at": "2026-10-16 21:09",
+     "desc": "엔비디아가 기업용 AI 에이전트 시장을 겨냥해 멀티모달 추론 성능과 처리 효율을 강화한 오픈웨이트 모델을 선보였다. 다양한 형태의 정보를 분석하고 복잡한 업무를 수행할 수 있도록 설계해 기업의 AI 도입 비용과 처리 시간을 줄이는 데 초점을 맞췄다.엔비디아는 15일(현지시간) 공식 블로그를 통해 문서와 차트, 표, 이미지, 비디오를 통합적으로 이해하고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "마인드로직, 대학·공공 넘어 개인사용자 겨냥 AI 플랫폼 '베이즈' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216285",
+     "at": "2026-10-16 01:02",
+     "desc": "대학·공공기관 중심 멀티모델 AI 플랫폼 사업을 펼쳐 온 AI 스타트업 마인드로직(대표 김용우·김진욱)이 일반 개인사용자(B2C) 시장으로 사업 영역을 넓힌다.마인드로직은 15일 개인 사용자용 AI 플랫폼 '베이즈(BAZE)'를 출시했다고 밝혔다.마인드로직은 그동안 AI 플랫폼 '팩트챗(FactChat)'을 대학·공공기관·기업에 공급하며 입지를 다져…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Self-Evolving Agent Harness - 모델은 그대로, 하네스(프롬프트·기억·도구)를 스스로 고치는 에이전트",
+     "url": "https://news.hada.io/topic?id=35463",
+     "at": "2026-10-16 14:04",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "코딩 에이전트 하네스는 돈값을 할까?",
+     "url": "https://news.hada.io/topic?id=35449",
+     "at": "2026-10-16 10:01",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "마케팅 엔지니어: AI 에이전트로 100배 더 많은 실험하기",
+     "url": "https://news.hada.io/topic?id=35448",
+     "at": "2026-10-16 09:41",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Krea 3 - 필요한 부분만 바꾸는 고속 이미지 편집 모델",
+     "url": "https://news.hada.io/topic?id=35433",
+     "at": "2026-10-16 04:40",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-16",
    "count": 9,
@@ -1161,101 +1251,6 @@
      "title": "Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스",
      "url": "https://news.hada.io/topic?id=34641",
      "at": "2026-10-02 07:35",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-02",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "DEN은 ChatGPT 작업으로 성장하기 위해 일주일에 10-15시간을 확보합니다.",
-     "url": "https://openai.com/index/the-den-family-social",
-     "at": "2026-10-01 09:00",
-     "desc": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다.",
-     "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-     "desc_en": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "영원한 보완",
-     "url": "https://openai.com/index/the-eternal-complement",
-     "at": "2026-10-02 02:00",
-     "desc": "고급 AI는 획기적인 아이디어 이면에 있는 일상적인 작업에 가장 중요할 수 있습니다. 실행이 다음 경제와 진전 속도를 형성할 수 있는 이유를 알아보세요.",
-     "title_en": "The eternal complement",
-     "desc_en": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Albertsons Companies가 내부에서 소매를 재창조하는 방법",
-     "url": "https://openai.com/index/albertsons-reimagining-retail",
-     "at": "2026-10-02 01:00",
-     "desc": "Albertsons Cos. 는 ChatGPT Enterprise와 OpenAI API를 사용하여 팀이 더 빠르게 작업하고 수백만 명의 고객이 식료품 쇼핑을 더 쉽게 할 수 있도록 지원합니다.",
-     "title_en": "How Albertsons Companies is reimagining retail from the inside out",
-     "desc_en": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "쌍둥이자리 라이브 가이드 비전: 접근성 강화",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
-     "at": "2026-10-02 01:00",
-     "desc": "\"가이드 비전\" 을 읽는 양식화된 히어로 이미지",
-     "title_en": "Guided Vision in Gemini Live: built for accessibility",
-     "desc_en": "stylized hero image reading \"Guided Vision\""
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "쌍둥이자리 4 아르곤: 차세대 프론티어 인텔리전스 시대",
-     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-     "at": "2026-10-01 05:01",
-     "desc": "",
-     "title_en": "Gemini 4 Argon: our next era of frontier intelligence"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈클로, 기업용 AI 에이전트 제어 플랫폼 'OCE' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-     "at": "2026-10-02 03:21",
-     "desc": "오픈소스 AI 에이전트 오픈클로(OpenClaw)가 기업 환경에서 지속형 AI 에이전트를 안전하게 운영할 수 있도록 지원하는 기업용 제어 플랫폼을 공개했다.오픈클로는 29일(현지시간) 보안과 권한 관리, 감사, 인프라 통제를 기업이 중앙에서 관리할 수 있도록 설계된 ‘오픈클로 엔터프라이즈(OCE)’를 공개했다.MIT 라이선스로 무료 제공되며, 깃허브에서…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "인셉션, 음성 에이전트 ‘머큐리 보이스’ 출시…'확산 모델'로 지연시간 한계 깼다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215864",
-     "at": "2026-10-02 03:14",
-     "desc": "AI 음성 에이전트 시장에서 반응 속도와 지능을 동시에 확보하려는 시도가 이어지는 가운데, 확산(Diffusion) 기반 언어모델(dLLM)을 개발해 온 인셉션(Inception)이 음성 전용 모델을 내놓았다. 기존 자율주행·이미지 생성 등에 주로 쓰이던 확산 방식을 언어와 음성 영역으로 확장해 기존 모델의 한계를 극복하겠다는 취지다.인셉션은 2026년…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"촬영 즉시 AI 데이터 변환\"...한국딥러닝, '딥 에이전트' 모바일 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215837",
-     "at": "2026-10-01 21:27",
-     "desc": "현장에서 스마트폰 카메라로 찍은 자료를 실시간 추출·구조화해 문서 입력 업무 효율을 극대화한 기술이 등장했다.한국딥러닝(대표 김지현)은 문서 전용 AI '딥 에이전트'의 모바일 버전을 출시했다고 1일 밝혔다.딥 에이전트는 자체 광학문자인식(OCR)과 데이터 파서(Data Parser) 기술로 문서와 이미지에서 필요한 정보를 추출·구조화하는 솔루션이다.…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리퀴드 AI, 의사결정 모델 ‘d1’ 출시...\"기존 1위 제브 제쳤다\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215799",
-     "at": "2026-10-01 02:58",
-     "desc": "리퀴드 AI가 최근 ‘제브(jev)’를 중심으로 폭발적인 관심을 모으는 '의사결정' 모델을 내놓았다. 정해진 선택지 가운데 어떤 결과가 나올 가능성이 높은지를 빠르게 계산해 기업의 반복적인 판단 업무를 자동화하는 데 초점을 맞췄다.리퀴드 AI는 29일(현지시간) 텍스트를 생성하는 대신 미리 정해진 선택지에 대한 확률을 계산하는 AI 모델 ‘d1’을…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Google, Gemini 4 Argon 발표",
-     "url": "https://news.hada.io/topic?id=34563",
-     "at": "2026-10-01 05:37",
      "desc": ""
     }
    ]
