@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "days": [
+  {
+   "date": "2026-10-18",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+     "at": "2026-10-18 03:06",
+     "desc": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216332",
+     "at": "2026-10-17 02:49",
+     "desc": "아마존이 일상 대화를 기억하고 요약해 할 일과 일정까지 정리해 주는 개인용 AI 기기 2종을 공개했다. 손목에 착용하거나 옷에 부착하는 웨어러블 기기와 스마트폰 뒷면에 자석으로 붙이는 소형 기기로, 사용자가 대화 내용을 일일이 기록하지 않아도 중요한 정보를 기억하고 필요한 작업으로 연결해 주는 것이 특징이다.아마존은 15일(현지시간) 개인용 AI 브랜드…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"한국어 억양 더 자연스럽게\"...오픈AI, '챗GPT 보이스' 업데이트",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216324",
+     "at": "2026-10-16 23:33",
+     "desc": "챗GPT의 한국어 음성 대화가 더 자연스러워진다.오픈AI는 챗GPT의 음성 대화 기능인 '보이스'를 업데이트했다고 16일 밝혔다. 업데이트 지원 모델 ‘GPT-라이브-1.1’은 여러 언어의 억양과 음성 표현을 개선했으며, 한국어 대화도 한층 자연스럽게 구현했다.한국어 목소리로는 남성 '한울'과 여성 '햇살'이 추가돼 이용자는 원하는 목소리를 선택해 대화할…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216350",
+     "at": "2026-10-17 03:00",
+     "desc": "세르게이 브린 구글 공동 창립자가 제미나이 모델이 후속 모델 개발을 돕는 비중이 커지고 있다며, 구글이 ‘재귀적 자기개선(RSI)’ 단계에 들어서기 시작했다고 밝혔다. 내부 개발 속도가 빨라져 새 모델 소개 영상이 공개될 때면 이미 몇 개의 후속 모델을 더 개발한 상태일 것이라고도 말했다.브린 창립자는 14일(현지시간) 공개된 신형 모델 ‘제미나이 4…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
+     "url": "https://news.hada.io/topic?id=35531",
+     "at": "2026-10-18 01:33",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Code 팀의 코드 리뷰 방식",
+     "url": "https://news.hada.io/topic?id=35495",
+     "at": "2026-10-17 07:36",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Linus Torvalds “AI 사용을 금지하지 않겠다. 자신이 하는 일을 이해해야 한다”",
+     "url": "https://news.hada.io/topic?id=35504",
+     "at": "2026-10-17 09:05",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude, 25년간 풀리지 않았던 NIST 타원곡선 암호 시드의 출처 규명",
+     "url": "https://news.hada.io/topic?id=35489",
+     "at": "2026-10-17 05:39",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-17",
    "count": 10,
@@ -1159,98 +1229,6 @@
      "title": "ChatGPT Sites - 대화로 웹사이트와 앱을 만들고 게시하기",
      "url": "https://news.hada.io/topic?id=34681",
      "at": "2026-10-03 05:41",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-03",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "2026년 9월에 발표한 최신 AI 뉴스",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-     "at": "2026-10-03 00:00",
-     "desc": "9월 AI 업데이트를 보여주는 동영상",
-     "title_en": "The latest AI news we announced in September 2026",
-     "desc_en": "A video showing the September AI updates"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT-6 제품군을 위한 모델 가이드",
-     "url": "https://openai.com/index/practical-guide-building-gpt-6",
-     "at": "2026-10-03 01:15",
-     "desc": "신생 기업이 GPT-6 모델을 선택하고, 추론 노력을 조정하고, 프롬프트와 기술을 개선하고, 도구를 조정하고, 생산을 위한 워크플로를 준비하는 방법을 알아보세요.",
-     "title_en": "A model guide for the GPT-6 family",
-     "desc_en": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Chatham은 OpenAI로 자본 시장 전문성을 확장합니다",
-     "url": "https://openai.com/index/chatham-financial",
-     "at": "2026-10-02 09:00",
-     "desc": "채텀 파이낸셜은 코덱스와 GPT-5.6을 사용하여 기술을 구축하고 워크플로우를 재설계하여 거래 유효성 검사를 30분에서 4분 미만으로 줄입니다.",
-     "title_en": "Chatham scales its capital markets expertise with OpenAI",
-     "desc_en": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215887",
-     "at": "2026-10-03 03:16",
-     "desc": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
-     "at": "2026-10-03 02:08",
-     "desc": "‘제브’로 인해 판단 전용 AI 붐이 일어난 가운데, 업스테이지도 ‘솔라 미니 4’를 기반 모델로 ‘솔라 디사이드(Solar Decide)’를 공개했다.김성훈 업스테이지 대표는 오픈라우터 플랫폼을 통해 판단만 해주는 AI ‘솔라 디사이드’를 출시했다고 2일 밝혔다.업스테이지 관계자는 “제브처럼 구조적 의사결정(structured decision)을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215849",
-     "at": "2026-10-02 02:15",
-     "desc": "플랫폼과 서비스에 AI 도입 경쟁이 심화하는 가운데, 네이버 웨일이 'AI 브라우저'로 본격 탈바꿈한다. 탄탄한 기반 사용자층을 중심으로 편의성을 극대화하는 데 초점을 맞췄다. 네이버(대표 최수연)는 웨일 브라우저에 ‘AI 챗’ 기능을 정식 출시했다고 1일 밝혔다. 기반 모델은 비공개다.최근 AI와 서비스의 결합이 증가하면서 단순히 'AI 검색 엔진'을…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Pi 1.0 출시 - 미니멀한 터미널 코딩 에이전트",
-     "url": "https://news.hada.io/topic?id=34632",
-     "at": "2026-10-02 05:38",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215902",
-     "at": "2026-10-03 03:06",
-     "desc": "AI가 생명과학 연구에 활용되면서 기존에 없던 단백질과 유전체를 설계하는 기술도 빠르게 발전하고 있다. 하지만 AI가 만든 생물학적 설계가 실제 실험과 데이터베이스에 활용되면서 그 출처를 확인하고 추적하는 새로운 과제도 등장했다. 구글 딥마인드는 30일(현지시간) AI로 설계한 단백질을 식별하고 추적할 수 있는 생물학 전용 워터마킹 기술 ‘신스ID…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI-Infra-Guard - AI 인프라와 에이전트를 점검하는 오픈소스 레드팀 플랫폼",
-     "url": "https://news.hada.io/topic?id=34645",
-     "at": "2026-10-02 09:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Pi Durable - 중단된 작업을 이어가는 AI 에이전트 하네스",
-     "url": "https://news.hada.io/topic?id=34641",
-     "at": "2026-10-02 07:35",
      "desc": ""
     }
    ]
