@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "days": [
+  {
+   "date": "2026-10-21",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "소규모 비즈니스 소유자를 위한 새로운 Gemini 도구",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+     "at": "2026-10-21 01:00",
+     "desc": "\"나만의 브랜드, 나만의 도구를 한 곳에서\" \"나만의 브랜드를 위한 이미지 스타일 만들기\", \"앱과 기술로 쌍둥이자리 맞춤 설정하기\", \"...",
+     "title_en": "New Gemini tools for small business owners",
+     "desc_en": "\"Your brand, your tools, all in one place\" banner featuring three feature highlights: \"Create image styles for your brand,\" \"Customize Gemini with apps and skills,\" and \"Create content with…"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "프랜차이즈 가맹점은 ChatGPT Work로 시간을 94% 단축하여 현금을 조율합니다.",
+     "url": "https://openai.com/index/ted-taylor-restaurant",
+     "at": "2026-10-20 19:00",
+     "desc": "독립적 인 Schlotzsky와 Cinnabon 프랜차이즈 가맹점은 메뉴 재 책정 시간을 95% 줄이고 $ 100,000의 현금 흐름을 확보 할 수있는 워크 플로우를 구축했습니다.",
+     "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+     "desc_en": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI, Orchestra Bio 인수",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "at": "2026-10-20 09:00",
+     "desc": "OpenAI는 생명 과학 R&D에 AI 기반 운영을 제공하기 위해 Orchestra Bio를 인수하여 바이오 제약 팀이 신약 개발을 가속화하고 새로운 치료법을 발전시킬 수 있도록 돕고 있습니다.",
+     "title_en": "OpenAI acquires Orchestra Bio",
+     "desc_en": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216427",
+     "at": "2026-10-20 21:23",
+     "desc": "빅웨이브로보틱스(대표 김민교)는 로봇 데이터 수집과 AI 학습, 배포를 한 번에 처리할 수 있는 로봇 AI 개발 플랫폼 '하이퍼 파운드리'를 출시했다고 20일 밝혔다.이 제품은 로봇에서 생성된 데이터를 AI 학습에 활용하고, 학습된 모델을 다시 로봇 행동으로 구현하는 엔드투엔드 플랫폼이다. 로봇과 GPU 서버, 학습 환경을 별도 구축해야 했던 기존 개발…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216450",
+     "at": "2026-10-21 02:44",
+     "desc": "미국의 스카이폴 AI(Skyfall AI)가 복잡한 물리적 제품의 설계를 자동화하는 월드모델 ‘스카이-001(SKY-001)’을 공개했다. 아이디어나 2D 스케치를 입력하면 설계 구조를 계층적으로 나누고, 컴퓨터 지원 설계(CAD)와 건축정보모델링(BIM) 소프트웨어에서 실제로 구현할 수 있는 단계별 제작 계획을 생성하는 모델이다.스카이폴 AI는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216434",
+     "at": "2026-10-21 01:07",
+     "desc": "아마존이 AI 개발자가 기존 코드를 거의 수정하지 않고 자사 AI 칩에서 실행할 수 있도록 지원하는 오픈소스 소프트웨어 '토치뉴런(TorchNeuron)'을 공개했다. AI 개발에 널리 쓰이는 파이토치(PyTorch)와 자체 AI 칩 트레이니움(Trainium)을 연결해 개발자의 하드웨어 선택 폭을 넓히겠다는 전략이다.아마존웹서비스(AWS)는…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Timestral - Mistral이 공개한 시계열 파운데이션 모델",
+     "url": "https://news.hada.io/topic?id=35642",
+     "at": "2026-10-19 22:35",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "목포, 행정업무에 생성 AI 도입…LLM 11종 활용",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216433",
+     "at": "2026-10-20 23:58",
+     "desc": "AI 생성 영상목포시가 생성 AI를 행정업무에 도입하고 다국어 누리집 서비스에도 활용한다.목포는 지난 16일부터 전 직원을 대상으로 ‘생성형 AI 업무지원 플랫폼’ 운영을 시작했다고 20일 밝혔다.플랫폼은 챗GPT와 제미나이, 클로드 등 대형언어모델(LLM) 11종을 행정망에서 활용할 수 있도록 구축됐다. 새올행정시스템과 통합인증(SSO) 방식으로 연동해…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+     "url": "https://news.hada.io/topic?id=35657",
+     "at": "2026-10-20 04:33",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+     "url": "https://news.hada.io/topic?id=35651",
+     "at": "2026-10-20 02:44",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-20",
    "count": 10,
@@ -1167,96 +1259,6 @@
      "title": "Show GN: Agent HUD - Claude Code 플러그인과 스킬을 프로젝트별로 켜고 끄는 대시보드",
      "url": "https://news.hada.io/topic?id=34878",
      "at": "2026-10-06 15:56",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-06",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "EU 텍스트 출처 규칙에 대한 당사의 접근 방식",
-     "url": "https://openai.com/index/eu-text-provenance",
-     "at": "2026-10-06 00:00",
-     "desc": "OpenAI가 EU 규칙에 따라 텍스트 워터마킹에 접근하는 방법. 워터마크가 적용되는 위치, 탐지 방법, 연구자로부터 액세스가 시작되는 이유에 대해 알아보세요.",
-     "title_en": "Our approach to EU text provenance rules",
-     "desc_en": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "사람들이 AI를 사용하는 방식에 대한 광고 구축",
-     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-     "at": "2026-10-05 19:00",
-     "desc": "OpenAI는 ChatGPT에 새로운 시각적 광고 형식을 도입하고 측정 도구, 어트리뷰션 파트너십 및 광고주에 대한 브랜드 적합성을 확장합니다.",
-     "title_en": "Building advertising for the way people use AI",
-     "desc_en": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, 10월6일까지 '음성 인터뷰어' 가동…대화록 공개·음성 학습 수집 결합",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215978",
-     "at": "2026-10-06 05:20",
-     "desc": "앤트로픽이 지난 9월29일 공식 연구 발표를 시작으로, 대화형 AI 연구 도구인 '앤트로픽 인터뷰어(Anthropic Interviewer)'를 일반 클로드 및 클로드 코드 사용자 대상으로 전면 가동하며 대규모 질적 연구에 나섰다.앤트로픽 인터뷰어는 연구진의 질문 프레임워크를 바탕으로 능동적인 인터뷰를 수행하는 연구 에이전트로, 지난 2025년 12월…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "MIT·사카나, 자가 진화 AI 에이전트 'SIFT' 발표...'검증 비용 병목' 해결",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215967",
-     "at": "2026-10-06 02:33",
-     "desc": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "챗GPT서 옷 입어보고 쇼핑한다... 오픈AI, '가상 착용' 도입",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215969",
-     "at": "2026-10-06 01:10",
-     "desc": "'챗GPT'에 온라인 쇼핑 과정에서 상품을 찾는 것을 넘어 실제로 입어본 모습을 확인하고 마음에 드는 상품을 저장할 수 있는 기능이 추가됐다. 오픈AI는 1일(현지시간) 챗GPT에 의류와 액세서리를 가상으로 착용해 볼 수 있는 ‘가상 착용(Try On)’ 기능과 관심 상품을 저장할 수 있는 ‘즐겨찾기(Favorites)’ 기능을 전 세계에 출시했다고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215977",
-     "at": "2026-10-06 04:48",
-     "desc": "뇌-컴퓨터 인터페이스(BCI) 전문 뉴럴링크가 레이블이 지정되지 않은 5만시간 분량의 원시 신경 데이터로 디코딩 AI 모델을 사전학습하는 데 성공했다. 자연어 처리와 컴퓨터 비전 분야를 혁신했던 대규모 자기지도 학습 방식을 BCI 디코딩 체계에 본격 도입한 것으로 평가받는다.뉴럴링크는 1일(현지시간) 자사의 BCI 플랫폼을 뒷받침하는 AI 훈련 기술…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
-     "url": "https://news.hada.io/topic?id=34854",
-     "at": "2026-10-06 09:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Wikimedia에서 OpenAI의 ‘통제를 벗어난’ 에이전트 활동 발견",
-     "url": "https://news.hada.io/topic?id=34835",
-     "at": "2026-10-06 04:42",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 네이티브 SDLC - 개발 전 과정을 에이전트에 맞게 재설계하기",
-     "url": "https://news.hada.io/topic?id=34792",
-     "at": "2026-10-05 09:55",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Put-That-There - 1980년 MIT 음성·포인팅 데모를 브라우저에서 재현",
-     "url": "https://news.hada.io/topic?id=34863",
-     "at": "2026-10-06 10:36",
      "desc": ""
     }
    ]
