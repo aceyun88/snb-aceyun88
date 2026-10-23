@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "days": [
+  {
+   "date": "2026-10-23",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Uber는 OpenAI를 통해 모든 직원에게 ChatGPT Work를 제공합니다.",
+     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+     "at": "2026-10-22 09:00",
+     "desc": "Uber는 30,000명 이상의 직원을 대상으로 ChatGPT Work를 도입하여 팀이 데이터를 조사, 분석하고 프레젠테이션을 만들고 복잡한 워크플로를 완료할 수 있도록 지원합니다.",
+     "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
+     "desc_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "일관된 표준을 통한 폭넓은 액세스",
+     "url": "https://openai.com/index/broad-access-through-consistent-standards",
+     "at": "2026-10-22 06:00",
+     "desc": "OpenAI가 배포 파트너와 협력하여 일관된 보호 조치를 유지하고, 책임감 있는 액세스를 지원하며, 사용 정책에서 기대치를 명확히 하는 방법.",
+     "title_en": "Broad access through consistent standards",
+     "desc_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216528",
+     "at": "2026-10-23 02:40",
+     "desc": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 '플로라(Flora)'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216536",
+     "at": "2026-10-23 00:15",
+     "desc": "세계 최대 유통업체 월마트가 AI 에이전트의 대리 구매를 지원하는 전용 플랫폼을 공개했다. 외부 AI의 쇼핑을 허용하는 데서 나아가 구매 권한과 지출 한도, 반품 규칙까지 마련하며 에이전트 쇼핑이 주요 구매 방식으로 자리 잡을 것에 대비하고 있다.월마트는 21일(현지시간) 공식 발표를 통해 ‘월마트 에이전트 게이트웨이’와 ‘에이전트 프로필’을 도입한다고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+     "at": "2026-10-23 02:48",
+     "desc": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+     "at": "2026-10-23 02:30",
+     "desc": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
+     "url": "https://news.hada.io/topic?id=35775",
+     "at": "2026-10-22 07:46",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
+     "url": "https://news.hada.io/topic?id=35824",
+     "at": "2026-10-23 01:58",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
+     "url": "https://news.hada.io/topic?id=35785",
+     "at": "2026-10-22 09:10",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
+     "url": "https://news.hada.io/topic?id=35773",
+     "at": "2026-10-22 07:40",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-22",
    "count": 10,
@@ -1168,98 +1258,6 @@
      "title": "Show GN: 더빙메이트 – 유튜브 자막을 내 PC에서 음성으로 읽어 주는 더빙 앱",
      "url": "https://news.hada.io/topic?id=35036",
      "at": "2026-10-09 08:47",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-08",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "청소년들이 인공지능의 미래를 배우고, 계획하고, 형성할 수 있도록 돕는다.",
-     "url": "https://openai.com/index/teens-learn-and-plan",
-     "at": "2026-10-07 21:00",
-     "desc": "College Planner는 학생들이 새로운 플래시 카드, 퀴즈 및 십대 AI 협의회와 함께 대학 응용 프로그램을 관리하는 데 도움이 되는 청소년용 ChatGPT를 선보입니다.",
-     "title_en": "Helping teens learn, plan, and shape the future of AI",
-     "desc_en": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.",
-     "url": "https://openai.com/index/radisson",
-     "at": "2026-10-07 16:00",
-     "desc": "Radisson은 Accenture와 파트너십을 맺고 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자들이 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 지원했습니다.",
-     "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-     "desc_en": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "모두를 위한 GPT-6 및 지능형 UI",
-     "url": "https://openai.com/index/gpt-6-for-everyone",
-     "at": "2026-10-07 09:00",
-     "desc": "GPT ‑ 6은 지능형 UI를 갖춘 ChatGPT에서 전 세계적으로 출시되어 직접 탐색하고 사용할 수 있는 비주얼 및 대화형 경험을 통해 더 빠른 응답을 제공합니다.",
-     "title_en": "GPT-6 and Intelligent UI for everyone",
-     "desc_en": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "미스트랄, 1조 매개변수 ‘라지 4’ 공개...\"사이버 보안·오픈 모델 최상위\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216024",
-     "at": "2026-10-07 23:02",
-     "desc": "프랑스의 미스트랄 AI가 내부 별칭 '르 총크(Le Chonk)'로 불리는 차세대 플래그십 AI 모델을 공개했다. '뚱뚱한 고양이'를 뜻하는 이 별칭은 1조개가 넘는 매개변수를 가진 거대 모델의 규모감을 위트 있게 표현한 것이다.미스트랄은 6일(현지시간) 오픈웨이트 모델 '미스트랄 라지 4(ML4·Mistral Large 4)'를 공개했다.현재는 API를…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
-     "at": "2026-10-08 14:34",
-     "desc": "앤트로픽이 가격을 대폭 내리고 성능을 최고 수준으로 끌어올린 소형 모델 '클로드 하이쿠 5.5(Claude Haiku 5.5)'를 출시했다. 기업공개(IPO)를 앞두고 AI 라인업을 대대적으로 확장하는 가운데, 경량화·고성능·저비용 모델을 앞세워 기업용 AI 시장 점유율을 대폭 확대하겠다는 전략이다.앤트로픽은 7일(현지시간) 하이쿠 5.5를 공개하며 가장…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "하크, '스마트폰 대체' AI 에이전트 공개...2027년 전용 기기 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216039",
-     "at": "2026-10-08 01:59",
-     "desc": "휴머노이드 로봇 전문 피규어 AI의 브렛 애드콕이 설립한 스마트폰 대체용 AI 하드웨어 스타트업 하크(Hark)가 내년 하드웨어 출시를 앞두고 능동적으로 작업을 수행하는 AI 에이전트 ‘하크 프로(Hark Pro)’를 공개했다. 사용자의 지시를 기다리는 데 그치지 않고 이메일과 일정 등을 바탕으로 해야 할 일을 찾아 직접 처리하는 것이 특징이다.하크는…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"1인칭 영상을 로봇 학습 데이터로\"...트웰브랩스 '페가수스 1.6' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216022",
-     "at": "2026-10-07 23:29",
-     "desc": "트웰브랩스가 엔터테인먼트, 스포츠, 공공 분야에 적용해온 영상 이해 기술을 로봇 등 피지컬 AI 분야로 확대한다.트웰브랩스는 피지컬 AI 학습 데이터 수집에 특화된 비전언어모델(VLM) '페가수스 1.6'을 출시했다고 밝혔다. 페가수스 1.6은 '에고센트릭 데이터(Egocentric Data)' 이해 및 라벨링 자동화가 특징이다.에고센트릭 데이터는 1인칭…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Claude Haiku 5.5 출시 - 평균 실행 비용 75% 절감, Max·Team에 API 크레딧 제공",
-     "url": "https://news.hada.io/topic?id=34958",
-     "at": "2026-10-08 03:43",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenAI, GPT‑6 확대 적용과 더 똑똑한 대화형 UI 도입",
-     "url": "https://news.hada.io/topic?id=34960",
-     "at": "2026-10-08 04:40",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Lemma - 사람과 AI 에이전트가 한 팀으로 일하는 오픈소스 작업 공간",
-     "url": "https://news.hada.io/topic?id=34976",
-     "at": "2026-10-08 09:30",
      "desc": ""
     }
    ]
