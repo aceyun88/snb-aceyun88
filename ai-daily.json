@@ -1,6 +1,100 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "days": [
+  {
+   "date": "2026-10-24",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "프론티어 모델 교육 환경 확보",
+     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+     "at": "2026-10-23 19:00",
+     "desc": "OpenAI는 오프라인 환경 및 고성능 레드팀을 포함하여 프론티어 모델 교육 및 평가를 위한 봉쇄를 강화한 방법을 설명합니다.",
+     "title_en": "Securing our frontier model training environment",
+     "desc_en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장 (파트 II)",
+     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+     "at": "2026-10-24 02:00",
+     "desc": "OpenAI가 안정적인 멀티 테넌시, 글로벌 캐싱 및 Azure Cosmos DB를 통해 Habitat을 확장하여 ChatGPT에 대해 12배 빠른 읽기를 제공하는 방법을 알아보십시오.",
+     "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+     "desc_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 4 Argon으로 5명의 빌더가 만드는 것을 확인하세요",
+     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+     "at": "2026-10-24 01:00",
+     "desc": "쌍둥이자리 4 아르곤으로 5개의 빌드를 보여주는 콜라주",
+     "title_en": "See what 5 builders are making with Gemini 4 Argon",
+     "desc_en": "Collage showing five builds with Gemini 4 Argon"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI와 폴란드의 NASK 파트너, AI 안전 및 보안 강화",
+     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+     "at": "2026-10-23 09:00",
+     "desc": "OpenAI와 폴란드의 NASK는 안전 장치를 강화하고 보다 탄력적인 디지털 생태계를 지원하기 위해 AI 안전, 보안 및 기술 연구를 협력하고 있습니다.",
+     "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+     "desc_en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216591",
+     "at": "2026-10-24 02:36",
+     "desc": "아마존웹서비스(AWS)가 기업이 GPU 인프라를 직접 관리하지 않고도 AI 모델의 학습 과정을 세밀하게 제어할 수 있는 기능을 선보였다. AI가 어떤 방식으로 답변을 생성하고 결과를 평가해 학습할지 개발자가 직접 설계하면, GPU 자원 할당과 학습 실행은 AWS가 맡는 방식이다. 기업별 업무에 특화된 AI 에이전트 개발을 간소화하려는 목적이다.AWS는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[AI 모델 신작] 드림랩스·앤트그룹·일레븐랩스, 로봇·음성 AI 공개 등 8종",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216580",
+     "at": "2026-10-23 23:40",
+     "desc": "■ 드림랩스, 처음 보는 로봇도 조종하는 ‘드림-1’ 공개드림랩스가 별도 추가 학습이나 시범 데이터 없이 새로운 로봇을 제어하는 ‘드림-1(Dream-1)’을 공개했다. 두 팔과 평행 집게를 갖춘 로봇을 API에 연결하면 물건 옮기기와 서랍 닫기 등의 작업을 수행하도록 설계했다. 회사는 학습에 쓰지 않은 로봇과 작업에도 대응하는 ‘월드 액션 모델’이라고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "캔바, 프론티어급 이미지 모델 '크래프트' 공개…디자인 아레나 4위 올라",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216589",
+     "at": "2026-10-24 02:51",
+     "desc": "디자인 플랫폼 캔바(Canva)가 자체 개발한 이미지 생성 모델을 선보였다. 사진을 그럴듯하게 만드는 데 그치지 않고 디자인 구성과 글자 배치까지 이해하도록 설계해, 생성한 이미지를 곧바로 편집 가능한 디자인으로 활용할 수 있도록 하는 것이 특징이다.캔바는 22일(현지시간) 이미지 생성 모델 ‘캔바 크래프트(Canva Craft)’를 공개했다. 모델은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
+     "at": "2026-10-24 03:59",
+     "desc": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간)…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
+     "url": "https://news.hada.io/topic?id=35847",
+     "at": "2026-10-23 10:11",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Codex와 함께 닌텐도 Switch 2 탈옥하기",
+     "url": "https://news.hada.io/topic?id=35815",
+     "at": "2026-10-22 22:38",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-23",
    "count": 10,
@@ -1164,100 +1258,6 @@
      "title": "AI 시대에 SaaS 기업을 피벗하는 방법",
      "url": "https://news.hada.io/topic?id=35041",
      "at": "2026-10-09 10:05",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-09",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "오라클이 ChatGPT 및 CODEX를 통해 업무 시간을 분 단위로 전환하는 방법",
-     "url": "https://openai.com/index/oracle",
-     "at": "2026-10-09 01:00",
-     "desc": "채용, 엔지니어링 및 운영 전반에 걸쳐 오라클은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다.",
-     "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-     "desc_en": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "LegalOn은 개발 속도를 유지하면서 코덱스 비용을 절반으로 줄입니다",
-     "url": "https://openai.com/index/legalon-halves-codex-costs",
-     "at": "2026-10-08 21:00",
-     "desc": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다.",
-     "title_en": "LegalOn halves Codex costs while maintaining development speed",
-     "desc_en": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI로 창의적인 아이디어를 캠페인으로 전환하는 Pollo AI",
-     "url": "https://openai.com/index/pollo-ai",
-     "at": "2026-10-08 21:00",
-     "desc": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다.",
-     "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-     "desc_en": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "AI가 활성화된 \"허위 전선\" 작업 중단",
-     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-     "at": "2026-10-08 09:00",
-     "desc": "OpenAI는 거짓 전선 저널리스트와 씽크탱크를 사용하여 지정학적 메시지를 전파하는 두 가지 AI 지원 영향력 운영을 중단했습니다.",
-     "title_en": "Disrupting AI-enabled “false front” operations",
-     "desc_en": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216073",
-     "at": "2026-10-09 01:52",
-     "desc": "카카오가 AI 모델의 학습 효율을 높이고 모델 크기를 줄이는 경량화 연구 성과를 공개했다.카카오는 언어모델링 국제 학회 'COLM 2026'의 메인 컨퍼런스와 토크나이제이션 워크숍 'TokShop'에서 각각 연구 성과를 발표했다고 8일 밝혔다.메인 컨퍼런스에서 발표한 논문은 대규모 전문가 혼합(MoE) 모델의 사전학습에 필요한 최적 학습률을 전체 학습…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리퀴드 AI, 10배 큰 체급 제친 멀티모달 의사결정 모델 ‘d1-3B’ 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216087",
-     "at": "2026-10-09 01:51",
-     "desc": "리퀴드 AI가 30억개 매개변수 수준의 소형 크기로 10배 이상 큰 대형 모델을 제친 오픈웨이트 멀티모달 의사결정 모델을 공개했다.리퀴드 AI는 7일(현지시간) 의사결정 모델 ‘d1’ 제품군의 새로운 모델인 ‘d1-3B’와 ‘d1-옴니-600M’을 출시했다. 두 모델은 생성 AI처럼 답변을 토큰 단위로 순차 생성하는 대신, 입력 상태를 한 번에 연산해…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "MS, 서피스 랩톱 울트라 출시에 'MAI-코드-1.1' 온디바이스 최적화 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216071",
-     "at": "2026-10-09 01:43",
-     "desc": "마이크로소프트(MS)가 차세대 대표 하드웨어 출시 시점에 맞춰 자사의 최신 코딩 AI 모델을 클라우드가 아닌 사용자 PC에서 직접 실행할 수 있도록 온디바이스 환경을 대폭 강화했다.MS는 7일(현지시간) 엔비디아 RTX 스파크 기반 '서피스 랩톱 울트라' 등 차세대 PC 출시에 발맞추어 코딩 특화 AI 모델 'MAI-코드-1.1…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, ‘나노 바나나 2.1’ 공개...성능 높이고 비용은 반값으로",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216030",
-     "at": "2026-10-08 03:05",
-     "desc": "구글이 이미지 생성 모델 ‘나노 바나나’의 성능과 비용 효율을 동시에 끌어올렸다. 고해상도 이미지의 사실감과 편집 정확도를 높이고 여러 참조 이미지와 캐릭터를 일관되게 처리하면서도 생성 비용은 크게 낮췄다. 구글은 6일(현지시간) 이미지 생성·편집 모델 ‘나노 바나나 2.1(Nano Banana 2.1)’을 공개했다.‘제미나이 3.6 플래시’를 기반으로…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 젠스파크 크레딧 아끼면서 대화 이어가는 스킬 4개 (무료, MIT)",
-     "url": "https://news.hada.io/topic?id=35035",
-     "at": "2026-10-09 08:37",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 더빙메이트 – 유튜브 자막을 내 PC에서 음성으로 읽어 주는 더빙 앱",
-     "url": "https://news.hada.io/topic?id=35036",
-     "at": "2026-10-09 08:47",
      "desc": ""
     }
    ]
