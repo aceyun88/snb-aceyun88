@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "days": [
+  {
+   "date": "2026-10-25",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+     "at": "2026-10-25 02:30",
+     "desc": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 터미널서 AI 에이전트 다루는 '제미나이 API CLI' 오픈소스 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216607",
+     "at": "2026-10-25 01:18",
+     "desc": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "에임인텔리전스, 오픈AI 연계 앱 보안 평가 서비스 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216562",
+     "at": "2026-10-23 22:36",
+     "desc": "에임인텔리전스(대표 유상윤)는 자체 AI 레드팀 솔루션 '스팅어'와 오픈AI의 사이버보안 프로그램 '데이브레이크'를 연계한 애플리케이션 보안 평가 서비스를 출시했다고 23일 밝혔다.AI 애플리케이션과 웹 서비스, 응용프로그래밍인터페이스(API)를 대상으로 코드 분석과 실행 환경 검증을 제공한다. 데이브레이크 블루 모델로 코드 취약점을 분석하고 스팅어의…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+     "at": "2026-10-25 03:03",
+     "desc": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Kimi K3.1 Pro 공개 - 코딩과 3D 제작을 강화한 100만 토큰 컨텍스트의 3T급 모델",
+     "url": "https://news.hada.io/topic?id=35879",
+     "at": "2026-10-24 03:40",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "구글이 AI 에이전트마다 '컴퓨터 한 대'를 제공하려는 이유",
+     "url": "https://news.hada.io/topic?id=35917",
+     "at": "2026-10-24 19:37",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: stop-slop-ko - 한국어 문서에서 AI가 쓴 티를 걷어내는 Claude Code 플러그인",
+     "url": "https://news.hada.io/topic?id=35913",
+     "at": "2026-10-24 19:15",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Ask HN: 모델이 그렇게 뛰어나다면, OpenAI는 왜 직접 회사 100개를 세우지 않을까?",
+     "url": "https://news.hada.io/topic?id=35862",
+     "at": "2026-10-23 21:35",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "count": 10,
@@ -1168,96 +1238,6 @@
      "title": "누구도 섬이 아니다 - AI가 지적 공동체를 해체할 때",
      "url": "https://news.hada.io/topic?id=35086",
      "at": "2026-10-10 08:52",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-10",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Asana, GPT-6.1 SOL로 브라우저 테스트에서 모델 비용 76배 절감",
-     "url": "https://openai.com/index/asana-browser-agent",
-     "at": "2026-10-09 16:00",
-     "desc": "Asana는 Codex에서 GPT-6 Astra를 사용하여 브라우저 에이전트를 76배 더 저렴하고 5배 더 빠르게 테스트하여 고객에게 더 유능한 모델을 제공했습니다.",
-     "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-     "desc_en": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
-     "url": "https://openai.com/index/sophos",
-     "at": "2026-10-09 16:00",
-     "desc": "Sophos가 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 MDR 사례의 52% 를 자동화하는 동시에 인적 감시를 유지하는 방법을 알아보세요.",
-     "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-     "desc_en": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
-     "at": "2026-10-09 19:27",
-     "desc": "구글 클라우드가 기업용 AI 통합 솔루션인 '제미나이 에이전트(Gemini agent)'를 공개하며 차세대 에이전트 시장 주도권 잡기에 나섰다. 이번 발표는 단발성 질의응답을 처리하는 대화형 챗봇 단계를 넘어, 기업 내 실질적인 자율 수행 디지털 동료를 구축하려는 구글의 전략적 기조를 잘 보여준다.구글 클라우드는 8일(현지시간) 미국 샌프란시스코에서…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216101",
-     "at": "2026-10-10 01:56",
-     "desc": "앤트로픽이 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 서비스를 공개했다. AI가 취약점을 발견하는 속도가 빨라지는 가운데, 오픈소스 개발자들이 보안 문제를 더 신속하게 파악하고 대응할 수 있도록 지원한다. 앤트로픽은 8일(현지시간) 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 도구 ‘OSS 스캐너(OSS…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "MS, 온디바이스 AI '서피스 랩톱 울트라' 공개...1200억 매개변수 모델 직접 구동",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
-     "at": "2026-10-09 00:50",
-     "desc": "마이크로소프트(MS)가 클라우드 의존 없이 PC에서 직접 AI를 실행하는 고성능 노트북을 선보였다. 엔비디아의 최신 AI 칩을 탑재한 '서피스 랩톱 울트라(Surface Laptop Ultra)'와 AI 에이전트의 무단 접근을 막는 보안 기술을 앞세워 온디바이스 AI 시장에서 애플과의 경쟁에 나선 것이다.MS는 7일(현지시간) 미국 샌프란시스코에서 열린…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타 '뮤즈', 스마트폰 이어 아이패드용 앱 출시…업무용 도구 연동 강화",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216078",
-     "at": "2026-10-08 23:34",
-     "desc": "메타가 개인용 AI 에이전트 서비스 '뮤즈'의 아이패드 전용 앱을 출시했다. 지난달 8일 안드로이드와 아이폰 등 모바일용 앱을 선보인 지 한 달 만의 발 빠른 행보다.7일(현지시간) 메타에 따르면, 아이패드 버전은 대화면 디스플레이 환경에 맞춰 최적화된 인터페이스를 제공한다. 태블릿 특유의 넉넉한 화면을 활용해 이메일이나 문서 정리, 일정 관리 등의…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Expo bets big on React Native's agentic future",
-     "url": "https://news.hada.io/topic?id=35095",
-     "at": "2026-10-10 09:58",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: AI 두뇌를 바꿔도 지난 이야기를 이어 가는 데스크톱 비서 마루비",
-     "url": "https://news.hada.io/topic?id=35081",
-     "at": "2026-10-10 05:07",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 생성곡을 봇으로 반복 재생해 약 110억 원 챙긴 미국 남성, 징역 18개월",
-     "url": "https://news.hada.io/topic?id=35047",
-     "at": "2026-10-09 12:38",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 시대에 SaaS 기업을 피벗하는 방법",
-     "url": "https://news.hada.io/topic?id=35041",
-     "at": "2026-10-09 10:05",
      "desc": ""
     }
    ]
