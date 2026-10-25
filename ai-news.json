@@ -1,6 +1,886 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-26",
  "posts": [
+  {
+   "date": "2026-10-26",
+   "label": "2026년 10월 4주",
+   "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
+   "count": 40,
+   "topics": [
+    {
+     "key": "agent",
+     "name": "AI 에이전트·자동화",
+     "count": 18,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216625",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-26",
+       "desc": "엔비디아가 로컬에서 적은 메모리로 자연스러운 대화와 작업 수행이 가능한 경량 온디바이스 AI 모델을 선보였다. 이번 모델은 음성·비전 모델과 함께 구동되는 기기 내 AI 시스템과 게임, 로봇 분야의 개발자가 성능과 메모리 사용량 사이의 균형을 맞추는 데 초점을 맞췄다.엔비디아는 23일(현지시간) 약 4GB의 메모리 환경에서 실행할 수 있도록 설계한 오픈소스",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-25",
+       "desc": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 ",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "구글, 터미널서 AI 에이전트 다루는 '제미나이 API CLI' 오픈소스 공개",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216607",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-25",
+       "desc": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고 ",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216600",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-25",
+       "desc": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-24",
+       "desc": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간) 공",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "리니어리티, AI 에이전트 도입 위한 보안 실습 제공",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TVXhHa241VTFNVjliNXBZcFY5ZmVDOHBXX1c3RHdWY0xDc0xvSVFCZXYtZWtrZVF0TG5YVTVqanNBOXk4YllLS1Zoa2x3dmphanRVNEtYMHljNjZ1OU1ORzVMcXBRV1l5SHF3?oc=5",
+       "source": "보안뉴스",
+       "note": "",
+       "at": "2026-10-23",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "cloudflare/security-audit-skill",
+       "url": "https://github.com/cloudflare/security-audit-skill",
+       "source": "JavaScript",
+       "note": "12,680 stars (이번 주)",
+       "at": "",
+       "desc": "독립적으로 검증되고 기계 판독이 가능한 다단계 보안 감사를 위한 코딩 에이전트 기술",
+       "desc_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "stablyai/orca",
+       "url": "https://github.com/stablyai/orca",
+       "source": "TypeScript",
+       "note": "9,828 stars (이번 주)",
+       "at": "",
+       "desc": "ORCA는 여러 에이전트 (예: Grok Bot, Claude Code) 와 함께 일할 수 있는 곳입니다. 자체 구독으로 모든 코딩 에이전트를 실행합니다. 데스크톱, 모바일 및 원격 런타임에서 사용할 수 있습니다.",
+       "desc_en": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "anomalyco/opencode",
+       "url": "https://github.com/anomalyco/opencode",
+       "source": "TypeScript",
+       "note": "6,857 stars (이번 주)",
+       "at": "",
+       "desc": "오픈 소스 코딩 에이전트.",
+       "desc_en": "The open source coding agent."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "heygen-com/hyperframes",
+       "url": "https://github.com/heygen-com/hyperframes",
+       "source": "TypeScript",
+       "note": "5,633 stars (이번 주)",
+       "at": "",
+       "desc": "HTML을 작성합니다. 비디오를 렌더링합니다. 상담원을 위해 설계되었습니다.",
+       "desc_en": "Write HTML. Render video. Built for agents."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "akitaonrails/ai-memory",
+       "url": "https://github.com/akitaonrails/ai-memory",
+       "source": "Rust",
+       "note": "3,541 stars (이번 주)",
+       "at": "",
+       "desc": "상담원 코딩 CLI를 위한 장기 메모리를 위한 솔루션 및 다른 상담원 공급업체 간의 핸드오프를 용이하게 하는 솔루션",
+       "desc_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "ruvnet/ruflo",
+       "url": "https://github.com/ruvnet/ruflo",
+       "source": "TypeScript",
+       "note": "3,241 stars (이번 주)",
+       "at": "",
+       "desc": "🌊 오리지널 에이전트 하네스. 지능형 멀티 플레이어 스웜을 배포하고, 자율적인 워크플로우를 조정하고, 대화형 AI 시스템을 구축하세요. 적응형 메모리, 자가 학습 인텔리전스, 페더레이션, 벡터 래그 통합 및 네이티브 클로드 코드/코덱스/에르메스 등 다양한 기능 통합",
+       "desc_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+       "url": "https://news.hada.io/topic?id=35651",
+       "source": "GeekNews",
+       "note": "82 points",
+       "at": "2026-10-20",
+       "desc": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서 . 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실행 가능한 작은 코딩 에이전트로 확장 LLM은 두뇌, 하네스는 몸 이라는 비유에서 출발. 모델에 전달할 대화를 관리하고, 도구 호출을 실행하며, 결과를 다시 모델에 보내는 반복문을 중심으로 기능을 하나씩 추가 각 장은 실패 상황 →…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "지능을 전기처럼 쓰는 시대 - AI 네이티브 핸드북 2026 [407p]",
+       "url": "https://news.hada.io/topic?id=35846",
+       "source": "GeekNews",
+       "note": "42 points",
+       "at": "2026-10-23",
+       "desc": "AI를 전제로 제품과 업무, 조직을 어떻게 다시 설계할지 다루며, 개발자/경영자/정책 담당자부터 일반 직장인까지 대상 AI 테스팅과 신뢰성 국제표준 개발에 참여해 온 ETRI 전종홍 책임연구원 이 집필한 407p 짜리 책 지능을 전기에 빗대어 AI 생태계를 연결 하는 구성이 특징 파운데이션 모델은 발전소, GPU 데이터센터는 변환소, MCP/A2A는 송전망, 에이전트는 가전제품에 대응 기존…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+       "url": "https://news.hada.io/topic?id=35670",
+       "source": "GeekNews",
+       "note": "35 points",
+       "at": "2026-10-20",
+       "desc": "문서와 블로그, 교육 자료에 사용할 인터랙티브 입체 도해를 코딩 에이전트로 제작 하는 스킬 캐시, 연결 풀, 요청 제한 같은 개념을 실제로 움직이는 기계나 장치에 빗대어 시각화 . 설명할 개념과 수치, 출력 형식을 지정해 요청 SVG로 부품과 배관, 음영을 구성하고, 마우스와 키보드 조작에 따라 움직임과 표시 수치가 함께 바뀌도록 제작 독립 실행 HTML, SVG 파일,…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Brain Sandwich - AI 작업 전후에 직접 사고하는 개발 방식",
+       "url": "https://news.hada.io/topic?id=35604",
+       "source": "GeekNews",
+       "note": "29 points",
+       "at": "2026-10-19",
+       "desc": "Brain Sandwich 는 ‘직접 사고하기 → AI 활용하기 → 다시 직접 사고하기’ 순서로, AI를 충분히 활용하면서도 엔지니어링 역량이 퇴화하지 않도록 하는 작업 방식 에이전트에게 구현을 맡기기 전에 문제와 맥락을 먼저 이해 해야 함. 완전한 구현 계획까지는 필요 없지만, 대략 어디로 나아갈지는 알아야 함 사전 이해 없이 시작하면 AI가 잘못된 방향으로 판단을 유도 하거나, 애초에…",
+       "desc_en": ""
+      },
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUDl0a18tWFh6el9BNDd0aXlZRmVzMmY4a01lcm53LWJoZXNHVEpreU5sLVRHb0NUNlFfd2tkX2lvX3lTb0ZzMmYxQUM5Q3l2cXllU3ZhNEsza3dGN01yQnU2WGxvUVFEcUE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-23",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "[최은수의 AI와 뉴비즈] 〈50〉AI 에이전트가 구매 결정…고객 주권 빼앗다",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52VWtnN19Yejh0bWh6WlBFbzZJSzhOLW51WkF1MnlfRDdtS1JSSjYzNktCajluWUNaUjVoTnh3cXNEZEc4ZFNHcTNYajQ0UQ?oc=5",
+       "source": "전자신문",
+       "note": "",
+       "at": "2026-10-22",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "image",
+     "name": "이미지·영상·음성 생성",
+     "count": 4,
+     "items": [
+      {
+       "platform": "이미지·영상 생성",
+       "title": "캔바, 첫 자체 이미지 생성 AI 모델 '캔바 크래프트' 공개",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81ZFdXMWJsRGJjdWVEWXNRb2owenhoX1dZdDhWMDI3US1xNk9lX1pGN3VLd2pVMzQxajhhU0c2SWFPN1FiSE5UYlBqSHRoS1dDLXVVcVc5WDRHUjNadElrajhHdUtsTHE0WER0M3NyX2xrRFk?oc=5",
+       "source": "디지털투데이",
+       "note": "",
+       "at": "2026-10-23",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "Comfy-Org/ComfyUI",
+       "url": "https://github.com/Comfy-Org/ComfyUI",
+       "source": "Python",
+       "note": "4,648 stars (이번 주)",
+       "at": "",
+       "desc": "그래프/노드 인터페이스가 있는 가장 강력하고 모듈식 확산 모델 GUI, api 및 백엔드. 세계에서 가장 빠른 로컬 추론 엔진.",
+       "desc_en": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+      },
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNU1faE5tUUlvMGhJNzZTZUpyazNaRm4xZUktaGsxX3ZQd0hSaGpqc2UyckxtV3VuVTJxWUUyWko0SXRxazgxUmxhenVTLURSUXRXc0p5M2xoVTNQT1g1QmgySnN3cFhrclE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-20",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "이미지·영상 생성",
+       "title": "오픈AI, 이미지 모델 ‘오로라’ 3종 테스트 정황...‘GPT-이미지-3’로 추측",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LYnJXY0xrUGRNdXVPYlo4aUdxQlhUel9oZzBGUW5qMFNLSEpQbGtpWXQ3eFRvdEV5RllDdmtCZHAzZlFLejY5NFR5dlZJSWhGWVVDaDR3QUpDTU5tZkFSRlpYNWs1SEV2UlE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-19",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "search",
+     "name": "AI 검색·퍼플렉시티",
+     "count": 4,
+     "items": [
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "\"트래픽 말고 신뢰를 팔아라\"…AI 검색 시대 언론의 생존 공식은 - 머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Y0Z3Nk9ERzVLZGZJY3BFOVZCWWU4a2UtaUMyOFE1elBZZWE4ZDdNR05IRWRKWjd1NzJLQURpUWNlb0g1SUg4WHN2VHRpWTFDVHo4QU13Vmc5dWlkS3dsdzgwOUNqQTRVZ0HSAW9BVV95cUxNOXFOQnBUVm1qOUptVzF5MzhkWUFVS2FXUWJyRUN0U1RsTldoVDExYlp4cGw5cHhjU20yclZJX0pMOXUzRjFZcWhzUFpCRUxLZldHcDIyZ0JwZlMtOEFRWE1CeVBFanZoYks5c0RXdGM?oc=5",
+       "source": "머니투데이",
+       "note": "",
+       "at": "2026-10-20",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "함샤우트글로벌, '퍼시스' 대상 생성형 AI 검색 최적화 컨설팅 수행",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02d1VIZWZNMnFaak92YzNwVXozbEd2UkJORVVpemg2OE95QlkteFVQZnJRUzlERHBHcGU0MXZTMkxVWTY2RTBPREhQUjNXNXBjcWR5OTNn?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-10-21",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "[차장칼럼] 네이버 AI탭, 맛집 검색하니 광고 업체부터",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1h5bk1nZ0ZaQ25NWF9Vd2tUYVY0a3N0M1lid0pwSFR2ZF9TdERrR1ZxWHctZnBzZjNGSkhRV09lNC1WM2ZlWW4xNExfcUluajRyOTNRT2RsTWx3SlFGdVY4U1hacDI0dFB3SktpdGM1R1FwSkZEY3pVaEhVZjRDNFdBZFY?oc=5",
+       "source": "글로벌이코노믹",
+       "note": "",
+       "at": "2026-10-19",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "네이버, AI로 수능 분석부터 대학 지원까지…입시 정보 검색 판 바꾼다",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BR1RCR2t6b2JEWVBZWHNiQjJXNkM1a2VueUU3UVg0VEZOdEJBTUxkLXZ6bEZJLURCZ3BGczhacmNzQ0ZUSHdaYkZEaC10bjVzczI4RVlOTWZ3XzZLTHpHOG9FU2E4QmM?oc=5",
+       "source": "인공지능신문",
+       "note": "",
+       "at": "2026-10-23",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "coding",
+     "name": "바이브 코딩·개발 도구",
+     "count": 3,
+     "items": [
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "Graphify-Labs/graphify",
+       "url": "https://github.com/Graphify-Labs/graphify",
+       "source": "Python",
+       "note": "6,868 stars (이번 주)",
+       "at": "",
+       "desc": "문서, SQL 스키마, 구성 및 PDF를 사용하여 모든 코드베이스를 쿼리 가능한 지식 그래프로 변환합니다. A/graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+       "desc_en": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "AI 시대, 아들에게 무엇을 가르쳐야 할까?",
+       "url": "https://news.hada.io/topic?id=35730",
+       "source": "GeekNews",
+       "note": "25 points",
+       "at": "2026-10-21",
+       "desc": "첫아이의 탄생을 앞둔 프로그래머가 AI 시대 교육의 목적을 고민 . 생계의 기반이던 프로그래밍 능력이 덜 가치 있게 느껴지자, 아들에게 무엇을 가르칠지뿐 아니라 무엇을 위해 가르칠지도 불확실해짐 라디오와 영화, 인터넷이 학교를 뒤바꿀 것이라는 예측은 반복됐지만 학교는 목적을 바꾸며 살아남았음 . 지식 전달이라는 명분 외에도 명성, 기금, 아이 돌봄 같은 힘이 학교를 유지 한때 교육의 목표를…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
+       "url": "https://news.hada.io/topic?id=35847",
+       "source": "GeekNews",
+       "note": "14 points",
+       "at": "2026-10-23",
+       "desc": "자신의 기술과 관심사, 자금과 지역에 맞는 창업 아이디어 를 찾거나, 이미 가진 아이디어를 발전시키는 서비스 Idealab에서 175개 이상의 기업을 출범시킨 Bill Gross의 창업 경험과 AI 를 결합 뉴스와 연구, 특허, 기업 공시, 고객 불만 등에서 사업 기회를 찾고 아이디어의 근거가 된 출처를 함께 제공 아이디어마다 예상 창업 비용과 시장 진입 기간, 경쟁사와 위험 요인, 지금…",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "copilot",
+     "name": "코파일럿·마이크로소프트",
+     "count": 3,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216627",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-26",
+       "desc": "리퀴드 AI가 AI를 검색과 결제 등 실시간 업무에 적용할 수 있도록 추론 속도를 높인 엔진을 공개했다. 기존 대형언어모델(LLM)의 응답 지연 때문에 고전적인 머신러닝 기법을 주로 사용했던 업무에 해당 엔진을 도입하는 것이 목표다.리퀴드 AI는 22일(현지시간) 실시간 추론 엔진 ‘RIPL(Real-time Inference Pipeline)’을 출시했다",
+       "desc_en": ""
+      },
+      {
+       "platform": "마이크로소프트 · 코파일럿",
+       "title": "플렉스, 한국MS와 손잡고 기업용 AI 시장 공략…코파일럿에 인사 데이터 연동",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ0sydkVhVXFLQkNZNkJFUW9TVkxlWTlyS3BRc3o2aWV5bG1nUnVyemM1emxOZ3hveWFoSVAwT1pKdndNV0ZtcGEzWm9fRHBfei0zaWdn?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-10-21",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "마이크로소프트 · 코파일럿",
+       "title": "플렉스, 한국MS와 손잡고 코파일럿 생태계 확장…기업 AX 속도",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HaHpnalo0YXQ3emRERV9PV1hZWGNqQnQzd3ZLdWdYTXVpY3NqZDh2eEJacEdrWkZwQV9wYmlTamJLTU5BSjRlV2dSWVo4dw?oc=5",
+       "source": "전자신문",
+       "note": "",
+       "at": "2026-10-21",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "chatgpt",
+     "name": "챗GPT·OpenAI",
+     "count": 2,
+     "items": [
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "가짜 통계 5만 페이지를 올렸더니 ChatGPT와 논문, 은행 보고서가 인용했다",
+       "url": "https://news.hada.io/topic?id=35721",
+       "source": "GeekNews",
+       "note": "17 points",
+       "at": "2026-10-21",
+       "desc": "GPT-4.1로 지어낸 통계 페이지 5만 개를 게시한 실험 에서, 7개월 동안 ChatGPT 유입 세션 1만 건 이상과 330개 이상 도메인의 링크를 확보 Google 검색 노출이 급감한 뒤에도 ChatGPT의 인용과 유입은 지속 . 검색 순위가 낮은 페이지도 AI가 답변의 근거로 가져다 쓸 수 있음을 보여줌 허위 수치가 학술 논문과 카타르 금융그룹의 투자 리서치에도 등장 . 권위 있는…",
+       "desc_en": ""
+      },
+      {
+       "platform": "OpenAI · 챗GPT",
+       "title": "LG CNS, 챗GPT 기업 고객 3만명 확보…산업 전반 확산",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9id2Voc2pGQnRZcWMyVE80T2YwOVN4OUdDZUN6SVp6dGdjSkVwRVdDRlRCYnFOOUN5bXV3dHNqRzMzTjlaWjZtNm1RU0g1QXR5STlUNGJFSmd6bnfSAWBBVV95cUxQWmI0QU00X0hzNEp2a01OWGJ0SDFwM18wbGhsWF92RnU0Um9MZFJlZ29iYXZoNmcwazc1MTJQNTR0NjducEd2YWJCTl9PbmxGSHR2V2NNejFzbVQzLXZwa3c?oc=5",
+       "source": "연합뉴스",
+       "note": "",
+       "at": "2026-10-22",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "claude",
+     "name": "클로드·앤트로픽",
+     "count": 2,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-25",
+       "desc": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서",
+       "desc_en": ""
+      },
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "\"고쳤다더니 또\"…한국서 돈 벌고 데이터 챙긴 앤트로픽, 인증 오류 여전",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1R2o4SHF1UzRJM2JEbDFpTE56N29lNmxta0dhd3VFVW1zNFNXSF9zYzRWRnFkdVNNTUN5T3FRbzNiODY2Z2Z1VjdKT1h0Qjk1QzNjMTlR?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-10-19",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "gemini",
+     "name": "제미나이·구글",
+     "count": 1,
+     "items": [
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OXptRkY5bmJvYU9KVkZRZUpSMjNGb2R3ZmNPRmpEeVdjRTFBdC1XUTQzamNfSzdlUkJfWlFRdllLWjBaMndpMzIyZjE1MHhreGFFNkxaaTVPVXNrclZaSUhPZzhaLUU?oc=5",
+       "source": "인공지능신문",
+       "note": "",
+       "at": "2026-10-21",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "work",
+     "name": "업무 활용·생산성",
+     "count": 1,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "스페이스X, 엔비디아 등 130여개사와 기업 공략…그록 도입·연동 지원",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=216585",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-10-24",
+       "desc": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 ",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "other",
+     "name": "그 밖의 AI 소식",
+     "count": 2,
+     "items": [
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Ask HN: AI가 작성한 코드를 이해하지 못한 채 배포하는 문제, 어떻게 대처하시나요?",
+       "url": "https://news.hada.io/topic?id=35662",
+       "source": "GeekNews",
+       "note": "29 points",
+       "at": "2026-10-20",
+       "desc": "Meta 엔지니어의 LinkedIn 게시물 에 공감하며, AI가 작성한 코드를 충분히 이해하지 못한 채 배포하는 상황 에 다른 엔지니어들은 어떻게 대처하는지 경험을 구함 게시물 속 고민은 AI를 활용한 배포 속도가 너무 빨라 코드를 한 줄씩 검토하기에는 시간이 너무 오래 걸린다 는 점임. 시스템의 큰 구조는 이해하더라도 세부 코드의 동작까지는 알지 못한 채 개발을 마칠 수 있음 자신이…",
+       "desc_en": ""
+      },
+      {
+       "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+       "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+       "url": "https://www.youtube.com/watch?v=2dbCeyC-WFw",
+       "source": "조코딩",
+       "note": "3.8만 · 스트리밍 시간: 12시간 전",
+       "at": "",
+       "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+       "desc_en": ""
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+     "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+     "url": "https://www.youtube.com/watch?v=2dbCeyC-WFw",
+     "source": "조코딩",
+     "note": "3.8만 · 스트리밍 시간: 12시간 전",
+     "at": "",
+     "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+     "topic": "other"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "cloudflare/security-audit-skill",
+     "url": "https://github.com/cloudflare/security-audit-skill",
+     "source": "JavaScript",
+     "note": "12,680 stars (이번 주)",
+     "at": "",
+     "desc": "독립적으로 검증되고 기계 판독이 가능한 다단계 보안 감사를 위한 코딩 에이전트 기술",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "stablyai/orca",
+     "url": "https://github.com/stablyai/orca",
+     "source": "TypeScript",
+     "note": "9,828 stars (이번 주)",
+     "at": "",
+     "desc": "ORCA는 여러 에이전트 (예: Grok Bot, Claude Code) 와 함께 일할 수 있는 곳입니다. 자체 구독으로 모든 코딩 에이전트를 실행합니다. 데스크톱, 모바일 및 원격 런타임에서 사용할 수 있습니다.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "Graphify-Labs/graphify",
+     "url": "https://github.com/Graphify-Labs/graphify",
+     "source": "Python",
+     "note": "6,868 stars (이번 주)",
+     "at": "",
+     "desc": "문서, SQL 스키마, 구성 및 PDF를 사용하여 모든 코드베이스를 쿼리 가능한 지식 그래프로 변환합니다. A/graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+     "topic": "coding"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "anomalyco/opencode",
+     "url": "https://github.com/anomalyco/opencode",
+     "source": "TypeScript",
+     "note": "6,857 stars (이번 주)",
+     "at": "",
+     "desc": "오픈 소스 코딩 에이전트.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "heygen-com/hyperframes",
+     "url": "https://github.com/heygen-com/hyperframes",
+     "source": "TypeScript",
+     "note": "5,633 stars (이번 주)",
+     "at": "",
+     "desc": "HTML을 작성합니다. 비디오를 렌더링합니다. 상담원을 위해 설계되었습니다.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "Comfy-Org/ComfyUI",
+     "url": "https://github.com/Comfy-Org/ComfyUI",
+     "source": "Python",
+     "note": "4,648 stars (이번 주)",
+     "at": "",
+     "desc": "그래프/노드 인터페이스가 있는 가장 강력하고 모듈식 확산 모델 GUI, api 및 백엔드. 세계에서 가장 빠른 로컬 추론 엔진.",
+     "topic": "image"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "akitaonrails/ai-memory",
+     "url": "https://github.com/akitaonrails/ai-memory",
+     "source": "Rust",
+     "note": "3,541 stars (이번 주)",
+     "at": "",
+     "desc": "상담원 코딩 CLI를 위한 장기 메모리를 위한 솔루션 및 다른 상담원 공급업체 간의 핸드오프를 용이하게 하는 솔루션",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "ruvnet/ruflo",
+     "url": "https://github.com/ruvnet/ruflo",
+     "source": "TypeScript",
+     "note": "3,241 stars (이번 주)",
+     "at": "",
+     "desc": "🌊 오리지널 에이전트 하네스. 지능형 멀티 플레이어 스웜을 배포하고, 자율적인 워크플로우를 조정하고, 대화형 AI 시스템을 구축하세요. 적응형 메모리, 자가 학습 인텔리전스, 페더레이션, 벡터 래그 통합 및 네이티브 클로드 코드/코덱스/에르메스 등 다양한 기능 통합",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+     "url": "https://news.hada.io/topic?id=35651",
+     "source": "GeekNews",
+     "note": "82 points",
+     "at": "2026-10-20",
+     "desc": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서 . 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실행 가능한 작은 코딩 에이전트로 확장 LLM은 두뇌, 하네스는 몸 이라는 비유에서 출발. 모델에 전달할 대화를 관리하고, 도구 호출을 실행하며, 결과를 다시 모델에 보내는 반복문을 중심으로 기능을 하나씩 추가 각 장은 실패 상황 →…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "지능을 전기처럼 쓰는 시대 - AI 네이티브 핸드북 2026 [407p]",
+     "url": "https://news.hada.io/topic?id=35846",
+     "source": "GeekNews",
+     "note": "42 points",
+     "at": "2026-10-23",
+     "desc": "AI를 전제로 제품과 업무, 조직을 어떻게 다시 설계할지 다루며, 개발자/경영자/정책 담당자부터 일반 직장인까지 대상 AI 테스팅과 신뢰성 국제표준 개발에 참여해 온 ETRI 전종홍 책임연구원 이 집필한 407p 짜리 책 지능을 전기에 빗대어 AI 생태계를 연결 하는 구성이 특징 파운데이션 모델은 발전소, GPU 데이터센터는 변환소, MCP/A2A는 송전망, 에이전트는 가전제품에 대응 기존…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+     "url": "https://news.hada.io/topic?id=35670",
+     "source": "GeekNews",
+     "note": "35 points",
+     "at": "2026-10-20",
+     "desc": "문서와 블로그, 교육 자료에 사용할 인터랙티브 입체 도해를 코딩 에이전트로 제작 하는 스킬 캐시, 연결 풀, 요청 제한 같은 개념을 실제로 움직이는 기계나 장치에 빗대어 시각화 . 설명할 개념과 수치, 출력 형식을 지정해 요청 SVG로 부품과 배관, 음영을 구성하고, 마우스와 키보드 조작에 따라 움직임과 표시 수치가 함께 바뀌도록 제작 독립 실행 HTML, SVG 파일,…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Ask HN: AI가 작성한 코드를 이해하지 못한 채 배포하는 문제, 어떻게 대처하시나요?",
+     "url": "https://news.hada.io/topic?id=35662",
+     "source": "GeekNews",
+     "note": "29 points",
+     "at": "2026-10-20",
+     "desc": "Meta 엔지니어의 LinkedIn 게시물 에 공감하며, AI가 작성한 코드를 충분히 이해하지 못한 채 배포하는 상황 에 다른 엔지니어들은 어떻게 대처하는지 경험을 구함 게시물 속 고민은 AI를 활용한 배포 속도가 너무 빨라 코드를 한 줄씩 검토하기에는 시간이 너무 오래 걸린다 는 점임. 시스템의 큰 구조는 이해하더라도 세부 코드의 동작까지는 알지 못한 채 개발을 마칠 수 있음 자신이…",
+     "topic": "other"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Brain Sandwich - AI 작업 전후에 직접 사고하는 개발 방식",
+     "url": "https://news.hada.io/topic?id=35604",
+     "source": "GeekNews",
+     "note": "29 points",
+     "at": "2026-10-19",
+     "desc": "Brain Sandwich 는 ‘직접 사고하기 → AI 활용하기 → 다시 직접 사고하기’ 순서로, AI를 충분히 활용하면서도 엔지니어링 역량이 퇴화하지 않도록 하는 작업 방식 에이전트에게 구현을 맡기기 전에 문제와 맥락을 먼저 이해 해야 함. 완전한 구현 계획까지는 필요 없지만, 대략 어디로 나아갈지는 알아야 함 사전 이해 없이 시작하면 AI가 잘못된 방향으로 판단을 유도 하거나, 애초에…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI 시대, 아들에게 무엇을 가르쳐야 할까?",
+     "url": "https://news.hada.io/topic?id=35730",
+     "source": "GeekNews",
+     "note": "25 points",
+     "at": "2026-10-21",
+     "desc": "첫아이의 탄생을 앞둔 프로그래머가 AI 시대 교육의 목적을 고민 . 생계의 기반이던 프로그래밍 능력이 덜 가치 있게 느껴지자, 아들에게 무엇을 가르칠지뿐 아니라 무엇을 위해 가르칠지도 불확실해짐 라디오와 영화, 인터넷이 학교를 뒤바꿀 것이라는 예측은 반복됐지만 학교는 목적을 바꾸며 살아남았음 . 지식 전달이라는 명분 외에도 명성, 기금, 아이 돌봄 같은 힘이 학교를 유지 한때 교육의 목표를…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "가짜 통계 5만 페이지를 올렸더니 ChatGPT와 논문, 은행 보고서가 인용했다",
+     "url": "https://news.hada.io/topic?id=35721",
+     "source": "GeekNews",
+     "note": "17 points",
+     "at": "2026-10-21",
+     "desc": "GPT-4.1로 지어낸 통계 페이지 5만 개를 게시한 실험 에서, 7개월 동안 ChatGPT 유입 세션 1만 건 이상과 330개 이상 도메인의 링크를 확보 Google 검색 노출이 급감한 뒤에도 ChatGPT의 인용과 유입은 지속 . 검색 순위가 낮은 페이지도 AI가 답변의 근거로 가져다 쓸 수 있음을 보여줌 허위 수치가 학술 논문과 카타르 금융그룹의 투자 리서치에도 등장 . 권위 있는…",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
+     "url": "https://news.hada.io/topic?id=35847",
+     "source": "GeekNews",
+     "note": "14 points",
+     "at": "2026-10-23",
+     "desc": "자신의 기술과 관심사, 자금과 지역에 맞는 창업 아이디어 를 찾거나, 이미 가진 아이디어를 발전시키는 서비스 Idealab에서 175개 이상의 기업을 출범시킨 Bill Gross의 창업 경험과 AI 를 결합 뉴스와 연구, 특허, 기업 공시, 고객 불만 등에서 사업 기회를 찾고 아이디어의 근거가 된 출처를 함께 제공 아이디어마다 예상 창업 비용과 시장 진입 기간, 경쟁사와 위험 요인, 지금…",
+     "topic": "coding"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216625",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-26",
+     "desc": "엔비디아가 로컬에서 적은 메모리로 자연스러운 대화와 작업 수행이 가능한 경량 온디바이스 AI 모델을 선보였다. 이번 모델은 음성·비전 모델과 함께 구동되는 기기 내 AI 시스템과 게임, 로봇 분야의 개발자가 성능과 메모리 사용량 사이의 균형을 맞추는 데 초점을 맞췄다.엔비디아는 23일(현지시간) 약 4GB의 메모리 환경에서 실행할 수 있도록 설계한 오픈소스",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216627",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-26",
+     "desc": "리퀴드 AI가 AI를 검색과 결제 등 실시간 업무에 적용할 수 있도록 추론 속도를 높인 엔진을 공개했다. 기존 대형언어모델(LLM)의 응답 지연 때문에 고전적인 머신러닝 기법을 주로 사용했던 업무에 해당 엔진을 도입하는 것이 목표다.리퀴드 AI는 22일(현지시간) 실시간 추론 엔진 ‘RIPL(Real-time Inference Pipeline)’을 출시했다",
+     "topic": "copilot"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-25",
+     "desc": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서",
+     "topic": "claude"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-25",
+     "desc": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 ",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "구글, 터미널서 AI 에이전트 다루는 '제미나이 API CLI' 오픈소스 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216607",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-25",
+     "desc": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고 ",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216600",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-25",
+     "desc": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-24",
+     "desc": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간) 공",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "스페이스X, 엔비디아 등 130여개사와 기업 공략…그록 도입·연동 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216585",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-24",
+     "desc": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 ",
+     "topic": "work"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "LG CNS, 챗GPT 기업 고객 3만명 확보…산업 전반 확산",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9id2Voc2pGQnRZcWMyVE80T2YwOVN4OUdDZUN6SVp6dGdjSkVwRVdDRlRCYnFOOUN5bXV3dHNqRzMzTjlaWjZtNm1RU0g1QXR5STlUNGJFSmd6bnfSAWBBVV95cUxQWmI0QU00X0hzNEp2a01OWGJ0SDFwM18wbGhsWF92RnU0Um9MZFJlZ29iYXZoNmcwazc1MTJQNTR0NjducEd2YWJCTl9PbmxGSHR2V2NNejFzbVQzLXZwa3c?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-10-22",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "\"고쳤다더니 또\"…한국서 돈 벌고 데이터 챙긴 앤트로픽, 인증 오류 여전",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1R2o4SHF1UzRJM2JEbDFpTE56N29lNmxta0dhd3VFVW1zNFNXSF9zYzRWRnFkdVNNTUN5T3FRbzNiODY2Z2Z1VjdKT1h0Qjk1QzNjMTlR?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-10-19",
+     "desc": "",
+     "topic": "claude"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUDl0a18tWFh6el9BNDd0aXlZRmVzMmY4a01lcm53LWJoZXNHVEpreU5sLVRHb0NUNlFfd2tkX2lvX3lTb0ZzMmYxQUM5Q3l2cXllU3ZhNEsza3dGN01yQnU2WGxvUVFEcUE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-23",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNU1faE5tUUlvMGhJNzZTZUpyazNaRm4xZUktaGsxX3ZQd0hSaGpqc2UyckxtV3VuVTJxWUUyWko0SXRxazgxUmxhenVTLURSUXRXc0p5M2xoVTNQT1g1QmgySnN3cFhrclE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-20",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OXptRkY5bmJvYU9KVkZRZUpSMjNGb2R3ZmNPRmpEeVdjRTFBdC1XUTQzamNfSzdlUkJfWlFRdllLWjBaMndpMzIyZjE1MHhreGFFNkxaaTVPVXNrclZaSUhPZzhaLUU?oc=5",
+     "source": "인공지능신문",
+     "note": "",
+     "at": "2026-10-21",
+     "desc": "",
+     "topic": "gemini"
+    },
+    {
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "플렉스, 한국MS와 손잡고 기업용 AI 시장 공략…코파일럿에 인사 데이터 연동",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ0sydkVhVXFLQkNZNkJFUW9TVkxlWTlyS3BRc3o2aWV5bG1nUnVyemM1emxOZ3hveWFoSVAwT1pKdndNV0ZtcGEzWm9fRHBfei0zaWdn?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-10-21",
+     "desc": "",
+     "topic": "copilot"
+    },
+    {
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "플렉스, 한국MS와 손잡고 코파일럿 생태계 확장…기업 AX 속도",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HaHpnalo0YXQ3emRERV9PV1hZWGNqQnQzd3ZLdWdYTXVpY3NqZDh2eEJacEdrWkZwQV9wYmlTamJLTU5BSjRlV2dSWVo4dw?oc=5",
+     "source": "전자신문",
+     "note": "",
+     "at": "2026-10-21",
+     "desc": "",
+     "topic": "copilot"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "\"트래픽 말고 신뢰를 팔아라\"…AI 검색 시대 언론의 생존 공식은 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Y0Z3Nk9ERzVLZGZJY3BFOVZCWWU4a2UtaUMyOFE1elBZZWE4ZDdNR05IRWRKWjd1NzJLQURpUWNlb0g1SUg4WHN2VHRpWTFDVHo4QU13Vmc5dWlkS3dsdzgwOUNqQTRVZ0HSAW9BVV95cUxNOXFOQnBUVm1qOUptVzF5MzhkWUFVS2FXUWJyRUN0U1RsTldoVDExYlp4cGw5cHhjU20yclZJX0pMOXUzRjFZcWhzUFpCRUxLZldHcDIyZ0JwZlMtOEFRWE1CeVBFanZoYks5c0RXdGM?oc=5",
+     "source": "머니투데이",
+     "note": "",
+     "at": "2026-10-20",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "함샤우트글로벌, '퍼시스' 대상 생성형 AI 검색 최적화 컨설팅 수행",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02d1VIZWZNMnFaak92YzNwVXozbEd2UkJORVVpemg2OE95QlkteFVQZnJRUzlERHBHcGU0MXZTMkxVWTY2RTBPREhQUjNXNXBjcWR5OTNn?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-10-21",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "[차장칼럼] 네이버 AI탭, 맛집 검색하니 광고 업체부터",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1h5bk1nZ0ZaQ25NWF9Vd2tUYVY0a3N0M1lid0pwSFR2ZF9TdERrR1ZxWHctZnBzZjNGSkhRV09lNC1WM2ZlWW4xNExfcUluajRyOTNRT2RsTWx3SlFGdVY4U1hacDI0dFB3SktpdGM1R1FwSkZEY3pVaEhVZjRDNFdBZFY?oc=5",
+     "source": "글로벌이코노믹",
+     "note": "",
+     "at": "2026-10-19",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "네이버, AI로 수능 분석부터 대학 지원까지…입시 정보 검색 판 바꾼다",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BR1RCR2t6b2JEWVBZWHNiQjJXNkM1a2VueUU3UVg0VEZOdEJBTUxkLXZ6bEZJLURCZ3BGczhacmNzQ0ZUSHdaYkZEaC10bjVzczI4RVlOTWZ3XzZLTHpHOG9FU2E4QmM?oc=5",
+     "source": "인공지능신문",
+     "note": "",
+     "at": "2026-10-23",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "캔바, 첫 자체 이미지 생성 AI 모델 '캔바 크래프트' 공개",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81ZFdXMWJsRGJjdWVEWXNRb2owenhoX1dZdDhWMDI3US1xNk9lX1pGN3VLd2pVMzQxajhhU0c2SWFPN1FiSE5UYlBqSHRoS1dDLXVVcVc5WDRHUjNadElrajhHdUtsTHE0WER0M3NyX2xrRFk?oc=5",
+     "source": "디지털투데이",
+     "note": "",
+     "at": "2026-10-23",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "오픈AI, 이미지 모델 ‘오로라’ 3종 테스트 정황...‘GPT-이미지-3’로 추측",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LYnJXY0xrUGRNdXVPYlo4aUdxQlhUel9oZzBGUW5qMFNLSEpQbGtpWXQ3eFRvdEV5RllDdmtCZHAzZlFLejY5NFR5dlZJSWhGWVVDaDR3QUpDTU5tZkFSRlpYNWs1SEV2UlE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-10-19",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "리니어리티, AI 에이전트 도입 위한 보안 실습 제공",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TVXhHa241VTFNVjliNXBZcFY5ZmVDOHBXX1c3RHdWY0xDc0xvSVFCZXYtZWtrZVF0TG5YVTVqanNBOXk4YllLS1Zoa2x3dmphanRVNEtYMHljNjZ1OU1ORzVMcXBRV1l5SHF3?oc=5",
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-10-23",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "[최은수의 AI와 뉴비즈] 〈50〉AI 에이전트가 구매 결정…고객 주권 빼앗다",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52VWtnN19Yejh0bWh6WlBFbzZJSzhOLW51WkF1MnlfRDdtS1JSSjYzNktCajluWUNaUjVoTnh3cXNEZEc4ZFNHcTNYajQ0UQ?oc=5",
+     "source": "전자신문",
+     "note": "",
+     "at": "2026-10-22",
+     "desc": "",
+     "topic": "agent"
+    }
+   ]
+  },
   {
    "date": "2026-10-19",
    "label": "2026년 10월 3주",
