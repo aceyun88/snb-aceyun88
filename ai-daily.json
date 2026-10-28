@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "days": [
+  {
+   "date": "2026-10-28",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Genie 4: 차세대 세계 시뮬레이션",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "at": "2026-10-28 01:01",
+     "desc": "Genie 4: 실시간 시뮬레이션에서 전례 없는 현실감을 선사하는 신세계 모델.",
+     "title_en": "Genie 4: A new generation of world simulation",
+     "desc_en": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Retell은 OpenAI 모델을 사용하여 1억 건의 월간 통화에 전력을 공급합니다.",
+     "url": "https://openai.com/index/retell-ai",
+     "at": "2026-10-28 00:00",
+     "desc": "GPT-6 Astra는 Retell의 음성 상담원 벤치마크에서 1위를 차지했으며, Codex는 직원당 연간 160만 $ 의 수익률을 달성하는 데 도움을 줍니다.",
+     "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
+     "desc_en": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다",
+     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+     "at": "2026-10-27 16:00",
+     "desc": "OpenAI와 오라클은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 오라클 오퍼링에 전력을 공급하기 위해 파트너십을 확장하고 있습니다.",
+     "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "desc_en": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 4 Argon의 8가지 사례",
+     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+     "at": "2026-10-28 00:00",
+     "desc": "Gemini 4 Argon의 다양한 용도의 콜라주",
+     "title_en": "8 examples of Gemini 4 Argon in action",
+     "desc_en": "Collage of various uses of Gemini 4 Argon"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Check Point가 Daybreak로 취약점 연구를 가속화하는 방법",
+     "url": "https://openai.com/index/check-point-daybreak",
+     "at": "2026-10-27 09:00",
+     "desc": "OpenAI Daybreak를 통해 Check Point는 새로운 보안 보호에 대한 연구를 가속화하여 분석가가 취약점 인텔리전스를 고객 방어로 더 빠르게 전환할 수 있도록 합니다.",
+     "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+     "desc_en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+     "at": "2026-10-28 16:17",
+     "desc": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 사실적으로 구현하고, 제미나이의 추론 능력을 결합해 복잡한 사건을 여러 단계에 걸쳐 시뮬레이션할 수 있도록 개선했다. 게임과 영상 제작은 물론 로봇과 AI…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216709",
+     "at": "2026-10-28 00:48",
+     "desc": "KT(대표 박윤영)가 국내외 500개 이상의 AI 모델을 하나의 플랫폼에서 선택·관리·결제할 수 있는 기업용 ‘KT 토큰팩토리' 서비스를 출시한다.KT는 오는 30일 KT 토큰팩토리를 출시하고 고객의 AX를 지원하는 신성장 사업으로 육성할 것이라고 27일 밝혔다. 지난 7월 박윤영 대표가 취임 후 신사업으로 제시한 지 약 4개월 만의 상용화이다.핵심은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배”",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216710",
+     "at": "2026-10-28 00:59",
+     "desc": "애플이 유기발광다이오드(OLED) 디스플레이와 차세대 'A20 프로(Pro)' 칩을 탑재한 신형 아이패드 미니를 공개했다. 베젤을 줄여 화면 크기를 8.5인치로 키우고 두께와 무게를 줄이는 등 디자인을 개선했으며, 애플에 따르면 AI 처리 성능은 이전 세대의 최대 4.5배에 달한다.애플은 26일(현지시간) 공식 발표를 통해 신형 아이패드 미니를 선보였다.…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+     "at": "2026-10-27 17:01",
+     "desc": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GPT-6.1 솔’의 절반으로 책정하고, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.오픈AI는 26일(현지시간) 공식 블로그를…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Anthropic, 나스닥에 ‘ANT’로 상장 신청하고 S-1 증권신고서 공개",
+     "url": "https://news.hada.io/topic?id=36045",
+     "at": "2026-10-26 23:00",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "count": 10,
@@ -1205,76 +1301,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=216172",
      "at": "2026-10-13 02:00",
      "desc": "■ KT(대표 박윤영)는 서울 광화문빌딩에서 컨소시엄 참여사와 '모두의 AI 커넥트 서밋 2026'을 개최했다고 밝혔다. 업스테이지, 리벨리온, 래블업, 베슬AI, 모티프테크놀로지스, NC AI 등 17개 기업이 참석해 12월 정식 출시 예정인 '모두의 AI'의 개발 현황과 고도화 전략을 논의했다. 컨소시엄은 참여사의 AI 기술을 연계해 검색, 교육,…"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-13",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "Ai2, MoE 학습 효율 2.7배 높인 오픈소스 프레임워크 '올모 코어 3' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216173",
-     "at": "2026-10-13 02:54",
-     "desc": "AI 모델의 규모가 커질수록 학습에 필요한 GPU 자원과 비용이 늘어나는 가운데, 이를 해결하기 위한 오픈소스 기술 개발이 주목받고 있다. 모델의 성능뿐 아니라 제한된 컴퓨팅 자원으로 얼마나 효율적으로 학습할 수 있는지가 대규모 AI 개발의 핵심 과제로 떠오르고 있다. 앨런 AI 연구소(Ai2)는 최근 LLM 학습 효율을 높인 오픈소스 프레임워크 '올모…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216176",
-     "at": "2026-10-13 14:53",
-     "desc": "메타가 사용자 정보를 기억하고 복잡한 작업을 지속적으로 수행하는 데 초점을 맞춘 AI 모델 ‘뮤즈 원더(Muse Wonder)’와 ‘뮤즈 원더 풀(Muse Wonder Full)’을 공개했다. 독립 평가에서도 선두권 성능을 확보하며 오픈AI·앤트로픽과의 경쟁에 가세했다. 다만 가장 강력한 풀 모델은 자사 코딩 도구 구독자에게만 제공돼, 기술적 성과가 실제…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"말 한마디로 3D 기계 그려내\"...클로드 코드용 '아나토미' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216170",
-     "at": "2026-10-13 03:00",
-     "desc": "AI 코딩 도구를 활용해 기술 개념을 직접 조작할 수 있는 입체 시각화로 구현하는 '클로드 코드'용 오픈소스 스킬(Skill)이 공개됐다. 개발자 라이언(@wheresryan22)이 만든 ‘아나토미(Anatomy)’는 사용자가 한 줄의 아이디어를 입력하면, AI가 그 원리를 설명하는 기계나 장치를 구상하고 브라우저에서 작동하는 시각화 코드를 생성하도록…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오르카라우터, 100만 토큰 컨텍스트 지원 사이버 보안 모델 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216167",
-     "at": "2026-10-13 02:35",
-     "desc": "LLM 게이트웨이 플랫폼인 오프카라우터(OrcaRouter)가 단순히 보안상 문제를 찾아내는 것을 넘어 복잡한 공격 경로를 분석하고 취약점 수정까지 지원하는 사이버 보안 모델을 공개했다. 대규모 컨텍스트 창을 기반으로 방대한 코드베이스를 한 번에 분석하는 것이 특징이다.오르카라우터는 10일(현지시간) 취약점 탐지와 익스플로잇 개발 등 보안 연구에 특화된…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 코딩 에이전트(Claude Code·Codex·Gemini CLI) 세팅이 실패하는 15가지 패턴과 해결법",
-     "url": "https://news.hada.io/topic?id=35266",
-     "at": "2026-10-13 09:18",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 코딩 에이전트는 더 많은 코드를 만들지만, 더 많은 소프트웨어를 만들지는 못함",
-     "url": "https://news.hada.io/topic?id=35257",
-     "at": "2026-10-13 05:40",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "GLM-Legal - 계약 검토와 증거 분석, 법률 문서 작성을 위한 AI 모델",
-     "url": "https://news.hada.io/topic?id=35252",
-     "at": "2026-10-13 03:42",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Muse Wonder - 대화 간 기억과 장기 작업 수행을 강화한 Meta의 AI 모델",
-     "url": "https://news.hada.io/topic?id=35251",
-     "at": "2026-10-13 03:39",
-     "desc": ""
     }
    ]
   }
