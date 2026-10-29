@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "days": [
+  {
+   "date": "2026-10-29",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이자리 앱에서 몰입감 있는 탐험으로 새로운 주제에 대해 알아보세요.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+     "at": "2026-10-29 03:00",
+     "desc": "오늘, 우리는 새로운 쌍둥이자리 학생 허브에서 몰입형 탐험을 선보입니다.",
+     "title_en": "Dive into new topics with immersive explorations in the Gemini app.",
+     "desc_en": "Today, we are rolling out immersive explorations in the new Gemini student hub."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Legora는 법적 작업을 위한 에이전트 운영 체제를 구축하고 있습니다",
+     "url": "https://openai.com/index/legora",
+     "at": "2026-10-28 18:30",
+     "desc": "Legora가 OpenAI 모델, ChatGPT 및 Codex를 사용하여 법적 워크플로우를 가속화하고 계약 분석을 확장하며 무료 변호사를 통해 더 높은 가치의 업무에 집중하는 방법을 알아보세요.",
+     "title_en": "Legora is building the agentic operating system for legal work",
+     "desc_en": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI 및 ServiceNow는 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십을 확장합니다.",
+     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+     "at": "2026-10-28 22:15",
+     "desc": "OpenAI와 ServiceNow는 파트너십을 확장하여 OpenAI 모델 및 에이전트를 ServiceNow 및 ServiceNow 워크플로에 ChatGPT 및 Codex로 가져옵니다.",
+     "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+     "desc_en": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "쌍둥이자리 4 탄소: 우리의 차세대 프론티어 모델",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "at": "2026-10-29 02:00",
+     "desc": "",
+     "title_en": "Gemini 4 Carbon: Our next frontier model"
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "쌍둥이자리 4 탄소: 우리의 차세대 프론티어 모델",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+     "at": "2026-10-29 02:00",
+     "desc": "연마된 무지개 빛깔의 크리스탈은 플로팅 화이트 숫자 4로 둘러싸여 있습니다.",
+     "title_en": "Gemini 4 Carbon: our next frontier model",
+     "desc_en": "Faceted iridescent crystal surrounded by floating white number 4s."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "한 곳에서 연결된 앱 구축 및 관리",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+     "at": "2026-10-29 02:00",
+     "desc": "저녁 식사 예약을 확정하기 위해 Gemini에 연결되는 Google 검색 인터페이스를 보여주는 분할 화면 그래픽.",
+     "title_en": "Build and manage Connected Apps in one place",
+     "desc_en": "A split-screen graphic showing a Google search interface connecting to Gemini to confirm a dinner reservation."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "회사의 미래",
+     "url": "https://openai.com/index/the-future-of-the-firm",
+     "at": "2026-10-28 19:00",
+     "desc": "인공지능이 우리 아래, 옆, 그리고 우리 사이의 조직도에 어떻게 진입할 수 있을까.",
+     "title_en": "The future of the firm",
+     "desc_en": "How AI might enter the org chart—beneath, beside, and between us."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 비용 효율 20% 높인 차세대 보안 모델 'MAI 사이버 1.1 플래시' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216757",
+     "at": "2026-10-29 02:21",
+     "desc": "마이크로소프트(MS)가 사이버 보안용 AI 모델 'MAI 사이버 1.1 플래시(MAI Cyber 1.1 Flash)'를 공개했다. 기존 모델과 비슷한 취약점 탐지 성능을 유지하면서 스캔 당 비용을 18% 줄인 것이 특징이다. 개별 모델의 운영 비용을 낮추는 데 그치지 않고, 여러 AI 에이전트가 협력하는 취약점 탐지 시스템 전체의 효율성을 높이는 데…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216761",
+     "at": "2026-10-29 02:55",
+     "desc": "리퀴드 AI가 기업과 개인이 직접 관리하는 기기에서 AI 에이전트와 음성 비서, 이미지·영상 인식 기능을 실행할 수 있는 새로운 AI 모델 제품군 'LFM3'를 공개했다. 20억개 매개변수 규모의 소형 모델 6종으로 구성했으며, 기기 내에서 빠르게 실행하면서도 브라우저 자동화와 업무용 애플리케이션 제어 등 복잡한 작업을 처리하도록 설계했다.리퀴드 AI는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[AI 모델 신작] 바이두, 100페이지 이상 문서 읽는 OCR 공개 등 6종",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216762",
+     "at": "2026-10-29 01:57",
+     "desc": "■ 바이두, 수백페이지 문서 한 번에 분석하는 '언리미티드 OCR 2' 오픈소스 공개바이두가 수백 페이지에 달하는 긴 문서를 한 번에 읽고 분석할 수 있는 광학문자인식(OCR) 모델 ‘언리미티드 OCR 2(Unlimited OCR 2)’를 오픈소스로 공개했다. 매개변수 33억4000만개 규모의 비전언어모델(VLM)로, 문서의 문자뿐 아니라 표와 수식,…"
+    }
+   ]
+  },
   {
    "date": "2026-10-28",
    "count": 10,
@@ -1204,103 +1303,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=216219",
      "at": "2026-10-14 23:32",
      "desc": "정부 예산으로 구축한 AI 학습용 데이터의 공개가 의무화되고, 공공·민간에 흩어진 데이터를 한곳에서 검색할 수 있는 법적 기반이 마련된다.과학기술정보통신부(장관 배경훈)는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 AI 기본법 및 데이터산업법 개정안이 국무회의를 통과했다고 14일 밝혔다.AI 기본법 개정안은 정부 사업 등에서 구축된 AI 학습용…"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-14",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "이제 Gemini 4 Argon을 개발자가 사용할 수 있습니다.",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-     "at": "2026-10-14 01:00",
-     "desc": "Google Gemini 4 Argon으로 복잡한 소프트웨어 및 사이버 보안 워크플로우를 구축하세요. Gemini API 개발자 가이드를 확인하고 Google Antigravity 및 Android Studi를 읽어보세요.",
-     "title_en": "Gemini 4 Argon is now available for developers.",
-     "desc_en": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…"
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 4 Argon이 Gemini 앱으로 제공됩니다.",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-     "at": "2026-10-14 01:00",
-     "desc": "Gemini 4 Argon은 Google Gemini 앱에 프론티어 추론 및 에이전트 코딩을 제공합니다. Google AI Pro 및 Ultra 구독자는 이제 Gemini 4 Argon에 액세스할 수 있습니다.",
-     "title_en": "Gemini 4 Argon comes to the Gemini app.",
-     "desc_en": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "책임감 있고 안전하게 쌍둥이자리 4 아르곤 개발",
-     "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
-     "at": "2026-10-14 03:00",
-     "desc": "그라데이션 파란색 배경에 커다란 흰색 \"4\" 옆에 있는 쌍둥이자리 4 아르곤 로고",
-     "title_en": "Developing Gemini 4 Argon responsibly and safely",
-     "desc_en": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background"
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "로봇 공학용 쌍둥이자리 4 아르곤",
-     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-     "at": "2026-10-14 01:01",
-     "desc": "",
-     "title_en": "Gemini 4 Argon for Robotics"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "쌍둥이자리 4 아르곤: 가장 어려운 문제를 해결하기 위해 제작됨",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-     "at": "2026-10-14 01:00",
-     "desc": "TBD",
-     "title_en": "Gemini 4 Argon: Built to solve your hardest problems",
-     "desc_en": "TBD"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "힉스필드는 AI 동영상을 1분에서 10분 이상",
-     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-     "at": "2026-10-13 21:00",
-     "desc": "힉스필드는 GPT-6 Astra로 크리에이터에게 더 긴 동영상, GPT-Image-2.5로 정밀한 비주얼, GPT-Live로 음성 영화 제작의 길을 제시합니다.",
-     "title_en": "Higgsfield takes AI video from 1 minute to over 10",
-     "desc_en": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AI 업무 플랫폼 '팔레트 에이전트' 글로벌 출시…\"기획부터 앱 제작까지 통합 지원\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216199",
-     "at": "2026-10-13 22:58",
-     "desc": "AI 플랫폼 전문 팔레트가 23일 AI 에이전트 서비스 '팔레트 에이전트(Palette Agent)'를 글로벌 시장에 공식 출시했다고 밝혔다.글로벌 빅테크 기업들이 AI 에이전트 시장에 잇따라 진출하며 경쟁을 확대하는 가운데, 팔레트는 여러 AI 모델과 업무 도구를 연계하고 사용자가 필요한 앱을 직접 제작할 수 있는 통합 업무 환경을 제시했다. 개별 AI…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216213",
-     "at": "2026-10-14 02:17",
-     "desc": "멀티모달 AI 에이전트 도입이 가속화되는 가운데, 텍스트와 구조화된 데이터 처리에 국한됐던 기존 '의사결정' 모델이 이미지와 오디오, 비디오 등 다양한 입력 정보를 직접 이해하고 판단하는 멀티모달 모델로 빠르게 진화하고 있다.vLLM 시맨틱 라우터(vLLM Semantic Router) 개발팀은 11일(현지시간) 텍스트와 JSON뿐만 아니라 이미지까지…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"책 데이터도 '토큰 단위'로 산다\"...멘탯, AI 학습 도서 검색 서비스 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216215",
-     "at": "2026-10-14 01:30",
-     "desc": "AI 기업이 저작권 걱정 없이 정식 라이선스를 받은 도서 데이터를 손쉽게 찾아 활용할 수 있게 될 전망이다.멘탯(대표 전병욱)은 기업용 AI 학습 도서 검색 서비스 '멘탯 디스커버리'를 출시했다고 13일 밝혔다. AI 기업이 자사 서비스에 맞는 도서 데이터를 검색하고 검토부터 계약까지 진행할 수 있도록 지원한다.주요 기능은 ▲내용 기반 카테고리 분류…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "[게시판] KT '모두의 AI' 연내 출시 앞두고 중간 점검 등 단신",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216172",
-     "at": "2026-10-13 02:00",
-     "desc": "■ KT(대표 박윤영)는 서울 광화문빌딩에서 컨소시엄 참여사와 '모두의 AI 커넥트 서밋 2026'을 개최했다고 밝혔다. 업스테이지, 리벨리온, 래블업, 베슬AI, 모티프테크놀로지스, NC AI 등 17개 기업이 참석해 12월 정식 출시 예정인 '모두의 AI'의 개발 현황과 고도화 전략을 논의했다. 컨소시엄은 참여사의 AI 기술을 연계해 검색, 교육,…"
     }
    ]
   }
