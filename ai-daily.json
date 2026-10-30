@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "days": [
+  {
+   "date": "2026-10-30",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "프론티어 모델 오정렬 감지 방법",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+     "at": "2026-10-29 18:00",
+     "desc": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다.",
+     "title_en": "How we detect frontier model misalignment",
+     "desc_en": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "더 유능하고 유익한 AI를 위한 업데이트된 모델 사양",
+     "url": "https://openai.com/index/updated-model-spec",
+     "at": "2026-10-30 02:00",
+     "desc": "OpenAI의 업데이트된 모델 사양은 보다 유능한 AI를 건전한 판단, 인간적 선택의지, 인간적 의도에 대한 충실함으로 안내하기 위한 5가지 핵심 가치를 요약합니다.",
+     "title_en": "An updated Model Spec for more capable and beneficial AI",
+     "desc_en": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "이제 Gemini에서 직접 문서, PDF, 프레젠테이션, 스프레드시트 등을 생성, 미리보기 및 편집할 수 있습니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+     "at": "2026-10-30 01:15",
+     "desc": "Gemini에서 직접 PDF 또는 문서를 생성, 편집 및 미리보기할 수 있습니다. 오늘 새로운 전체 화면 편집기를 사용하여 파일을 다듬으세요. 쌍둥이 자리의 새로운 기능을 확인해 보세요.",
+     "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+     "desc_en": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini를 사용하여 이력서를 업데이트하는 방법",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+     "at": "2026-10-29 20:33",
+     "desc": "Gemini를 사용하여 미가공 노트를 충격이 큰 ATS 친화적인 이력서 총알로 바꾸세요. 전문 프로필을 연마하려면 다음 4단계를 따르세요. 자세한 내용을 확인하세요.",
+     "title_en": "How to use Gemini to update your resume",
+     "desc_en": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
+     "url": "https://openai.com/index/ropes-gray-ai-diligence",
+     "at": "2026-10-29 16:00",
+     "desc": "Ropes & Gray는 OpenAI와 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다.",
+     "title_en": "How Ropes & Gray is developing AI for transactional diligence",
+     "desc_en": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216798",
+     "at": "2026-10-30 01:50",
+     "desc": "카카오(대표 정신아)는 개인화 AI 에이전트의 기반 기술인 임베딩 모델 '카나나-2-임베딩’ 2종을 허깅페이스에 오픈소스로 공개했다고 29일 밝혔다.공개한 모델은 30억(3B) 매개변수 규모의 ‘카나나-2-3B-임베딩’과 13억(1.3B) 매개변수의 ‘카나나-2-1.3B-임베딩’ 등 2종이다. 텍스트의 의미를 수치화해 질문과 관련된 정보를 검색하는 모델에…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+     "at": "2026-10-30 15:16",
+     "desc": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰 외부 AI 서비스에 의존하지 않고 기업…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216779",
+     "at": "2026-10-30 02:50",
+     "desc": "엔비디아가 40개 언어의 음성을 텍스트로 변환하고 여러 사람이 겹쳐 말하는 상황에서도 화자를 구분하는 오픈웨이트 AI 모델을 공개했다. 자연어 명령으로 받아쓰기 방식을 지정할 수 있고, 전문용어와 고유명사 인식도 지원한다. 공개 음성 인식 모델 성능 평가에서 최고 수준의 정확도를 기록했다.엔비디아는 28일(현지시간) 음성 인식 AI 모델 '네모트론 3.5…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "SK AX, AI 기반 역량진단 솔루션 ‘지핏 스튜디오’ 출시...AI 인재 선발 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216775",
+     "at": "2026-10-29 21:20",
+     "desc": "SK AX는 실제 업무 기반 AI 시뮬레이션으로 지원자의 문제 해결·커뮤니케이션·AI 활용 역량을 종합 분석하는 '지핏 스튜디오(G-Fit Studio)'를 출시했다고 29일 밝혔다.지핏 스튜디오는 ‘비즈니스 문제 해결’과 ‘전략적 커뮤니케이션’ 등 두 단계로 진행된다. '비즈니스 문제 해결' 단계에서 지원자는 AI 에이전트와 대화하며 가설을 세우고 실행…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "NVIDIA Nemotron 3.5 Transcribe - 한국어 포함 40개 언어를 지원하는 공개 음성 인식 모델",
+     "url": "https://news.hada.io/topic?id=36196",
+     "at": "2026-10-29 09:06",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-29",
    "count": 10,
@@ -1205,104 +1301,6 @@
      "url": "https://news.hada.io/topic?id=35355",
      "at": "2026-10-15 02:39",
      "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-15",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "AMP는 AI 에이전트가 OpenAI 모델에서 코드 이상의 작업을 수행하도록 합니다.",
-     "url": "https://openai.com/index/amp-beyond-coding",
-     "at": "2026-10-14 21:00",
-     "desc": "Amp가 GPT-6 Astra, Ultrafast, GPT-Live-1 및 ChatGPT로 로그인하여 상담원이 할 수 있는 일의 최전선을 어떻게 밀어붙이는지 알아보세요.",
-     "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
-     "desc_en": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Third Moment Research가 36시간 이상 10,000명의 상담원을 운영하는 방법",
-     "url": "https://openai.com/index/third-moment-research",
-     "at": "2026-10-14 16:00",
-     "desc": "사이버 보안을 위해 GPT-6 Astra 및 GPT-6.1 SOL, CODEX 및 DAYBREAK를 사용하는 이 AI 연구소는 며칠 동안 집중하고 사용으로 개선하는 에이전트를 구축합니다.",
-     "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
-     "desc_en": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "Google DeepMind와 싱가포르 정부가 협력하여 사기 탐지를 위한 정밀 조정된 AI 모델을 구축합니다.",
-     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-     "at": "2026-10-14 11:00",
-     "desc": "Google DeepMind와 GovTech Singapore가 경량 온디바이스 Gemma 모델을 사용하여 클라우드 데이터 유출이 전혀 없는 비공개 채팅에서 대화형 사기를 차단하는 방법을 알아보세요.",
-     "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-     "desc_en": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "AI에서 EU의 다음 장은 agentic입니다.",
-     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-     "at": "2026-10-14 09:00",
-     "desc": "새로운 분석은 에이전트 AI 채택이 EU 기업과 중소기업에서 어떻게 성장하고 있는지, 그리고 더 깊은 사용이 더 많은 가치를 창출할 수 있는지를 보여줍니다.",
-     "title_en": "The EU’s next chapter in AI is agentic",
-     "desc_en": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "SentinelOne은 악성 소프트웨어 분석을 몇 주에서 몇 시간으로 단축합니다.",
-     "url": "https://openai.com/index/sentinelone",
-     "at": "2026-10-14 21:00",
-     "desc": "OpenAI Daybreak를 통해 SentinelOne은 몇 주에 걸친 악성 소프트웨어 분석을 몇 시간으로 단축하여 더 많은 위협을 조사할 수 있는 역량을 창출합니다.",
-     "title_en": "SentinelOne cuts malware analysis from weeks to hours",
-     "desc_en": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "책임감 있고 안전하게 쌍둥이자리 4 아르곤 개발",
-     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-     "at": "2026-10-14 04:43",
-     "desc": "",
-     "title_en": "Developing Gemini 4 Argon responsibly and safely"
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "쌍둥이자리 4 아르곤: 가장 어려운 문제를 해결하기 위해 제작됨",
-     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-     "at": "2026-10-14 01:01",
-     "desc": "",
-     "title_en": "Gemini 4 Argon: Built to solve your hardest problems"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽 차기 모델 ‘페이블 5.5’ 흔적 포착...\"이번 주 출시 예상\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216251",
-     "at": "2026-10-14 23:31",
-     "desc": "앤트로픽이 기존 서비스를 통해 차세대 AI 모델을 테스트 중이라는 관측이 나온 데 이어, 애저(Azure) 관련 설정에서 ‘클로드 페이블 5.5’의 흔적이 발견됐다는 소식이 전해졌다. 다만 앞서 테스트 중인 것으로 거론된 모델과 같은 모델인지, 실제 출시가 임박했는지는 확인되지 않았다.테스팅카탈로그는 13일(현지시간) X를 통해 애저 설정에서 클로드…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시...벤치마크서 '페이블 5' 제치고 1위",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216260",
-     "at": "2026-10-15 02:12",
-     "desc": "중국 Z.ai(지푸 AI)가 법률 문서 분석부터 최종 결과물 작성까지 수행하도록 설계한 특화 모델을 선보였다. 법률 에이전트 성능 평가에서 앤트로픽의 '클로드 페이블 5'와 문샷 AI의 '키미 K3'를 앞서는 성적을 거뒀다. Z.ai는 12일 계약 검토와 증거 분석, 규정 준수 조사 등 법률 실무에 특화한 AI 모델 'GLM-리걸(GLM-Legal)'을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216219",
-     "at": "2026-10-14 23:32",
-     "desc": "정부 예산으로 구축한 AI 학습용 데이터의 공개가 의무화되고, 공공·민간에 흩어진 데이터를 한곳에서 검색할 수 있는 법적 기반이 마련된다.과학기술정보통신부(장관 배경훈)는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 AI 기본법 및 데이터산업법 개정안이 국무회의를 통과했다고 14일 밝혔다.AI 기본법 개정안은 정부 사업 등에서 구축된 AI 학습용…"
     }
    ]
   }
