@@ -1,6 +1,98 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "days": [
+  {
+   "date": "2026-10-31",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치",
+     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+     "at": "2026-10-30 18:00",
+     "desc": "OpenAI는 확대된 안전 조치, 조기 개입 및 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다.",
+     "title_en": "Community safety report and new protections for teens",
+     "desc_en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "웹사이트가 AI 교육 선호도를 쉽게 표현할 수 있도록 지원",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "at": "2026-10-30 18:30",
+     "desc": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹 사이트 운영자가 AI 교육 선호 사항을 참여 제공자에게 전달할 수 있도록 지원합니다.",
+     "title_en": "Making it easier for websites to express AI training preferences",
+     "desc_en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "공정 사용은 모두에게 이익이 됩니다",
+     "url": "https://openai.com/index/fair-use-benefits-everyone",
+     "at": "2026-10-30 09:00",
+     "desc": "OpenAI는 창작자, 학자, 접근성 옹호자, 법률 전문가 등이 공정 사용이 AI 교육 및 혁신을 지원하는 방법에 대해 법원 브리핑에서 발췌한 내용을 공유합니다.",
+     "title_en": "Fair use benefits everyone",
+     "desc_en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+     "at": "2026-10-30 16:21",
+     "desc": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
+     "at": "2026-10-30 02:08",
+     "desc": "앤트로픽이 기업 법무팀의 계약서 검토와 법률 조사 등을 자동화하는 도구를 출시했다. 법률 문서를 분석해 계약 조건의 문제점을 찾아내고, 여러 국가의 관련 법규를 비교하거나 규제 변화와 법무 요청을 추적하는 기능을 제공한다.앤트로픽은 28일(현지시간) 기업용 법률 AI 서비스 ‘클로드 포 리걸(Claude for Legal)’에 법무 업무용…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216792",
+     "at": "2026-10-30 01:05",
+     "desc": "앤트로픽이 기업의 AI 투자 효과를 분석하는 도구를 출시했다. 단순한 AI 사용량을 넘어 실제 업무에서 어떤 성과를 냈는지, 비용은 얼마나 들었는지 파악할 수 있도록 지원한다. 기업들의 AI 도입이 늘면서 투자 대비 효과를 측정하고 지출을 효율적으로 관리하려는 수요를 겨냥한 것이다.앤트로픽은 28일(현지시간) 기업용 AI 서비스 ‘클로드…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+     "at": "2026-10-30 15:52",
+     "desc": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: korea-data-mcp – AI 에이전트가 한국 공공 API를 틀리게 읽지 않도록 해주는 MCP 서버",
+     "url": "https://news.hada.io/topic?id=36277",
+     "at": "2026-10-30 13:47",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 어전 – Claude Code 터미널을 픽셀 조선 궁궐로 감싼 로컬 도구 (서브에이전트·권한 요청 시각화)",
+     "url": "https://news.hada.io/topic?id=36314",
+     "at": "2026-10-31 09:22",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
+     "url": "https://news.hada.io/topic?id=36295",
+     "at": "2026-10-31 00:34",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "count": 10,
@@ -1218,88 +1310,6 @@
      "title": "Krea 3 - 필요한 부분만 바꾸는 고속 이미지 편집 모델",
      "url": "https://news.hada.io/topic?id=35433",
      "at": "2026-10-16 04:40",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-16",
-   "count": 9,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "학생들에게 질문을 통해 생각하고 배우도록 가르치기",
-     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-     "at": "2026-10-15 22:00",
-     "desc": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요.",
-     "title_en": "Teaching students to think and learn through questions",
-     "desc_en": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "학술 연구실에 GPT-Rosalind 도입",
-     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-     "at": "2026-10-16 04:00",
-     "desc": "Rosalind Academic Plan을 소개합니다. GPT-Rosalind에 대한 자격을 갖춘 학술 실험실 후원 액세스 및 생명 과학 연구를 발전시키는 도구를 제공합니다.",
-     "title_en": "Bringing GPT-Rosalind to academic research labs",
-     "desc_en": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리퀴드 AI, 플래그십 모델 'LFM2.5-24B-A2B' 공개...\"온디바이스 에이전트 겨냥\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216299",
-     "at": "2026-10-16 02:39",
-     "desc": "독창적인 아키텍처와 빠른 속도로 주목받아 온 리퀴드 AI가 지금까지 선보인 모델 중 가장 큰 규모인 플래그십 모델을 선보였다. 복잡한 추론과 도구 사용을 지원하면서도 기기 내에서 빠르게 실행할 수 있어 개인정보 보호가 중요한 온디바이스 AI 에이전트 구현에 초점을 맞췄다.리퀴드 AI는 13일(현지시간) LFM2.5 제품군의 최종 모델인…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "30만달러 사후 학습으로 ‘페이블 5’ 넘었다…‘울트라마린 1 플래시’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
-     "at": "2026-10-16 00:03",
-     "desc": "5명으로 구성된 연구팀이 30만달러(약 4억원)를 들여 기존 오픈소스 모델을 추가 학습하고, 지식 작업 벤치마크 일부에서 ‘클로드 페이블 5’를 넘어선 결과를 공개했다. 자체 평가에서는 작업당 비용을 페이블 5의 약 63분의 1로 낮추면서도 더 높은 점수를 기록했다.페이퍼 인스트루먼츠는 14일(현지시간) 전문 지식 작업에 특화된 AI 모델 ‘울트라마린 1…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216309",
-     "at": "2026-10-16 15:17",
-     "desc": "메타가 복잡한 코딩과 여러 단계에 걸친 작업을 개인용 컴퓨터에서 수행하는 데 초점을 맞춘 오픈웨이트 모델 ‘뮤즈 스파크 오픈(Muse Spark Open)’을 공개했다. 8160억개의 매개변수를 갖춘 멀티모달 모델로, 애플과 협력해 맥 스튜디오 두 대를 연결한 환경에서 실행하도록 최적화했다.메타는 15일(현지시간) 뮤즈 스파크 오픈의 가중치를 공개하고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "스페이스XSI, 최고 성능 '그록 보이스 3.0' 공개...\"실무 전화 해결률 1위\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216297",
-     "at": "2026-10-16 02:55",
-     "desc": "AI 음성 기술 경쟁이 실제 고객 서비스 현장에서 성능과 비용 효율성을 겨루는 단계로 접어들었다. 스페이스X의 AI 사업 부문이 빠른 응답 속도와 높은 통화 처리 성능을 앞세워 음성 AI 시장 공략에 나섰다.스페이스XSI는 14일(현지시간) 지능형 음성 모델 ‘그록 보이스 3.0(Grok Voice 3.0)’을 공개했다.고객 지원 전화 해결률에서 역대…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenCode 2.0 - Code Mode와 백그라운드 에이전트, 단일 서비스 구조 도입",
-     "url": "https://news.hada.io/topic?id=35371",
-     "at": "2026-10-15 08:36",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI 에이전트가 ‘통제 불능’이 된 게 아니다. 프론티어 AI 랩들이 보안의 기본을 건너뛰고 있다",
-     "url": "https://news.hada.io/topic?id=35357",
-     "at": "2026-10-15 03:42",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "게임 개발용 AI 하네스를 설계하는 방법",
-     "url": "https://news.hada.io/topic?id=35355",
-     "at": "2026-10-15 02:39",
      "desc": ""
     }
    ]
