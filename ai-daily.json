@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "days": [
+  {
+   "date": "2026-11-03",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "계통 보호기 프로그램 소개",
+     "url": "https://openai.com/index/grid-protectors-program",
+     "at": "2026-11-03 00:00",
+     "desc": "OpenAI의 계통 보호 프로그램 (Grid Protectors Program) 은 미래의 컴퓨팅 캠퍼스가 계통 신뢰성을 지원하고 소비자 전기 비용을 보호할 수 있도록 유틸리티와 협력할 것입니다.",
+     "title_en": "Introducing the Grid Protectors Program",
+     "desc_en": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "2026년 10월에 발표한 최신 AI 뉴스",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+     "at": "2026-11-03 02:45",
+     "desc": "10월 AI 게시물 이미지 애니메이션 캐러셀",
+     "title_en": "The latest AI news we announced in October 2026",
+     "desc_en": "Animated carousel of images from AI posts in October"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Qodo는 Codex와 함께 AI 코드 검토에 컨텍스트를 구축합니다",
+     "url": "https://openai.com/index/qodo-codex-plugin",
+     "at": "2026-11-02 09:00",
+     "desc": "Qodo는 코덱스에 회사 지식과 코딩 표준을 도입하여 개발자가 끌어오기 요청을 열기 전에 저장소 전반에서 P0 문제를 파악할 수 있도록 지원합니다.",
+     "title_en": "Qodo builds context into AI code review with Codex",
+     "desc_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "더 큰 버그 현상금으로 방어자에게 보상하기",
+     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+     "at": "2026-11-03 03:00",
+     "desc": "OpenAI는 보안 버그 보상금을 인상하고 독립 보안 연구원을 위한 보고서 품질, 충성도 및 우선 캠페인 보너스를 도입하고 있습니다.",
+     "title_en": "Rewarding defenders with bigger bug bounties",
+     "desc_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI에서 Git 확장",
+     "url": "https://openai.com/index/scaling-git-at-openai",
+     "at": "2026-11-03 00:30",
+     "desc": "OpenAI가 Git 호환 백엔드인 Pando를 구축한 방법은 Codex가 가능하게 하는 개발 규모에 맞게 설계되었습니다.",
+     "title_en": "Scaling Git at OpenAI",
+     "desc_en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "미소스 5.5·GPT-6.2 아스트라 잇달아 포착…최첨단 모델 출시설",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216894",
+     "at": "2026-11-02 21:45",
+     "desc": "앤트로픽과 오픈AI가 차세대 첨단 AI 모델 출시를 준비하고 있다는 정황이 잇따라 포착됐다. 두 회사 모두 기존 주요 모델을 공개한 지 약 두 달밖에 지나지 않은 가운데 새로운 모델의 이름이 등장하면서, 최첨단 AI 모델의 교체 주기에도 관심이 쏠리고 있다.테스팅카탈로그는 1일(현지시간) 앤트로픽의 공식 웹사이트에서 '클로드 미소스 5.5'라는 모델…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
+     "at": "2026-11-03 02:41",
+     "desc": "마이크로소프트(MS)와 UC버클리 연구진이 AI 코딩 에이전트의 작업 성공률을 유지하면서 모델 이용 비용을 최대 30.9% 줄이는 오픈소스 도구를 공개했다. 이전 작업에서 얻은 정보를 재활용하고 불필요한 도구 호출과 반복적인 실패를 줄이는 방식으로, AI 모델 자체를 수정하지 않고도 운영 비용을 낮출 수 있다는 것이 특징이다.연구진은 최근 논문 사전 공개…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아, 잡음·울림 제거하는 초경량 음성 복원 AI 공개…대형 모델 능가",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216899",
+     "at": "2026-11-03 01:29",
+     "desc": "엔비디아가 잡음과 울림, 음성 잘림, 압축 손상 등으로 품질이 크게 떨어진 음성을 복원하는 초경량 AI 모델을 공개했다. 특히 매개변수 960만 개만으로 대규모 음성 향상 모델을 압도하는 성능을 보였으며, 실시간 처리와 다양한 녹음 환경 및 언어를 지원하는 것이 특징이다.엔비디아는 30일(현지시간) 범용 음성 향상 모델 ‘네모트론랩스…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "비드래프트, AI가 스스로 해제 못 하는 '킬스위치' 개발…보안 OS 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216938",
+     "at": "2026-11-03 20:05",
+     "desc": "AI 전문 비드래프트(대표 김민식)가 AI 모델 내부에 정지 회로를 구현한 보안 운영체제(OS) 'ViKernel'을 공개했다. AI가 대화나 추가 학습을 통해 정지 명령을 무력화하지 못하도록 설계한 것이 핵심이다. AI가 스스로 코드를 수정하고 성능을 개선하는 기술이 발전하면서 통제 장치까지 변경하는 상황을 막기 위한 시도다.비드래프트는 AI 모델의…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
+     "url": "https://news.hada.io/topic?id=36491",
+     "at": "2026-11-03 09:02",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "count": 8,
@@ -1220,76 +1316,6 @@
      "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
      "url": "https://news.hada.io/topic?id=35590",
      "at": "2026-10-19 03:44",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-19",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리퀴드 AI, 제브 성능 앞선 멀티모달 의사결정 모델 ‘d1-울트라’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216371",
-     "at": "2026-10-19 02:13",
-     "desc": "리퀴드 AI가 기존 선두 모델인 '제브(Jev)'를 성능 평가에서 앞선 멀티모달 의사결정 모델 'd1-울트라(d1-ultra)'를 공개했다. 텍스트와 이미지를 함께 분석하는 것은 물론, 판단 정확도와 확률값의 신뢰도를 높인 것이 특징이다. 독립 평가에서도 의사결정 모델 가운데 1위를 기록했다.리퀴드 AI는 15일(현지시간) d1-울트라를 공개하고 자사의…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216370",
-     "at": "2026-10-18 18:03",
-     "desc": "딥시크가 코딩과 에이전트 성능을 높이면서 작업 시간과 출력 분량을 줄인 AI 모델을 공개했다. API 이용 단가는 유지하고 작업에 필요한 토큰을 줄여, 실제 사용 비용을 낮추는 데 초점을 맞췄다. 자체 평가에서는 일부 소프트웨어 개발·자동화 작업에서 오픈AI와 앤트로픽 모델을 앞선 결과가 나왔다.‘딥시크…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "순천만천문대 ‘밤새워 내 별 찾기’…초등교사 2년 연속 참여",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216316",
-     "at": "2026-10-18 18:50",
-     "desc": "AI 생성 영상순천만천문대의 천문관측 프로그램 ‘밤새워 내 별 찾기’에 한 초등학교 교사가 학생들과 2년 연속 참여했다.순천시는 해당 교사가 지난해 7월 동아리 학생들과 프로그램에 참여한 데 이어 올해 10월 새로운 학생들과 다시 순천만천문대를 찾았다고 16일 밝혔다.이 교사는 학생들이 교실에서 배우는 지식을 넘어 친구들과 함께 자연을 경험하고 오래…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
-     "at": "2026-10-18 04:47",
-     "desc": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만 선택해 수정하거나 원하는 위치에 요소를…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: memopro - 메모리보다 큰 LLM, 데이터 등의 작업을 결과 변화 없이 정해진 메모리 안에서 실행하는 Pyth...",
-     "url": "https://news.hada.io/topic?id=35584",
-     "at": "2026-10-19 01:56",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "예전의 내 일은 이제 멀게 느껴진다 - AI 에이전트와 달라진 개발 업무",
-     "url": "https://news.hada.io/topic?id=35541",
-     "at": "2026-10-18 03:45",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "우리는 소프트웨어 엔지니어다 - AI 고민도 결국 우리가 늘 하던 일",
-     "url": "https://news.hada.io/topic?id=35564",
-     "at": "2026-10-18 14:10",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Linux 7.2 개발 통계 - 기여자 2,652명으로 역대 최다, LLM 지원 패치도 증가",
-     "url": "https://news.hada.io/topic?id=35551",
-     "at": "2026-10-18 06:47",
      "desc": ""
     }
    ]
