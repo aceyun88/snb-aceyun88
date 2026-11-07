@@ -1,6 +1,99 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "days": [
+  {
+   "date": "2026-11-07",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "인공지능 에이전트가 매일 습식 실험실 과학을 다루는 방법 측정",
+     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+     "at": "2026-11-06 09:00",
+     "desc": "OpenAI는 인공지능 에이전트가 원시 실험 데이터를 얼마나 잘 해석하고 일상적인 습식 실험 과학을 다루는지 측정하는 100가지 작업 벤치마크인 BioBasicsBench를 소개합니다.",
+     "title_en": "Measuring how AI agents handle everyday wet-lab science",
+     "desc_en": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "호주 대학은 AI 네이티브 졸업생을 배출하고 있습니다.",
+     "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+     "at": "2026-11-06 02:00",
+     "desc": "호주 대학들은 ChatGPT에 대한 접근성을 확대하고 학생들에게 AI 지원 인력을 준비시키기 위해 AI를 교육 및 학습에 도입하고 있습니다.",
+     "title_en": "Australian universities are creating AI-native graduates",
+     "desc_en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기",
+     "url": "https://openai.com/index/partnering-with-hacktron",
+     "at": "2026-11-06 17:00",
+     "desc": "OpenAI는 Hacktron과 협력하여 취약점을 찾고, 타사 서비스와의 연결을 테스트하고, 프론티어 AI로 방어를 강화하고 있습니다.",
+     "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+     "desc_en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Gemini Omni 1.2 플래시: 더 긴 클립으로 빠르고 비용 효율적",
+     "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+     "at": "2026-11-06 02:05",
+     "desc": "",
+     "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "카카오, 의사결정 모델 ‘카나나-2-v-디사이드’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217087",
+     "at": "2026-11-06 22:10",
+     "desc": "타입세이프 AI의 ‘제브’와 업스테이지의 ‘솔라 디사이드’에 이어 카카오도 AI 에이전트용 의사결정 모델을 내놨다.카카오(대표 정신아)는 AI 의사결정 지원용 멀티모달 모델 ‘카나나-2-v-디사이드’를 허깅페이스에 오픈소스로 공개했다고 6일 밝혔다.의사결정 모델은 문장 대신 확률과 선택 및 점수 등 규격화된 형태로 판단 결과를 제공해 AI 에이전트의…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+     "at": "2026-11-07 02:21",
+     "desc": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고,…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217104",
+     "at": "2026-11-07 01:41",
+     "desc": "구글이 동영상 생성 AI의 최대 영상 길이를 15초로 늘리고 가격을 30% 인하했다. 기존 영상을 대화로 수정하는 기능과 참조 이미지의 일관성도 개선해 광고 등 상업용 영상 제작에 활용할 수 있도록 했다.구글은 5일(현지시간) 동영상 생성 AI 모델 ‘제미나이 옴니 1.2 플래시(Gemini Omni 1.2 Flash)’를 출시했다.이번 모델은 제미나이…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "약 2만 달러로 학습한 이미지 생성 모델 P-JiT, 코드와 가중치 공개",
+     "url": "https://news.hada.io/topic?id=36694",
+     "at": "2026-11-06 14:33",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
+     "at": "2026-11-07 01:10",
+     "desc": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있으며, 아바타는 대화 내용과 말투에 맞춰 표정과 몸짓을 바꾼다.메타는 5일(현지시간) '뮤즈 리얼타임 보이스(Muse Realtime Voice)'와 '뮤즈 리얼타임 아바타(Muse…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: K-Humanizer - 한국 고객과 자연스럽게 소통하기 위한 한국어 Agent Skill",
+     "url": "https://news.hada.io/topic?id=36707",
+     "at": "2026-11-06 23:09",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "count": 10,
@@ -1236,96 +1329,6 @@
      "title": "Codex와 함께 닌텐도 Switch 2 탈옥하기",
      "url": "https://news.hada.io/topic?id=35815",
      "at": "2026-10-22 22:38",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Uber는 OpenAI를 통해 모든 직원에게 ChatGPT Work를 제공합니다.",
-     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-     "at": "2026-10-22 09:00",
-     "desc": "Uber는 30,000명 이상의 직원을 대상으로 ChatGPT Work를 도입하여 팀이 데이터를 조사, 분석하고 프레젠테이션을 만들고 복잡한 워크플로를 완료할 수 있도록 지원합니다.",
-     "title_en": "Uber brings ChatGPT Work to all employees with OpenAI",
-     "desc_en": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "일관된 표준을 통한 폭넓은 액세스",
-     "url": "https://openai.com/index/broad-access-through-consistent-standards",
-     "at": "2026-10-22 06:00",
-     "desc": "OpenAI가 배포 파트너와 협력하여 일관된 보호 조치를 유지하고, 책임감 있는 액세스를 지원하며, 사용 정책에서 기대치를 명확히 하는 방법.",
-     "title_en": "Broad access through consistent standards",
-     "desc_en": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216528",
-     "at": "2026-10-23 02:40",
-     "desc": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 '플로라(Flora)'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216536",
-     "at": "2026-10-23 00:15",
-     "desc": "세계 최대 유통업체 월마트가 AI 에이전트의 대리 구매를 지원하는 전용 플랫폼을 공개했다. 외부 AI의 쇼핑을 허용하는 데서 나아가 구매 권한과 지출 한도, 반품 규칙까지 마련하며 에이전트 쇼핑이 주요 구매 방식으로 자리 잡을 것에 대비하고 있다.월마트는 21일(현지시간) 공식 발표를 통해 ‘월마트 에이전트 게이트웨이’와 ‘에이전트 프로필’을 도입한다고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
-     "at": "2026-10-23 02:48",
-     "desc": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216544",
-     "at": "2026-10-23 02:30",
-     "desc": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
-     "url": "https://news.hada.io/topic?id=35775",
-     "at": "2026-10-22 07:46",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
-     "url": "https://news.hada.io/topic?id=35824",
-     "at": "2026-10-23 01:58",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
-     "url": "https://news.hada.io/topic?id=35785",
-     "at": "2026-10-22 09:10",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
-     "url": "https://news.hada.io/topic?id=35773",
-     "at": "2026-10-22 07:40",
      "desc": ""
     }
    ]
