@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "days": [
+  {
+   "date": "2026-11-08",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217114",
+     "at": "2026-11-07 18:55",
+     "desc": "AI 전문 예진(대표 고종현)은 한국어에 특화된 80억 매개변수 파운데이션 모델 ‘예진 8B v3’를 개발했다고 6일 밝혔다.예진 8B v3는 해외 공개 모델의 가중치를 쓰지 않고, 토크나이저 설계부터 사전학습까지 전 과정을 직접 수행한 프롬 스크래치 모델이다. 공개 모델 6종과 가중치를 비교한 결과, 유사도가 0.0014 이하로 기존 모델을 미세조정한…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+     "at": "2026-11-08 02:45",
+     "desc": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
+     "at": "2026-11-08 02:08",
+     "desc": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 플래시 베이스(ERNIE 5.5…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+     "at": "2026-11-08 18:51",
+     "desc": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Epoch Idle – AI 모델 훈련 과정을 시뮬레이션하는 방치형 웹/모바일 게임",
+     "url": "https://news.hada.io/topic?id=36764",
+     "at": "2026-11-08 01:27",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Software Line Specialist - AI가 못 고친 코드를 고치는 사람을 구합니다",
+     "url": "https://news.hada.io/topic?id=36742",
+     "at": "2026-11-07 18:01",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
+     "url": "https://news.hada.io/topic?id=36741",
+     "at": "2026-11-07 17:10",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
+     "url": "https://news.hada.io/topic?id=36733",
+     "at": "2026-11-07 09:40",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-07",
    "count": 10,
@@ -1235,100 +1305,6 @@
      "title": "Ask HN: 모델이 그렇게 뛰어나다면, OpenAI는 왜 직접 회사 100개를 세우지 않을까?",
      "url": "https://news.hada.io/topic?id=35862",
      "at": "2026-10-23 21:35",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-24",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "프론티어 모델 교육 환경 확보",
-     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-     "at": "2026-10-23 19:00",
-     "desc": "OpenAI는 오프라인 환경 및 고성능 레드팀을 포함하여 프론티어 모델 교육 및 평가를 위한 봉쇄를 강화한 방법을 설명합니다.",
-     "title_en": "Securing our frontier model training environment",
-     "desc_en": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장 (파트 II)",
-     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-     "at": "2026-10-24 02:00",
-     "desc": "OpenAI가 안정적인 멀티 테넌시, 글로벌 캐싱 및 Azure Cosmos DB를 통해 Habitat을 확장하여 ChatGPT에 대해 12배 빠른 읽기를 제공하는 방법을 알아보십시오.",
-     "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-     "desc_en": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 4 Argon으로 5명의 빌더가 만드는 것을 확인하세요",
-     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
-     "at": "2026-10-24 01:00",
-     "desc": "쌍둥이자리 4 아르곤으로 5개의 빌드를 보여주는 콜라주",
-     "title_en": "See what 5 builders are making with Gemini 4 Argon",
-     "desc_en": "Collage showing five builds with Gemini 4 Argon"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI와 폴란드의 NASK 파트너, AI 안전 및 보안 강화",
-     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-     "at": "2026-10-23 09:00",
-     "desc": "OpenAI와 폴란드의 NASK는 안전 장치를 강화하고 보다 탄력적인 디지털 생태계를 지원하기 위해 AI 안전, 보안 및 기술 연구를 협력하고 있습니다.",
-     "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-     "desc_en": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216591",
-     "at": "2026-10-24 02:36",
-     "desc": "아마존웹서비스(AWS)가 기업이 GPU 인프라를 직접 관리하지 않고도 AI 모델의 학습 과정을 세밀하게 제어할 수 있는 기능을 선보였다. AI가 어떤 방식으로 답변을 생성하고 결과를 평가해 학습할지 개발자가 직접 설계하면, GPU 자원 할당과 학습 실행은 AWS가 맡는 방식이다. 기업별 업무에 특화된 AI 에이전트 개발을 간소화하려는 목적이다.AWS는…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "[AI 모델 신작] 드림랩스·앤트그룹·일레븐랩스, 로봇·음성 AI 공개 등 8종",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216580",
-     "at": "2026-10-23 23:40",
-     "desc": "■ 드림랩스, 처음 보는 로봇도 조종하는 ‘드림-1’ 공개드림랩스가 별도 추가 학습이나 시범 데이터 없이 새로운 로봇을 제어하는 ‘드림-1(Dream-1)’을 공개했다. 두 팔과 평행 집게를 갖춘 로봇을 API에 연결하면 물건 옮기기와 서랍 닫기 등의 작업을 수행하도록 설계했다. 회사는 학습에 쓰지 않은 로봇과 작업에도 대응하는 ‘월드 액션 모델’이라고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "캔바, 프론티어급 이미지 모델 '크래프트' 공개…디자인 아레나 4위 올라",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216589",
-     "at": "2026-10-24 02:51",
-     "desc": "디자인 플랫폼 캔바(Canva)가 자체 개발한 이미지 생성 모델을 선보였다. 사진을 그럴듯하게 만드는 데 그치지 않고 디자인 구성과 글자 배치까지 이해하도록 설계해, 생성한 이미지를 곧바로 편집 가능한 디자인으로 활용할 수 있도록 하는 것이 특징이다.캔바는 22일(현지시간) 이미지 생성 모델 ‘캔바 크래프트(Canva Craft)’를 공개했다. 모델은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
-     "at": "2026-10-24 03:59",
-     "desc": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간)…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
-     "url": "https://news.hada.io/topic?id=35847",
-     "at": "2026-10-23 10:11",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Codex와 함께 닌텐도 Switch 2 탈옥하기",
-     "url": "https://news.hada.io/topic?id=35815",
-     "at": "2026-10-22 22:38",
      "desc": ""
     }
    ]
