@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "days": [
+  {
+   "date": "2026-11-10",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "이제 AWS Marketplace에서 ChatGPT Enterprise를 사용할 수 있습니다",
+     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+     "at": "2026-11-10 04:00",
+     "desc": "이제 AWS Marketplace를 통해 ChatGPT Enterprise를 사용할 수 있으므로 조직은 기존 AWS 구매 및 청구 관계를 통해 조달을 간소화할 수 있습니다.",
+     "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+     "desc_en": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "제어실: 연구 인프라 전반에 걸친 모델 작업 부하를 추적하고 중지하는 중앙 시스템",
+     "url": "https://openai.com/index/control-room",
+     "at": "2026-11-09 22:00",
+     "desc": "OpenAI의 Control Room이 연구 인프라 전반에 걸친 모델 작업 부하를 추적하고 안전 또는 보안 문제가 발생할 때 이를 신속하게 차단하는 방법을 알아보세요.",
+     "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "desc_en": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "CodeRabbit은 에이전트 소프트웨어 개발을 확장하고 20배 더 출하합니다.",
+     "url": "https://openai.com/index/coderabbit-codex-daybreak",
+     "at": "2026-11-09 17:00",
+     "desc": "CodeRabbit은 OpenAI 모델을 사용하여 AI로 생성된 코드를 관리하고 신뢰하며, Codex는 동일한 엔지니어링 팀과 함께 20배 더 많은 소프트웨어를 제공합니다.",
+     "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+     "desc_en": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Kuken Industries는 70년의 도면을 몇 분 만에 검색합니다.",
+     "url": "https://openai.com/index/kuken",
+     "at": "2026-11-09 17:00",
+     "desc": "Kuken Industries는 OpenAI API를 사용하여 70년의 냉각탑 도면을 검색합니다. 엔지니어는 수리를 위한 도면을 거의 한 시간에서 4.5분 만에 찾을 수 있습니다.",
+     "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+     "desc_en": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[11월9일] 중국 AI, 미국 모델 따라잡았다지만…오픈AI·앤트로픽엔 미공개 모델 있다",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217162",
+     "at": "2026-11-10 16:00",
+     "desc": "중국 AI 기업들이 최근 신제품을 출시할 때 오픈AI와 앤트로픽의 최첨단 모델을 따라잡거나 일부 성능에서 앞섰다고 강조하는 일이 늘고 있습니다. 앤트그룹은 지난 5일 멀티모달 AI 모델 '링 3.2 플래시'를 발표하며 문서 이해와 시각 추론 등 일부 평가에서 '클로드 오퍼스 5'를 앞섰다고 밝혔습니다. 문샷 AI도 지난달 공개한 '키미 K3.1 프로'가…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217179",
+     "at": "2026-11-10 03:03",
+     "desc": "구글이 AI 코딩 에이전트의 설계와 검토 과정을 개선하기 위한 '코끼리-금붕어 모델(EGM)' 플러그인을 오픈소스로 공개했다. 코드를 작성하기 전에 상세한 설계 명세서를 만들고, 대화 맥락이 없는 별도의 AI 에이전트가 이를 독립적으로 검토하도록 하는 것이 핵심이다. 설계에 참여한 AI가 자신의 잘못된 가정을 그대로 받아들이는 문제를 줄이고, 코드 구현…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 생명과학 AI 벤치마크 공개…GPT-6 아스트라 성능 23%P 향상",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217167",
+     "at": "2026-11-09 22:54",
+     "desc": "오픈AI가 실제 생명과학 실험실에서 AI 에이전트의 데이터 분석과 오류 탐지 능력을 측정하는 새로운 벤치마크를 공개했다. 최신 모델인 'GPT-6 아스트라'는 이전 모델보다 22.9%포인트 높은 점수를 기록했으며, 이번 연구는 오픈AI가 확대하고 있는 제약·바이오 기업용 AI 사업과도 연결된다.오픈AI는 6일(현지시간) 공식 블로그를 통해 생명과학 실험…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"말로 설명하면 영상 완성\"…딥브레인AI, 에이전트 탑재 AI스튜디오 5.0 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217165",
+     "at": "2026-11-09 21:21",
+     "desc": "딥브레인AI(대표 장세영)는 영상 기획에서 편집까지 대화만으로 수행할 수 있는 '비디오 에이전트'가 적용된 올인원 AI 영상 제작 플랫폼 'AI스튜디오 5.0'을 출시했다고 9일 밝혔다.비디오 에이전트는 사용자가 원하는 영상 내용을 대화 형식으로 설명하거나 문서를 올리면 구성안을 먼저 제안한다. 이어 대본·이미지·생성 영상·음성·AI 아바타를 결합해…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
+     "url": "https://news.hada.io/topic?id=36920",
+     "at": "2026-11-10 09:44",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Fable 5.2와 Mythos 5.2 - 복잡한 코딩과 과학 연구 역량을 강화한 AI 모델",
+     "url": "https://news.hada.io/topic?id=36896",
+     "at": "2026-11-10 04:45",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "count": 8,
@@ -1236,76 +1330,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=216683",
      "at": "2026-10-27 03:12",
      "desc": "허깅페이스가 DNA 서열을 입력하면 유전자 변이의 영향을 예측하고 그 이유를 말로 설명하는 AI 모델 ‘카본-X(Carbon-X)’를 공개했다. 자체 평가에서 대형 범용 AI에 근접한 점수를 기록하면서 추론 비용을 크게 낮췄다. 연구자가 자체 장비에서 실행할 수 있어 민감한 유전체 데이터를 외부 AI 서비스에 보내지 않고 분석할 수 있다는 점도…"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-26",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216625",
-     "at": "2026-10-26 01:50",
-     "desc": "엔비디아가 로컬에서 적은 메모리로 자연스러운 대화와 작업 수행이 가능한 경량 온디바이스 AI 모델을 선보였다. 이번 모델은 음성·비전 모델과 함께 구동되는 기기 내 AI 시스템과 게임, 로봇 분야의 개발자가 성능과 메모리 사용량 사이의 균형을 맞추는 데 초점을 맞췄다.엔비디아는 23일(현지시간) 약 4GB의 메모리 환경에서 실행할 수 있도록 설계한…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216627",
-     "at": "2026-10-26 01:32",
-     "desc": "리퀴드 AI가 AI를 검색과 결제 등 실시간 업무에 적용할 수 있도록 추론 속도를 높인 엔진을 공개했다. 기존 대형언어모델(LLM)의 응답 지연 때문에 고전적인 머신러닝 기법을 주로 사용했던 업무에 해당 엔진을 도입하는 것이 목표다.리퀴드 AI는 22일(현지시간) 실시간 추론 엔진 ‘RIPL(Real-time Inference Pipeline)’을…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216600",
-     "at": "2026-10-25 01:07",
-     "desc": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다.…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
-     "url": "https://news.hada.io/topic?id=35918",
-     "at": "2026-10-24 20:31",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216615",
-     "at": "2026-10-25 04:13",
-     "desc": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Sphinx - AI가 작성한 코드를 이해했는지 푸시 전에 퀴즈로 확인하는 도구",
-     "url": "https://news.hada.io/topic?id=35945",
-     "at": "2026-10-25 09:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "GPU-unlock - RTX 30 시리즈의 AI 연산 성능 제한을 해제하는 Linux 모듈",
-     "url": "https://news.hada.io/topic?id=35938",
-     "at": "2026-10-25 06:38",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "기술업계 밖에서는 아직 AI 투자 성과가 보이지 않는다",
-     "url": "https://news.hada.io/topic?id=35937",
-     "at": "2026-10-25 06:35",
-     "desc": ""
     }
    ]
   }
