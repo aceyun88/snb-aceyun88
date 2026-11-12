@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "days": [
+  {
+   "date": "2026-11-12",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Gilbert + Tobin, AI를 통해 법률 비즈니스 재고",
+     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+     "at": "2026-11-12 09:00",
+     "desc": "Gilbert + Tobin의 파트너이자 최고경영자인 Sam Nickless와의 대화.",
+     "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+     "desc_en": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Gemini Decisions API: 빠르고 보정된 다중 모드 의사 결정",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "at": "2026-11-12 03:00",
+     "desc": "최첨단 모델인 Gemini Decision이 제공하는 빠르고 정교한 멀티모달 의사결정을 위한 Gemini Decisions API를 만나보세요.",
+     "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+     "desc_en": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "재향군인 및 현역 군인을 위한 ChatGPT Plus",
+     "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+     "at": "2026-11-11 17:00",
+     "desc": "2만 명 이상의 재향군인과 전역을 앞둔 군인들이 1년간 무료로 제공되는 ChatGPT Plus를 신청했습니다. 이들이 민간 부문에서의 경력을 준비하기 위해 ChatGPT를 어떻게 활용하는지 알아보세요.",
+     "title_en": "ChatGPT Plus for veterans and servicemembers",
+     "desc_en": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "이제 Apple CarPlay에서도 Gemini와 대화해 보세요.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+     "at": "2026-11-12 02:00",
+     "desc": "Apple CarPlay에서 Gemini를 보여주는 MP4 동영상",
+     "title_en": "Talk it through with Gemini, now on Apple CarPlay",
+     "desc_en": "an MP4 video of Gemini in Apple CarPlay"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Tabletop 체험하기: 그룹이 함께 계획하고, 게임을 즐기고, 더 많은 활동을 할 수 있는 맞춤형 협업 공간입니다.",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+     "at": "2026-11-12 01:00",
+     "desc": "Tabletop은 그룹 협업을 위한 새로운 Google Labs 실험입니다. 팀과 함께 대화형 일정, 설문조사, 토너먼트 대진표를 만들어 보세요. 대기자 명단에 등록하세요.",
+     "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+     "desc_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "에스더 말랑구 박사의 예술과 유산을 경험해 보세요",
+     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+     "at": "2026-11-11 18:00",
+     "desc": "위트워터스랜드 대학교 위츠 예술대학 큐레이터, 대중 및 시각 문화학과 선임 강사인 논토베코 은톰벨라 박사의 사진",
+     "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+     "desc_en": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "JioStar의 수석 아키텍트가 전하는 5억 명 규모의 사용자 대상 AI 발견 사례",
+     "url": "https://openai.com/index/jiostar-vijay-seshadri",
+     "at": "2026-11-11 09:00",
+     "desc": "JioStar의 비제이 세샤드리(Vijay Seshadri)가 5억 명 규모의 사용자에게 AI를 도입한 경험을 설명합니다. 평가, 가드레일, AI를 실제 운영 환경에 도입하는 방법에 대한 그의 교훈을 읽어보세요.",
+     "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
+     "desc_en": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "'페이블 5.2' 프롬프트 가이드 공개…\"코드 맡기면 정리 5배 증가\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217271",
+     "at": "2026-11-12 03:05",
+     "desc": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하느냐에 따라 AI의 작업 방식이 크게 달라지는 것으로 나타났다.앤트로픽은 10일(현지시간) 공식 개발자 문서를 통해 페이블 5.2의 성능과 비용을 최적화하기 위한 프롬프트 가이드를 공개했다.…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, '제미나이 로보틱스 2.5' 공개…공장 작업 성공률 96%",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217274",
+     "at": "2026-11-12 02:51",
+     "desc": "구글이 실제 자동차 공장에서 휴머노이드 로봇의 작업 성공률을 96%까지 높인 새로운 물리적 AI 모델을 공개했다. 기존 모델보다 정교한 손동작과 작업 속도를 개선하고, 최신 AI 모델을 로봇 훈련에도 활용해 산업 현장 적용 가능성을 높였다.구글 딥마인드는 10일(현지시간) 공식 블로그를 통해 최신 비전-언어-행동(VLA) 모델 '제미나이 로보틱스…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, '제미나이 4 카본' 정식 출시…'페이블 5.2'의 4분의 1 가격",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217249",
+     "at": "2026-11-11 17:12",
+     "desc": "구글이 최상위 AI 모델 '제미나이 4 카본(Gemini 4 Carbon)'을 정식 출시했다. 최근 앤트로픽의 신형 모델에 AI 성능 평가 1위 자리를 내줬지만, 4분의 1 수준의 API 가격을 내세워 개발자와 기업 시장 공략에 나섰다.구글은 10일(현지시간) 공식 블로그를 통해 제미나이 4 카본을 일반 개발자와 기업, 유료 구독자에게 제공하기 시작했다고…"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "count": 10,
@@ -1240,102 +1340,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=216762",
      "at": "2026-10-29 01:57",
      "desc": "■ 바이두, 수백페이지 문서 한 번에 분석하는 '언리미티드 OCR 2' 오픈소스 공개바이두가 수백 페이지에 달하는 긴 문서를 한 번에 읽고 분석할 수 있는 광학문자인식(OCR) 모델 ‘언리미티드 OCR 2(Unlimited OCR 2)’를 오픈소스로 공개했다. 매개변수 33억4000만개 규모의 비전언어모델(VLM)로, 문서의 문자뿐 아니라 표와 수식,…"
-    }
-   ]
-  },
-  {
-   "date": "2026-10-28",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "Genie 4: 차세대 세계 시뮬레이션",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "at": "2026-10-28 01:01",
-     "desc": "Genie 4: 실시간 시뮬레이션에서 전례 없는 현실감을 선사하는 신세계 모델.",
-     "title_en": "Genie 4: A new generation of world simulation",
-     "desc_en": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Retell은 OpenAI 모델을 사용하여 1억 건의 월간 통화에 전력을 공급합니다.",
-     "url": "https://openai.com/index/retell-ai",
-     "at": "2026-10-28 00:00",
-     "desc": "GPT-6 Astra는 Retell의 음성 상담원 벤치마크에서 1위를 차지했으며, Codex는 직원당 연간 160만 $ 의 수익률을 달성하는 데 도움을 줍니다.",
-     "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-     "desc_en": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다",
-     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-     "at": "2026-10-27 16:00",
-     "desc": "OpenAI와 오라클은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 오라클 오퍼링에 전력을 공급하기 위해 파트너십을 확장하고 있습니다.",
-     "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-     "desc_en": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini 4 Argon의 8가지 사례",
-     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
-     "at": "2026-10-28 00:00",
-     "desc": "Gemini 4 Argon의 다양한 용도의 콜라주",
-     "title_en": "8 examples of Gemini 4 Argon in action",
-     "desc_en": "Collage of various uses of Gemini 4 Argon"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Check Point가 Daybreak로 취약점 연구를 가속화하는 방법",
-     "url": "https://openai.com/index/check-point-daybreak",
-     "at": "2026-10-27 09:00",
-     "desc": "OpenAI Daybreak를 통해 Check Point는 새로운 보안 보호에 대한 연구를 가속화하여 분석가가 취약점 인텔리전스를 고객 방어로 더 빠르게 전환할 수 있도록 합니다.",
-     "title_en": "How Check Point accelerates vulnerability research with Daybreak",
-     "desc_en": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
-     "at": "2026-10-28 16:17",
-     "desc": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 사실적으로 구현하고, 제미나이의 추론 능력을 결합해 복잡한 사건을 여러 단계에 걸쳐 시뮬레이션할 수 있도록 개선했다. 게임과 영상 제작은 물론 로봇과 AI…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216709",
-     "at": "2026-10-28 00:48",
-     "desc": "KT(대표 박윤영)가 국내외 500개 이상의 AI 모델을 하나의 플랫폼에서 선택·관리·결제할 수 있는 기업용 ‘KT 토큰팩토리' 서비스를 출시한다.KT는 오는 30일 KT 토큰팩토리를 출시하고 고객의 AX를 지원하는 신성장 사업으로 육성할 것이라고 27일 밝혔다. 지난 7월 박윤영 대표가 취임 후 신사업으로 제시한 지 약 4개월 만의 상용화이다.핵심은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배”",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216710",
-     "at": "2026-10-28 00:59",
-     "desc": "애플이 유기발광다이오드(OLED) 디스플레이와 차세대 'A20 프로(Pro)' 칩을 탑재한 신형 아이패드 미니를 공개했다. 베젤을 줄여 화면 크기를 8.5인치로 키우고 두께와 무게를 줄이는 등 디자인을 개선했으며, 애플에 따르면 AI 처리 성능은 이전 세대의 최대 4.5배에 달한다.애플은 26일(현지시간) 공식 발표를 통해 신형 아이패드 미니를 선보였다.…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
-     "at": "2026-10-27 17:01",
-     "desc": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GPT-6.1 솔’의 절반으로 책정하고, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.오픈AI는 26일(현지시간) 공식 블로그를…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Anthropic, 나스닥에 ‘ANT’로 상장 신청하고 S-1 증권신고서 공개",
-     "url": "https://news.hada.io/topic?id=36045",
-     "at": "2026-10-26 23:00",
-     "desc": ""
     }
    ]
   }
