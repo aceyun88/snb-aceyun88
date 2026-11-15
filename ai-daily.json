@@ -1,6 +1,68 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "days": [
+  {
+   "date": "2026-11-15",
+   "count": 7,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+     "at": "2026-11-14 19:41",
+     "desc": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈AI는 13일(현지시간) 공식 블로그를…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 아스트라 '노-CoT' 능력 향상 확인…AI 추론 감시 한계 드러나",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217369",
+     "at": "2026-11-14 02:00",
+     "desc": "오픈AI가 AI 모델이 추론 과정을 외부에 드러내지 않고도 문제를 해결하는 '노-CoT(No-CoT)' 능력이 학습 과정에서 향상된다는 연구 결과를 공개했다. 특히 'GPT-6 아스트라'에서 두드러진 추론 감시 성능 저하와 관련해 모델 구조와 학습 방식이 추론 감시 관련 능력에 미치는 영향을 분석하고, 기존 안전 감시 기술의 한계를 경고했다.오픈AI는…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "AI 모델 바꾼 기업 70% \"몇 주 이상 걸려\"…앱 수정·검증이 걸림돌",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217379",
+     "at": "2026-11-14 01:51",
+     "desc": "기업들이 더 성능이 좋거나 저렴한 AI 모델로 교체하는 데 예상보다 많은 시간과 비용을 들이는 것으로 나타났다. 모델 연결 설정만 바꾸면 교체할 수 있도록 시스템을 구축해도, 실제 서비스에서는 기존 모델에 맞춰 만든 프롬프트와 도구, 평가 체계를 다시 조정해야 하기 때문에 교체 경험이 있는 기업 담당자 10명 중 7명이 몇 주 이상의 작업이 필요했다고…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+     "at": "2026-11-14 20:18",
+     "desc": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Claude Fable 5.2로 에이전트 1,000개 팀 안전하게 돌리기 - 페르마의 마지막 정리 형식화 실험",
+     "url": "https://news.hada.io/topic?id=37159",
+     "at": "2026-11-14 23:39",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
+     "url": "https://news.hada.io/topic?id=37150",
+     "at": "2026-11-14 15:37",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "No AI Slop 선언문",
+     "url": "https://news.hada.io/topic?id=37128",
+     "at": "2026-11-14 07:09",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "count": 10,
@@ -1246,98 +1308,6 @@
      "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
      "url": "https://news.hada.io/topic?id=36299",
      "at": "2026-10-31 02:38",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-10-31",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치",
-     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-     "at": "2026-10-30 18:00",
-     "desc": "OpenAI는 확대된 안전 조치, 조기 개입 및 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다.",
-     "title_en": "Community safety report and new protections for teens",
-     "desc_en": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "웹사이트가 AI 교육 선호도를 쉽게 표현할 수 있도록 지원",
-     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-     "at": "2026-10-30 18:30",
-     "desc": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹 사이트 운영자가 AI 교육 선호 사항을 참여 제공자에게 전달할 수 있도록 지원합니다.",
-     "title_en": "Making it easier for websites to express AI training preferences",
-     "desc_en": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "공정 사용은 모두에게 이익이 됩니다",
-     "url": "https://openai.com/index/fair-use-benefits-everyone",
-     "at": "2026-10-30 09:00",
-     "desc": "OpenAI는 창작자, 학자, 접근성 옹호자, 법률 전문가 등이 공정 사용이 AI 교육 및 혁신을 지원하는 방법에 대해 법원 브리핑에서 발췌한 내용을 공유합니다.",
-     "title_en": "Fair use benefits everyone",
-     "desc_en": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216824",
-     "at": "2026-10-30 16:21",
-     "desc": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
-     "at": "2026-10-30 02:08",
-     "desc": "앤트로픽이 기업 법무팀의 계약서 검토와 법률 조사 등을 자동화하는 도구를 출시했다. 법률 문서를 분석해 계약 조건의 문제점을 찾아내고, 여러 국가의 관련 법규를 비교하거나 규제 변화와 법무 요청을 추적하는 기능을 제공한다.앤트로픽은 28일(현지시간) 기업용 법률 AI 서비스 ‘클로드 포 리걸(Claude for Legal)’에 법무 업무용…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216792",
-     "at": "2026-10-30 01:05",
-     "desc": "앤트로픽이 기업의 AI 투자 효과를 분석하는 도구를 출시했다. 단순한 AI 사용량을 넘어 실제 업무에서 어떤 성과를 냈는지, 비용은 얼마나 들었는지 파악할 수 있도록 지원한다. 기업들의 AI 도입이 늘면서 투자 대비 효과를 측정하고 지출을 효율적으로 관리하려는 수요를 겨냥한 것이다.앤트로픽은 28일(현지시간) 기업용 AI 서비스 ‘클로드…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
-     "at": "2026-10-30 15:52",
-     "desc": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: korea-data-mcp – AI 에이전트가 한국 공공 API를 틀리게 읽지 않도록 해주는 MCP 서버",
-     "url": "https://news.hada.io/topic?id=36277",
-     "at": "2026-10-30 13:47",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 어전 – Claude Code 터미널을 픽셀 조선 궁궐로 감싼 로컬 도구 (서브에이전트·권한 요청 시각화)",
-     "url": "https://news.hada.io/topic?id=36314",
-     "at": "2026-10-31 09:22",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
-     "url": "https://news.hada.io/topic?id=36295",
-     "at": "2026-10-31 00:34",
      "desc": ""
     }
    ]
