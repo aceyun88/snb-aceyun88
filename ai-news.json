@@ -1,6 +1,876 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "posts": [
+  {
+   "date": "2026-11-16",
+   "label": "2026년 11월 3주",
+   "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+   "count": 41,
+   "topics": [
+    {
+     "key": "agent",
+     "name": "AI 에이전트·자동화",
+     "count": 11,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-14",
+       "desc": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈AI는 13일(현지시간) 공식 블로그를 통해",
+       "desc_en": ""
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "meta/astryx",
+       "url": "https://github.com/meta/astryx",
+       "source": "TypeScript",
+       "note": "13,501 stars (이번 주)",
+       "at": "",
+       "desc": "완전히 맞춤 설정이 가능하고 상담원 사용에 최적화된 오픈 소스 디자인 시스템",
+       "desc_en": "An open source design system that's fully customizable and agent ready"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "anthropics/skills",
+       "url": "https://github.com/anthropics/skills",
+       "source": "Python",
+       "note": "6,077 stars (이번 주)",
+       "at": "",
+       "desc": "상담원 스킬을 위한 공개 저장소",
+       "desc_en": "Public repository for Agent Skills"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "google/elephant-goldfish-model",
+       "url": "https://github.com/google/elephant-goldfish-model",
+       "source": "Python",
+       "note": "5,060 stars (이번 주)",
+       "at": "",
+       "desc": "에이전트를 사용하여 소프트웨어를 설계하고 검토하기 위한 오픈 소스 플러그인",
+       "desc_en": "Open-source plugin for designing and reviewing software with agents"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "vercel-labs/agent-browser",
+       "url": "https://github.com/vercel-labs/agent-browser",
+       "source": "Rust",
+       "note": "4,217 stars (이번 주)",
+       "at": "",
+       "desc": "AI 에이전트를 위한 브라우저 자동화 CLI",
+       "desc_en": "Browser automation CLI for AI agents"
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "addyosmani/agent-skills",
+       "url": "https://github.com/addyosmani/agent-skills",
+       "source": "JavaScript",
+       "note": "3,889 stars (이번 주)",
+       "at": "",
+       "desc": "AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 기술.",
+       "desc_en": "Production-grade engineering skills for AI coding agents."
+      },
+      {
+       "platform": "GitHub 이번 주 인기 저장소",
+       "title": "backnotprop/plannotator",
+       "url": "https://github.com/backnotprop/plannotator",
+       "source": "TypeScript",
+       "note": "1,719 stars (이번 주)",
+       "at": "",
+       "desc": "업무 공간에서 최신 정보를 파악하고 에이전트를 관리하세요. 클릭 한 번으로 코드를 작성하고, 결정하고, 계획하고, 주석을 달고, 검토하고, 팀과 공유하고, 모든 피드백을 에이전트에게 전송할 수 있습니다.",
+       "desc_en": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Expo의 Exact - React 없이 웹·iOS·macOS·Linux 앱을 만드는 AI 에이전트 중심 런타임",
+       "url": "https://news.hada.io/topic?id=36991",
+       "source": "GeekNews",
+       "note": "20 points",
+       "at": "2026-11-11",
+       "desc": "Expo가 공개한 Rust 기반 크로스 플랫폼 애플리케이션 런타임으로, 하나의 코드베이스에서 웹과 macOS, iOS, Linux의 네이티브 앱을 개발할 수 있도록 설계됨 AI 코딩 에이전트가 앱을 작성하고 빌드, 실행, 화면 확인, 사용자 조작, 테스트까지 자동으로 수행할 수 있는 Agent-native 아키텍처 가 핵심 UI는 자체 선언형 언어인 Contract 로 작성하고, 비즈니스…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Gemini 4 Hydrogen - 일상적인 코딩과 에이전트 작업을 위한 빠른 실행 모델",
+       "url": "https://news.hada.io/topic?id=37068",
+       "source": "GeekNews",
+       "note": "14 points",
+       "at": "2026-11-13",
+       "desc": "Google이 Gemini 4 Hydrogen 을 공개함. 깊고 장기적인 추론에 집중하는 Carbon과 Argon을 보완하면서, 일상적인 코딩과 다양한 에이전트 작업을 단독으로도 수행하도록 설계함 기본 추론 설정에서 Artificial Analysis Intelligence Index 51점 으로 Argon의 50점을 넘어섰으며, 100만 토큰 컨텍스트 전체에 입력 100만 토큰당…",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "미 주요 은행 이어 항공사도 AI 에이전트 차단…거래·보안 통제 강화",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNFRtMXBIVjluZnUzMTZFNjZNWHAwUjM1YUd6d0pubVNIYzBfaHcweTY4d2V1ZE1aMmw4MW5tbGJ0YmNseDk1ZGlqanEtOTBUZmMxejlRa1RuRVlrY3Y4WTlaOVpGNnFITlE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-12",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI 에이전트·자동화",
+       "title": "유나이티드항공, AI 에이전트의 예약·구매 차단",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZzVfUW1SVEM2MmRIekZZQ2RpMzBMdGRTMmVPNmo1V1RYa1hOQUZfOUQxZjBqNzl2RUJoeVpCRjFVaG5HcjdyOWtpUk9TZUdfWEpZSnhRLVBneWZYZXRUMUU0eUV5aXBHWEhz?oc=5",
+       "source": "보안뉴스",
+       "note": "",
+       "at": "2026-11-15",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "chatgpt",
+     "name": "챗GPT·OpenAI",
+     "count": 4,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-14",
+       "desc": "앤트로픽이 견적 산출과 품질 검사, 설비 고장 분석 등을 지원하는 제조업용 '클로드'를 출시했다. 의료와 금융, 법률에 이어 제조업까지 산업별 AI 제품을 확대하는 것으로, 오픈AI와의 경쟁도 고성능 파운데이션 모델 개발을 넘어 기업의 실제 업무에 AI를 적용하고 매출을 늘리는 분야로 확대되고 있다.앤트로픽은 12일(현지시간) 제조업 전용 플러그인 '클로드",
+       "desc_en": ""
+      },
+      {
+       "platform": "OpenAI · 챗GPT",
+       "title": "오픈AI, 챗GPT에 기업 프로필 도입…상품 검색서 구글과 경쟁",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZ3IxNjNfeTFoT1JISHR3REhraWZzWE03V0NjMGlTV2tVbXBqMXFheVZEeXdQbWE2cXpuXzJ4OWliVkhQWlRTcjhLZ2ZFa0dvb0xzRC1B?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-11-11",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글, 애플 카플레이에 '제미나이 라이브' 출시…챗GPT와 경쟁",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVFAtTmF3b2VhMnRTbXFxM1JXU3FsVmdvNGR4MkNYeDBZNkM5aEtFZFJwNDNteW9sdXREV0xmcXZVa1EyMGZERmtnQWk5VVd5S1U4RkZLcHRnTUptalpWR0VDZi1qSFBtb1E?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-12",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "OpenAI · 챗GPT",
+       "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWnBYb1kwMjltZnp6TXU3d00xTGxrMm9GZl9YVzkyTGo5NzV5cGluZllLV0s5WlRjWnhYTXlxSmZQWTFrSnBaMzFpVGFvWG8zcDlJRndQX1N5QVp3ajk4VnJHa2dfcU12a1E?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-10",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "gemini",
+     "name": "제미나이·구글",
+     "count": 4,
+     "items": [
+      {
+       "platform": "구글 · 제미나이",
+       "title": "구글, 최상위 AI '제미나이4 카본' 일반공개…로보틱스 2.5 첫선",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ScjE4U3dkOWhEelFPc3JCY1d3YmxVbFM5cnlaS3AxM1ZTZHgtcVhQb1dDVkg2RnVDSTVWYjFlVkpvdXhMM1lCLVZWUDZ4alU4aWFVRHdremltcGvSAWBBVV95cUxQbktoTzBOMUdKSDVyNGJ4Tmp3NWc2RWQybHAySldwcFFmRzY0MDNYTU9NR2tTand5YnZLY1F5Wkx5ejRVYVZYUzVNemRLeDktbTRNWjZBdEVKWHprdThIcFc?oc=5",
+       "source": "연합뉴스",
+       "note": "",
+       "at": "2026-11-11",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-16",
+       "desc": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열해지는 경쟁 속에서 출시 2년 만에 연간반",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-15",
+       "desc": "구글이 '제미나이'에 구글 월렛(Google Wallet)을 연동해 개인 금융 정보를 분석하는 기능을 추가했다. 사용자의 소비 내역과 금융 계좌 정보를 바탕으로 지출 패턴을 분석하고, 예산 관리와 저축 계획까지 제안하는 기능이다.구글은 13일(현지시간) 공식 블로그를 통해 제미나이의 개인화 기능인 '퍼스널 인텔리전스(Personal Intelligence)",
+       "desc_en": ""
+      },
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "구글, AI 검색에 광고 수익성 악화…기업 인수까지 검토",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52N0s5UUtJazVxcTdRbDNBaFExbThrQlI1eGVZWkVOMzlwMjBvOTl0cE5WczNaSG15a2UwSmljVGpSNlRxTXhDU19OQ1hGT3o4b2dFZ01uWU9WNVZaNEFmY1h2XzhmQmotY2c?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-11",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "coding",
+     "name": "바이브 코딩·개발 도구",
+     "count": 3,
+     "items": [
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Flide - Jev같은 의사결정 모델을 최대 9.5배 빠르게 실행",
+       "url": "https://news.hada.io/topic?id=36894",
+       "source": "GeekNews",
+       "note": "20 points",
+       "at": "2026-11-10",
+       "desc": "Flide 는 Jev 계열 의사결정 모델용 추론 인프라임. 정확한 상태 분기(exact state forking)를 통해 vLLM과 SGLang 대비 최대 9.5배 빠른 추론 이 가능 공통 입력은 한 번만 계산하고 , 그때의 모델 상태에서 질문별로 분기해 답을 구함. 각 답은 같은 입력에 해당 질문만 붙여 따로 실행했을 때와 같음 Jev의 /v1/systemone API 로 하나의 입력에…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "AI 사용은 취약한 코드베이스를 만든다",
+       "url": "https://news.hada.io/topic?id=36955",
+       "source": "GeekNews",
+       "note": "18 points",
+       "at": "2026-11-11",
+       "desc": "AI는 당장 주어진 코딩 문제를 잘 풀어도 , 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움 AI가 만든 테스트는 이미 다루는 동작을 반복해서 확인 하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 코드를 이해하고 디버깅하기 어렵게 만들기도 함 AI 의존도가 높아질수록 개발자의 코드베이스 이해도 가 낮아지고, 빠르게 쏟아지는 PR은 검토…",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
+       "url": "https://news.hada.io/topic?id=37150",
+       "source": "GeekNews",
+       "note": "13 points",
+       "at": "2026-11-14",
+       "desc": "Jonathan Blow는 AI의 코드 생성 속도와 저렴한 비용 은 인정하지만, 복잡한 소프트웨어의 품질과 사용자 경험이 크게 개선됐다는 증거는 보지 못했다고 평가함 좋은 프로그래밍의 핵심은 코드 작성량이 아니라 시스템 전체의 제약과 상호작용을 이해하고 유지하는 판단력 이며, 현재 LLM은 이를 충분히 엄밀하게 수행하지 못한다고 봄 소프트웨어 산업은 오래된 설계 위에 계층과 기능을 계속…",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "image",
+     "name": "이미지·영상·음성 생성",
+     "count": 3,
+     "items": [
+      {
+       "platform": "이미지·영상 생성",
+       "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\"",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9za0ZhRHB3VTdDLV9WbFBvbVJySW5YSXFWUWdTb2ZVdk04czZSNHN4SWpleFl3YzFYVi10OVJRMDIyemZKTXRsN3JhSkFGcExZdWl3MXJaTUxvX3BZeUJiVUN6RlMyTkdiTkE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-09",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
+       "url": "https://news.hada.io/topic?id=37011",
+       "source": "GeekNews",
+       "note": "13 points",
+       "at": "2026-11-12",
+       "desc": "Google이 Gemini Decision 1 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개 까지 한 요청으로 보낼 수 있음 답변을 토큰별로 생성하지 않고 한 번의 순전파 로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간…",
+       "desc_en": ""
+      },
+      {
+       "platform": "이미지·영상 생성",
+       "title": "통로이미지, AI 크리에이티브 플랫폼 '젠트리' 베타서비스 오픈",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VazRkRGdRemFhUkRaX0hOeXJCS3ZwVlh1N3lIa0QxTGR5N3E2cTRtU1RuVzE5ME5BY05KWGNJcEt2VVpXQzk5ZEVtalAwcVFIQzhJZjFEd0VLZnZRV0dN?oc=5",
+       "source": "MTN 머니투데이방송",
+       "note": "",
+       "at": "2026-11-09",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "search",
+     "name": "AI 검색·퍼플렉시티",
+     "count": 3,
+     "items": [
+      {
+       "platform": "긱뉴스(GeekNews) 화제 글",
+       "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+       "url": "https://news.hada.io/topic?id=37031",
+       "source": "GeekNews",
+       "note": "10 points",
+       "at": "2026-11-12",
+       "desc": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet 은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄 KeyNet 은 질의를 최적 키에 가까운 벡터로 변환해…",
+       "desc_en": ""
+      },
+      {
+       "platform": "퍼플렉시티 · AI 검색",
+       "title": "AI 검색 시대 창작자 보상 어떻게…“직접 보상·기여 인정 필요”",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TRkNPdnpHTVNiV1JQQXBXOHNFbkZlSVhVT2QwSWVuMnYxM2cyWmZNT0t3Z3NkWE1ydXdVOVVYaDVaWDBucGRCRUNnaEhwdw?oc=5",
+       "source": "전자신문",
+       "note": "",
+       "at": "2026-11-13",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zdGdLQjhtNTRKV05Qdjl1Qkk4dzE3SFRiLWNBU1hhYXc4d0RRYnE5d1BkY2RlRWVTXzBTSm5kbkplbDdETXk5MWVVTG42RXZ5eGdwaGdB?oc=5",
+       "source": "지디넷코리아",
+       "note": "",
+       "at": "2026-11-09",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "claude",
+     "name": "클로드·앤트로픽",
+     "count": 2,
+     "items": [
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "앤트로픽도 뚫렸다?···‘클로드’ 국내 기업 계정 100여개 유출 신고",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaC13a3pzRW1ocWtYc2RJaUhCQlBPeFRqTjZ0eGlNVFdFYk5tZTc0MVRTTjlIRDlFdnRjYWo0bjZfa0xGOXZOZUVMaFRXRUpuZ1pENGQzbXY4Z9IBX0FVX3lxTE56YWNZcEotQUNHQUtydHFsUUlaaFVYSjlIdkpuWnk0V3lFbEd0eS03czdpbmR0SmJOYjJHY2p0a0czS2RHbXlXY0lHQUg4MzdubUhKUzhTR1BOV2JSNWNv?oc=5",
+       "source": "경향신문",
+       "note": "",
+       "at": "2026-11-09",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "앤트로픽 · 클로드",
+       "title": "클로드, 밤새 로봇 팔로 수채화 완성…물감도 직접 섞었다",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRR0lOOVM1Z0h0bVlyaDYzRjdxeHBpSTJQeUhSTlF1OVdndEp0bUVscHROZGVNSkJfYUJqUHRPRjk5RzVkUjRWd3lnZHRDc3cwT3dxU2c1Y3RnUURjTmlBSW1PVlJXSjNKdVE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-10",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "copilot",
+     "name": "코파일럿·마이크로소프트",
+     "count": 2,
+     "items": [
+      {
+       "platform": "마이크로소프트 · 코파일럿",
+       "title": "MS 아웃룩·코파일럿 등 대규모 장애…이메일 수발신도 지연",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS3g2MjgyaUxvcVV1cC1OcDNkYXN6ZHNxRllydHhhRjlXTnJRSE5TR0RpM3lKQ1k3MWd0SzU3TFVlZVhvdnNrZ0h6RjJURWhlX3BHNzhFUEljSEnSAWBBVV95cUxOMGN3SVVJWTgyT2ZOcUUydWl4aGxEb05uU1BHYmpqS28tY0RnOG1oSzNEQzNKaW1KdUgzckpfa05YQmY2eEZrVjFyb18tMEtKVVV1a1BfSUx1SENwc3dpd3g?oc=5",
+       "source": "연합뉴스",
+       "note": "",
+       "at": "2026-11-13",
+       "desc": "",
+       "desc_en": ""
+      },
+      {
+       "platform": "마이크로소프트 · 코파일럿",
+       "title": "MS 아웃룩·팀즈·코파일럿 대규모 접속장애⋯일부 기업들 \"업무 마비\" 호소",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yQkQwcmhHc1ZHVEtLek1CTGRNMjN4eEpXTHpQdTFHWkJCbFpNbVV1SGUtZU5BTWhkZjd2cDBVby1lay1RNlVDTlMxWQ?oc=5",
+       "source": "아이뉴스24",
+       "note": "",
+       "at": "2026-11-13",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "korea",
+     "name": "국내 AI·네이버",
+     "count": 2,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-16",
+       "desc": "KT(대표 박윤영)는 AI 기반 화재안전 서비스 ‘세이프메이트(Safemate)’를 인천 남동국가산업단지에 적용했다고 15일 밝혔다.세이프메이트는 화재 발생 시 불꽃과 연기, 온도 변화 등 다양한 화재 징후를 감지하고 KT 관제서비스와 연계, 상황 확인부터 현장 대응까지 지원하는 서비스다.KT는 한국산업단지공단 인천지역본부가 추진하는 ‘2026년 남동산단 ",
+       "desc_en": ""
+      },
+      {
+       "platform": "네이버 · 국내 AI",
+       "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\"",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Z0FlMnFkY1N4QWJMczk5Tk52SFJ4dmdIT1pwV0JHdzNSRVZrNjgzTmhqNzNKdWRyMkoxY21QM0huRWlNRGVBRzBXRGhwSFBneERocjB6dkNqaTRlMFVPSnVERXc0bVVkaFE?oc=5",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-12",
+       "desc": "",
+       "desc_en": ""
+      }
+     ]
+    },
+    {
+     "key": "other",
+     "name": "그 밖의 AI 소식",
+     "count": 4,
+     "items": [
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "스페이스X·테슬라 합병 협상 진전...이르면 12월 발표",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217367",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-14",
+       "desc": "일론 머스크 CEO가 이끄는 스페이스X와 테슬라의 합병 논의가 진전을 보이며 이르면 12월 거래가 발표될 가능성이 제기됐다. 전기차와 로봇, AI, 우주항공 사업을 하나의 기업으로 통합하는 역대 최대 규모의 합병이 현실화할지 주목된다.블룸버그는 12일(현지시간) 정통한 소식통들을 인용해 양사의 이사회와 자문단이 합병 조건과 통합 기업의 지배구조 등을 구체적",
+       "desc_en": ""
+      },
+      {
+       "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+       "title": "IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등",
+       "url": "https://www.youtube.com/watch?v=um6UlsOP1M8",
+       "source": "조코딩",
+       "note": "3.2만 · 스트리밍 시간: 14시간 전",
+       "at": "",
+       "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-16",
+       "desc": "몇 년을 준비해도 붙기 어려운 시험이 있다. 올해 제63회 세무사 1차 시험에서 세법학개론을 본 1만 6856명은 평균 30.18점을 받았다.이 과목 만점자이자 수석 합격자인 A씨가 2026년 11월15일 부정행위를 자백하고, 경찰에 자수했다.자백에 따르면 초소형 카메라가 시험 문제를 찍었고, 생성 AI가 답을 만들었으며, A씨는 스마트폰으로 그 답을 확인",
+       "desc_en": ""
+      },
+      {
+       "platform": "AI타임스 주요 기사",
+       "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+       "source": "AI타임스",
+       "note": "",
+       "at": "2026-11-16",
+       "desc": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다. 세무사 1·2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방법을 사용했다고 인정하고 경찰에 자수했다.세무사 시험 수석 합격자 A씨는 15일 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 출연해 \"저는 세무사 시험에서 부정행위를 했다\"라며 \"제가 수",
+       "desc_en": ""
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "platform": "조코딩 IT뉴스 라이브 (유튜브)",
+     "title": "IT뉴스 - AI 부정행위 전문직 끝났다, Fable 5.2, MS 365, GPT-6.2 Astra, 젠슨 황 사임, Gemini 4 Carbon & Hydrogen 등",
+     "url": "https://www.youtube.com/watch?v=um6UlsOP1M8",
+     "source": "조코딩",
+     "note": "3.2만 · 스트리밍 시간: 14시간 전",
+     "at": "",
+     "desc": "한 주의 AI·IT 소식을 라이브로 짚어 주는 방송. 제목의 항목이 그 주 다룬 주제다.",
+     "topic": "other"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "meta/astryx",
+     "url": "https://github.com/meta/astryx",
+     "source": "TypeScript",
+     "note": "13,501 stars (이번 주)",
+     "at": "",
+     "desc": "완전히 맞춤 설정이 가능하고 상담원 사용에 최적화된 오픈 소스 디자인 시스템",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "anthropics/skills",
+     "url": "https://github.com/anthropics/skills",
+     "source": "Python",
+     "note": "6,077 stars (이번 주)",
+     "at": "",
+     "desc": "상담원 스킬을 위한 공개 저장소",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "milind-soni/OpenMausBot",
+     "url": "https://github.com/milind-soni/OpenMausBot",
+     "source": "TypeScript",
+     "note": "5,463 stars (이번 주)",
+     "at": "",
+     "desc": "봇이 사용할 수 있는 가상 머신을 갖춘 오픈 소스 Grok 봇 대안",
+     "topic": "oss"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "google/elephant-goldfish-model",
+     "url": "https://github.com/google/elephant-goldfish-model",
+     "source": "Python",
+     "note": "5,060 stars (이번 주)",
+     "at": "",
+     "desc": "에이전트를 사용하여 소프트웨어를 설계하고 검토하기 위한 오픈 소스 플러그인",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "ZhuLinsen/daily_stock_analysis",
+     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+     "source": "Python",
+     "note": "4,548 stars (이번 주)",
+     "at": "",
+     "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 다중 소스 시장 데이터, 실시간 뉴스, 의사 결정 대시보드, 자동 알림 및 비용 없는 예약 실행을 갖춘 LLM 기반 다중 시장 주식 분석 시스템.",
+     "topic": "oss"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "vercel-labs/agent-browser",
+     "url": "https://github.com/vercel-labs/agent-browser",
+     "source": "Rust",
+     "note": "4,217 stars (이번 주)",
+     "at": "",
+     "desc": "AI 에이전트를 위한 브라우저 자동화 CLI",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "addyosmani/agent-skills",
+     "url": "https://github.com/addyosmani/agent-skills",
+     "source": "JavaScript",
+     "note": "3,889 stars (이번 주)",
+     "at": "",
+     "desc": "AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 기술.",
+     "topic": "agent"
+    },
+    {
+     "platform": "GitHub 이번 주 인기 저장소",
+     "title": "backnotprop/plannotator",
+     "url": "https://github.com/backnotprop/plannotator",
+     "source": "TypeScript",
+     "note": "1,719 stars (이번 주)",
+     "at": "",
+     "desc": "업무 공간에서 최신 정보를 파악하고 에이전트를 관리하세요. 클릭 한 번으로 코드를 작성하고, 결정하고, 계획하고, 주석을 달고, 검토하고, 팀과 공유하고, 모든 피드백을 에이전트에게 전송할 수 있습니다.",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "No AI Slop 선언문",
+     "url": "https://news.hada.io/topic?id=37128",
+     "source": "GeekNews",
+     "note": "23 points",
+     "at": "2026-11-14",
+     "desc": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문 2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함 AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임…",
+     "topic": "work"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Expo의 Exact - React 없이 웹·iOS·macOS·Linux 앱을 만드는 AI 에이전트 중심 런타임",
+     "url": "https://news.hada.io/topic?id=36991",
+     "source": "GeekNews",
+     "note": "20 points",
+     "at": "2026-11-11",
+     "desc": "Expo가 공개한 Rust 기반 크로스 플랫폼 애플리케이션 런타임으로, 하나의 코드베이스에서 웹과 macOS, iOS, Linux의 네이티브 앱을 개발할 수 있도록 설계됨 AI 코딩 에이전트가 앱을 작성하고 빌드, 실행, 화면 확인, 사용자 조작, 테스트까지 자동으로 수행할 수 있는 Agent-native 아키텍처 가 핵심 UI는 자체 선언형 언어인 Contract 로 작성하고, 비즈니스…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Flide - Jev같은 의사결정 모델을 최대 9.5배 빠르게 실행",
+     "url": "https://news.hada.io/topic?id=36894",
+     "source": "GeekNews",
+     "note": "20 points",
+     "at": "2026-11-10",
+     "desc": "Flide 는 Jev 계열 의사결정 모델용 추론 인프라임. 정확한 상태 분기(exact state forking)를 통해 vLLM과 SGLang 대비 최대 9.5배 빠른 추론 이 가능 공통 입력은 한 번만 계산하고 , 그때의 모델 상태에서 질문별로 분기해 답을 구함. 각 답은 같은 입력에 해당 질문만 붙여 따로 실행했을 때와 같음 Jev의 /v1/systemone API 로 하나의 입력에…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI 사용은 취약한 코드베이스를 만든다",
+     "url": "https://news.hada.io/topic?id=36955",
+     "source": "GeekNews",
+     "note": "18 points",
+     "at": "2026-11-11",
+     "desc": "AI는 당장 주어진 코딩 문제를 잘 풀어도 , 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움 AI가 만든 테스트는 이미 다루는 동작을 반복해서 확인 하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 코드를 이해하고 디버깅하기 어렵게 만들기도 함 AI 의존도가 높아질수록 개발자의 코드베이스 이해도 가 낮아지고, 빠르게 쏟아지는 PR은 검토…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Gemini 4 Hydrogen - 일상적인 코딩과 에이전트 작업을 위한 빠른 실행 모델",
+     "url": "https://news.hada.io/topic?id=37068",
+     "source": "GeekNews",
+     "note": "14 points",
+     "at": "2026-11-13",
+     "desc": "Google이 Gemini 4 Hydrogen 을 공개함. 깊고 장기적인 추론에 집중하는 Carbon과 Argon을 보완하면서, 일상적인 코딩과 다양한 에이전트 작업을 단독으로도 수행하도록 설계함 기본 추론 설정에서 Artificial Analysis Intelligence Index 51점 으로 Argon의 50점을 넘어섰으며, 100만 토큰 컨텍스트 전체에 입력 100만 토큰당…",
+     "topic": "agent"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
+     "url": "https://news.hada.io/topic?id=37150",
+     "source": "GeekNews",
+     "note": "13 points",
+     "at": "2026-11-14",
+     "desc": "Jonathan Blow는 AI의 코드 생성 속도와 저렴한 비용 은 인정하지만, 복잡한 소프트웨어의 품질과 사용자 경험이 크게 개선됐다는 증거는 보지 못했다고 평가함 좋은 프로그래밍의 핵심은 코드 작성량이 아니라 시스템 전체의 제약과 상호작용을 이해하고 유지하는 판단력 이며, 현재 LLM은 이를 충분히 엄밀하게 수행하지 못한다고 봄 소프트웨어 산업은 오래된 설계 위에 계층과 기능을 계속…",
+     "topic": "coding"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
+     "url": "https://news.hada.io/topic?id=37011",
+     "source": "GeekNews",
+     "note": "13 points",
+     "at": "2026-11-12",
+     "desc": "Google이 Gemini Decision 1 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개 까지 한 요청으로 보낼 수 있음 답변을 토큰별로 생성하지 않고 한 번의 순전파 로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간…",
+     "topic": "image"
+    },
+    {
+     "platform": "긱뉴스(GeekNews) 화제 글",
+     "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+     "url": "https://news.hada.io/topic?id=37031",
+     "source": "GeekNews",
+     "note": "10 points",
+     "at": "2026-11-12",
+     "desc": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet 은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄 KeyNet 은 질의를 최적 키에 가까운 벡터로 변환해…",
+     "topic": "search"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-14",
+     "desc": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈AI는 13일(현지시간) 공식 블로그를 통해",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-14",
+     "desc": "앤트로픽이 견적 산출과 품질 검사, 설비 고장 분석 등을 지원하는 제조업용 '클로드'를 출시했다. 의료와 금융, 법률에 이어 제조업까지 산업별 AI 제품을 확대하는 것으로, 오픈AI와의 경쟁도 고성능 파운데이션 모델 개발을 넘어 기업의 실제 업무에 AI를 적용하고 매출을 늘리는 분야로 확대되고 있다.앤트로픽은 12일(현지시간) 제조업 전용 플러그인 '클로드",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "스페이스X·테슬라 합병 협상 진전...이르면 12월 발표",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217367",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-14",
+     "desc": "일론 머스크 CEO가 이끄는 스페이스X와 테슬라의 합병 논의가 진전을 보이며 이르면 12월 거래가 발표될 가능성이 제기됐다. 전기차와 로봇, AI, 우주항공 사업을 하나의 기업으로 통합하는 역대 최대 규모의 합병이 현실화할지 주목된다.블룸버그는 12일(현지시간) 정통한 소식통들을 인용해 양사의 이사회와 자문단이 합병 조건과 통합 기업의 지배구조 등을 구체적",
+     "topic": "other"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-16",
+     "desc": "몇 년을 준비해도 붙기 어려운 시험이 있다. 올해 제63회 세무사 1차 시험에서 세법학개론을 본 1만 6856명은 평균 30.18점을 받았다.이 과목 만점자이자 수석 합격자인 A씨가 2026년 11월15일 부정행위를 자백하고, 경찰에 자수했다.자백에 따르면 초소형 카메라가 시험 문제를 찍었고, 생성 AI가 답을 만들었으며, A씨는 스마트폰으로 그 답을 확인",
+     "topic": "other"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-16",
+     "desc": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다. 세무사 1·2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방법을 사용했다고 인정하고 경찰에 자수했다.세무사 시험 수석 합격자 A씨는 15일 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 출연해 \"저는 세무사 시험에서 부정행위를 했다\"라며 \"제가 수",
+     "topic": "other"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-16",
+     "desc": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열해지는 경쟁 속에서 출시 2년 만에 연간반",
+     "topic": "gemini"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-16",
+     "desc": "KT(대표 박윤영)는 AI 기반 화재안전 서비스 ‘세이프메이트(Safemate)’를 인천 남동국가산업단지에 적용했다고 15일 밝혔다.세이프메이트는 화재 발생 시 불꽃과 연기, 온도 변화 등 다양한 화재 징후를 감지하고 KT 관제서비스와 연계, 상황 확인부터 현장 대응까지 지원하는 서비스다.KT는 한국산업단지공단 인천지역본부가 추진하는 ‘2026년 남동산단 ",
+     "topic": "korea"
+    },
+    {
+     "platform": "AI타임스 주요 기사",
+     "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-15",
+     "desc": "구글이 '제미나이'에 구글 월렛(Google Wallet)을 연동해 개인 금융 정보를 분석하는 기능을 추가했다. 사용자의 소비 내역과 금융 계좌 정보를 바탕으로 지출 패턴을 분석하고, 예산 관리와 저축 계획까지 제안하는 기능이다.구글은 13일(현지시간) 공식 블로그를 통해 제미나이의 개인화 기능인 '퍼스널 인텔리전스(Personal Intelligence)",
+     "topic": "gemini"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWnBYb1kwMjltZnp6TXU3d00xTGxrMm9GZl9YVzkyTGo5NzV5cGluZllLV0s5WlRjWnhYTXlxSmZQWTFrSnBaMzFpVGFvWG8zcDlJRndQX1N5QVp3ajk4VnJHa2dfcU12a1E?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-10",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "OpenAI · 챗GPT",
+     "title": "오픈AI, 챗GPT에 기업 프로필 도입…상품 검색서 구글과 경쟁",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZ3IxNjNfeTFoT1JISHR3REhraWZzWE03V0NjMGlTV2tVbXBqMXFheVZEeXdQbWE2cXpuXzJ4OWliVkhQWlRTcjhLZ2ZFa0dvb0xzRC1B?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-11-11",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "앤트로픽도 뚫렸다?···‘클로드’ 국내 기업 계정 100여개 유출 신고",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaC13a3pzRW1ocWtYc2RJaUhCQlBPeFRqTjZ0eGlNVFdFYk5tZTc0MVRTTjlIRDlFdnRjYWo0bjZfa0xGOXZOZUVMaFRXRUpuZ1pENGQzbXY4Z9IBX0FVX3lxTE56YWNZcEotQUNHQUtydHFsUUlaaFVYSjlIdkpuWnk0V3lFbEd0eS03czdpbmR0SmJOYjJHY2p0a0czS2RHbXlXY0lHQUg4MzdubUhKUzhTR1BOV2JSNWNv?oc=5",
+     "source": "경향신문",
+     "note": "",
+     "at": "2026-11-09",
+     "desc": "",
+     "topic": "claude"
+    },
+    {
+     "platform": "앤트로픽 · 클로드",
+     "title": "클로드, 밤새 로봇 팔로 수채화 완성…물감도 직접 섞었다",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRR0lOOVM1Z0h0bVlyaDYzRjdxeHBpSTJQeUhSTlF1OVdndEp0bUVscHROZGVNSkJfYUJqUHRPRjk5RzVkUjRWd3lnZHRDc3cwT3dxU2c1Y3RnUURjTmlBSW1PVlJXSjNKdVE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-10",
+     "desc": "",
+     "topic": "claude"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 최상위 AI '제미나이4 카본' 일반공개…로보틱스 2.5 첫선",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ScjE4U3dkOWhEelFPc3JCY1d3YmxVbFM5cnlaS3AxM1ZTZHgtcVhQb1dDVkg2RnVDSTVWYjFlVkpvdXhMM1lCLVZWUDZ4alU4aWFVRHdremltcGvSAWBBVV95cUxQbktoTzBOMUdKSDVyNGJ4Tmp3NWc2RWQybHAySldwcFFmRzY0MDNYTU9NR2tTand5YnZLY1F5Wkx5ejRVYVZYUzVNemRLeDktbTRNWjZBdEVKWHprdThIcFc?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-11-11",
+     "desc": "",
+     "topic": "gemini"
+    },
+    {
+     "platform": "구글 · 제미나이",
+     "title": "구글, 애플 카플레이에 '제미나이 라이브' 출시…챗GPT와 경쟁",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVFAtTmF3b2VhMnRTbXFxM1JXU3FsVmdvNGR4MkNYeDBZNkM5aEtFZFJwNDNteW9sdXREV0xmcXZVa1EyMGZERmtnQWk5VVd5S1U4RkZLcHRnTUptalpWR0VDZi1qSFBtb1E?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-12",
+     "desc": "",
+     "topic": "chatgpt"
+    },
+    {
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "MS 아웃룩·코파일럿 등 대규모 장애…이메일 수발신도 지연",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HS3g2MjgyaUxvcVV1cC1OcDNkYXN6ZHNxRllydHhhRjlXTnJRSE5TR0RpM3lKQ1k3MWd0SzU3TFVlZVhvdnNrZ0h6RjJURWhlX3BHNzhFUEljSEnSAWBBVV95cUxOMGN3SVVJWTgyT2ZOcUUydWl4aGxEb05uU1BHYmpqS28tY0RnOG1oSzNEQzNKaW1KdUgzckpfa05YQmY2eEZrVjFyb18tMEtKVVV1a1BfSUx1SENwc3dpd3g?oc=5",
+     "source": "연합뉴스",
+     "note": "",
+     "at": "2026-11-13",
+     "desc": "",
+     "topic": "copilot"
+    },
+    {
+     "platform": "마이크로소프트 · 코파일럿",
+     "title": "MS 아웃룩·팀즈·코파일럿 대규모 접속장애⋯일부 기업들 \"업무 마비\" 호소",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yQkQwcmhHc1ZHVEtLek1CTGRNMjN4eEpXTHpQdTFHWkJCbFpNbVV1SGUtZU5BTWhkZjd2cDBVby1lay1RNlVDTlMxWQ?oc=5",
+     "source": "아이뉴스24",
+     "note": "",
+     "at": "2026-11-13",
+     "desc": "",
+     "topic": "copilot"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "구글, AI 검색에 광고 수익성 악화…기업 인수까지 검토",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52N0s5UUtJazVxcTdRbDNBaFExbThrQlI1eGVZWkVOMzlwMjBvOTl0cE5WczNaSG15a2UwSmljVGpSNlRxTXhDU19OQ1hGT3o4b2dFZ01uWU9WNVZaNEFmY1h2XzhmQmotY2c?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-11",
+     "desc": "",
+     "topic": "gemini"
+    },
+    {
+     "platform": "퍼플렉시티 · AI 검색",
+     "title": "AI 검색 시대 창작자 보상 어떻게…“직접 보상·기여 인정 필요”",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TRkNPdnpHTVNiV1JQQXBXOHNFbkZlSVhVT2QwSWVuMnYxM2cyWmZNT0t3Z3NkWE1ydXdVOVVYaDVaWDBucGRCRUNnaEhwdw?oc=5",
+     "source": "전자신문",
+     "note": "",
+     "at": "2026-11-13",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\"",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Z0FlMnFkY1N4QWJMczk5Tk52SFJ4dmdIT1pwV0JHdzNSRVZrNjgzTmhqNzNKdWRyMkoxY21QM0huRWlNRGVBRzBXRGhwSFBneERocjB6dkNqaTRlMFVPSnVERXc0bVVkaFE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-12",
+     "desc": "",
+     "topic": "korea"
+    },
+    {
+     "platform": "네이버 · 국내 AI",
+     "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zdGdLQjhtNTRKV05Qdjl1Qkk4dzE3SFRiLWNBU1hhYXc4d0RRYnE5d1BkY2RlRWVTXzBTSm5kbkplbDdETXk5MWVVTG42RXZ5eGdwaGdB?oc=5",
+     "source": "지디넷코리아",
+     "note": "",
+     "at": "2026-11-09",
+     "desc": "",
+     "topic": "search"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\"",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9za0ZhRHB3VTdDLV9WbFBvbVJySW5YSXFWUWdTb2ZVdk04czZSNHN4SWpleFl3YzFYVi10OVJRMDIyemZKTXRsN3JhSkFGcExZdWl3MXJaTUxvX3BZeUJiVUN6RlMyTkdiTkE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-09",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "이미지·영상 생성",
+     "title": "통로이미지, AI 크리에이티브 플랫폼 '젠트리' 베타서비스 오픈",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VazRkRGdRemFhUkRaX0hOeXJCS3ZwVlh1N3lIa0QxTGR5N3E2cTRtU1RuVzE5ME5BY05KWGNJcEt2VVpXQzk5ZEVtalAwcVFIQzhJZjFEd0VLZnZRV0dN?oc=5",
+     "source": "MTN 머니투데이방송",
+     "note": "",
+     "at": "2026-11-09",
+     "desc": "",
+     "topic": "image"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "미 주요 은행 이어 항공사도 AI 에이전트 차단…거래·보안 통제 강화",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNFRtMXBIVjluZnUzMTZFNjZNWHAwUjM1YUd6d0pubVNIYzBfaHcweTY4d2V1ZE1aMmw4MW5tbGJ0YmNseDk1ZGlqanEtOTBUZmMxejlRa1RuRVlrY3Y4WTlaOVpGNnFITlE?oc=5",
+     "source": "AI타임스",
+     "note": "",
+     "at": "2026-11-12",
+     "desc": "",
+     "topic": "agent"
+    },
+    {
+     "platform": "AI 에이전트·자동화",
+     "title": "유나이티드항공, AI 에이전트의 예약·구매 차단",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZzVfUW1SVEM2MmRIekZZQ2RpMzBMdGRTMmVPNmo1V1RYa1hOQUZfOUQxZjBqNzl2RUJoeVpCRjFVaG5HcjdyOWtpUk9TZUdfWEpZSnhRLVBneWZYZXRUMUU0eUV5aXBHWEhz?oc=5",
+     "source": "보안뉴스",
+     "note": "",
+     "at": "2026-11-15",
+     "desc": "",
+     "topic": "agent"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "label": "2026년 11월 2주",

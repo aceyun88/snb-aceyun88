@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "days": [
+  {
+   "date": "2026-11-16",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "과학을 위한 새로운 블로그",
+     "url": "https://openai.com/index/our-new-blog-for-science",
+     "at": "2026-11-16 07:00",
+     "desc": "OpenAI 과학 블로그에서는 AI를 사용하여 과학적 발견을 발전시키는 연구자들의 새로운 발견, 실용적인 방법 및 직접 경험한 내용을 공유합니다.",
+     "title_en": "Our new blog for science",
+     "desc_en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "격자(lattice)에서 표준 모형을 정의하기 위한 한 걸음",
+     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "at": "2026-11-16 07:00",
+     "desc": "표준 모형의 비섭동 격자 정의 후보와 GPT-6 Astra가 이 아이디어를 상세한 증명으로 전환하는 데 어떻게 도움이 되었는지 알아보세요.",
+     "title_en": "A step toward defining the Standard Model on a lattice",
+     "desc_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+     "at": "2026-11-16 18:00",
+     "desc": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안정적인 배치 시스템을 구축하도록…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Agent Standup - 내 Claude Code·Codex 세션을 한국어 화상회의로 보여주는 도구",
+     "url": "https://news.hada.io/topic?id=37203",
+     "at": "2026-11-15 22:31",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
+     "at": "2026-11-15 18:00",
+     "desc": "LG유플러스가 AI 토큰 최적화 기술 성과를 바탕으로 내년 B2B AI 시장에 진출한다고 15일 밝혔다.자체 AI 통화 에이전트 '익시오'와 AI 컨택센터(AICC) 및 사내 AI 전환(AX)에서 쌓은 역량에 정부 주도 '모두의 AI' 모델 서빙 노하우를 더해 기업 시장을 공략한다는 전략이다. 사업은 협력사와의 제휴형 모델 및 자체 인프라 구축 방식으로…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Poly Duo - ChatGPT와 Claude가 각자 답하고 서로 확인하는 무료 iPhone·Android 앱",
+     "url": "https://news.hada.io/topic?id=37233",
+     "at": "2026-11-16 08:43",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+     "at": "2026-11-16 02:00",
+     "desc": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열해지는 경쟁 속에서 출시 2년 만에…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+     "at": "2026-11-15 04:19",
+     "desc": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래프(World Product…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI 시대, 새로운 게임 개발자는 어떻게 탄생할까",
+     "url": "https://news.hada.io/topic?id=37243",
+     "at": "2026-11-16 09:50",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "ChatGPT 내 비즈니스 기능 소개",
+     "url": "https://news.hada.io/topic?id=37183",
+     "at": "2026-11-15 09:50",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "count": 7,
@@ -1238,76 +1328,6 @@
      "title": "Show GN: 픽셀 오피스 - 구독형 AI의 CLI를 연결해 팀으로 일하게 하는 AI 오케스트레이션 앱",
      "url": "https://news.hada.io/topic?id=36418",
      "at": "2026-11-02 07:14",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-01",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
-     "at": "2026-11-01 03:53",
-     "desc": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 있다고 밝혔으며, 세계적인 메모리 공급…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
-     "at": "2026-11-01 04:58",
-     "desc": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216841",
-     "at": "2026-11-01 02:55",
-     "desc": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216845",
-     "at": "2026-11-01 02:38",
-     "desc": "구글이 '제미나이'에서 구글 문서와 PDF, 스프레드시트, 프레젠테이션 등을 직접 생성하고 편집할 수 있는 기능을 추가했다. 기존에는 파일을 생성하거나 내려받는 기능을 제공했지만, 이제는 채팅을 벗어나지 않고 내용을 수정하고 AI에 추가 작업을 요청할 수 있다.구글은 29일(현지시간) 공식 블로그를 통해 제미나이 앱에서 문서와 PDF, 프레젠테이션,…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Claude 기다리는 동안 보는 Claude Code 애니메이션 패널 모음 (어항·달·모닥불 등 13종)",
-     "url": "https://news.hada.io/topic?id=36336",
-     "at": "2026-10-31 23:50",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Cairn – 노트 곳곳의 마크다운 할 일을 모아 보여주는 iOS 앱",
-     "url": "https://news.hada.io/topic?id=36360",
-     "at": "2026-11-01 08:49",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
-     "url": "https://news.hada.io/topic?id=36306",
-     "at": "2026-10-31 05:31",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
-     "url": "https://news.hada.io/topic?id=36299",
-     "at": "2026-10-31 02:38",
      "desc": ""
     }
    ]
