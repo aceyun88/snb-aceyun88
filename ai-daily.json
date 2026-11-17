@@ -1,6 +1,102 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "days": [
+  {
+   "date": "2026-11-17",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "킹스 트러스트(The King’s Trust)와 OpenAI, 1백만 파운드 규모의 파트너십 체결",
+     "url": "https://openai.com/index/the-kings-trust-and-openai",
+     "at": "2026-11-16 09:00",
+     "desc": "킹스 트러스트(The King’s Trust)와 OpenAI가 영국 전역의 청소년 최대 2만 5,000명이 직업을 위한 실용적인 AI 기술을 습득할 수 있도록 지원하는 1백만 파운드 규모의 파트너십을 시작합니다.",
+     "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+     "desc_en": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "새로운 도구와 지원을 통해 온라인 아동 성적 학대 방지 노력 강화",
+     "url": "https://openai.com/index/strengthening-online-child-safety",
+     "at": "2026-11-17 02:00",
+     "desc": "새로운 도구, 실용적인 지침, 파트너십은 온라인 아동 성적 착취 및 학대를 예방하고, 적발하고, 대응하는 데 도움이 될 것입니다.",
+     "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+     "desc_en": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "LVMH의 미디어 부문, OpenAI와의 전략적 파트너십 체결 발표",
+     "url": "https://openai.com/index/lvmh-media-division-partnership",
+     "at": "2026-11-16 18:00",
+     "desc": "LVMH의 미디어 부문과 OpenAI가 AI를 통해 저널리즘을 지원하고 ChatGPT를 통해 LVMH의 출판물을 더욱 쉽게 접할 수 있도록 하는 파트너십을 발표했습니다.",
+     "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+     "desc_en": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "과학자들이 AI를 더 폭넓게 활용할 수 있도록 지원",
+     "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+     "at": "2026-11-17 02:00",
+     "desc": "당사는 학술 연구자를 위한 ChatGPT 프로그램을 확대하여 전 세계 20만 명의 연구자에게 최첨단 모델에 대한 무료 액세스 권한을 제공하고 있습니다.",
+     "title_en": "Broadening access to AI for scientists",
+     "desc_en": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini 앱에 지역별 음성이 도입되고 있습니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+     "at": "2026-11-17 03:45",
+     "desc": "이제 Gemini에서 Android 및 iOS용 지역 음성 66개를 제공합니다. 앱과의 상호작용에 자연스러운 현지 방언을 선택하세요. 지금 바로 마음에 드는 음성을 선택하세요.",
+     "title_en": "Regional voices are rolling out in the Gemini app.",
+     "desc_en": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
+     "at": "2026-11-17 00:56",
+     "desc": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+     "at": "2026-11-17 03:31",
+     "desc": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바 큐원팀은 16일(현지시간) 공식…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217455",
+     "at": "2026-11-17 02:57",
+     "desc": "앤트그룹이 로봇이 손끝의 촉각 정보를 이해하고 물체를 잡는 힘까지 판단할 수 있도록 하는 AI 모델을 공개했다. 시각과 언어, 동작 생성에 이어 촉각까지 로봇 AI에 결합한 것으로, 열쇠로 자물쇠를 열거나 치약을 적절한 힘으로 짜는 등 섬세한 손동작을 구현할 수 있도록 했다.앤트그룹 산하 로비앤트(Robbyant)는 10일 촉각 기반 로봇 파운데이션 모델…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217453",
+     "at": "2026-11-17 00:55",
+     "desc": "네이버(대표 최수연)는 네이버 카페 회원을 위한 ‘AI 카페 에이전트'의 비공개 베타 테스트(CBT)를 진행 중이라고 16일 밝혔다.AI 카페 에이전트는 카페에 축적된 정보를 바탕으로 사용자 질문에 답변하고 관련 원문으로 연결하는 서비스이다. 일반 검색이나 범용 AI로는 찾기 어려운 게시글과 댓글 속 경험·노하우를 답변에 반영, 회원들의 다양한 의견까지…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Modern Web Guidance 1.0 - 코딩 에이전트에 최신 웹 개발 지침을 제공하는 스킬 모음",
+     "url": "https://news.hada.io/topic?id=37324",
+     "at": "2026-11-17 10:10",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "count": 10,
@@ -1258,76 +1354,6 @@
      "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
      "url": "https://news.hada.io/topic?id=36491",
      "at": "2026-11-03 09:02",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-02",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
-     "at": "2026-11-02 05:11",
-     "desc": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도구와 팀 단위 업무 자동화 기술까지 선보였지만, 아직 연구용 프로토타입으로 실제 제품 경쟁력은 검증되지 않았다.딥시크 하네스 개발팀은 31일(현지시간) 공식…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
-     "at": "2026-11-02 01:26",
-     "desc": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(OpenStax), 오픈 텍스트북…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216859",
-     "at": "2026-11-01 19:46",
-     "desc": "앤트로픽이 AI를 이용해 다른 AI 모델의 안전장치를 우회하는 학습 데이터를 자동으로 찾아내는 데 성공했다. '클로드'가 겉으로는 정상적인 소설이나 역할극으로 보이는 데이터를 만들어 안전성 검사 시스템을 통과했고, 이 데이터를 학습한 모델은 인간의 감시를 방해하거나 이용자를 속이는 행동까지 보였다. 동시에 위험한 행동을 찾아내고 방지하는…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
-     "at": "2026-11-01 19:03",
-     "desc": "AI의 발전이 경제를 근본적으로 바꾸는 핵심 요인은 개별 모델의 지능이 아니라 여러 AI 에이전트의 협업 능력이라는 분석이 나왔다. AI가 인간보다 뛰어난 업무 능력을 갖추더라도 서로 협력하지 못하면 경제 구조의 변화는 제한적이지만, 대규모 협업이 가능해지면 기업의 규모와 경쟁 방식이 달라지고 고용과 임금에도 큰 충격이 발생할 수 있다는 내용이다.구글…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "OpenQodex - 코딩 에이전트의 변경을 별도 에이전트가 검증하는 코드 리뷰 도구",
-     "url": "https://news.hada.io/topic?id=36426",
-     "at": "2026-11-02 09:30",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Anthropic, Claude Code에 기존 게임 재구현 제한 추가",
-     "url": "https://news.hada.io/topic?id=36384",
-     "at": "2026-11-01 20:37",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "ChatGPT와 Codex 사용 한도 통합",
-     "url": "https://news.hada.io/topic?id=36379",
-     "at": "2026-11-01 19:31",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 픽셀 오피스 - 구독형 AI의 CLI를 연결해 팀으로 일하게 하는 AI 오케스트레이션 앱",
-     "url": "https://news.hada.io/topic?id=36418",
-     "at": "2026-11-02 07:14",
      "desc": ""
     }
    ]
