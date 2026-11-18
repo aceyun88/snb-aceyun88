@@ -1,6 +1,104 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "days": [
+  {
+   "date": "2026-11-18",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "GPT-6.2 Astra 및 Sol 소개",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "at": "2026-11-18 02:45",
+     "desc": "ChatGPT Work, Codex, API 전반에 걸쳐 더 낮은 비용으로 더 나은 전문적인 결과물, 코딩, 컴퓨터 사용, 효율성을 제공하는 GPT‑6.2 Astra 및 Sol을 소개합니다.",
+     "title_en": "Introducing GPT-6.2 Astra and Sol",
+     "desc_en": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "칠레를 위한 OpenAI 소개",
+     "url": "https://openai.com/index/introducing-openai-for-chile",
+     "at": "2026-11-17 09:00",
+     "desc": "OpenAI와 칠레 정부는 책임감 있는 AI 도입을 지원하고, 공공 부문의 역량을 강화하며, 현지 스타트업이 AI 애플리케이션을 개발할 수 있도록 지원하기 위해 파트너십을 맺었습니다.",
+     "title_en": "Introducing OpenAI for Chile",
+     "desc_en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "영업팀을 위한 ChatGPT 소개",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "at": "2026-11-17 17:00",
+     "desc": "ChatGPT에서 새로운 영업 플러그인과 30개 이상의 새롭고 확장된 파트너 플러그인을 살펴보고 잠재 고객을 조사하고, 피치를 준비하고, CRM을 업데이트하고, 거래를 진행하세요.",
+     "title_en": "Introducing ChatGPT for Sales",
+     "desc_en": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "5명의 빌더가 Gemini 4 Carbon으로 무엇을 만들고 있는지 확인해 보세요.",
+     "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+     "at": "2026-11-18 06:00",
+     "desc": "Gemini 4 Carbon으로 제작한 다양한 프로젝트의 콜라주",
+     "title_en": "See what 5 builders are making with Gemini 4 Carbon",
+     "desc_en": "Collage of different projects made with Gemini 4 Carbon"
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Gemini를 활용해 보세요",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+     "at": "2026-11-18 02:00",
+     "desc": "'무엇을 도와드릴까요?'라는 메시지가 표시되고 그 아래에 '작업 설명'이라는 자리 표시자 텍스트가 포함된 입력란이 있는 사용자 인터페이스입니다.",
+     "title_en": "Put Gemini to work for you",
+     "desc_en": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "법률 인텔리전스 분야를 선도하는 Astra for Law",
+     "url": "https://openai.com/index/astra-law-6-2",
+     "at": "2026-11-17 09:00",
+     "desc": "Astra for Law는 24개 법률 분야에 걸친 출시 평가에서 1위를 차지했습니다. 이제 모든 ChatGPT Enterprise 고객이 액세스를 요청할 수 있습니다.",
+     "title_en": "Astra for Law leads in legal intelligence",
+     "desc_en": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+     "at": "2026-11-18 14:01",
+     "desc": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나섰다.MS는 17일(현지시간) 미국…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "텐센트 'Hy4 플래시' 출시...일상 업무 특화·작업 비용 95% 절감",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217484",
+     "at": "2026-11-18 03:18",
+     "desc": "텐센트가 문서 작성과 프레젠테이션 제작, 자료 조사 등 일상적인 업무에 특화한 저비용 AI 모델을 선보였다. 자체 평가에서 기존 모델보다 작업당 비용을 최대 95% 줄이면서도 사용자 만족도는 앤트로픽의 '클로드 하이쿠 5.5'에 근접한 수준을 기록했다.텐센트는 16일(현지시간) 'Hy4 플래시(Hy4 flash)'를 출시했다. 지난 4일 공개한 대형 모델…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
+     "at": "2026-11-18 15:48",
+     "desc": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에서 세계 2위에 오르고 API 가격도 20% 인하하는 등 성능과 비용 경쟁력을 동시에 강화했다.오픈AI는 17일(현지시간) 공식 블로그를 통해 최고 성능 모델인…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 아동 성착취물 탐지 AI 공개...챗GPT 경고·24시간 이용 정지 기능도 도입",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217501",
+     "at": "2026-11-18 01:15",
+     "desc": "오픈AI가 AI로 생성한 이미지까지 식별할 수 있는 아동 성착취물(CSAM) 탐지 도구를 공개하고, '챗GPT'에 유해 콘텐츠 생성을 억제하는 경고 및 이용 제한 기능을 도입한다. 개발자를 위한 안전 지침과 수사기관의 아동 보호 활동을 지원하는 AI 도구도 함께 제공한다.오픈AI는 16일(현지시간) 새로운 이미지 분류기 도입, 챗GPT 내 경고 및 계정…"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "count": 10,
@@ -1258,102 +1356,6 @@
      "title": "내 노트북의 Qwen 3.8 27B도 모델 가중치를 해석할 수 있다",
      "url": "https://news.hada.io/topic?id=36542",
      "at": "2026-11-04 04:36",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-03",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "계통 보호기 프로그램 소개",
-     "url": "https://openai.com/index/grid-protectors-program",
-     "at": "2026-11-03 00:00",
-     "desc": "OpenAI의 계통 보호 프로그램 (Grid Protectors Program) 은 미래의 컴퓨팅 캠퍼스가 계통 신뢰성을 지원하고 소비자 전기 비용을 보호할 수 있도록 유틸리티와 협력할 것입니다.",
-     "title_en": "Introducing the Grid Protectors Program",
-     "desc_en": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "2026년 10월에 발표한 최신 AI 뉴스",
-     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-     "at": "2026-11-03 02:45",
-     "desc": "10월 AI 게시물 이미지 애니메이션 캐러셀",
-     "title_en": "The latest AI news we announced in October 2026",
-     "desc_en": "Animated carousel of images from AI posts in October"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Qodo는 Codex와 함께 AI 코드 검토에 컨텍스트를 구축합니다",
-     "url": "https://openai.com/index/qodo-codex-plugin",
-     "at": "2026-11-02 09:00",
-     "desc": "Qodo는 코덱스에 회사 지식과 코딩 표준을 도입하여 개발자가 끌어오기 요청을 열기 전에 저장소 전반에서 P0 문제를 파악할 수 있도록 지원합니다.",
-     "title_en": "Qodo builds context into AI code review with Codex",
-     "desc_en": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "더 큰 버그 현상금으로 방어자에게 보상하기",
-     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-     "at": "2026-11-03 03:00",
-     "desc": "OpenAI는 보안 버그 보상금을 인상하고 독립 보안 연구원을 위한 보고서 품질, 충성도 및 우선 캠페인 보너스를 도입하고 있습니다.",
-     "title_en": "Rewarding defenders with bigger bug bounties",
-     "desc_en": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI에서 Git 확장",
-     "url": "https://openai.com/index/scaling-git-at-openai",
-     "at": "2026-11-03 00:30",
-     "desc": "OpenAI가 Git 호환 백엔드인 Pando를 구축한 방법은 Codex가 가능하게 하는 개발 규모에 맞게 설계되었습니다.",
-     "title_en": "Scaling Git at OpenAI",
-     "desc_en": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "미소스 5.5·GPT-6.2 아스트라 잇달아 포착…최첨단 모델 출시설",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216894",
-     "at": "2026-11-02 21:45",
-     "desc": "앤트로픽과 오픈AI가 차세대 첨단 AI 모델 출시를 준비하고 있다는 정황이 잇따라 포착됐다. 두 회사 모두 기존 주요 모델을 공개한 지 약 두 달밖에 지나지 않은 가운데 새로운 모델의 이름이 등장하면서, 최첨단 AI 모델의 교체 주기에도 관심이 쏠리고 있다.테스팅카탈로그는 1일(현지시간) 앤트로픽의 공식 웹사이트에서 '클로드 미소스 5.5'라는 모델…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
-     "at": "2026-11-03 02:41",
-     "desc": "마이크로소프트(MS)와 UC버클리 연구진이 AI 코딩 에이전트의 작업 성공률을 유지하면서 모델 이용 비용을 최대 30.9% 줄이는 오픈소스 도구를 공개했다. 이전 작업에서 얻은 정보를 재활용하고 불필요한 도구 호출과 반복적인 실패를 줄이는 방식으로, AI 모델 자체를 수정하지 않고도 운영 비용을 낮출 수 있다는 것이 특징이다.연구진은 최근 논문 사전 공개…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "엔비디아, 잡음·울림 제거하는 초경량 음성 복원 AI 공개…대형 모델 능가",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216899",
-     "at": "2026-11-03 01:29",
-     "desc": "엔비디아가 잡음과 울림, 음성 잘림, 압축 손상 등으로 품질이 크게 떨어진 음성을 복원하는 초경량 AI 모델을 공개했다. 특히 매개변수 960만 개만으로 대규모 음성 향상 모델을 압도하는 성능을 보였으며, 실시간 처리와 다양한 녹음 환경 및 언어를 지원하는 것이 특징이다.엔비디아는 30일(현지시간) 범용 음성 향상 모델 ‘네모트론랩스…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "비드래프트, AI가 스스로 해제 못 하는 '킬스위치' 개발…보안 OS 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216938",
-     "at": "2026-11-03 20:05",
-     "desc": "AI 전문 비드래프트(대표 김민식)가 AI 모델 내부에 정지 회로를 구현한 보안 운영체제(OS) 'ViKernel'을 공개했다. AI가 대화나 추가 학습을 통해 정지 명령을 무력화하지 못하도록 설계한 것이 핵심이다. AI가 스스로 코드를 수정하고 성능을 개선하는 기술이 발전하면서 통제 장치까지 변경하는 상황을 막기 위한 시도다.비드래프트는 AI 모델의…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
-     "url": "https://news.hada.io/topic?id=36491",
-     "at": "2026-11-03 09:02",
      "desc": ""
     }
    ]
