@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "Gemini API의 도구 검색 소개",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+     "at": "2026-11-20 03:00",
+     "desc": "우주 배경의 쌍둥이자리 스파크",
+     "title_en": "Introducing Tool Retrieval in the Gemini API",
+     "desc_en": "Gemini spark on a space background"
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Gemini 4 Neon 소개",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+     "at": "2026-11-19 06:35",
+     "desc": "",
+     "title_en": "Introducing Gemini 4 Neon"
+    },
+    {
+     "tier": 1,
+     "source": "구글 딥마인드 블로그",
+     "title": "Genie 4를 지금 만나보세요",
+     "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+     "at": "2026-11-19 03:13",
+     "desc": "",
+     "title_en": "Genie 4 is now available"
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini가 Mac에서 반복적인 작업을 처리하도록 하세요",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+     "at": "2026-11-20 02:00",
+     "desc": "Gemini에게 아이가 그린 나비 스케치를 가져와 모델링하고 Blender에서 리깅하도록 요청하기",
+     "title_en": "Let Gemini tackle repetitive chores on your Mac",
+     "desc_en": "Prompting Gemini to take a kid's butterfly sketch, model it, and rig it in Blender"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI의 Performance Factory가 ChatGPT의 속도를 유지하는 방법",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+     "at": "2026-11-19 17:00",
+     "desc": "OpenAI가 ChatGPT의 빠른 속도를 유지하기 위해 성능 문제를 찾아내고 해결하는 Codex 기반 워크플로 시스템인 Performance Factory를 어떻게 구축했는지 알아보세요.",
+     "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+     "desc_en": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Codex Security 플러그인 살펴보기",
+     "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+     "at": "2026-11-19 09:00",
+     "desc": "Codex Security 플러그인의 데모를 시청하고 시작부터 녹화본에 표시된 결과 검토까지 워크플로가 실제로 작동하는 모습을 확인하세요.",
+     "title_en": "Explore the Codex Security Plugin",
+     "desc_en": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "놓쳤을까 봐 알려드립니다: 다른 AI 앱에서 Gemini로 기록을 이전하세요.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+     "at": "2026-11-20 05:30",
+     "desc": "채팅 기록을 Gemini로 이전하세요. ZIP 파일과 AI 요약을 가져와 대화를 원활하게 이어가세요. 자세한 내용을 확인하세요.",
+     "title_en": "ICYMI: Transfer your history from other AI apps into Gemini.",
+     "desc_en": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "월터 아이잭슨이 말하는 AI 시대의 호기심과 창의성.",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+     "at": "2026-11-20 02:00",
+     "desc": "월터 아이잭슨이 Google에 합류하여 AI 시대에 역사상 가장 위대한 혁신가들이 창의성과 인간의 판단력을 어떻게 고취하는지 논의합니다. 에피소드 시청하기.",
+     "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+     "desc_en": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 출시 후에도 소프트웨어 개선하는 에이전트 '스티치 루프' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217564",
+     "at": "2026-11-19 21:59",
+     "desc": "구글이 소프트웨어 출시 이후에도 보안 취약점과 성능 저하, 사용자 경험 문제를 지속적으로 찾아내고 개선하는 AI 에이전트 '스티치 루프(Stitch Loop)'를 공개했다. 코드 작성과 기능 개발에 집중하던 기존 코딩 에이전트의 역할을 제품 출시 이후까지 확장한 것으로, 실제 운영 데이터를 분석해 개선 작업을 반복하는 것이 특징이다.구글은…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "북한, AI 챗봇 '지혜의 샘' 공개…정치 질문 금지·해외 모델 활용 추정",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217578",
+     "at": "2026-11-20 00:14",
+     "desc": "북한이 과학기술 분야의 질문에 답하고 번역 등을 수행하는 AI 챗봇 '지혜의 샘'을 공개했다. 챗GPT와 비슷한 대화형 인터페이스를 갖췄지만 정치·사회 관련 질문을 금지하고 있으며, 자체 개발한 파운데이션 모델이 아닌 해외 오픈웨이트 모델을 활용했을 가능성이 제기됐다.미국의 북한 전문매체 38노스는 18일(현지시간) 북한 교육방송 룡남산TV가 지난 17일…"
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "count": 10,
@@ -1267,100 +1367,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
      "at": "2026-11-06 15:05",
      "desc": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보안 기업과 협력해 기업 시장 공략에도…"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-05",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "이미지 소개 2.6",
-     "url": "https://openai.com/index/introducing-images-2-6",
-     "at": "2026-11-04 09:00",
-     "desc": "이미지 2.6은 ChatGPT, 코덱스 및 API 전반에 걸쳐 더 빠른 이미지 생성, GIF 생성, 더 정밀한 편집 및 새로운 API 컨트롤을 제공합니다.",
-     "title_en": "Introducing Images 2.6",
-     "desc_en": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "이제 AWS GovCloud (미국 동부) 에서 Daybreak Red를 사용할 수 있습니다.",
-     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-     "at": "2026-11-04 16:00",
-     "desc": "Daybreak Red는 승인된 사이버 보안 작업을 위해 Amazon Bedrock을 통해 AWS GovCloud (미국 동부) 의 승인된 고객에게 GPT-5.6 Cyber를 제공합니다.",
-     "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
-     "desc_en": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "OpenAI, Pierre Computer Company, Inc. 인수",
-     "url": "https://openai.com/index/openai-to-acquire-pierre",
-     "at": "2026-11-04 23:30",
-     "desc": "OpenAI는 Pierre Computer Company를 인수하여 Codex의 코드 구축, 이해 및 검토 도구를 확장할 것입니다.",
-     "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
-     "desc_en": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "루트로 가는 경로가 수천 개 줄어들었습니다.",
-     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-     "at": "2026-11-04 17:00",
-     "desc": "OpenAI는 Linux 커널에서 948개의 로컬 권한 상승 취약점에 대한 패치를 발견, 검증 및 생성하는 자율 파이프라인을 구축했습니다.",
-     "title_en": "A thousand fewer paths to root",
-     "desc_en": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "엔비디아, 기업 데이터 이해하는 '오토 온톨로지' 공개…AI 정확도 높인다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217004",
-     "at": "2026-11-04 23:55",
-     "desc": "엔비디아가 기업 내부 데이터의 의미와 관계를 자동으로 분석해 AI 에이전트가 활용할 수 있도록 하는 오픈소스 기술을 공개했다. AI가 기업의 매출이나 고객 정보를 조회할 때 단순히 데이터를 검색하는 데 그치지 않고, 각 데이터의 정확한 의미와 계산 기준까지 이해하도록 돕는 기술이다. 최근 기업용 AI 에이전트의 신뢰성을 높이는 기술로…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 일상 업무 AI 평가 '라이프밸' 공개...개인 비서 성능 1년 새 49%→81%",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216996",
-     "at": "2026-11-05 00:41",
-     "desc": "오픈AI가 챗GPT를 단순한 대화형 도구에서 실제 일상 업무를 처리하는 개인 AI 비서로 발전시키기 위한 성능 평가 체계를 공개했다. 육아와 건강 관리, 금융 등 생활 밀착형 업무를 얼마나 잘 수행하는지 측정해 에이전트 역량의 개선 정도를 추적한다는 구상이다. 오픈AI는 2일(현지시간) 육아와 건강 관리, 금융, 쇼핑 등 일상적인 업무를 AI가 얼마나 잘…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217008",
-     "at": "2026-11-05 02:54",
-     "desc": "미국 AI 스타트업 자이프라(Zyphra)가 초장문 문맥 처리 속도를 크게 높일 수 있는 새로운 희소 어텐션 기술을 공개했다. 문서 전체를 검색하는 대신 정보를 계층적으로 정리한 뒤 필요한 부분만 찾아가는 방식으로, 1000만 토큰 문맥에서 기존 일반 어텐션보다 최대 35배 빠른 처리 속도를 낼 수 있다는 예측 결과를 제시했다.자이프라는 2일(현지시간)…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "애플, iOS 27.3 베타 공개...대화 기억하는 AI·시리 앱 제어 강화",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216983",
-     "at": "2026-11-04 23:17",
-     "desc": "애플이 대화 내용을 기억하고 요약하는 애플워치용 AI 기능과 앱 제어 능력을 강화한 시리(Siri) AI를 선보였다. 이번 업데이트로 개발자들이 자사 앱을 시리와 직접 연동할 수 있게 되면서 AI 음성 비서의 활용 범위도 넓어졌다.애플은 3일(현지시간) iOS 27.3 첫 번째 개발자 베타 버전을 공개했다. 이번 업데이트에는 애플워치의 '오디오…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Token Yugong - Claude Code·Codex 사용 한도를 보여 주는 픽셀 우공 메뉴바 앱",
-     "url": "https://news.hada.io/topic?id=36626",
-     "at": "2026-11-05 10:39",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "자율 에이전트를 위한 데이터 플랫폼 구축",
-     "url": "https://news.hada.io/topic?id=36622",
-     "at": "2026-11-05 09:40",
-     "desc": ""
     }
    ]
   }
