@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "days": [
+  {
+   "date": "2026-11-21",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "새로운 연결 앱으로 연말 업무를 처리하세요.",
+     "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+     "at": "2026-11-21 03:00",
+     "desc": "Google Connected Apps가 연말 업무를 간소화해 드립니다. 검색에서 바로 식료품, 신용 점수, 가사 서비스를 관리하세요. 2026년 11월에 대한 세부 정보를 확인하세요.",
+     "title_en": "Get your year-end tasks done with new Connected Apps.",
+     "desc_en": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "적대적 증류(adversarial distillation) 방지",
+     "url": "https://openai.com/index/combatting-adversarial-distillation",
+     "at": "2026-11-20 19:00",
+     "desc": "OpenAI의 적대적 증류에 대한 계층적 접근 방식은 모델 훈련, 보호 조치, 탐지 및 시행을 결합하여 역량 추출로부터 보호합니다.",
+     "title_en": "Combatting adversarial distillation",
+     "desc_en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Hebbia, GPT-6 Astra로 금융 리서치 개선",
+     "url": "https://openai.com/business/customer-stories/hebbia",
+     "at": "2026-11-20 09:00",
+     "desc": "Hebbia는 금융 리서치를 위해 GPT-6 Astra를 테스트했습니다. 사전 출시 평가 결과, 출처 범위, 인용 관련성, 제시 품질이 향상된 것으로 나타났습니다.",
+     "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+     "desc_en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "AI가 과학자들이 유망한 신약 후보 물질을 식별하는 데 도움이 될 수 있을까요?",
+     "url": "https://openai.com/index/introducing-medchembench",
+     "at": "2026-11-20 09:00",
+     "desc": "MedChemBench는 AI 모델이 분자 구조를 얼마나 잘 해석하고, 실험적 증거를 바탕으로 추론하고, 초기 신약 개발 단계에서 화합물을 선택하는지를 평가합니다.",
+     "title_en": "Can AI help scientists identify promising drug candidates?",
+     "desc_en": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, AI 기기 '뮤즈 참' 300달러에 연말 출시 추진...1년 무료 5G 제공",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217601",
+     "at": "2026-11-20 22:16",
+     "desc": "메타가 AI 에이전트 '뮤즈(Muse)'를 탑재한 소형 웨어러블 기기 '뮤즈 참(Muse Charm)'을 300달러(약 40만원)에 출시할 계획인 것으로 알려졌다. 구매자에게는 미국 버라이즌의 5G 데이터 서비스를 최대 12개월간 무료로 제공해 스마트폰이나 와이파이 없이도 AI 비서를 이용할 수 있도록 한다는 구상이다.디 인포메이션은 19일(현지시간)…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217599",
+     "at": "2026-11-21 01:03",
+     "desc": "모레(대표 조강원)는 대형언어모델(LLM)의 추론 성능과 효율을 높이는 자기 개선형 추론 프레임워크 ‘TIDE’를 공개했다고 20일 밝혔다. TIDE는 미국 시카고에서 열린 고성능 컴퓨팅(HPC) 컨퍼런스 '슈퍼컴퓨팅 2026'에서 처음 발표됐다.TIDE는 실제 추론 과정에서 생성되는 데이터를 활용해 보조 모델을 지속적으로 개선하고, LLM의 추론 속도와…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+     "at": "2026-11-21 01:38",
+     "desc": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다. 앤트로픽과 오픈AI가 1~2년 전부터 선보인 기능으로, 구글도 기존 개발자용 기술을 일반 이용자에게 확대하면서 AI 에이전트 경쟁에 본격적으로 뛰어들었다.구글은 19일(현지시간) 공식 블로그를 통해 맥용 제미나이 앱에 컴퓨터 유즈 기능을…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Anthropic 수학자, Claude와 리만 가설 및 일반화 리만 가설을 증명했다고 발표 [pdf]",
+     "url": "https://news.hada.io/topic?id=37529",
+     "at": "2026-11-21 00:34",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217629",
+     "at": "2026-11-21 02:15",
+     "desc": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공식 연구 발표를 통해 AI 에이전트가…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Codex로 일하는 새로운 방식 [영상]",
+     "url": "https://news.hada.io/topic?id=37556",
+     "at": "2026-11-21 09:50",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "count": 10,
@@ -1269,104 +1363,6 @@
      "url": "https://news.hada.io/topic?id=36707",
      "at": "2026-11-06 23:09",
      "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-06",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "책임감 있는 AI 인프라의 새로운 표준 설정",
-     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-     "at": "2026-11-05 11:00",
-     "desc": "OpenAI는 지역 자원을 보호하고 일자리를 창출하며 책임감 있는 AI 인프라 개발을 안내하기 위해 National Community Compact 및 Compute Campus Policy Blueprint를 도입합니다.",
-     "title_en": "Setting a new standard for responsible AI infrastructure",
-     "desc_en": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "GPT ‑ 6 사이버: 정렬된 사이버 보안 에이전트의 경계 발전",
-     "url": "https://openai.com/index/introducing-gpt-6-cyber",
-     "at": "2026-11-05 18:00",
-     "desc": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다.",
-     "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-     "desc_en": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Cult.fit은 코덱스로 운영 근육을 구축합니다",
-     "url": "https://openai.com/index/cultfit-builds-with-codex",
-     "at": "2026-11-06 05:00",
-     "desc": "Cult.fit은 코덱스를 사용하여 여러 부서의 팀이 도구를 구축하고, 더 빠르게 움직이며, 업무 수행 방식을 변경할 수 있도록 돕고 있습니다.",
-     "title_en": "Cult.fit builds operational muscle with Codex",
-     "desc_en": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Merge는 OpenAI 기술로 제품 및 비즈니스 툴을 구축합니다.",
-     "url": "https://openai.com/index/merge-builds-with-openai",
-     "at": "2026-11-05 17:00",
-     "desc": "Merge는 GPT-6 Astra, ChatGPT 및 Codex를 사용하여 제품 코드를 검토하고 마케팅을 지원합니다. 또한 IT 팀은 AI를 사용하여 경영진의 저녁 식사를 계획하고 판매 업데이트를 준비합니다.",
-     "title_en": "Merge builds product and business tools with OpenAI technology",
-     "desc_en": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "Gemini Omni 1.2 플래시: 더 긴 클립으로 빠르고 비용 효율적",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "at": "2026-11-06 02:00",
-     "desc": "텍스트 \"Gemini Introducing Gemini Omni 1.2 Flash\" 벌집, 대화 중인 동물, 오징어, 거리를 걷고 있는 여성의 이미지로 가득합니다.",
-     "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-     "desc_en": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Gemini로 간단한 그림을 라이브 앱으로 변환하세요.",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
-     "at": "2026-11-06 02:00",
-     "desc": "Gemini를 사용하여 스케치를 기능적인 앱으로 전환하세요. Canvas 도구에 그림을 업로드하여 즉시 코드를 생성하고 수정할 수 있습니다. 지금 사용해 보세요.",
-     "title_en": "Transform a quick drawing into a live app with Gemini.",
-     "desc_en": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-     "at": "2026-11-06 03:18",
-     "desc": "앤트로픽이 이용자가 받은 답변을 약속된 AI 모델이 생성했는지 수학적으로 검증하는 오픈소스 기술을 공개했다. 모델 가중치를 노출하지 않고도 서비스 업체의 모델 바꿔치기나 응답 조작을 확인할 수 있다.앤트로픽은 2일(현지시간) AI 추론 결과의 신뢰성을 검증하는 시스템 '플래시프루브(FlashProve)'를 공개했다.영지식 증명(Zero-Knowledge…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "문샷 AI, ‘키미 K3.1 프로’ 가중치 공개…\"딥시크 희소 어텐션 결합\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217051",
-     "at": "2026-11-06 02:58",
-     "desc": "문샷 AI가 ‘키미 K3.1 프로’의 가중치를 공개해 개발자가 자체 인프라에서 모델을 운영하고 수정할 수 있도록 했다. 모델 카드에는 딥시크 희소 어텐션을 결합한 내부 구조와 저정밀도 연산 사양도 담겼다.문샷 AI는 4일(현지시간) 허깅페이스를 통해 키미 K3.1 프로의 가중치를 배포했다. 지난달 모델 출시 당시 예고한 공개 일정에 따른 조치다.배포…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "웹케시, 생성 AI 연결 ‘경리나라 MCP’ 12월 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217027",
-     "at": "2026-11-05 20:45",
-     "desc": "웹케시(대표 강원주)가 오는 12월 중소기업 경영관리 플랫폼 ‘경리나라’에 쌓인 기업 데이터를 생성 AI 앱에서 조회·분석할 수 있는 ‘경리나라 MCP’를 출시한다고 밝혔다. 정식 출시에 앞서 13일까지 체험단을 모집한다.경리나라 MCP를 이용하면 클로드·챗GPT 등 평소 쓰던 AI 모델에서 ‘경리나라’에 저장된 계좌 입출금 내역, 매출·매입 세금계산서…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
-     "at": "2026-11-06 15:05",
-     "desc": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보안 기업과 협력해 기업 시장 공략에도…"
     }
    ]
   }
