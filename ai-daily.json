@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "days": [
+  {
+   "date": "2026-11-22",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
+     "at": "2026-11-22 01:39",
+     "desc": "구글이 '제미나이' 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했다. 오픈AI가 '챗GPT'에 GIF 생성 기능을 선보인 지 약 2주 만으로, 주요 AI 서비스 간 이미지·영상 생성 기능 경쟁이 치열해지고 있다.구글은 20일(현지시간) 공식 X 계정을 통해 제미나이 앱에 GIF 생성 기능을 추가했다고 밝혔다.이번 기능은…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Re: Riemann - 리만 가설 증명 발표와 AI 앞에서 인간의 주체성",
+     "url": "https://news.hada.io/topic?id=37559",
+     "at": "2026-11-21 13:32",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
+     "at": "2026-11-21 02:45",
+     "desc": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다. 신형 모델이 나올 때마다 이용자들이 다음 원소를 예상하는 가운데, 구글도 주기율표를 활용한 모델 선택 기능과 영상을 선보이며 이러한 관심을 즐기는 모습이다.구글 딥마인드의 개발자 경험 총괄인 오마르 산세비에로는 19일(현지시간) X에 \"출시는 계속될 것(Shipping…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
+     "at": "2026-11-21 02:30",
+     "desc": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국의 프리랜서 창작 전문가 플랫폼…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+     "at": "2026-11-22 18:09",
+     "desc": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진행 상황을 확인하기 쉽게 만들었다.오픈AI는 19일(현지시간) 공식 릴리스 노트를 통해 챗GPT의 새로운 모바일 디자인을 일부 이용자에게 제공하기 시작했다고…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+     "url": "https://news.hada.io/topic?id=37600",
+     "at": "2026-11-22 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: VAMP MCP — AI에게 Windows 앱 작업을 맡기고, 녹화한 작업을 다시 실행하기",
+     "url": "https://news.hada.io/topic?id=37573",
+     "at": "2026-11-21 20:02",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "항상 작동하는 에이전트 구축하기",
+     "url": "https://news.hada.io/topic?id=37550",
+     "at": "2026-11-21 09:20",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "count": 10,
@@ -1269,99 +1339,6 @@
      "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
      "url": "https://news.hada.io/topic?id=36733",
      "at": "2026-11-07 09:40",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-07",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "인공지능 에이전트가 매일 습식 실험실 과학을 다루는 방법 측정",
-     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-     "at": "2026-11-06 09:00",
-     "desc": "OpenAI는 인공지능 에이전트가 원시 실험 데이터를 얼마나 잘 해석하고 일상적인 습식 실험 과학을 다루는지 측정하는 100가지 작업 벤치마크인 BioBasicsBench를 소개합니다.",
-     "title_en": "Measuring how AI agents handle everyday wet-lab science",
-     "desc_en": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "호주 대학은 AI 네이티브 졸업생을 배출하고 있습니다.",
-     "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-     "at": "2026-11-06 02:00",
-     "desc": "호주 대학들은 ChatGPT에 대한 접근성을 확대하고 학생들에게 AI 지원 인력을 준비시키기 위해 AI를 교육 및 학습에 도입하고 있습니다.",
-     "title_en": "Australian universities are creating AI-native graduates",
-     "desc_en": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기",
-     "url": "https://openai.com/index/partnering-with-hacktron",
-     "at": "2026-11-06 17:00",
-     "desc": "OpenAI는 Hacktron과 협력하여 취약점을 찾고, 타사 서비스와의 연결을 테스트하고, 프론티어 AI로 방어를 강화하고 있습니다.",
-     "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-     "desc_en": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-     "tier": 1,
-     "source": "구글 딥마인드 블로그",
-     "title": "Gemini Omni 1.2 플래시: 더 긴 클립으로 빠르고 비용 효율적",
-     "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-     "at": "2026-11-06 02:05",
-     "desc": "",
-     "title_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "카카오, 의사결정 모델 ‘카나나-2-v-디사이드’ 공개",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217087",
-     "at": "2026-11-06 22:10",
-     "desc": "타입세이프 AI의 ‘제브’와 업스테이지의 ‘솔라 디사이드’에 이어 카카오도 AI 에이전트용 의사결정 모델을 내놨다.카카오(대표 정신아)는 AI 의사결정 지원용 멀티모달 모델 ‘카나나-2-v-디사이드’를 허깅페이스에 오픈소스로 공개했다고 6일 밝혔다.의사결정 모델은 문장 대신 확률과 선택 및 점수 등 규격화된 형태로 판단 결과를 제공해 AI 에이전트의…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
-     "at": "2026-11-07 02:21",
-     "desc": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고,…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217104",
-     "at": "2026-11-07 01:41",
-     "desc": "구글이 동영상 생성 AI의 최대 영상 길이를 15초로 늘리고 가격을 30% 인하했다. 기존 영상을 대화로 수정하는 기능과 참조 이미지의 일관성도 개선해 광고 등 상업용 영상 제작에 활용할 수 있도록 했다.구글은 5일(현지시간) 동영상 생성 AI 모델 ‘제미나이 옴니 1.2 플래시(Gemini Omni 1.2 Flash)’를 출시했다.이번 모델은 제미나이…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "약 2만 달러로 학습한 이미지 생성 모델 P-JiT, 코드와 가중치 공개",
-     "url": "https://news.hada.io/topic?id=36694",
-     "at": "2026-11-06 14:33",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
-     "at": "2026-11-07 01:10",
-     "desc": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있으며, 아바타는 대화 내용과 말투에 맞춰 표정과 몸짓을 바꾼다.메타는 5일(현지시간) '뮤즈 리얼타임 보이스(Muse Realtime Voice)'와 '뮤즈 리얼타임 아바타(Muse…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: K-Humanizer - 한국 고객과 자연스럽게 소통하기 위한 한국어 Agent Skill",
-     "url": "https://news.hada.io/topic?id=36707",
-     "at": "2026-11-06 23:09",
      "desc": ""
     }
    ]
