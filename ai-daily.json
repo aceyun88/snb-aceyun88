@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "days": [
+  {
+   "date": "2026-11-23",
+   "count": 9,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "퍼플렉시티와 지능",
+     "url": "https://openai.com/index/perplexity-and-intelligence",
+     "at": "2026-11-22 09:00",
+     "desc": "퍼플렉시티가 AI 모델의 발전을 어떻게 측정하는지, 그리고 퍼플렉시티가 개발자들이 새로운 기능을 평가하는 데 있어 공통된 접근 방식을 확립하는 데 어떻게 도움이 될 수 있는지 알아보세요.",
+     "title_en": "Perplexity and Intelligence",
+     "desc_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI, 음성 모델 'GPT-라이브-1.1' 출시…대기 요금 60% 인하",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
+     "at": "2026-11-22 21:01",
+     "desc": "오픈AI가 음성 에이전트 개발을 위한 실시간 음성 모델 'GPT-라이브-1.1(GPT-Live-1.1)'을 API로 출시했다. 다국어 발음과 음성 인식, 지시 수행 능력을 개선한 데 이어, 대화가 없는 유휴 시간의 이용 요금을 분당 0.02달러로 낮춰 음성 에이전트 운영 비용도 절감할 수 있도록 했다.오픈AI는 19일(현지시간) 개발자 커뮤니티를 통해…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "싱킹머신즈, 노트북서 구동하는 264억 매개변수 '잉클링 2 미니' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217656",
+     "at": "2026-11-22 21:09",
+     "desc": "싱킹머신즈(Thinking Machines Lab)가 노트북에서도 실행할 수 있는 소형 AI 모델 '잉클링 2 미니(Inkling 2 Mini)'를 공개했다. 전체 매개변수는 264억개지만, 신경망의 중간 계층을 반복 실행하는 새로운 구조를 적용해 1000억개 미만 오픈웨이트 모델 가운데 최고 수준의 코딩 성능을 확보했다.싱킹머신즈는 20일(현지시간)…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+     "at": "2026-11-23 16:14",
+     "desc": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "[AI리더의 서가] The RLHF Book 한국어판",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217619",
+     "at": "2026-11-23 18:00",
+     "desc": "The RLHF Book 한국어판네이선 램버트 | 책만2026년 11월 19일추천이유이 책은 LLM 성능 향상을 위한 RLHF의 핵심 구현과 직접 정렬 알고리즘을 다루며, 현업 엔지니어와 AI 연구자가 모델 정렬의 실무 기초를 탄탄히 다질 수 있도록 합니다.상세보기 출간 소식이 알려지자, 입고 일정을 묻는 문의가 먼저 들어왔다. 묻는 이들은 대개 모델을…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Vi3w - 3D 모델을 올리면 휴대폰 브라우저에서 여는 AR 링크와 QR을 만드는 웹AR 도구",
+     "url": "https://news.hada.io/topic?id=37669",
+     "at": "2026-11-23 08:17",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "ClawDOS - DOS용 AI 코딩 에이전트",
+     "url": "https://news.hada.io/topic?id=37604",
+     "at": "2026-11-22 12:32",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Words - AI 응답을 실시간으로 표시하는 고속 Markdown 렌더러",
+     "url": "https://news.hada.io/topic?id=37676",
+     "at": "2026-11-23 09:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI는 모두에게 같은 조언을 하고 있다",
+     "url": "https://news.hada.io/topic?id=37639",
+     "at": "2026-11-23 00:34",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "count": 8,
@@ -1269,76 +1349,6 @@
      "title": "Unitree는 왜 로봇을 손으로 조립할까? 제조 자동화 기회를 본 공장 탐방기",
      "url": "https://news.hada.io/topic?id=36768",
      "at": "2026-11-08 02:49",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-08",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217114",
-     "at": "2026-11-07 18:55",
-     "desc": "AI 전문 예진(대표 고종현)은 한국어에 특화된 80억 매개변수 파운데이션 모델 ‘예진 8B v3’를 개발했다고 6일 밝혔다.예진 8B v3는 해외 공개 모델의 가중치를 쓰지 않고, 토크나이저 설계부터 사전학습까지 전 과정을 직접 수행한 프롬 스크래치 모델이다. 공개 모델 6종과 가중치를 비교한 결과, 유사도가 0.0014 이하로 기존 모델을 미세조정한…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
-     "at": "2026-11-08 02:45",
-     "desc": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
-     "at": "2026-11-08 02:08",
-     "desc": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 플래시 베이스(ERNIE 5.5…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
-     "at": "2026-11-08 18:51",
-     "desc": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Epoch Idle – AI 모델 훈련 과정을 시뮬레이션하는 방치형 웹/모바일 게임",
-     "url": "https://news.hada.io/topic?id=36764",
-     "at": "2026-11-08 01:27",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Software Line Specialist - AI가 못 고친 코드를 고치는 사람을 구합니다",
-     "url": "https://news.hada.io/topic?id=36742",
-     "at": "2026-11-07 18:01",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
-     "url": "https://news.hada.io/topic?id=36741",
-     "at": "2026-11-07 17:10",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "DoorDash가 정확도를 유지하면서 LLM 검색 비용을 98% 줄인 방법",
-     "url": "https://news.hada.io/topic?id=36733",
-     "at": "2026-11-07 09:40",
      "desc": ""
     }
    ]
