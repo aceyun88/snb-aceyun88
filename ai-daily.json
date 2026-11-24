@@ -1,6 +1,104 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "days": [
+  {
+   "date": "2026-11-24",
+   "count": 10,
+   "items": [
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "OpenAI와 Cisco가 Shirudo를 선보입니다",
+     "url": "https://openai.com/index/introducing-shirudo",
+     "at": "2026-11-24 06:20",
+     "desc": "OpenAI와 Cisco가 Linux용 오픈 소스 런타임인 Shirudo를 선보입니다. 이를 통해 팀은 패치를 배포하는 동안 실행 중인 시스템을 보호할 수 있습니다.",
+     "title_en": "OpenAI and Cisco introduce Shirudo",
+     "desc_en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "Gemini Canvas로 할 수 있는, 여러분이 몰랐던 4가지 기능을 소개해드립니다.",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+     "at": "2026-11-24 03:00",
+     "desc": "Google Gemini Canvas로 생산성을 높여보세요. 웹 앱을 만들고, 맞춤형 학습 도구를 생성하고, 글쓰기를 동시에 다듬어 보세요. 다음 채팅에서 사용해 보세요.",
+     "title_en": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+     "desc_en": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat."
+    },
+    {
+     "tier": 1,
+     "source": "구글 제미나이 블로그",
+     "title": "6명의 빌더가 Gemini 4 Hydrogen으로 무엇을 만들고 있는지 확인해 보세요.",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+     "at": "2026-11-24 03:00",
+     "desc": "가상 환경, 대화형 장면, 'Gemini 4 Hydrogen' 및 'Gemini 3.8 Flash'를 포함한 모델 비교를 보여주는 6개의 3D 그래픽 콜라주.",
+     "title_en": "See what 6 builders are making with Gemini 4 Hydrogen",
+     "desc_en": "Collage of six 3D graphics showcasing virtual environments, interactive scenes, and model comparisons including \"Gemini 4 Hydrogen\" and \"Gemini 3.8 Flash.\""
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "사내 법무팀을 위한 연결된 인텔리전스",
+     "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+     "at": "2026-11-23 17:00",
+     "desc": "OpenAI의 Stacey Wang과 Craig Bruney, LECG의 Mary O’Carroll, Cooley의 Richard Segal이 AI가 사내 법무팀이 비즈니스 맥락을 연결하고, 재사용 가능한 워크플로를 구축하고, …하는 데 어떻게 도움이 될 수 있는지 살펴봅니다.",
+     "title_en": "Connected intelligence for in-house legal",
+     "desc_en": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get…"
+    },
+    {
+     "tier": 1,
+     "source": "OpenAI 공식",
+     "title": "Richpanel은 기업이 30일 만에 고객 지원의 50%를 자동화할 수 있도록 지원합니다.",
+     "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+     "at": "2026-11-23 17:00",
+     "desc": "Richpanel은 AI 지원 에이전트에 도구와 절차를 제공하기 위해 GPT-6 Astra 및 GPT-6.1 Sol을 사용하고, 대화에는 GPT-6 Luna를 사용합니다.",
+     "title_en": "Richpanel helps companies automate 50% of support in 30 days",
+     "desc_en": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+    },
+    {
+     "tier": 1,
+     "source": "구글 AI 블로그",
+     "title": "나만을 위한 맞춤형 Google 검색",
+     "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+     "at": "2026-11-24 02:00",
+     "desc": "'개인 인텔리전스'라는 텍스트가 표시된 Google 검색창과 그 주위에 있는 Google 지갑, Google 드라이브, Gmail, Google 포토, Google 캘린더, Google G 로고 아이콘",
+     "title_en": "A more tailored Google Search that’s uniquely yours",
+     "desc_en": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+     "at": "2026-11-24 02:08",
+     "desc": "엔비디아가 차량용 컴퓨팅 환경에서도 복잡한 추론을 수행할 수 있도록 설계한 경량 AI 모델을 선보이며 자율주행 기술의 온디바이스화에 속도를 내고 있다.엔비디아는 최근 차량 내부에서 직접 추론하고 주행 경로를 생성하는 자율주행 AI 모델 '알파마요 2 엣지(Alpamayo 2 Edge)'를 공개했다. 대형 클라우드 모델의 추론 능력을 차량용 연산 환경에…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+     "at": "2026-11-24 02:10",
+     "desc": "애플이 실시간 상호작용이 가능한 영상 생성 AI 모델을 공개했다. 영상 생성 과정에서 병목으로 작용하던 디코딩과 캐시 갱신 단계를 최적화해, 엔비디아 B200 GPU 한 장으로 프레임당 36밀리초(ms)의 처리 속도를 구현했다. 사용자 입력에 즉각 반응해야 하는 게임이나 시뮬레이션 등에 활용할 수 있는 수준이다.애플과 코넬대학교 연구진은 17일(현지시간)…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "애플, 사진·영상 속 실제 거리 추정하는 AI '뎁스 프로 2' 공개",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217692",
+     "at": "2026-11-24 01:15",
+     "desc": "애플이 일반 카메라로 촬영한 사진과 영상만으로 사물의 실제 거리를 m 단위로 추정하는 AI 모델을 공개했다. 기존 단일 이미지 기반 깊이 추정 기술의 한계였던 영상 프레임 간 거리 정보의 불안정성을 개선하면서 사물 경계까지 선명하게 표현하는 것이 특징이다.애플은 19일(현지시간) 별도의 라이다(LiDAR) 센서나 다중 카메라 없이 한 대의 카메라로 촬영한…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "비드래프트, AI 보안 커널 공개 검증…70명 참가해 공격 사례 245건 제출",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217670",
+     "at": "2026-11-23 20:50",
+     "desc": "비드래프트가 AI 에이전트의 위험한 도구 실행을 차단하는 보안 기술을 공개 검증하는 해커톤을 진행하고 있다. 현재까지 약 70명이 참가해 245건의 공격 사례를 제출했으며, 회사는 이 가운데 확인된 취약점 90여 종을 보안 커널에 반영했다고 밝혔다.비드래프트(대표 김민식)는 AI 보안 커널 '비커널(ViKernel)'을 대상으로 외부 참가자가 취약점을…"
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "count": 9,
@@ -1279,76 +1377,6 @@
      "title": "Claude Fable 5.2와 Mythos 5.2 - 복잡한 코딩과 과학 연구 역량을 강화한 AI 모델",
      "url": "https://news.hada.io/topic?id=36896",
      "at": "2026-11-10 04:45",
-     "desc": ""
-    }
-   ]
-  },
-  {
-   "date": "2026-11-09",
-   "count": 8,
-   "items": [
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
-     "at": "2026-11-08 20:48",
-     "desc": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
-     "at": "2026-11-09 01:59",
-     "desc": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워 기업용 AI 에이전트 시장을 공략하고…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
-     "at": "2026-11-08 00:39",
-     "desc": "메타가 AI 에이전트 '뮤즈(Muse)'와 협업할 수 있는 맞춤형 작업 공간 '스페이스(Spaces)'를 출시했다. 사용자가 자연어로 원하는 기능을 설명하면 여행 계획표나 쇼핑 관리 도구, 일정 추적기 등 목적에 맞는 앱 형태의 작업 공간을 자동으로 만들어준다. 외부 서비스와 연동해 관련 정보도 백그라운드에서 갱신할 수 있다.메타는 6일(현지시간) 뮤즈…"
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
-     "at": "2026-11-08 20:01",
-     "desc": "아마존이 AI 쇼핑 비서 '알렉사 포 쇼핑(Alexa for Shopping)'을 문자 메시지로 이용할 수 있는 서비스를 출시했다. 사용자는 별도의 앱이나 음성 명령 없이 문자로 상품을 검색하고 가격을 비교하거나 상품 구매까지 진행할 수 있는 것이 특징이다.아마존은 6일(현지시간) 미국 일부 고객을 대상으로 문자 기반 쇼핑 기능을 선보였다고 밝혔다.…"
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Pangram Image 1.0 공개 - 사진과 영상에서 AI로 만든 부분을 탐지",
-     "url": "https://news.hada.io/topic?id=36757",
-     "at": "2026-11-07 23:49",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
-     "url": "https://news.hada.io/topic?id=36775",
-     "at": "2026-11-08 05:51",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Show GN: Plainfeed - 유튜브 구독 채널의 새 영상만, 추천·쇼츠 없이 올라온 순서대로",
-     "url": "https://news.hada.io/topic?id=36859",
-     "at": "2026-11-09 09:56",
-     "desc": ""
-    },
-    {
-     "tier": 2,
-     "source": "긱뉴스",
-     "title": "Unitree는 왜 로봇을 손으로 조립할까? 제조 자동화 기회를 본 공장 탐방기",
-     "url": "https://news.hada.io/topic?id=36768",
-     "at": "2026-11-08 02:49",
      "desc": ""
     }
    ]
