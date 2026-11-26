@@ -3,6 +3,7 @@
 > **세션은 D:\Projects\snb-k-bridge 폴더에서 연다(2026-09-05 확정).** 이 저장소만 고치는 일감도 브릿지 폴더에서 연 세션으로 한다. 지침(CLAUDE.md 3절)·계획서·배포 플레이북·비용 관리표·실수 기록·메모리가 거기에 있고, 세 저장소 이름 점검(scripts/check-names.sh)도 거기서 돈다. 다른 폴더에서 열렸으면 먼저 알린다.
 
 윤성임(AI융합교육전문가 · 소셜앤비즈 대표)의 강의 섭외용 랜딩페이지다.
+공개 주소는 **https://socialnbiz.com** 이다(Netlify 사이트 이름은 `snb-aceyun88`로 남아 있다).
 방문자가 강사를 신뢰하고 **출강 요청서를 작성하게 하는 것**이 유일한 목적이다.
 
 ## 대화 규칙
@@ -23,7 +24,7 @@ CLAUDE.md                  이 문서 (루트에 있어야 Claude Code가 읽는
 docs/                      운영 문서. 사이트로 공개되지 않는다
 ```
 
-**한 장짜리 사이트다.** 자바스크립트가 없다. 빌드 도구도 없다.
+**한 장짜리 사이트다.** 빌드 도구가 없다. 스크립트는 `index.html` 안에 인라인으로만 쓴다.
 이 단순함이 이 사이트의 가장 큰 자산이다. 늘리지 않는다.
 
 ## 브랜드 규격
@@ -79,9 +80,10 @@ docs/                      운영 문서. 사이트로 공개되지 않는다
 
 ## 기술 제약
 
-- 자바스크립트를 넣지 않는다. 지금 한 줄도 없다
+- 스크립트는 `index.html` 안에 인라인으로만 쓴다. 별도 `.js` 파일을 두지 않는다
+- 지금 스크립트가 하는 일은 넷뿐이다 — 글자 크기 3단계(`localStorage`의 `snb_fz`에 기억), 데이터 불러오기(JSON을 GitHub에서 먼저 읽고 실패하면 배포본), 검색 상자, 관리자 미리보기(`localStorage`의 `snb_admin`)
+- 화면과 글은 HTML에 그대로 둔다. 스크립트가 없어도 읽히고 요청서까지 갈 수 있어야 한다
 - 외부 스크립트·글꼴 CDN을 쓰지 않는다. 시스템 글꼴로 충분하다
-- `localStorage`·`sessionStorage`를 쓰지 않는다
 - 빌드 도구를 넣지 않는다
 - 새 문서를 `docs/` 밖에 두면 `netlify.toml`에 차단 규칙을 더한다
 
@@ -96,7 +98,8 @@ docs/                      운영 문서. 사이트로 공개되지 않는다
 
 | 무엇 | 어디 |
 |---|---|
-| 프롬프트 팩 | https://snb-prompt-pack.netlify.app |
+| 프롬프트 팩 | https://prompt.socialnbiz.com |
+| PK-PDCA 브릿지 | https://bridge.socialnbiz.com |
 | 강의 문의 폼 | https://forms.gle/zseFvFP8LaFWBUG29 |
 | 소스 저장소 | github.com/aceyun88/snb-aceyun88 |
 | Netlify site-id | `621da9e8-8084-437a-a1f2-7df20c034903` |

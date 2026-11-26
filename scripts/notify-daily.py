@@ -5,7 +5,7 @@ from email.header import Header
 
 ROOT = os.path.join(os.path.dirname(__file__), '..')
 SRC = os.path.join(ROOT, 'ai-daily.json')
-SITE = 'https://snb-aceyun88.netlify.app/#today'
+SITE = 'https://socialnbiz.com/#today'
 
 TG_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '').strip()
 TG_CHAT = os.environ.get('TELEGRAM_CHAT_ID', '').strip()
