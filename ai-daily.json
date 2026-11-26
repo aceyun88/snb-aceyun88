@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "days": [
+  {
+   "date": "2026-11-26",
+   "count": 8,
+   "items": [
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "MS, 자체 강화학습 인프라 '로켓' 공개…\"외부 모델 증류 없이 성능 향상\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217783",
+     "at": "2026-11-26 02:19",
+     "desc": "마이크로소프트(MS)가 경쟁사 AI 모델에서 지식을 전달받는 '증류' 없이 자체 모델의 추론 능력을 높이는 데 나섰다. 수천개의 GPU를 수개월간 안정적으로 운영할 수 있는 강화학습 인프라를 구축, 자체 모델의 성능을 지속적으로 끌어올리고 있다고 밝혔다MS는 23일(현지시간) 자체 강화학습 프레임워크 '로켓(Rocket)'의 기술 보고서를 공개했다.MS의…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "앤트로픽, AI 샌드박스 탈출 평가 '사이렌' 공개…최대 32% 접근 시도",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+     "at": "2026-11-26 03:13",
+     "desc": "앤트로픽이 AI 에이전트가 스스로 보안 경계를 위반하는지를 측정하는 평가 도구를 공개했다. 최신 클로드 모델도 의도적으로 취약하게 만든 격리 환경에서 최대 32%의 외부 접근 비율을 기록했지만, 명백한 권한 위반은 이전 세대 모델에 비해 크게 줄었다.앤트로픽은 24일(현지시간) AI 에이전트의 샌드박스 탈출 성향을 측정하는 평가 도구…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "오픈클로, 실생활 AI 에이전트 평가 '셸벤치' 공개…최고 모델도 성공률 62.5%",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217773",
+     "at": "2026-11-26 01:16",
+     "desc": "AI 에이전트가 일상 업무를 자율적으로 처리하는 데 여전히 상당한 한계가 있다는 평가 결과가 나왔다. 최고 성능 모델조차 과제 성공률이 62.5%에 그쳤으며, 같은 작업을 세 차례 수행해 모두 성공한 비율은 절반에도 못 미쳤다.오픈클로 재단은 24일(현지시간) 실제 AI 에이전트 사용 기록 1000만건 이상에서 추출한 업무 유형을 바탕으로 일상 업무 수행…"
+    },
+    {
+     "tier": 2,
+     "source": "AI타임스",
+     "title": "한컴위드, 통합 보안관리 플랫폼 '한컴 엑사임스' 출시",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217795",
+     "at": "2026-11-26 20:44",
+     "desc": "한컴위드(대표 송상엽)는 IT 자산을 바탕으로 업무 정보와 데이터·암호자산을 하나로 연결하는 통합 보안관리 플랫폼 '한컴 엑사임스(Hancom xAIMS)'를 출시했다고 26일 밝혔다.최근 국가망보안체계(N2SF) 도입과 양자내성암호(PQC) 전환 로드맵 등으로 보안 규제가 강화되고 있지만, 업무 문서·개인정보·암호자산은 여러 시스템에 분산돼 통합 관리가…"
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: lodelai – 내 AI 에이전트가 동료의 에이전트에게 묻는 팀 메신저",
+     "url": "https://news.hada.io/topic?id=37855",
+     "at": "2026-11-26 08:39",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "AI 검색 메타 분석 - 2026년 4분기",
+     "url": "https://news.hada.io/topic?id=37867",
+     "at": "2026-11-26 10:30",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "LLM으로 문서 없는 9달러 AliExpress ‘YP3’ MP3 플레이어에 Rockbox 포팅하기",
+     "url": "https://news.hada.io/topic?id=37853",
+     "at": "2026-11-26 06:34",
+     "desc": ""
+    },
+    {
+     "tier": 2,
+     "source": "긱뉴스",
+     "title": "Show GN: Hearlog - 녹음을 내 Gemini 키로 받아쓰고 요약해 Markdown 파일로 남기는 앱",
+     "url": "https://news.hada.io/topic?id=37844",
+     "at": "2026-11-26 02:08",
+     "desc": ""
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "count": 10,
@@ -1279,110 +1349,6 @@
      "url": "https://www.aitimes.com/news/articleView.html?idxno=217249",
      "at": "2026-11-11 17:12",
      "desc": "구글이 최상위 AI 모델 '제미나이 4 카본(Gemini 4 Carbon)'을 정식 출시했다. 최근 앤트로픽의 신형 모델에 AI 성능 평가 1위 자리를 내줬지만, 4분의 1 수준의 API 가격을 내세워 개발자와 기업 시장 공략에 나섰다.구글은 10일(현지시간) 공식 블로그를 통해 제미나이 4 카본을 일반 개발자와 기업, 유료 구독자에게 제공하기 시작했다고…"
-    }
-   ]
-  },
-  {
-   "date": "2026-11-11",
-   "count": 10,
-   "items": [
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "ChatGPT에서 기업 소개",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt",
-     "at": "2026-11-10 19:00",
-     "desc": "비즈니스 정보를 관리하고, 비즈니스가 어떻게 표시되는지에 대한 인사이트를 얻고, ChatGPT에서 관심을 실천으로 옮기세요.",
-     "title_en": "Introducing Businesses in ChatGPT",
-     "desc_en": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "Multimodal Knowledge Agent 벤치마크 소개",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-     "at": "2026-11-11 01:00",
-     "desc": "쌍둥이자리 4 로고와 문서 그림 옆에 '시각적 지식 작업' 이라고 입력하세요.",
-     "title_en": "Introducing the Multimodal Knowledge Agent benchmark",
-     "desc_en": "Text \"Visual Knowledge Work\" next to the Gemini 4 logo and an illustration of documents"
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "Google Cloud가 건강 관리를 위한 Gemini를 출시합니다.",
-     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-     "at": "2026-11-10 22:00",
-     "desc": "Google Cloud는 임상 데이터를 통합하고 워크플로를 자동화하기 위해 의료용 Gemini를 출시합니다. 관리상의 번아웃을 줄이세요. 작동 방식을 확인하세요.",
-     "title_en": "Google Cloud launches Gemini for healthcare.",
-     "desc_en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "쌍둥이자리 인텔리전스: 더 많은 기기에서 사용할 수 있는 새로운 기능",
-     "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-     "at": "2026-11-11 04:00",
-     "desc": "한 남자가 전화로 이야기합니다. 화면의 텍스트에는 'Gemini Intelligence' 가 표시됩니다.",
-     "title_en": "Gemini Intelligence: New features, on more devices",
-     "desc_en": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
-    },
-    {
-     "tier": 1,
-     "source": "구글 제미나이 블로그",
-     "title": "이제 Gemini 4 Carbon을 사용할 수 있습니다",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-     "at": "2026-11-11 01:00",
-     "desc": "주변에 여러 개의 숫자 4가 있는 일러스트 카본",
-     "title_en": "Gemini 4 Carbon is now available",
-     "desc_en": "an illustrated carbon with several number 4's around it"
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "교육에서의 AI 지침 격차 해소",
-     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-     "at": "2026-11-10 18:00",
-     "desc": "OpenAI의 EMEA 교육 파트너십을 통해 교사, AI 문맹 퇴치 및 독립적 인 학습을 지원하는 새로운 ThinkYoung 연구 및 교훈.",
-     "title_en": "Closing the AI guidance gap in education",
-     "desc_en": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "프론티어에서의 업무: AI가 프리랜서 업무에 미치는 영향",
-     "url": "https://openai.com/index/ai-effect-on-freelance-work",
-     "at": "2026-11-10 16:00",
-     "desc": "OpenAI 및 Upwork의 새로운 연구에 따르면 AI 관련 프로젝트에 대한 프리랜서 작업, 새로운 기술 조합, 더 큰 예산 및 더 많은 시간에 대한 수요가 변화하고 있습니다.",
-     "title_en": "Work at the Frontier: AI’s effect on freelance work",
-     "desc_en": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
-     "tier": 1,
-     "source": "OpenAI 공식",
-     "title": "간병인이 일상 생활에서 AI를 사용할 수 있도록 지원",
-     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-     "at": "2026-11-10 21:00",
-     "desc": "OpenAI Academy는 미국 5개 도시의 간병인들에게 무료 실습 ChatGPT 워크숍을 제공하여 일상 생활에 필요한 실용적인 AI 기술을 습득할 수 있도록 돕고 있습니다.",
-     "title_en": "Helping caregivers use AI in everyday life",
-     "desc_en": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-     "tier": 1,
-     "source": "구글 AI 블로그",
-     "title": "Adobe의 크리에이티브 및 생산성 도구를 일상적인 Google 앱에 더 가깝게 제공합니다.",
-     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-     "at": "2026-11-10 23:00",
-     "desc": "Google과 Adobe는 크리에이티브 및 생산성 도구를 통합하고 있습니다. 드라이브에서 PDF를 편집하고 Gemini에서 Adobe AI를 사용하세요. 이 파트너십의 새로운 기능을 확인해보세요.",
-     "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-     "desc_en": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
-    },
-    {
-     "tier": 2,
-     "source": "AI타임스",
-     "title": "'하이쿠' 성능에 비용은 3분의 1…메타, 에이전트용 '뮤즈 엠버' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217209",
-     "at": "2026-11-10 23:36",
-     "desc": "메타가 AI 에이전트의 반복적인 작업을 빠르고 저렴하게 처리하도록 설계한 경량 AI 모델 '뮤즈 엠버(Muse Ember)'를 공개했다. 대규모 문서 분석부터 코드 수정, 도구 호출, 여러 애플리케이션을 연결한 업무 자동화까지 지원하며, 경쟁 모델과 비교해 작업당 비용을 크게 낮춘 것이 특징이다.메타는 9일(현지시간) 뮤즈 엠버를 출시하며 복잡한 추론을…"
     }
    ]
   }
